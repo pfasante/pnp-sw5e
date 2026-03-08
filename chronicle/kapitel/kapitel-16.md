@@ -126,4 +126,4 @@ Der kalte Stahl und Gandens unerbittlicher Blick brachen den Widerstand des Mann
 
 ---
 
-[← Kapitel 15](kapitel-15.md) | [Kapitel 17 →](kapitel-17.md)
+[← Kapitel 15](kapitel-15.md)

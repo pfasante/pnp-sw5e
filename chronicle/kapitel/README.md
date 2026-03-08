@@ -29,7 +29,6 @@ Die Chronik hält die Ereignisse der Kampagne als Prosa-Narrative fest. Kapitel 
 | [Kapitel 14](kapitel-14.md) | Hinterlassenschaften | Session 14 |
 | [Kapitel 15](kapitel-15.md) | Atmosphärische Störungen | Session 15 |
 | [Kapitel 16](kapitel-16.md) | Echo der Tiefe | Session 16 |
-| [Kapitel 17](kapitel-17.md) | Letzte Nacht auf Lothal | Session 17 |
 
 ---
 
