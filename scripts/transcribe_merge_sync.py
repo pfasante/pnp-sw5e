@@ -1,5 +1,3 @@
-# $HOME\whisper-env\Scripts\Activate.ps1
-
 import argparse
 import subprocess
 import os
