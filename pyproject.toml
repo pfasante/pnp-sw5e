@@ -1,0 +1,11 @@
+[project]
+name = "pnp-sw5e"
+version = "0.1.0"
+description = "Star Wars 5e PnP Kampagnen-Tools"
+requires-python = ">=3.11"
+dependencies = [
+    "whisper-ctranslate2",
+]
+
+[tool.uv]
+dev-dependencies = []

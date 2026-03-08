@@ -1,0 +1,84 @@
+# Session 14 – Vierzehnte Runde
+
+**Datum:** 2026-01-22
+**Startzeit:** 20:23
+
+## Notizen
+
+- Wir laufen von der Blue Amber Cantina zurück zum Boxenstop
+- Auf dem Weg beobachten wir eine Menge Patrouillen, auch mit gepanzerten Wagen (eher Riot Control)
+- Mit G4-X fahren wir zurück zu Zydos Wohnung
+  - In dieser Gegend gibt es keine Imperialen Kontrollen
+- Wir schleichen wieder von oben ins Haus
+  - Ganden liefert eine super Stealth-Probe, im Gegensatz zu Komaru und Ghalrixtho
+- Wir untersuchen die Wohnungstür, an dieser wurde offensichtlich rumgefummelt
+  - Ghalrixtho würfelt eine 20 und erkennt, dass jemand in der Wohnung war
+- Daraufhin betreten wir vorsichtig die Wohnung, in der jetzt noch ein Licht an ist
+  - Der Droide liegt noch in der Wohnung, wurde aber scheinbar bewegt
+  - Die Wohnung wurde offensichtlich durchwühlt
+  - Der Schranksafe ist immer noch offen
+  - Es gibt keine Fallen oder Kameras zu entdecken
+  - Ghalrixtho baut im Eingang die Überwachungskamera ab, da er den Datenspeicher nicht finden kann (Slicer's Kit Patzer)
+  - Danach baut er mit Gandens Hilfe den Sprengstoff aus der Safetür aus (Technology 20er Wurf)
+  - Anschließend machen wir uns daran, den Droiden in eine Decke einzupacken und tragen ihn durchs Treppenhaus nach unten
+  - Der Bademantel-Nachbar scheint uns durch die Tür zu beobachten, Ghalrixtho weist Ganden darauf hin
+  - Ghalrixtho und Komaru tragen den Droiden raus zu G4-X und dem Speeder
+  - Ganden geht mit seinem Elektrobaton (mit dem er vorher die Kamera außen zerstört hat) zur Nachbarwohnung
+  - Als er anklopft, geht das Licht in der Wohnung aus, sonst keine Reaktion
+  - Ganden knackt das Schloss (doppelter 19er Wurf) und reißt die Tür auf, woraufhin der Dude in seinem Bademantel rausstolpert
+  - Ganden reißt den Typen die Treppe hoch und stößt ihn dann runter, dabei nutzt er seine Techniken, die er bei der imperialen Armee gelernt hat
+  - Beim Sturz hat er sich den Schädel angeschlagen und ist bewusstlos
+  - Ganden: "man ist das nervig, jetzt muss ich hier nochmal nachtreten, das ist doch scheiße, dann wird mir wieder schlecht und ich mag morgen nichts ordentliches essen"
+  - Ganden greift nochmal nach und bricht ihm das Genick
+  - Ganden untersucht nochmal seine Wohnung (schlecht gelüftet, müffelt), sieht ein paar Sachen, die hier nicht hinpassen – offenkundig hat er sich an Zydos Wohnung bedient
+  - Da Ganden keine Lebewesen und keine Überwachungstechnik findet, geht er wieder raus
+  - Ganden kommt nach hinten zu unserem Speeder, auf dem wir in der Zwischenzeit den Droiden verladen haben
+- Komaru bringt mit G4-X den Speeder und die Beute zur Turbot zurück
+  - G4-X hat einen sportlichen Ehrgeiz entwickelt und startet einen neuen Geschwindigkeitsrekord
+  - Komaru greift ein und weist ihn auf die Fracht hin, die "wie ein Studentenumzug" wirkt: Seesäcke und Koffer vom Kobalt Kartell (Waffen und Rüstungen), sowie der in die Decke eingewickelte Droide
+  - Nach einer weiteren rumpligen Kurve nimmt G4-X das ernst und kontrolliert die Fahrt mehr
+  - Als sie aus der Stadt raus sind, können sie auf der Steppe schneller fahren
+  - Komaru entdeckt recht spät ein Raumschiff, das ihren Weg kreuzt, kann es aber nicht mehr identifizieren
+  - Daraufhin startet Komaru die Camouflage und weist G4-X auf das Schiff hin
+  - Das nimmt G4-X wieder mit sportlichem Ehrgeiz und fährt viele Kurven um hinter Landschaftsmerkmalen zu verschwinden
+  - Nach ca. 2 Stunden kommen sie am Schiff an
+  - Die Ärztin Varnira entdeckt die beiden und empfängt sie
+  - Sie verladen die Sachen im getarnten Schmuggler-Laderaum
+  - Komaru unterhält sich etwas mit dem aus Karbonit aufgetauten Kaelum, der sich langsam erholt
+  - Komaru unterrichtet Varnira von Gandens und Ghalrixtos Plänen
+  - Varnira vermutet, dass Kaelum ein Mensch ist, aber etwas ist an seinen medizinischen Daten merkwürdig
+  - Die beiden unterhalten sich über die aktuelle Situation und weitere Pläne
+- Derweil bei Ganden und Ghalrixtho…
+- Ganden und Ghalrixtho statten dem Schließfach am Raumhafen noch einen Besuch ab
+  - Mit öffentlichen Verkehrsmitteln zum Raumhafen; Hover-U-Bahn, nach 40 Minuten Wartezeit (ratternde, halb schwebende U-Bahn)
+  - Fahrt zum Raumdock dauert ca. 45 Minuten
+  - Im Raumdock ist viel los – die Menschenmenge wartet darauf, dass die imperiale Blockade aufgehoben wird
+  - Auf den Straßen vor dem Raumhafen gibt es imperiale Patrouillen
+  - Wir finden Schließfach 2YB in einer Ecke des Schließfachbereich 2
+  - Ghalrixtho steckt den Zugangsstick in das Fach, die drei Leuchten springen nacheinander auf Grün
+  - Wir finden: einen kleinen verstärkten Koffer und eine Mappe (Din A5)
+    - In der Mappe: ein kreditkartengroßer Ausweis für einen Gran (gefälschte Identität für Daro Fel) + eine Sternenkarte der Galaxis mit Hyperraumrouten
+    - Im Koffer (verschlossen, Schloss geknackt): Kleidung, darin Plastikkarten mit insgesamt 17.000 Credits (6 Karten)
+  - Ganden legt die Mappe in den Koffer, beide nehmen je 3 Karten und stecken sie ein
+  - Sie nehmen den Koffer mit und machen sich Richtung Stadtrand; Treffpunkt mit G4-X ausgemacht
+  - Der Weg dauert lang mit vielen Wartepausen; nach dem langen anstrengenden Tag sind beide ziemlich fertig, aber ihre Ausbildung lässt sie durchhalten
+  - Nach 2 Stunden treffen sie auf G4-X; eine weitere gute Stunde bis zum Schiff; Ankunft gegen 4 Uhr morgens
+- Wir machen alle eine "lange Rast"
+- Ganden bereitet ein vorzügliches Essen aus Fisch und anderem zu, mit gutem Tee
+  - Ghalrixtho schläft sich ausführlich aus
+  - Die anderen unterhalten sich mit Kaelum, der sich für seine Rettung bedankt
+  - Komaru zeigt Kaelum die Nachricht, die wir mit ihm gefunden haben – er kann das nicht zuordnen, kommt ihm aber bekannt vor
+  - Kaelum erinnert sich daran, dass er von Inquisitoren auf eine Asteroiden-Festung gebracht wurde
+  - Er wurde von den Inquisitoren befragt, sein Gedächtnis ist aber lückenhaft
+  - Kaelum kennt Luthren, von dem in der Nachricht geredet wurde
+  - Als er in Karbonit eingefroren wurde, sah er kurzzeitig Luthrens Gedanken – er dachte an einen Monolithen
+  - Auf Komarus Frage ob er ein Jedi ist, sagt Kaelum, dass er den Umgang mit der Macht beherrscht
+  - Ganden fragt nach, ob er als Jedi Padawan ausgebildet wurde (sehr offensichtlich fühlt Ganden sich gar nicht wohl bei diesem Thema)
+  - Kaelum wurde als Padawan ausgebildet, die Inquisitoren haben versucht diese Ausbildung zur dunklen Seite zu führen
+  - Kaelum erholt sich langsam
+  - Auf Komarus Frage hin, ob er jemanden in Lothal kennt: noch nie hier gewesen
+  - Wir versuchen herauszufinden, ob Kaelum uns helfen könnte, die Wetterstation auszuheben
+  - Kaelum bietet aus Dankbarkeit seine Hilfe an
+  - Komaru erzählt von unseren bisherigen Taten (Überfall des Hovertrains)
+  - Nachdem Ganden Kaelum eine Waffe angeboten hat, erzählt er: wir sollen Daro Fel für Rax Vonn von den Imperialen entführen, dafür bekommen wir einen Transponder zum Entkommen von Lothal. Kaelum kann mitkommen, was er annimmt.
+- Gemeinsame Planung in der Kantina → hier geht es nächstes Mal weiter

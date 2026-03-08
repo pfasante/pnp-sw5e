@@ -1,0 +1,100 @@
+# Session 15 – Fünfzehnte Runde
+
+**Datum:** 2026-01-29
+**Startzeit:** 20:23
+
+## Notizen
+
+- Die Gruppe beginnt die Planung vom Angriff auf die angebliche Wetterstation, außerhalb von Capital City
+  - Ganden nimmt an, dass sich das Zeitfenster für den Zugriff auf die Wetterstation schließt
+  - Hinweise: verstärkte Patrouillen in Capital City
+  - Eine Möglichkeit: schnell und entschlossen zuschlagen
+    - Tür aufsprengen, rein, raus
+    - Ggfs vorher auf dem Dach Zugriff auf Stations-Technik und Informationen beschaffen
+    - Hinweg tarnen als archäologische Expedition
+    - Störsender mitnehmen
+    - Weitere Tarnmöglichkeit: wir fahren als Archäologen hin und fragen nach Wetterdaten
+    - Kaelum kommt mit, G4-X und Varnira bleiben beim Schiff
+  - So wird's gemacht, wir bereiten uns vor
+- Ganden, Ghalrixtho und Kaelum machen sich bereit, während Komaru auf dem Sofa rumfläzt
+  - "Direkt vor dem Einsatz ist es eh zu spät, die Ausrüstung zu überprüfen"
+  - Ganden diskutiert mit Kaelum über Lichtschwert-Historie, was Kaelum sehr überrascht
+  - Darauf geht Ganden weiter ein und nimmt eine Übungskampfposition Kaelum gegenüber ein, um ihn aus dem Konzept zu bringen
+  - Kaelums Muskelgedächtnis reagiert daraufhin mit Kampfbereitschaft
+  - Ghalrixtho beobachtet die Szene von der Tür des Gemeinschaftsraums aus
+  - Ganden: "ich interessiere mich für die Techniken des Lichtschwertkampfs aus wissenschaftlicher Perspektive"
+  - Kaelum: "wo hast du das gelernt?"
+  - Ganden greift ihn daraufhin mit dem ausgeschalteten Elektrobaton an (Angriffswurf 23)
+  - Kaelum geht direkt in den Gegenangriff über, es wird ein erstaunlich harter Kampf
+  - Komaru beobachtet, wie Kaelum extrem fokussiert auf Ganden ist
+  - Ganden geht mit einem weiteren, tiefen Schlag auf Kaelum zu (weiterer 25er Wurf)
+  - Kaelum steckt den Treffer ein und schlägt kräftig zurück
+    - Er hat dabei eine gute Technik, aber haut vor allem mit roher Kraft zielgerichtet zu
+  - Ganden provoziert Kaelum weiter: "so schlagen doch nur Kinder zu, haltet euch nicht zurück!"
+  - Kaelum lässt sich davon provozieren und schlägt Ganden kräftig auf den Schädel
+  - Ghalrixtho schreitet ein und ruft energisch "das reicht!"
+  - Ganden steckt seine Waffe zurück, Kaelum greift aber nocheinmal (etwas ungezielter) mit aktivem Vibroschwert an
+  - Ganden analysiert diesen Angriff (Insight 19 und Lore 20 – sehr gut verstanden): das war ein fokussierter, wütender Angriff
+  - Ganden möchte den genauen Angriffsstil verstehen (Lore 28, kritischer Erfolg) und erkennt die 7. Form (Shii-Cho?) "der Wildheit"
+  - Komaru provoziert Kaelum weiter: "ich hätte nicht gedacht, dass du dich als Sith so leicht verführen lässt"
+  - Kaelum reagiert mit einem wütenden Ausruf "ich bin kein Sith" und sinkt erschöpft nieder
+  - Ganden holt einen großen Becher Wasser, bringt diesen Kaelum und entschuldigt sich
+  - Scheinbar wurde versucht, Kaelum auf der Asteroiden-Feste zu einem Sith zu entwickeln
+  - Kaelum nimmt Gandens Entschuldigung an und kommt ihm mit seiner Hand nahe um das zugeschwollene Auge zu heilen – Ganden zuckt daraufhin zurück (Unsicherheit/Merkwürdigkeit)
+  - Ganden stopft sich eine Pfeife und stinkt den Raum voll (kurze Rast zur Regeneration)
+- Ghalrixtho und Komaru gehen raus und bereiten schon einmal den Gleiter vor
+  - Komaru untersucht dabei auch nochmal unser Gefährt
+  - "Das ist ein exzellenter Schrotthaufen, da sind sicherlich 6 Fahrzeuge drin verbaut"
+  - Ghalrixtho sieht mit einer hochgezogenen Augenbraue den Gleiter an, der hauptsächlich ein großes Brett ist mit einem angebauten Düsentriebwerk: "ich würde sagen, maximal 2 Fahrzeuge…"
+  - G4-X hilft mit, den Gleiter fertig zu machen
+- Dann machen Ganden, Komaru, Ghalrixtho und Kaelum sich auf den Weg
+  - Es ist früher Nachmittag
+  - Komaru übernimmt die Steuerung des Gleiters
+  - Auf ca. der Hälfte der Strecke hören wir ein Raumschiff (irgendein TIE) über uns hinwegrasen
+  - Wir nähern uns der Wetterstation
+  - Komaru fordert Ganden auf, sich etwas mehr Details für die Archäologen-Story auszudenken
+  - Ganden instruiert Ghalrixtho, vor Ankunft den Gleiter zu verlassen
+  - Den Jammer setzen wir nicht direkt ein, um keinen Verdacht zu erregen
+- Bei ca. 500m Entfernung setzt sich Ghalrixtho mit seiner Ausrüstung ab und rennt geduckt auf den Felsen zu; Komaru, Ganden und Kaelum fahren bis zur Tür
+  - Ghalrixtho untersucht das Gebäude, in dessen Wand Sensoren verbaut sind, die nicht sinnvoll für eine Wetterstation erscheinen; die Sensoren sind definitiv neuer als die Parabolantenne
+  - Von der Oberkante der Steine sind es noch ca. 4 Meter die Wand hoch
+  - Ghalrixtho versucht hochzuklettern (Athletics 8), kommt aber erstmal nicht weit
+    - Er versucht dann, etwas am Seil zu befestigen, das schlägt aber fehl (Technology Patzer)
+  - Stattdessen versucht Ghalrixtho jetzt, die Sensoren zu untersuchen und darüber Zugriff auf das Stationsnetz zu bekommen
+    - Der Sensor ist eine Kamera, den Stream verfolgt Ghalrixtho und findet u.a. einen anderen Stream von der Pforte
+  - Komaru untersucht die Spuren vor der Pforte
+    - Erkennt Reifenspuren von einem Gefährt mit 6 Reifen
+    - Fußspuren, eher von einer einstelligen Personenanzahl
+  - Ghalrixtho schickt eine Nachricht per Comlink: "Das Gebäude ist gespickt mit Kameras"
+  - Ganden klingelt, ein Mann in den 40ern–50ern öffnet die Tür, über seiner Sonnenbrille trägt er eine Art Schweißerbrille
+    - Er verwickelt den Mann in ein längeres Gespräch über die Wetterentwicklung der Gegend und fragt nach Daten für seine Studien
+    - Der Typ antwortet mit Wetter-Infos, die nichts mit der Frage zu tun haben → auswendiggelernter Text
+    - Komaru erkennt dies, entschuldigt sich: "Entschuldigung Herr Professor" und fragt den Typen: "gibt es hier zufällig eine Toilette?" – was diesen aus der Fassung bringt
+    - Aus dem Konzept gebracht, lässt er Komaru rein
+    - Komaru kommt in einen großen Raum, an dessen Decke die Parabolantenne montiert scheint; im hinteren Drittel gehen zwei Türen ab, der Typ führt ihn zur linken
+    - Ganden und Kaelum stehen noch vor der Tür; wenn die beiden weiter drinnen sind, folgen Ganden und Kaelum in den Raum
+    - Ganden zieht nacheinander zwei Keramikstücke aus den Hosentaschen und lässt eins davon unter einen Tisch fallen
+    - Ghalrixtho beobachtet dies über die Kamera und entscheidet sich, schnell zurück zum Gleiter zu laufen und den Jammer zu aktivieren; anschließend rennt er zur Pforte und presst sich neben der Tür an die Wand
+    - Komaru kommt in eine einfache, saubere, alte Toilette
+    - Komaru setzt sich auf die Toilette und spielt auf Zeit, bereitet nebenher eine Haftmine vor
+    - Mit einem kritischen Erfolg (Persuasion 24) drückt Ganden dem Typen die andere Keramikscherbe in die Hand; dieser reagiert mit militärischem Drill
+    - Ganden schiebt den Tisch zur Seite, der Typ will ihn aufhalten, hält aber immer noch die Scherbe in der Hand
+    - Typ: "stop, die Daten, der Tisch darf nicht verschoben werden!"
+    - Ganden: "Ok, dann – bevor ich hier etwas kaputt mache – dann heb du doch bitte die Scherbe auf"
+    - Der Typ ist vollkommen überfordert und bückt sich nach der Scherbe unter den Tisch
+    - In der Mitte des Raumes steht ein Gerät, das zwischenzeitlich vibriert
+    - Ganden zeigt Kaelum an, dass er den Typen ausschalten soll; Ganden geht zu dem vibrierenden Gerät
+    - Kaelum bricht dem Typen das Genick
+    - Ghalrixtho späht durch die Tür in den Raum und beobachtet Kaelum dabei; läuft dann auch in den Raum und zu den hinteren Türen
+    - Komaru kommt aus der Toilette raus und haftet die Mine an den Antennenstützen an
+    - Ganden betätigt das Kommunikationsgerät: "benötige Unterstützung" (Ghalrixtho im Vorbeigehen: "Jammer ist an")
+    - Ghalrixtho versucht das elektrische Schloss der rechten Tür mit dem Slicer's Kit zu öffnen → kritischer Patzer (Slicer's Kit erstmal mit Malus -1)
+      - Genervt nimmt Ghalrixtho seine Vibrodagger und haut in das Bedienfeld
+      - Mit der Schulter versucht er die Tür aufzuschlagen (Acrobatics 4) – verletzt sich dabei aber eher selber
+    - Komaru schaltet sich ein: "Ghalrixtho, übernimm du mal die Wache" und sägt die Türscharniere durch
+      - Ghalrixtho wendet sich wortlos und genervt um
+- Komaru öffnet die Tür und findet in einem leeren Raum eine hochtechnologisch-gesicherte Luke im Boden; ganz klar ein Imperialer Komplex
+  - Ganden erkennt dies und unterstützt Ghalrixtho mit seinem Slicer's Kit
+  - Ghalrixtho wirft mit dem Slicer's Kit einen kritischen Erfolg (24)
+  - Damit umgeht er den Schließmechanismus der Luke, sie öffnet sich, darunter führt eine kurze Treppe nach unten
+- Cliffhänger für nächstes Mal
