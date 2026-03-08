@@ -10,6 +10,13 @@ Arbeitsordner für die Erstellung der Prosa-Chronik.
 4. **[entwuerfe/](entwuerfe/)** – Kapitelentwürfe vor Finalisierung
 5. **[kapitel/](kapitel/)** – Finales Kapitel (`kapitel-NN.md`)
 
+## Automatisierte Pipeline
+
+Die Pipeline ist in zwei Claude Code Slash-Commands aufgeteilt:
+
+1. **[`/project:transcribe`](../.claude/commands/transcribe.md)** — Audio-Transkription (~30 Min.), erzeugt `transkript_YYYY-MM-DD.txt`
+2. **[`/project:chronicle`](../.claude/commands/chronicle.md)** — Storyboard → Szenen → Entwürfe → Kapitel (setzt fertiges Transkript voraus)
+
 ## Dateibenennung
 
 | Ordner | Muster | Beispiel |
