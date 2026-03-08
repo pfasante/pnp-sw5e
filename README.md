@@ -27,7 +27,7 @@ chronicle/
     README.md             ← Chronik-Übersicht und Inhaltsverzeichnis
     kapitel-NN.md
 scripts/
-  transcribe_merge_sync.py  ← Whisper-Transkription und Zusammenführung
+  transcribe_merge.py  ← Whisper-Transkription und Zusammenführung
 pyproject.toml            ← uv-Projektdatei (Python-Abhängigkeiten)
 ```
 
@@ -42,7 +42,7 @@ Jeder Spieler nimmt seine eigene Spur auf (`.aac` oder `.wav`). Nach der Session
 ### 2. Transkription
 
 ```bash
-uv run python scripts/transcribe_merge_sync.py
+uv run python scripts/transcribe_merge.py
 ```
 
 Das Skript ruft `whisper-ctranslate2` auf (Modell `large-v3`, Sprache Deutsch, CUDA bfloat16) und erzeugt:
@@ -68,7 +68,7 @@ Abhängigkeiten werden mit [uv](https://docs.astral.sh/uv/) verwaltet.
 uv sync
 
 # Skript ausführen (ohne vorher venv aktivieren)
-uv run python scripts/transcribe_merge_sync.py
+uv run python scripts/transcribe_merge.py
 ```
 
 Die `.venv/` ist gitignored. `uv.lock` wird versioniert.

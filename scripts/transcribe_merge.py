@@ -8,7 +8,7 @@ import shutil
 # --- Voreinstellungen ---
 DEFAULT_MODEL = "large-v3"
 DEFAULT_LANGUAGE = "German"
-DEFAULT_OUTPUT = "star_wars_session_transcript.txt"
+DEFAULT_OUTPUT = f"transkript_{datetime.date.today()}.txt"
 
 INITIAL_PROMPT = (
     "Das ist ein Transkript unserer Star Wars 5e Pen and Paper Rollenspiel Kampagne. "
@@ -95,7 +95,7 @@ def main():
     parser.add_argument('-m', '--model', type=str, default=DEFAULT_MODEL, help=f"Whisper Modell (Standard: {DEFAULT_MODEL})")
     parser.add_argument('-M', '--merge-only', nargs='+', help="Überspringt Transkription und mergt nur die angegebenen TSV-Dateien")
     parser.add_argument('-o', '--output', type=str, default=DEFAULT_OUTPUT, help="Name der finalen Textdatei lokal")
-    parser.add_argument('-c', '--cleanup', action='store_false', help="Löscht die TSV-Dateien nach erfolgreichem Zusammenfügen")
+    parser.add_argument('-k', '--keep-tsvs', action='store_true', help="Behält die TSV-Dateien nach dem Zusammenfügen (Standard: TSVs werden gelöscht)")
 
     args = parser.parse_args()
 
@@ -124,7 +124,7 @@ def main():
         merge_tsvs(tsv_files_to_merge, args.output)
 
     # Schritt 3: Cleanup
-    if args.cleanup and tsv_files_to_merge:
+    if not args.keep_tsvs and tsv_files_to_merge:
         print("\n[+] Räume auf...")
         for tsv in tsv_files_to_merge:
             if os.path.exists(tsv):
