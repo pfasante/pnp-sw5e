@@ -10,11 +10,11 @@ Die Chronik hält die Ereignisse der Kampagne als Prosa-Narrative fest. Kapitel 
 
 | Charakter | Spezies | Klasse | Spieler |
 |-----------|---------|--------|---------|
-| [Ghalrixtho](../background/charaktere/ghalrixtho.md) | Chiss | Operative L3 | Friedrich |
-| [Ganden Arvang](../background/charaktere/ganden.md) | Mensch | Tactician Scholar L3 | Andreas |
-| [Komaru](../background/charaktere/komaru.md) | Togorianer | Scout L3 | Martin |
-| [G4-X](../background/charaktere/g4-x.md) | Droide | Fighter L1 | Stefan |
-| [Varnira Sesh](../background/charaktere/varnira.md) | Devaronierin | Engineer L1 | Heike |
+| [Ghalrixtho](../../background/charaktere/ghalrixtho.md) | Chiss | Operative L3 | Friedrich |
+| [Ganden Arvang](../../background/charaktere/ganden.md) | Mensch | Tactician Scholar L3 | Andreas |
+| [Komaru](../../background/charaktere/komaru.md) | Togorianer | Scout L3 | Martin |
+| [G4-X](../../background/charaktere/g4-x.md) | Droide | Fighter L1 | Stefan |
+| [Varnira Sesh](../../background/charaktere/varnira.md) | Devaronierin | Engineer L1 | Heike |
 
 ---
 
@@ -35,11 +35,11 @@ Die Chronik hält die Ereignisse der Kampagne als Prosa-Narrative fest. Kapitel 
 
 ## Session-Notizen
 
-Die rohen Spielnotizen, Transkriptionen und Aufnahmen liegen unter [`../sessions/`](../sessions/).
+Die rohen Spielnotizen, Transkriptionen und Aufnahmen liegen unter [`../../sessions/`](../../sessions/).
 
 ---
 
 ## Hintergrund
 
-- [Bekannter Hintergrund](../background/bekannter-hintergrund.md) – Spieler-seitig bekannte Lore (Schiff, Speeder, Umgebung)
-- [Charaktere](../background/charaktere/) – Charakterbögen der Spielercharaktere
+- [Bekannter Hintergrund](../../background/bekannter-hintergrund.md) – Spieler-seitig bekannte Lore (Schiff, Speeder, Umgebung)
+- [Charaktere](../../background/charaktere/) – Charakterbögen der Spielercharaktere

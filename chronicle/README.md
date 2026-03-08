@@ -8,7 +8,7 @@ Arbeitsordner für die Erstellung der Prosa-Chronik.
 2. **[storyboard/](storyboard/)** – Grobe Szenenstruktur: welche Szenen, welche Reihenfolge, Perspektive
 3. **[szenen/](szenen/)** – Ausgearbeitete Einzelszenen-Entwürfe
 4. **[entwuerfe/](entwuerfe/)** – Kapitelentwürfe vor Finalisierung
-5. **[story/](../story/)** – Finales Kapitel (`kapitel-NN.md`)
+5. **[kapitel/](kapitel/)** – Finales Kapitel (`kapitel-NN.md`)
 
 ## Dateibenennung
 

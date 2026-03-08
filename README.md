@@ -18,14 +18,14 @@ background/
   bekannter-hintergrund.md  ← Spieler-seitig bekannte Lore
   charaktere/
     ghalrixtho.md / ganden.md / komaru.md / g4-x.md / varnira.md
-story/
-  README.md               ← Chronik-Übersicht und Inhaltsverzeichnis
-  kapitel-NN.md           ← Ausgearbeitete Prosa-Kapitel
 chronicle/
   README.md               ← Workflow-Dokumentation
   storyboard/             ← Grobe Handlungsgerüste
   szenen/                 ← Szenenstruktur und Übergänge
   entwuerfe/              ← Rohentwürfe der Kapitel
+  kapitel/                ← Fertige Prosa-Kapitel
+    README.md             ← Chronik-Übersicht und Inhaltsverzeichnis
+    kapitel-NN.md
 scripts/
   transcribe_merge_sync.py  ← Whisper-Transkription und Zusammenführung
 pyproject.toml            ← uv-Projektdatei (Python-Abhängigkeiten)
@@ -55,7 +55,7 @@ Ausgabe landet in `sessions/YYYY-MM-DD_session-NN/transcriptions/`.
 
 *(Detaillierter Prozess wird noch ergänzt.)*
 
-Die fertigen Kapitel kommen nach `story/kapitel-NN.md`. Zwischenschritte (Storyboard, Szenenstruktur, Rohentwürfe) liegen unter `chronicle/` – siehe [`chronicle/README.md`](chronicle/README.md).
+Die fertigen Kapitel kommen nach `chronicle/kapitel/kapitel-NN.md`. Zwischenschritte (Storyboard, Szenenstruktur, Rohentwürfe) liegen ebenfalls unter `chronicle/` – siehe [`chronicle/README.md`](chronicle/README.md).
 
 ---
 
