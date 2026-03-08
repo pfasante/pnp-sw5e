@@ -1,9 +1,12 @@
+---
+name: transcribe
+description: Transkribiere die Audio-Dateien einer Session mit whisper-ctranslate2. Erzeugt ein zusammengeführtes Transkript.
+argument-hint: "[session-pfad, z.B. sessions/2026-03-07_session-17]"
+---
+
 # Transkription
 
 Transkribiere die Audio-Dateien einer Session.
-Argument: Pfad zum Session-Ordner, z.B. `sessions/2026-03-07_session-17`
-
----
 
 ## Voraussetzungen
 

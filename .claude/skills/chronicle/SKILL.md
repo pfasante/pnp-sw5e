@@ -1,9 +1,12 @@
+---
+name: chronicle
+description: Erstelle ein neues Prosa-Kapitel aus einer vorbereiteten Session (Storyboard, Szenen, Entwürfe, Kapitel). Setzt ein fertiges Transkript voraus.
+argument-hint: "[session-pfad, z.B. sessions/2026-03-07_session-17]"
+---
+
 # Chronicle Pipeline
 
 Erstelle ein neues Prosa-Kapitel aus einer vorbereiteten Session.
-Argument: Pfad zum Session-Ordner, z.B. `sessions/2026-03-07_session-17`
-
----
 
 ## Voraussetzungen
 
@@ -16,7 +19,7 @@ $ARGUMENTS/
     transkript_YYYY-MM-DD.txt   ← muss vorhanden sein
 ```
 
-Falls das Transkript noch fehlt, weise den Benutzer auf `/project:transcribe` hin und brich ab.
+Falls das Transkript noch fehlt, weise den Benutzer auf `/transcribe` hin und brich ab.
 
 ## Pipeline-Überblick
 
@@ -35,7 +38,7 @@ Die Pipeline besteht aus 3 Schritten. **Jeder Schritt** durchläuft denselben Re
 
 **Ziel:** Ein Storyboard und daraus abgeleitete Szenen-Dateien.
 
-### 2a: Storyboard erstellen
+### 1a: Storyboard erstellen
 
 **Eingabe:** `notes.md` + `transkript_YYYY-MM-DD.txt`
 **Ausgabe:** `chronicle/storyboard/session-NN-storyboard.md`
@@ -69,7 +72,7 @@ Leitlinien für das Storyboard:
 
 **Self-Review:** Prüfe das Storyboard gegen `notes.md` auf Vollständigkeit – fehlen Handlungspunkte? Stimmt die Reihenfolge? Dann vorlegen und auf Freigabe warten.
 
-### 2b: Szenen ableiten
+### 1b: Szenen ableiten
 
 **Eingabe:** Storyboard + Transkript
 **Ausgabe:** `chronicle/szenen/session-NN-szene-01.md`, `session-NN-szene-02.md`, ...

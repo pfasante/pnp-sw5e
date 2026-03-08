@@ -14,8 +14,8 @@ Arbeitsordner für die Erstellung der Prosa-Chronik.
 
 Die Pipeline ist in zwei Claude Code Slash-Commands aufgeteilt:
 
-1. **[`/project:transcribe`](../.claude/commands/transcribe.md)** — Audio-Transkription (~30 Min.), erzeugt `transkript_YYYY-MM-DD.txt`
-2. **[`/project:chronicle`](../.claude/commands/chronicle.md)** — Storyboard → Szenen → Entwürfe → Kapitel (setzt fertiges Transkript voraus)
+1. **[`/transcribe`](../.claude/skills/transcribe/SKILL.md)** — Audio-Transkription (~30 Min.), erzeugt `transkript_YYYY-MM-DD.txt`
+2. **[`/chronicle`](../.claude/skills/chronicle/SKILL.md)** — Storyboard → Szenen → Entwürfe → Kapitel (setzt fertiges Transkript voraus)
 
 ## Dateibenennung
 
