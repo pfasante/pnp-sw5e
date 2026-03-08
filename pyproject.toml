@@ -7,5 +7,5 @@ dependencies = [
     "whisper-ctranslate2",
 ]
 
-[tool.uv]
-dev-dependencies = []
+[dependency-groups]
+dev = []
