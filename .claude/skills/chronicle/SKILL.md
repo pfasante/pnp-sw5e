@@ -21,6 +21,18 @@ $ARGUMENTS/
 
 Falls das Transkript noch fehlt, weise den Benutzer auf `/transcribe` hin und brich ab.
 
+## Hintergrundmaterial
+
+Lies zu Beginn der Pipeline die Dateien im `background/`-Ordner, um den Kontext der Kampagne zu verstehen:
+
+- **`background/bekannter-hintergrund.md`** – Spieler-seitig bekannte Lore (Schiff, Speeder, Umgebung)
+- **`background/charaktere/*.md`** – Charakterbögen der Spielercharaktere (Fähigkeiten, Hintergrund, Persönlichkeit)
+
+Diese Informationen sind wichtig für:
+- Korrekte Beschreibung von Ausrüstung, Fahrzeugen und Orten (z.B. der Speeder ist ein Brett mit angeschweißtem Düsentriebwerk, kein normales Fahrzeug)
+- Charakterstimmen und Verhaltensmuster, die über die Kurzprofile in den Stilrichtlinien hinausgehen
+- Konsistenz mit etablierter Kampagnen-Lore
+
 ## Pipeline-Überblick
 
 Die Pipeline besteht aus 3 Schritten. **Jeder Schritt** durchläuft denselben Review-Zyklus:
@@ -40,7 +52,7 @@ Die Pipeline besteht aus 3 Schritten. **Jeder Schritt** durchläuft denselben Re
 
 ### 1a: Storyboard erstellen
 
-**Eingabe:** `notes.md` + `transkript_YYYY-MM-DD.txt`
+**Eingabe:** `notes.md` + `transkript_YYYY-MM-DD.txt` + `background/`-Ordner (Lore, Charakterbögen)
 **Ausgabe:** `chronicle/storyboard/session-NN-storyboard.md`
 
 Erstelle ein Storyboard mit folgender Struktur:
@@ -65,7 +77,7 @@ Erstelle ein Storyboard mit folgender Struktur:
 ```
 
 Leitlinien für das Storyboard:
-- Orientiere dich an den Szenen-Unterteilungen in `notes.md` (dort oft als "Szene 1", "Szene 2" etc. markiert).
+- Orientiere dich an den Szenen-Unterteilungen in `notes.md`, falls sinnvoll.
 - Identifiziere sinnvolle Szenengrenzen anhand von Ortswechseln, Zeitsprüngen oder thematischen Brüchen.
 - Extrahiere konkrete spielmechanische Details (Würfelergebnisse, Skill-Checks) aus den Notizen – diese geben Hinweise auf den Ausgang von Aktionen.
 - Notiere spezifische Details, Formulierungen und Dialogfetzen aus dem Transkript, die in die Prosa einfließen können.

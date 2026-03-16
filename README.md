@@ -37,7 +37,7 @@ pyproject.toml            ← uv-Projektdatei (Python-Abhängigkeiten)
 
 ### 1. Aufnahme
 
-Jeder Spieler nimmt seine eigene Spur auf (`.aac` oder `.wav`). Nach der Session werden die Dateien in ein Zip-Archiv gepackt und im Session-Ordner abgelegt. Audio-Dateien sind in git **nicht** versioniert (`.gitignore`).
+Die Sessions werden über Discord gespielt. Der [Craig Bot](https://craig.chat/) nimmt automatisch eine separate Audiospur pro Spieler auf (`.aac`). Nach der Session werden die Dateien als Zip-Archiv heruntergeladen und im Session-Ordner abgelegt. Audio-Dateien sind in git **nicht** versioniert (`.gitignore`).
 
 ### 2. Transkription
 
