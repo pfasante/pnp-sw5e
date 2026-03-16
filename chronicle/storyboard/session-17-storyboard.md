@@ -30,7 +30,7 @@
 - Auf die Frage, für wen sie arbeiten: Ghalrixtho sagt, sie arbeiten für sich selbst und wollen auch weg von Lothal
 - Fel beruhigt sich und erzählt: Er war Buchhalter des Kobalt-Kartells auf Lothal, "Künstler der Zahlen"
 - Das Imperium hat ihn über das Kartell ausgefragt – einfache operative Fragen, die seiner Meinung nach unter seinem Niveau waren
-- Fel wollte sich absetzen, hat Geld beiseitegeschafft; Seido (sein Fluchthelfer) hat ihn an das Imperium verkauft
+- Fel wollte sich absetzen, hat Geld beiseitegeschafft; Zydo (sein Fluchthelfer) hat ihn an das Imperium verkauft
 - Über das Kartell: Rax Vonn ist ein kluger, strategischer Typ; das Kartell war früher in den Minen involviert (Arbeiter, Logistik, Abfallentsorgung), wurde vom Imperium rausgedrängt
 - Die Kenpenny-Mine und der Erzschlund sind dem Kartell entzogen, nur die Alte Narbe hat noch etwas Kartell-Einfluss
 - Komaru bohrt gezielt nach den Minen und erfährt Details über die Kartell-Imperium-Dynamik
@@ -40,7 +40,7 @@
 - Komaru: "Das ist ein blödes Argument. Wir haben so viel Geld, mit Geld kannst du uns gar nichts. Bietet uns was anderes."
 - Fel: "Meine Welt sind Zahlen. Und aus allen Zahlen kann man die Wahrheit herauslesen. Und ich kenne alle Zahlen."
 - Fel über das Imperium: "Diese Vollidioten, die wissen gar nicht, wie viel Zahlen bedeuten."
-- Ganden verrät Fel, dass sie seine Credits am Schließfach sichergestellt haben und Seido "nachhaltig beseitigt" wurde
+- Ganden verrät Fel, dass sie seine Credits am Schließfach sichergestellt haben und Zydo "nachhaltig beseitigt" wurde
 - Fel über Rax Vonn: "Das ist ein kluger, strategischer Typ. Der weiß seine Karten gut zu spielen."
 - G4-X scannt die Tintenfischringe mit seinem Visor: "23% Fett, 7% Kohlenhydrate"
 - Fel kommt von Malastare, hat dort studiert, ist seit ca. 10 Jahren auf Lothal

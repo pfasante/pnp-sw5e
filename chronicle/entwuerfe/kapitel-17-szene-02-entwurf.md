@@ -44,9 +44,9 @@ Ganden wechselte einen Blick mit Ghalrixtho. Der Chiss hob kaum merklich eine Au
 
 „Ich bin ein Künstler der Zahlen", fuhr Fel fort, die Stimme nun weich vor Selbstmitleid und Alkohol. „Aber das wertschätzen die nicht. Und da habe ich mir gedacht, dann nehme ich meinen Teil, den ich verdiene, und mache mir woanders ein gutes Leben."
 
-Ganden setzte sein Glas ab. „Wir haben deine Verdienste bereits sichergestellt. Am Schließfach. Und diesen Seido, deinen Fluchthelfer –" Er ließ eine Pause, in der das Brutzeln der letzten Tintenfischringe zu hören war. „Den haben wir nachhaltig beseitigt. Inklusive seines Droiden."
+Ganden setzte sein Glas ab. „Wir haben deine Verdienste bereits sichergestellt. Am Schließfach. Und diesen Zydo, deinen Fluchthelfer –" Er ließ eine Pause, in der das Brutzeln der letzten Tintenfischringe zu hören war. „Den haben wir nachhaltig beseitigt. Inklusive seines Droiden."
 
-Fels drei Augen weiteten sich gleichzeitig. „Seido? Wo ist Seido?" Dann, mit plötzlicher Schärfe trotz des Alkoholnebels: „Dieses verdammte Arschloch! Der hat mich verkauft!"
+Fels drei Augen weiteten sich gleichzeitig. „Zydo? Wo ist Zydo?" Dann, mit plötzlicher Schärfe trotz des Alkoholnebels: „Dieses verdammte Arschloch! Der hat mich verkauft!"
 
 Keine Trauer. Nur Wut.
 

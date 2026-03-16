@@ -19,7 +19,7 @@ Fel versucht anfangs, sich rauszukaufen: "Ich bezahle euch gut, damit ich nichts
 Fel will wissen, für wen sie arbeiten. Ghalrixtho antwortet direkt: "Wir arbeiten für uns. Wir wollen hier weg, genauso wie du hier weg willst." Das beruhigt Fel merklich.
 
 **Komarus Einschüchterung:**
-Komaru deutet an, dass Seido (Fels Fluchthelfer) "auf dem besten Weg ist, Dünger zu werden" – eine kalkulierte Einschüchterung, die Fel nervös macht. Ghalrixtho beobachtet, wie Fels Nervosität steigt.
+Komaru deutet an, dass Zydo (Fels Fluchthelfer) "auf dem besten Weg ist, Dünger zu werden" – eine kalkulierte Einschüchterung, die Fel nervös macht. Ghalrixtho beobachtet, wie Fels Nervosität steigt.
 
 **Das Essen wird serviert:**
 Ganden schiebt Fel Tintenfischringe hin: "Gib uns ein paar Zahlen. Wir geben dir was Gutes zu essen und du gibst uns ein paar Zahlen." G4-X scannt einen Tintenfischring mit seinem Visor – "23% Fett, 7% Kohlenhydrate. Sehr lecker." Er isst ihn allerdings nicht.
@@ -34,8 +34,8 @@ Im Laufe des Essens erzählt Fel immer mehr, zunehmend angetrunken:
 - Das Imperium hat ihn im Bunker über das Kartell ausgefragt – aber nur "einfache Fragen": Wie viele Leute, welche Geschäfte, wer ist der Chef. Für Fel unter seiner Würde.
 - Fel: "Diese Vollidioten, die wissen gar nicht, wie viel Zahlen bedeuten."
 
-**Die Enthüllung über Seido:**
-Ganden verrät Fel, dass sie sein Gepäck am Raumhafen sichergestellt haben und den Koffer mitgenommen haben. "Diesen Seidor haben wir nachhaltig beseitigt, inklusive seines Roboters." Fels Reaktion: "Dieses verdammte Arschloch. Der hat mich verkauft." – Keine Trauer, nur Wut.
+**Die Enthüllung über Zydo:**
+Ganden verrät Fel, dass sie sein Gepäck am Raumhafen sichergestellt haben und den Koffer mitgenommen haben. "Diesen Zydo haben wir nachhaltig beseitigt, inklusive seines Roboters." Fels Reaktion: "Dieses verdammte Arschloch. Der hat mich verkauft." – Keine Trauer, nur Wut.
 
 **Die Minen-Informationen (Komarus Nachbohren):**
 Komaru steuert das Gespräch gezielt auf die Minen: "Kannst du mir ein bisschen was über verschiedene Minen und Schürfgruben auf Lothal erzählen? Kenpenny-Grube, Erzschlund, Alte Narbe..."
@@ -74,7 +74,7 @@ Fel nuschelt zunehmend, trinkt immer wieder, sein drittes Auge fokussiert abwech
 [00:22:23] Benjamin: Und da habe ich mir gedacht, dann nehme ich nur meinen Teil, den ich verdiene und mache woanders mir ein gutes Leben.
 [00:25:20] Andreas: Ich kann dich darüber informieren, dass wir deine Verdienste bereits sichergestellt haben.
 [00:25:45] Benjamin: "23% Fett, 7% Kohlenhydrate. Sehr lecker." [G4-X scannt Tintenfischring]
-[00:27:37] Benjamin: Seido? Wo ist Seido? Dieses verdammte Arschloch. Der hat mich verkauft.
+[00:27:37] Benjamin: Zydo? Wo ist Zydo? Dieses verdammte Arschloch. Der hat mich verkauft.
 [00:28:50] Benjamin: Ich bin blöd. Ich weiß, dass die wichtigste Ware, die ich habe, vielleicht diese Informationen sind. Aber ich würde sie nicht leichtfertig rausgeben. Ich möchte keinen Stress mit denen. Ich möchte einfach nur meine Ruhe haben.
 [00:31:18] Benjamin: Ich komme aus Malastare. [...] Und naja, irgendwann hat man erkannt, dass ich gut mit Zahlen umgehen kann. Und dann habe ich das studiert. Aber das war mir immer zu trocken.
 [00:33:00] Benjamin: Wurden streng mit mir, wenn Zahlen nicht genau gestimmt haben. Dabei müssten sie doch wissen, Mathematik, Zahlen, die sind immer eine Annäherung.
