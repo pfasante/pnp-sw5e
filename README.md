@@ -65,7 +65,7 @@ Die Pipeline ist in zwei [Claude Code Skills](https://docs.anthropic.com/en/docs
    - **Entwürfe** — Prosa-Entwurf pro Szene (einzeln reviewbar)
    - **Kapitel** — Zusammenführung aller Szenen mit Übergängen und Navigation
 
-Die Zwischenprodukte jeder Stufe werden in `chronicle/` versioniert (siehe [`chronicle/README.md`](chronicle/README.md)), sodass der gesamte Entstehungsprozess eines Kapitels nachvollziehbar bleibt. Die fertigen Kapitel landen in `chronicle/kapitel/kapitel-NN.md`.
+Die Zwischenprodukte jeder Stufe werden in `chronicle/` versioniert (siehe [`chronicle/README.md`](chronicle/README.md)), sodass der gesamte Entstehungsprozess eines Kapitels nachvollziehbar bleibt. Die fertigen Kapitel landen in `chronicle/04-kapitel/kapitel-NN.md`.
 
 ---
 
