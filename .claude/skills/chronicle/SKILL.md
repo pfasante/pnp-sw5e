@@ -132,7 +132,11 @@ Orientiere dich am Stil der bestehenden Kapitel in `chronicle/kapitel/`. Wesentl
 - **Sprache:** Deutsch, gehobener aber flüssiger Erzählstil. Keine übertriebene Poetik, sondern klare, bildhafte Prosa.
 - **Perspektive:** Dritte Person, begrenzt allwissend – typischerweise aus der Perspektive eines der Spielercharaktere, kann zwischen Szenen wechseln.
 - **Dialoge:** Wörtliche Rede in Anführungszeichen. Dialoge sollen sich natürlich anfühlen und den Charakter der Sprecher widerspiegeln. Orientiere dich an Formulierungen aus dem Transkript, aber übersetze sie in den Erzählstil.
-- **Spielmechanik:** Würfelergebnisse und Regelmechaniken werden **nie** explizit erwähnt, sondern narrativ umgesetzt (z.B. ein hoher Investigation-Wurf wird zu einer detaillierten, scharfsinnigen Beobachtung).
+- **Spielmechanik:** Würfelergebnisse und Regelmechaniken werden **nie** explizit erwähnt, sondern narrativ umgesetzt (z.B. ein hoher Investigation-Wurf wird zu einer detaillierten, scharfsinnigen Beobachtung). Das gilt auch für:
+  - **Schadenspunkte:** Nie als Zahlen nennen ("19 Schadenspunkte"), sondern Wunden beschreiben ("drei Blastereinschläge brannten sich tief in seine Brust")
+  - **Fähigkeitsnamen:** Nie Skill-/Feat-Namen wie "Critical Analysis", "Sneak Attack", "Evasive Footwork" verwenden, sondern das Verhalten narrativ beschreiben ("Ganden analysierte die Schwachstellen des Gegners", "Ghalrixtho nutzte die Ablenkung für einen präzisen Stich")
+  - **Spielbegriffe:** Begriffe wie "Infiltrator", "NPC", "Hit Dice", "Saving Throw" gehören nicht in die Prosa. Verwende stattdessen narrative Beschreibungen ("schwer gerüsteter Soldat", "der Gepanzerte", "der Schütze")
+- **Charakter-Hintergründe:** Die Charakterbögen in `background/charaktere/` enthalten Hintergrundwissen, das die Spielercharaktere **noch nicht voneinander kennen** (z.B. Gandens ISB-Vergangenheit). Solche Details dürfen in der Prosa nur dann auftauchen, wenn sie in einer Session explizit offenbart wurden. Im Zweifel: nicht erwähnen. Prüfe `background/charaktere/*.md` auf den Abschnitt "In der Kampagne bekannt" für bereits enthüllte Informationen.
 - **Charakterstimmen:**
   - Ganden: kultiviert, analytisch, manipulativ-charmant, "der Professor"
   - Ghalrixtho: kühl, präzise, wenige Worte, raubtierhafte Präsenz

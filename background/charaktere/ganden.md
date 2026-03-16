@@ -48,6 +48,15 @@ Die Rebellion zwang ihn kürzlich, ein Maulwurf für den Rebelgeheimdienstist zu
 - Arvang, G. (9BBY) Witches and Wizards. *The Xeno-Archaeological Journal*, Vol. 31, No. 5, pp. 110–125.
 - Arvang, G. (11BBY) The History of Dark Artefact Excavations (mit Ch. L. Aphra). *Journal of Galactic Relics*, Vol. 54, No. 1, pp. 9–24.
 
+## In der Kampagne bekannt
+
+Was die anderen Spielercharaktere über Ganden wissen:
+- Stellt sich als Archäologe und Antiquitäten-Sammler vor (Deckidentität)
+- Offensichtlich gebildet, kultiviert, strategisch denkend
+- Hat Zugang zu akademischen Kontakten und Ressourcen
+- Seine ISB-Vergangenheit und sein Rang sind den anderen **nicht bekannt**
+- Seine Verbindung zur Rebellion ist den anderen **nicht bekannt**
+
 ## Charakterbogen
 
 | Attribut | Wert |

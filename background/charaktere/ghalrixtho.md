@@ -15,6 +15,14 @@ Seine Ausbildung umfasste Spionage, Tarntechniken, psychologisches Profiling und
 
 Seither operiert er als unabhängiger Attentäter und Informationsbeschaffer in Grenzregionen, oft unter falschem Namen. Gelegentlich nimmt er verdeckte Aufträge von ISB-Kontakten oder Syndikaten an. Er meidet Ideologien – aber nicht Prinzipien: Zivilisten, Kinder und unnötige Gewalt lehnt er strikt ab. Seine Loyalität gilt vor allem seinem Volk und seinem Codex – auch wenn dieser nicht immer im Einklang mit den Wünschen seiner Auftraggeber steht.
 
+## In der Kampagne bekannt
+
+Was die anderen Spielercharaktere über Ghalrixtho wissen:
+- Chiss, offensichtlich kampferfahren und professionell
+- Kennt sich mit Kopfgeldjagd und verdeckten Operationen aus
+- Wortkarg, aber zuverlässig
+- Seine Vergangenheit bei der Chiss Ascendancy und Projekt Vornesk sind den anderen **nicht bekannt**
+
 ## Charakterbogen
 
 | Attribut | Wert |
