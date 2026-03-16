@@ -53,7 +53,7 @@ Die Pipeline besteht aus 3 Schritten. **Jeder Schritt** durchläuft denselben Re
 ### 1a: Storyboard erstellen
 
 **Eingabe:** `notes.md` + `transkript_YYYY-MM-DD.txt` + `background/`-Ordner (Lore, Charakterbögen)
-**Ausgabe:** `chronicle/storyboard/session-NN-storyboard.md`
+**Ausgabe:** `chronicle/01-storyboard/session-NN-storyboard.md`
 
 Erstelle ein Storyboard mit folgender Struktur:
 
@@ -87,7 +87,7 @@ Leitlinien für das Storyboard:
 ### 1b: Szenen ableiten
 
 **Eingabe:** Storyboard + Transkript
-**Ausgabe:** `chronicle/szenen/session-NN-szene-01.md`, `session-NN-szene-02.md`, ...
+**Ausgabe:** `chronicle/02-szenen/session-NN-szene-01.md`, `session-NN-szene-02.md`, ...
 
 Erstelle pro Szene eine Datei mit folgender Struktur:
 
@@ -120,14 +120,14 @@ Leitlinien für die Szenen:
 
 ## Schritt 2: Szenen-Entwürfe (Prosa)
 
-**Eingabe:** Szenen-Dateien aus `chronicle/szenen/`
-**Ausgabe:** `chronicle/entwuerfe/kapitel-NN-szene-01-entwurf.md`, `kapitel-NN-szene-02-entwurf.md`, ...
+**Eingabe:** Szenen-Dateien aus `chronicle/02-szenen/`
+**Ausgabe:** `chronicle/03-entwuerfe/kapitel-NN-szene-01-entwurf.md`, `kapitel-NN-szene-02-entwurf.md`, ...
 
 Schreibe für jede Szene einen Prosa-Entwurf. **Jede Szene einzeln als eigene Datei**, damit sie unabhängig reviewt werden kann.
 
 ### Stilrichtlinien
 
-Orientiere dich am Stil der bestehenden Kapitel in `chronicle/kapitel/`. Wesentliche Merkmale:
+Orientiere dich am Stil der bestehenden Kapitel in `chronicle/04-kapitel/`. Wesentliche Merkmale:
 
 - **Sprache:** Deutsch, gehobener aber flüssiger Erzählstil. Keine übertriebene Poetik, sondern klare, bildhafte Prosa.
 - **Perspektive:** Dritte Person, begrenzt allwissend – typischerweise aus der Perspektive eines der Spielercharaktere, kann zwischen Szenen wechseln.
@@ -160,7 +160,7 @@ Dann vorlegen und auf Freigabe warten. **Jede Szene einzeln vorlegen** – nicht
 ## Schritt 3: Kapitel zusammenführen
 
 **Eingabe:** Alle freigegebenen Szenen-Entwürfe
-**Ausgabe:** `chronicle/kapitel/kapitel-NN.md`
+**Ausgabe:** `chronicle/04-kapitel/kapitel-NN.md`
 
 1. Füge alle Szenen-Entwürfe in der richtigen Reihenfolge zu einem Kapitel zusammen.
 2. Ergänze Übergänge zwischen den Szenen, wo nötig (Zeitsprünge, Ortswechsel).
@@ -177,7 +177,7 @@ Dann vorlegen und auf Freigabe warten. **Jede Szene einzeln vorlegen** – nicht
 ```
 
 4. Aktualisiere die Navigation im vorherigen Kapitel (füge Vorwärts-Link hinzu, falls nicht vorhanden).
-5. Aktualisiere `chronicle/kapitel/README.md` – neuen Eintrag in die Inhaltsverzeichnis-Tabelle einfügen.
+5. Aktualisiere `chronicle/04-kapitel/README.md` – neuen Eintrag in die Inhaltsverzeichnis-Tabelle einfügen.
 
 **Kapitel-Titel:** Leite einen kurzen, stimmungsvollen Titel ab, der das zentrale Thema oder Ereignis der Session einfängt (Beispiele: "Kollateralschäden", "Atmosphärische Störungen", "Letzte Nacht auf Lothal").
 

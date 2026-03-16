@@ -9,7 +9,7 @@ This is a **pen-and-paper campaign repository** for a Star Wars 5e (SW5e) campai
 ## Repository Structure
 
 - `sessions/YYYY-MM-DD_session-NN/` — Per-session notes (`notes.md`) and transcriptions (`.tsv` per speaker + merged `.txt`)
-- `chronicle/` — Prose chronicle workbench with pipeline: `storyboard/` → `szenen/` → `entwuerfe/` → `kapitel/` (final chapters)
+- `chronicle/` — Prose chronicle workbench with pipeline: `01-storyboard/` → `02-szenen/` → `03-entwuerfe/` → `04-kapitel/` (final chapters)
 - `background/` — Player-known lore (`bekannter-hintergrund.md`) and character sheets in `charaktere/`
 - `scripts/` — Python tooling (currently just `transcribe_merge.py`)
 
@@ -43,6 +43,6 @@ uv run python ../../../scripts/transcribe_merge.py \
 
 - All prose and notes are written in **German**.
 - Session folders follow the naming pattern `YYYY-MM-DD_session-NN/`.
-- Chronicle chapters: `chronicle/kapitel/kapitel-NN.md`. Chapters 1–12 are not yet written as prose; the chronicle starts at chapter 13.
-- Chronicle workbench file naming: `session-NN-storyboard.md`, `session-NN-szene-NN.md`, `kapitel-NN-entwurf-vN.md`.
+- Chronicle chapters: `chronicle/04-kapitel/kapitel-NN.md`. Chapters 1–12 are not yet written as prose; the chronicle starts at chapter 13.
+- Chronicle workbench file naming: `session-NN-storyboard.md`, `session-NN-szene-NN.md`, `kapitel-NN-szene-NN-entwurf.md`.
 - Player characters: Ghalrixtho (Chiss Operative), Ganden Arvang (Human Tactician Scholar), Komaru (Togorian Scout), G4-X (Droid Fighter), Varnira Sesh (Devaronian Engineer).

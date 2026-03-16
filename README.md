@@ -20,10 +20,10 @@ background/
     ghalrixtho.md / ganden.md / komaru.md / g4-x.md / varnira.md
 chronicle/
   README.md               ← Workflow-Dokumentation
-  storyboard/             ← Grobe Handlungsgerüste
-  szenen/                 ← Szenenstruktur und Übergänge
-  entwuerfe/              ← Rohentwürfe der Kapitel
-  kapitel/                ← Fertige Prosa-Kapitel
+  01-storyboard/          ← Grobe Handlungsgerüste
+  02-szenen/              ← Szenenstruktur und Übergänge
+  03-entwuerfe/           ← Rohentwürfe der Kapitel
+  04-kapitel/             ← Fertige Prosa-Kapitel
     README.md             ← Chronik-Übersicht und Inhaltsverzeichnis
     kapitel-NN.md
 scripts/
@@ -53,9 +53,19 @@ Ausgabe landet in `sessions/YYYY-MM-DD_session-NN/transcriptions/`.
 
 ### 3. Prosa-Ausarbeitung
 
-*(Detaillierter Prozess wird noch ergänzt.)*
+Die Prosa-Chronik wird mit Hilfe von [Claude Code](https://claude.ai/code) erstellt. Der Prozess ist als mehrstufige Pipeline implementiert, bei der Claude als Co-Autor agiert und der menschliche Autor an jedem Schritt Feedback gibt und Korrekturen vornimmt.
 
-Die fertigen Kapitel kommen nach `chronicle/kapitel/kapitel-NN.md`. Zwischenschritte (Storyboard, Szenenstruktur, Rohentwürfe) liegen ebenfalls unter `chronicle/` – siehe [`chronicle/README.md`](chronicle/README.md).
+Die Pipeline ist in zwei [Claude Code Skills](https://docs.anthropic.com/en/docs/claude-code/skills) aufgeteilt:
+
+1. **`/transcribe`** — Startet die Whisper-Transkription der Audio-Dateien einer Session (~30 Min. Laufzeit, erfordert NVIDIA GPU mit CUDA).
+
+2. **`/chronicle`** — Verwandelt eine fertige Transkription in ein Prosa-Kapitel. Die Pipeline durchläuft vier Stufen, jeweils mit Self-Review durch Claude und expliziter Freigabe durch den Autor:
+   - **Storyboard** — Grobe Szenenstruktur aus Notizen und Transkript
+   - **Szenen** — Detaillierte Szenenbeschreibungen mit Transkript-Auszügen
+   - **Entwürfe** — Prosa-Entwurf pro Szene (einzeln reviewbar)
+   - **Kapitel** — Zusammenführung aller Szenen mit Übergängen und Navigation
+
+Die Zwischenprodukte jeder Stufe werden in `chronicle/` versioniert (siehe [`chronicle/README.md`](chronicle/README.md)), sodass der gesamte Entstehungsprozess eines Kapitels nachvollziehbar bleibt. Die fertigen Kapitel landen in `chronicle/kapitel/kapitel-NN.md`.
 
 ---
 
