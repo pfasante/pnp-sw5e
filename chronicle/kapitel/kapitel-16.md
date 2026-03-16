@@ -1,128 +1,188 @@
 # Kapitel 16 – Echo der Tiefe
 
-Die Worte verhallten im Schacht, der steil in die Tiefe führte. Komaru wartete nicht. Mit einer fließenden Bewegung übernahm der Togorianer die Spitze. Er duckte sich tief, um seine massige Silhouette zu verkleinern, und setzte eine Pfote vor die andere. Seine Krallen fanden sicheren Halt auf dem kalten Metall der Stufen. Das schwache, bläulich-weiße Licht von Neonröhren flackerte nervös und warf lange, zuckende Schatten.
+Die Worte verhallten im Schacht, der steil in die Tiefe führte. Komaru wartete nicht. Mit einer fließenden Bewegung übernahm der Togorianer die Spitze – und dann geschah etwas, das weder Ganden noch Ghalrixtho je an ihm gesehen hatten. Komaru ging auf alle Viere.
 
-Hinter ihm folgte Ghalrixtho. Der Chiss hielt seine Blasterpistole in der Rechten, den Finger am Abzugsbügel, während sein linker Arm den Buckler-Energieschild in Bereitschaft hielt. Er bewegte sich mit der lautlosen Präzision eines Jägers.
+Es war kein Krabbeln. Es war die Fortbewegungsart eines Raubtiers, das seine eigentliche Natur nicht länger verbarg. Die massigen Schulterblätter schoben sich unter dem Fell, die Pfoten setzten lautlos auf den Metallboden, und seine Silhouette schrumpfte auf die Hälfte ihrer normalen Größe. Ein Schatten, der die Treppe hinabglitt.
 
-Ganden bildete das Schlusslicht. „Saubere Arbeit mit der Luke", flüsterte er über das interne Kom, während er die glatten Durabetonwände musterte. „Aber ab hier gibt es keine Tarnung mehr. Das ist imperiales Standard-Layout. Effizient, kalt und darauf ausgelegt, Eindringlinge in Sackgassen zu treiben."
+Hinter ihm folgte Ganden. Der Professor hatte sein Energieschild ausgeklappt und den Blaster gezogen – in dieser Formation hatte er über Komarus breiten Rücken freies Schussfeld auf alles, was ihnen entgegenkam. Er bewegte sich ruhig, kontrolliert, die Sohlen seiner Stiefel fanden sicheren Halt auf den geriffelten Metallstufen.
 
-Am Fuß der Treppe öffnete sich der Schacht in einen Korridor. Das Licht war etwas beständiger, aber ebenso freudlos. Komaru hielt inne und schnupperte. „Es ist still. Zu still für eine Station dieser Größe."
+Ghalrixtho flankierte auf der gegenüberliegenden Seite. Seine umgebaute leichte Pistole in der Rechten, den Buckler-Energieschild am linken Arm bereit. Er bewegte sich mit der lautlosen Präzision eines Jägers.
 
-Ghalrixtho trat neben ihn. „Sie verschwenden hier unten keine Energie für Ästhetik. Das ist eine reine Funktionsumgebung."
+Das bläulich-weiße Neonlicht flackerte nervös und warf lange, zuckende Schatten auf die glatten Wände. Am Fuß der Treppe öffnete sich der Schacht in einen Korridor. Der Metallboden hier unten war glatter als erwartet – gut zum Schleichen, schlecht für jeden, der in Eile die Kontrolle verlor. Das leise Summen von Ventilatoren lag in der Luft, durchsetzt vom monotonen Brummen der Server-Racks. Eine Lüftungsanlage sorgte für Durchzug im fensterlosen Keller. Die Technik war moderner als das Gebäude darüber – pragmatisch verbaut, aber eine Ecke fortschrittlicher. Hier hatte jemand investiert.
 
-Ganden gab das Zeichen zum Vorrücken. Der Fuß der Treppe mündete in einen Korridor mit der Handschrift imperialer Zweckarchitektur: glatter Durabeton, kühles Licht und eine bedrückende Stille. Komaru glitt auf allen vieren voran. Nach wenigen Metern öffnete sich der Flur nach links und rechts.
+Der Gang teilte sich. Komaru hielt inne und schnupperte. Links ein Technikraum: blinkende Elektronik, Kabelverbindungen, das stetige Pulsieren grüner und roter Dioden. Rechts ein Büro – Schreibtisch, an der Wand ein Display, über das Datenkolonnen liefen, eine Sitzecke mit einem abgenutzten Sofa. Die Handschrift imperialer Zweckarchitektur: kein Komfort, nur Funktion.
 
-Komaru hielt inne, die Ohren flach angelegt. Ein kurzes, kehliges Schnurren signalisierte, dass die linke Seite vorerst sicher schien. Gemeinsam warfen sie einen schnellen Blick in den Raum – der Serverraum. Reihen von Racks summten monoton vor sich hin.
+Ghalrixtho vollführte eine schnelle Rolle am Türrahmen des Büros vorbei. Einen Herzschlag lang schob sich sein Blickfeld über den Raum – Schreibtisch, Stuhl, Kisten – und dann, ganz am Rand, eine Gestalt. Ein Mann in imperialer Uniform, der sich hinter dem Schreibtisch duckte.
 
-Der Chiss näherte sich der rechten Tür. Er vollführte eine schnelle SWAT-Rolle am Türrahmen vorbei, kam lautlos auf dem rechten Knie zum Halten und scannte den Raum.
+Der Chiss kam lautlos auf dem linken Knie zum Halten und hob die Faust. Ein Kontakt. Dann zwei Finger, die nach rechts zeigten. Ganden verstand sofort. Er beugte sich zu seinem Kommlink und flüsterte: „Kaelum. Ein Kontakt. Sichere den Ausgang."
 
-Sein Blick erfasste Schreibtische, Datenterminals und Aktenstapel. Und einen Mann.
+Komaru drehte den Kopf. Seine Pupillen waren zu schmalen Schlitzen verengt, die Ohren flach angelegt. Dann hob er eine Pranke und zählte mit den Fingern runter. Drei. Zwei. Eins. Seine Finger schlossen sich zur Faust, bereit zuzuschlagen.
 
-Dort, im fahlen Licht der Decke, stand ein Soldat in der grauen Uniform des ISB. Er trug keine Rüstung und stand mit dem Rücken zur Tür an einem der hinteren Schreibtische, völlig ahnungslos. Ghalrixtho formte mit den Fingern ein Zeichen: Ein Ziel. Ahnungslos.
+Komaru schnellte vorwärts. Ein einziger, explosiver Satz trug den Togorianer durch den Türrahmen und auf den Mann zu, der sich hinter dem Schreibtisch duckte. Der Soldat – imperiale Stoffuniform, eine schwere Pistole in der Hand, die er nicht schnell genug heben konnte – sah nur einen Schatten aus Fell und Krallen, bevor Komaru über ihn hereinbrach. Die ersten Hiebe gingen ins Leere. Die Krallen rissen Luft, nicht Stoff – der Mann war schneller, als sein verängstigtes Ducken hatte vermuten lassen.
 
-Komaru hob die bekrallte Hand. Drei Finger waren ausgestreckt.
+Dann knallte ein Blasterschuss an Komarus Ohr vorbei. Der hohe, sirrendheiße Ton eines Energiebolzens, so dicht, dass er die Nackenhaare versengte. Ghalrixtho hatte aus dem Gang gefeuert. Der Schuss traf den Soldaten in die Schulter und brannte sich durch die dünne Stoffuniform wie durch Papier.
 
-Lautlos klappte der erste Finger ein. Zwei.
+Der Mann taumelte. Komaru ließ ihm keine Zeit. Der zweite Angriff war kein Schlag – es war ein Todesstoß. Die Krallen des Togorianers fanden die Kehle, rissen zu, und der Soldat sackte zu Boden, bevor er auch nur einen Laut von sich geben konnte.
 
-Ghalrixtho verlagerte sein Gewicht.
+Stille. Zwei Sekunden. Der Geruch von verbranntem Stoff und Blut hing in der Luft. Ghalrixtho trat ein, überprüfte die Ecken und nickte. Das Büro war gesichert.
 
-Der zweite Finger verschwand. Eins.
+Der Chiss ging zurück auf den Gang und bewegte sich weiter, den Flur entlang in Richtung des hinteren Bereichs. Schnell, vielleicht zu schnell. An der nächsten Biegung traf ihn der Blasterschuss.
 
-Komaru spannte die massiven Muskeln seiner Hinterläufe an. Als der letzte Finger einknickte, gab es kein Zögern mehr. Der Togorianer stürmte los, flach über dem Boden, eine lautlose Lawine aus Fell und Krallen.
+Der Einschlag riss Ghalrixtho zur Seite. Der Energiebolzen fraß sich durch seine Fibre-Cord-Rüstung und hinterließ eine brennende Furche über seinen Rippen. Der Chiss taumelte gegen die Wand, biss die Zähne zusammen und brachte seine Pistole nach oben – aber da war Komaru bereits an ihm vorbei.
 
-Der Zugriff erfolgte mit einer Geschwindigkeit, die jedem menschlichen Reflex überlegen war. Doch der Mann reagierte in purer Panik instinktiv richtig. Er warf sich zur Seite, sodass Komarus Pranken ins Leere griffen und der Togorianer hart gegen die Kante des massiven Schreibtisches prallte.
+Der Schütze hatte sich hinter der Gangbiegung verschanzt. Schwere Rüstung – kantig und abweisend wie die imperiale Architektur um ihn herum. In den Händen ein Blastergewehr. Aber er hatte nicht mit der Geschwindigkeit gerechnet, mit der zweihundert Kilogramm Togorianer einen Korridor überbrücken konnten.
 
-Ghalrixtho fackelte nicht lange. Er suchte Deckung hinter einem der vorderen Schreibtische und stabilisierte seine Blasterpistole auf der harten Oberfläche. Ein einziger, trockener Schuss peitschte durch das Büro und traf den Soldaten mit klinischer Präzision. Komaru, nun wieder auf den Pfoten, beendete das Gefecht. Ein kurzes, trockenes Knacken, dann herrschte im Raum Grabesstille.
+Komaru traf ihn am Hals. Dort, wo der unförmige Helm auf den Kragen der Rüstung stieß, klaffte eine Lücke – kaum zwei Fingerbreit, aber genug für die dünnen, rasierklingenscharfen Krallen eines Togorianers. Komaru griff hinein und riss. Blut spritzte über die Wand, über die weiße Beleuchtung, über Komarus Fell.
 
-„Ziel neutralisiert", stellte Ghalrixtho knapp fest.
+Von hinten kam der nächste. Ein zweiter Gepanzerter – ebenfalls schwer gerüstet, ebenfalls mit Blastergewehr – feuerte aus dem hinteren Gang auf Komaru. Die Schüsse gingen knapp daneben. Ghalrixtho, den Schmerz in den Rippen ignorierend, sprang vor und stieß dem ersten seinen Vibrodagger in die Hüfte. Die Klinge glitt an etwas Hartem ab – Knochen oder ein Panzerelement – und hinterließ nur eine flache Schnittwunde.
 
-Sie sicherten den angrenzenden Raum – ein kleinerer Bereich, gefüllt mit wandhohen Aktenregalen und einem wuchtigen Schreibtisch. „Leer", grollte Komaru. „Nur Papier und Staub."
+Der vordere Soldat riss sich los und wich zurück. Drei schnelle Schritte, dann stand er neben seinem Kameraden an der Gangbiegung. Beide Seite an Seite, die Blastergewehre auf den Korridor gerichtet.
 
-Getrieben von der Notwendigkeit, das Überraschungsmoment zu nutzen, übernahm Ghalrixtho wieder die Spitze. Doch der Erfolg des ersten Zugriffs forderte seinen Tribut. Er folgte der Biegung des Ganges zu schnell.
+Komaru handelte schneller als er dachte. Seine Pranke griff an den taktischen Gürtel, löste den Sicherungsstift der Splittergranate und warf den schweren Zylinder mit einer flachen Bogenbewegung direkt unter die Füße des Vorderen.
 
-Ein greller, blutroter Blitz zerriss die fahlweiße Beleuchtung des Korridors.
+Der Mann blickte nach unten. Ein Reflex – sinnlos, tödlich, menschlich. In diesem Moment detonierte die Granate.
 
-Der Schuss kam aus nächster Nähe, abgegeben von einem wartenden Profi. Der rote Blitz riss durch Ghalrixthos Deckung und schlug mit entsetzlicher Wucht in seinen Oberkörper ein. Der Chiss wurde fast von den Füßen gerissen und gegen die kalte Durabetonwand geschleudert.
+Die Druckwelle presste Komaru gegen die Wand. Ein gleißender Blitz, ein Donnerschlag aus Metall und Fleisch. Teile des Getroffenen flogen durch die Luft – Rüstungsfragmente, Stoff, Schlimmeres. Für einen Augenblick hing ein roter Schleier in der Luft des Korridors, feucht und metallisch. Dann senkte er sich, und wo der Mann gestanden hatte, war nur noch ein Krater aus zerfetzter Rüstung und verbranntem Boden.
 
-Sein Atem stockte, das Adrenalin kämpfte verzweifelt gegen den lähmenden Schmerz an. Er gab keinen Schrei von sich, aber sein Blick trübte sich.
+Sein Kamerad lebte. Er hatte sich im letzten Moment hinter dem Vorderen geduckt – die Detonation hatte den einen zerfetzt, aber der andere war verschont geblieben. Blutbespritzt, aber kampffähig.
 
-Komaru sah den Blitz. Ein tiefes, urzeitliches Grollen stieg in seiner Kehle auf. Während Ghalrixtho sich mühsam an der Wand abstützte, schoss der Togorianer an ihm vorbei. Mit einem Satz stürzte er sich auf den gepanzerten Soldaten.
+Die drei nahmen ihn in die Zange. Komaru von vorn, Ghalrixtho von der Seite, und Ganden – der sich endlich von seiner Position im Korridor gelöst hatte – schloss den Ring von hinten. Der schwer Gerüstete schoss unkontrolliert um sich, die Blasterbolzen prallten von Wänden und Kisten ab, trafen aber niemanden. Er war umstellt und wusste es.
 
-In diesem Moment tauchte ein zweiter Infiltrator auf. Ohne zu zögern eröffnete er das Feuer. Die roten Blastersalven trafen Komaru in der Flanke. Der Togorianer brüllte vor Schmerz auf, sein Momentum trug ihn aber weiter voran.
+Ganden nutzte den Moment. Mit gezieltem Schritt trat er in die Reichweite des Soldaten und rammte ihm den Elektrobaton in die Seite. Elektrische Entladungen zuckten über die schwere Rüstung, der Soldat verkrampfte sich, und für einen kostbaren Moment gehorchte ihm sein Körper nicht mehr. Ghalrixtho erkannte die Öffnung. Sein Vibrodagger fuhr unter den Helmrand, die vibrierende Klinge fand den Hals, und das leise, grauenhafte Summen des Mikrosägens tat den Rest. Der Gepanzerte sackte zusammen.
 
-Ghalrixtho, der sich trotz seiner schweren Wunde aufgerappelt hatte, und Ganden stürmten hinterher. Doch der imperiale Profi erkannte die drohende Einkesselung und wich geschickt zurück. Zwei schwere Karabiner waren nun auf die Gruppe gerichtet.
+In diesem Moment öffnete sich hinter der Biegung eine Tür. Ein neuer Gegner trat heraus. Blasterpistole in der Rechten, ein Energieschild in der Linken – größer als Gandens, fast einen halben Meter Durchmesser. Unter der Offiziersuniform eine leichte Kampfrüstung. Er bewegte sich mit der kontrollierten Ruhe eines Mannes, der an Feuergefechte gewöhnt war.
 
-„Zurück!", knurrte Komaru. Er wich in den Schutz der Wandbiegung zurück, während Ganden vorsprang. Sein analytischer Blick suchte in Bruchteilen einer Sekunde nach Schwachstellen. „Rechte Aufhängung, das Gelenk ist instabil!" Sein Schuss ließ den Imperialen taumeln.
+„Im Namen des Imperiums", rief er, und seine Stimme hallte durch den Korridor, „gebt auf!" Aber hier gab niemand auf.
 
-Das war das Signal. Komaru warf die Granate mit einer weichen, perfekten Bogenlampe. Das Metallobjekt klackerte über den Durabeton und kam exakt zwischen den gepanzerten Stiefeln des vorderen Infiltrators zum Liegen. Der Soldat blickte noch einen Wimpernschlag lang nach unten – dann erfolgte die Detonation.
+Der Offizier feuerte. Drei Schüsse in schneller Folge – eine Halbautomatik-Salve, die Komaru in die Brust traf und ihn drei Schritte zurückwarf. Der Togorianer knurrte und ging auf ein Knie. An drei Stellen dampfte sein Fell, die Einschüsse hatten sich tief in Muskeln und Unterhaut gebrannt. Es war der härteste Treffer, den er je eingesteckt hatte.
 
-In dem engen Betonschlauch war die Wirkung verheerend. Eine grelle Explosion aus Feuer und Stahlsplittern zerriss die Stille. Von dem ersten Infiltrator war kaum mehr als ein rauchendes Wrack übrig.
+„Komaru!" Ganden war schon in Bewegung. Im Laufen warf er dem Togorianer eine Bacta-Spritze zu – eine kleine, vorgefüllte Injektionsröhre, die Komaru im Fallen auffing und sich in den Oberschenkel rammte. Das kühle Brennen des Bacta breitete sich aus, stoppte die Blutung, dämpfte den Schmerz. Genug, um weiterzumachen.
 
-Dahinter stand der zweite Soldat. Rot besudelt, aber unbeschadet. Er riss seinen Karabiner wieder hoch.
+Blieb der Offizier.
 
-„Nachsetzen!", befahl Ganden mit unerbittlicher Stimme.
+Ganden stürmte vor, den Energieschild wie einen Rammbock erhoben. Der Offizier hob seine Waffe – zu spät. Im letzten Moment blieb Ganden stehen, ein kräftiger Schritt auf den Boden, und riss den Elektrobaton von unten nach oben zwischen die Beine des Mannes. Der Treffer war brutal und präzise. Elektrische Entladungen zuckten über die Rüstung, seine Muskeln verkrampften sich, und für einen Moment verlor er die Kontrolle über seinen Körper.
 
-Ghalrixtho stürmte als Erster durch den abziehenden Rauch. Trotz seiner Verletzung bewegte er sich mit tödlicher Präzision und verwickelte den zweiten, benommenen Infiltrator in einen verzweifelten Nahkampf. Ganden umging das Handgemenge und schnitt den Rückzugsweg ab. Komaru schloss den Kessel.
+Ganden nutzte den Schock. Er umtänzelte den Offizier in einer fließenden Bewegung, die Füße nie stillstehend, der Elektrobaton kreisend. Der Offizier versuchte zu feuern, aber seine Arme gehorchten ihm nicht schnell genug. Der Schild hing nutzlos an seiner Seite.
 
-Ganden sah seine Chance. Er rammte die summende Spitze seines Elektrostabs zwischen die Panzerplatten des Infiltrators. Ein bläulicher Lichtbogen entlud sich. Der Körper des Soldaten verkrampfte sich.
+Komaru kam von hinten.
 
-Das war das Signal, auf das Ghalrixtho gewartet hatte. Sein Vibrodolch summte auf höchster Frequenz. Mit chirurgischer Präzision trieb er die Klinge in die Lücke der Halsberge. Ein kurzer Hieb, ein tiefer Stich und ein brutaler Riss.
+Die Krallen des Togorianers fanden die Lücke zwischen Schild und Rüstung, rissen durch Stoff und Fleisch, und der Offizier ging zu Boden wie ein gefällter Baum. Sein Energieschild klirrte auf den Metallboden. Dann war es still.
 
-Der gepanzerte Körper sackte in sich zusammen. Doch bevor die Gruppe auch nur einmal tief durchatmen konnte, zischte hinter Ganden eine schwere Tür auf.
+Das Klingeln in den Ohren ließ nach. Langsam kehrten die Geräusche des Bunkers zurück: das Summen der Neonröhren, das Brummen der Ventilatoren, das leise Tropfen von Blut auf Metall.
 
-Ein Mann trat heraus, dessen bloße Präsenz die Luft im Gang gefrieren ließ. Er trug die elegante, dunkelgraue Uniform des ISB, verstärkt durch eine leichte Brustplatte. In seiner Rechten hielt er eine modifizierte Blasterpistole, in der Linken einen aktivierten Energieschild.
+Ganden kniete sich neben den gefallenen Offizier und musterte die Uniform. Keine weißen Stormtrooper-Platten. Keine regulären Militärabzeichen. Er rieb den Stoff zwischen den Fingern, betrachtete die Ranginsignien, den Schnitt der Uniform. „Geheimdienst", sagte er leise. „ISB. Und der hier war mindestens ein Captain." Er sah sich um. Vier Leichen in einem unterirdischen Bunker, der als Wetterstation getarnt war. Das Imperial Security Bureau unterhielt einen verdeckten Außenposten in der lothalen Steppe – und sie hatten ihn gerade ausgehoben.
 
-„Im Namen des Imperiums! Gebt auf!"
+Ghalrixtho fand die Tür im hinteren Gang. Verschlossen, ein elektronisches Panel an der Seite. Er zog den Sicherheitsstick aus der Tasche – den, den sie bei dem toten Captain gefunden hatten – und steckte ihn in den Schlitz. Ein kurzes Zischen, ein Klicken, und die Verriegelung sprang auf.
 
-Ganden antwortete nicht mit Worten. Er stürmte vor, den Schild schräg gestellt. Im letzten Moment rammte der Professor seinen Stiefel in den Durabeton, bremste seinen Schwung abrupt ab und riss den Elektrobaton in einer bogenförmigen Bewegung von unten hoch. Das Knistern der Entladung mischte sich mit dem dumpfen Schlag auf die Panzerung. Der Captain taumelte, doch sein großer Schild verhinderte Schlimmeres.
+Er schob die Tür auf und trat zur Seite, die Pistole im Anschlag.
 
-Mit einer geschmeidigen, fast tänzerischen Leichtigkeit wich Ganden jedem Gegenangriff aus. Er blieb ständig in Bewegung, federte von den Ballen ab und umkreiste den Offizier – und zwang ihn, sich ständig mitzudrehen, was dessen Deckung für die Gefährten im Rücken immer wieder entblößte.
+Eine Zelle. Karg, funktional, klein. Nackte Wände, eine Pritsche, ein Wasserbehälter. Die Schränke an der Seite standen offen und waren leer. Das hier war kein Verhörraum – es war ein Loch, in dem man jemanden verschwinden ließ.
 
-Ghalrixtho, der schwer atmend an der Wand lehnte, sah die Lücke. Seine roten Augen verengten sich zu Schlitzen. Er hob seinen Blaster – ein gezielter Treffer, der die Pistole aus der Hand des Captains schmettern sollte. Doch mit einem fast schmerzvollen Kraftaufwand hielt der ISB-Offizier seine Waffe fest.
+In der Mitte des Raums stand eine kleine Gestalt. Ein abgerissener Nadelstreifenanzug hing an einem Körper, der zu schmal war für den Stoff. Drei große, feuchte Augen – ein Gran – starrten Ghalrixtho an. Die Augen wanderten über den Blaster, über die Rüstung, über das nachtblaue Gesicht des Chiss. Dann weiteten sie sich.
 
-Gandens Elektrostab fand schließlich die Lücke. Ein schwerer Treffer krachte gegen die Hüfte. Blaue Lichtbögen tanzten über die Uniform. Der Captain verkrampfte sich.
+„Was ist hier los?" Die Stimme war heiser, aber aufgeregt. „Man hat jemanden geschickt! Sehr gut, sehr gut gemacht." Der Gran kam auf Ghalrixtho zu, die schmalen Hände ausgestreckt. „Gut gemacht, Junge!"
 
-Das war das Signal für Komaru. Er ignorierte den Blaster und den Schild des Mannes. Mit der geballten Wucht seines Gewichts stürzte er sich auf den Offizier. Ein kurzes, brutales Ende im sterilen Licht des Bunkers.
+Ghalrixtho steckte die Pistole nicht weg. Er nickte knapp und hielt die Tür auf. Der Gran – Daro Fel, den sie bisher nur von einem pixeligen Überwachungsbild kannten – blieb einen Moment stehen, die Hand noch immer ausgestreckt für einen Handschlag, der nicht erwidert wurde. Dann ließ er die Hand sinken und trat auf den Gang hinaus.
 
-Stille kehrte in den Korridor zurück. Der beißende Geruch von versengtem Gewebe hing schwer in der Luft.
+„Wer seid ihr?", fragte er, während sein Blick nervös den Korridor entlanghuschte. „Wer hat euch geschickt?"
 
-Komaru und Ghalrixtho begannen mit der Effizienz von Profis, die Reste des imperialen Widerstands einzusammeln. Ghalrixtho kniete bei den Infiltratoren nieder und löste die Schnallen einer der Panzerungen; er verstaute sie zusammen mit den erbeuteten Blasterkarabinern.
+„Wir sollen dich hier rausholen", sagte Ghalrixtho. Er musterte die leere Zelle ein letztes Mal – nichts, was es mitzunehmen lohnte – und zog die Tür zu. „Wieso hat dich das Imperium mitgenommen?"
 
-Ganden widmete sich dem gefallenen Captain und förderte aus einer Tasche einen flachen, metallischen Sicherheitsstick zutage. Ohne ein Wort verstaute er ihn in seiner Gürteltasche.
+Fel presste die Lippen zusammen. Alle drei Augen verengten sich gleichzeitig. „Irgendjemand hat mich verraten."
 
-Ghalrixtho trat an die versiegelte Tür. Er zog sein Slicer-Kit – das Display flackerte nur rot. Ganden reichte ihm den soeben gefundenen Sicherheitsstick. Ghalrixtho schob ihn in den Schlitz, und das rote Licht wechselte mit einem satten Klacken auf Grün. Die Tür glitt zischend zur Seite.
+Mehr sagte er nicht. Ghalrixtho drängte nicht. Er legte dem Gran die Hand auf die Schulter – nicht sanft, eher lenkend – und dirigierte ihn den Gang entlang in Richtung der Treppe. Fel kannte sich in der Anlage nicht aus. Er stolperte über Kabel und zuckte beim Anblick der Blutflecken an den Wänden zusammen, ohne genau hinzusehen.
 
-Dahinter offenbarte sich eine karge Zelle. Im dämmrigen Licht hockte eine Gestalt in einem zerlumpten Nadelstreifenanzug – ein bizarrer Kontrast zur sterilen Umgebung des Bunkers. Drei große, feuchte Augen starrten Ghalrixtho aus einem bleichen Gesicht entgegen.
-„Was ist hier los?", krächzte die Gestalt. „Seid ihr gekommen, um mich zu befreien? Sehr gut gemacht, Junge. Sehr gut." Der Mann, Daro Fel, erhob sich mit zittrigen Beinen und wollte dem Chiss die Hand schütteln. Ghalrixtho wich der Geste mit einer kühlen Verbeugung aus.
-„Folgen Sie uns. Und bleiben Sie dicht hinter uns."
+„Wohin bringt ihr mich?" – „Geradeaus. Die Luke hoch."
 
-Während Ghalrixtho den desorientierten Gefangenen in den Gang führte, kehrte Ganden in das Hauptbüro zurück. Mit der Geduld eines Archäologen durchsuchte er den Raum. In einer abgeschlossenen Schublade fand er einen Credit-Stick mit 500 Credits und ein kompaktes Speichermedium. Er verstaute beides.
+Oben wartete Kaelum am Ausgang. Er stand reglos im Halbdunkel und beobachtete den Gran, der aus dem Schacht kletterte und sofort begann, hektisch hin und her zu laufen. Fel redete – schnell, atemlos, an niemanden gerichtet. „Wer seid ihr? Wohin bringt ihr mich? Ich muss zum Raumhafen. Sofort."
 
-Im Serverraum analysierte Ganden das System. „Es ist eine Abhörstation. Aber sie werten hier unten nichts aus. Sie sortieren nur vor."
+Ghalrixtho aktivierte sein Kommlink. „Los, lasst uns raus hier."
 
-Ghalrixtho schloss sein Slicer-Kit an das System an. „Tonspuren. Sie fangen terrestrische Funksprüche ab und verschicken sie in Paketen alle vier bis fünf Tage an ein unbekanntes Ziel." Ein alarmierendes Detail flackerte auf. „Ein Signal wurde abgesetzt – genau als wir den Bunker gestürmt haben. Sie wissen, dass hier etwas nicht stimmt."
+Während Ghalrixtho den Gran nach oben brachte, hatten sich Ganden und Komaru bereits an die Arbeit gemacht.
 
-„Dann nehmen wir mit, was wir können", entschied Ganden. Sie bauten die Speichermedien aus den Server-Racks aus. Als die letzte Platte gesichert war, zog Ghalrixtho seinen Blaster. Ein paar gezielte Schüsse verwandelten die Workstation in ein rauchendes Wrack.
+Der Togorianer begann bei den Gefallenen. Die beiden schwer Gerüsteten trugen Blaster-Carbines – kompakte, imperiale Standardwaffen, gut gepflegt und voll geladen. Komaru streifte sie von den leblosen Körpern und stapelte sie neben dem Treppenaufgang. Die schweren Kampfrüstungen waren zu sperrig, um sie mitzunehmen, aber die Waffen passten in den Rucksack.
 
-„Wir sind schon viel zu lange hier", drängte Ghalrixtho. Sie hievten die ausgebauten Speichermedien die Treppe hinauf. Als sie die Oberfläche erreichten, stand Kaelum bereits am Ausgang, den Blick starr auf den Horizont gerichtet, während Daro Fel desorientiert neben ihm wartete.
+Ganden hatte andere Prioritäten. Er kniete neben dem gefallenen Offizier und begann, ihm systematisch die Uniform auszuziehen. Mütze, Rangabzeichen, Stiefel, Beinlinge – Stück für Stück legte er die Kleidungsstücke neben sich auf den Boden. Die Uniform war beschädigt: Komarus Krallen hatten Risse in den Stoff gerissen, und an der Seite brannte ein Blasterloch. Aber nichts, was sich nicht reparieren ließe. Ganden strich den Stoff glatt und faltete die Teile sorgfältig zusammen, als handele es sich um ein empfindliches Artefakt.
 
-Komaru war der Letzte, der aus der Ruine trat. Er hielt kurz inne und betätigte den Zünder.
+Dann wandte er sich dem Büro zu.
 
-Die Explosion erschütterte den Boden Lothals. Ein greller Blitz, dann das ohrenbetäubende Krachen von berstendem Metall und Durabeton. Mit einer gewaltigen Staubwolke sackte das morsche Gebälk der Wetterstation in sich zusammen.
+Das Zimmer war ein Durcheinander aus imperialem Pragmatismus und der Langeweile von Männern, die zu viel Zeit unter der Erde verbrachten. Akten lagen auf dem Schreibtisch, auf dem Sofa, auf dem Boden. Ein Aktenschrank stand halb offen. Auf einem Beistelltisch lagen die Reste einer unterbrochenen Mahlzeit.
 
-„Abfahrt!", rief Komaru und sprang auf das Steuer des Gleiters.
+Komaru packte pauschal ein. Er riss den Aktenschrank auf, griff mit beiden Pranken hinein und schaufelte den Inhalt in seinen Rucksack. Dienstpläne, handschriftliche Notizen, elektronische Speichermedien – alles hinein, sortieren später. „Wir haben keine Zeit für Archivarbeit", knurrte er, als Ganden ihm einen missbilligenden Blick zuwarf.
 
-Sie fuhren keine direkte Linie; Komaru lenkte den Gleiter in weiten Umwegen durch Hügelketten und Schluchten. Sie waren etwa fünf Minuten unterwegs, als drei imperiale Jäger im Tiefflug über sie hinwegschossen und in Richtung der rauchenden Ruine davonjagten. Sie schienen den Gleiter nicht bemerkt zu haben.
+„Dann lass mich die feine Arbeit machen." Ganden nahm sich den Schreibtisch vor. Er öffnete die Schubladen eine nach der anderen, tastete unter die Tischplatte, hob die Kissen des Sofas an, prüfte die Rückseiten der Schränke. In einer kleinen Ablage fand er einen Cred-Stick – fünfhundert Credits, nicht viel, aber für einen Außenposten dieser Größe angemessen. In einer abgeschlossenen Schublade, die er mit dem Sicherheitsstick des Captains öffnete, lag ein zweiter Fund: ein kleiner, fast vollständig schwarzer Stein. Ein Datenspeicher – kompakt, verschlüsselt, und wichtig genug, um ihn wegzuschließen.
 
-Als sich die Silhouette der Turbot in der Ferne abzeichnete, griff Ganden in seine Tasche und zog die Mütze des ISB-Captains hervor. Er trat an Daro Fel heran.
+Ganden steckte den Stein ein und ging in den Serverraum. Ghalrixtho war bereits wieder unten. Der Chiss hatte sein Slicer-Kit an die Workstation angeschlossen – ein halb zerlegtes Gerät, dessen Kabel er mit der Routine eines Mannes verband, der es im Dunkeln konnte. Das Display flackerte auf.
 
-„Setzen Sie das auf. Wir nähern uns unserem Stützpunkt."
+Was es zeigte, war kein Wetterbericht. „Tondateien", sagte Ghalrixtho, ohne den Blick vom Bildschirm zu lösen. „Funksprüche. Die Station fängt Kommunikation aus dem Bereich Capital City ab." Seine Finger glitten über die Konsole. „Die Daten werden vorsortiert. Drei Kategorien – Farbcode: Grün, Gelb, Rot. Dann komprimiert und als Paket weitergeschickt."
 
-„Was soll das? Nein!", protestierte der Gran. „Ich bin frei jetzt!"
+„Wie oft?", fragte Ganden. – „Alle vier bis fünf Tage. Das letzte Paket ging vor zwei Tagen raus." Ganden trat neben ihn und betrachtete das Display. Reihen von Zeitstempeln, Frequenzen, Dateigrößen. Die große Parabolantenne oben auf der Station – die sie für eine Wetterantenne gehalten hatten – war in Wahrheit eine Abhörvorrichtung. Kein Hauptquartier, kein Analysezentrum. Eine Außenstation, die Daten auffing, vorsortierte und weiterleitete. Ein Ohr des Imperiums, versteckt in der lothalen Steppe.
 
-Ganden fackelte nicht lange. Mit einer fließenden Bewegung zog er seinen Blaster und drückte die Mündung hart unter die Brust des Grans. „Es ist zu unserem Schutz, Fel. Setzen Sie die Mütze auf."
+„Und die Außenkamera?", fragte Ganden.
 
-Der kalte Stahl und Gandens unerbittlicher Blick brachen den Widerstand des Mannes. Zitternd nahm Daro Fel die Schirmmütze und zog sie sich tief über seine drei Augen. Blind und schweigend kauerte er auf dem vibrierenden Deck, während der Gleiter die letzten Meter zur Rampe ihres Schiffes zurücklegte.
+Ghalrixtho scrollte durch die Systemarchitektur. „Nur lokale Zwischenspeicherung. Kurzer Puffer zum Zurückspulen, keine externe Übertragung. Unser Auftritt vor der Eingangstür ist bereits überschrieben."
+
+Eine Erleichterung. Aber dann runzelte Ghalrixtho die Stirn. „Hier." Er tippte auf eine Zeichenabfolge im Protokoll. „Ein Signal. Kein reguläres Datenpaket – ein Code, den ich nicht zuordnen kann. Aber der Zeitstempel passt exakt mit unserem Einstieg zusammen."
+
+Die Implikation hing in der Luft. Jemand – oder etwas – hatte während des Kampfes ein Signal abgeschickt. Ein Notruf, ein automatischer Alarm, eine Todesmannschaltung. Irgendjemand wusste, dass diese Station kompromittiert war.
+
+„Können wir die Daten modifizieren?", fragte Ghalrixtho. „Ein Skript, das es wie einen Hackerangriff aussehen lässt. Vielleicht sogar korrupte Daten beim nächsten Paket mitschicken."
+
+Ganden schüttelte den Kopf. „Nicht ohne zu wissen, was dieses Signal war. Wenn sie bereits alarmiert sind, nützt uns eine Fälschung nichts." Er sah sich in dem kleinen Serverraum um. Die blinkenden Racks, die surrenden Lüfter, die Kabel, die sich wie Nervenstränge durch den Raum zogen. „Wir nehmen die Speichermedien mit. Alles, was sich ausbauen lässt. Und den Rest machen wir unbrauchbar."
+
+Es dauerte keine zehn Minuten. Ghalrixtho schraubte die Speicherplatten aus den Server-Racks – schwere, flache Blöcke, die er in Komarus Rucksack stopfte. Ganden stapelte die restliche Beute: die Uniform, die Waffen, die losen Akten, den Datenspeicher.
+
+Dann zogen sie die Blaster und feuerten in die Hardware. Energiebolzen zerschmolzen Platinen, rissen Kabel auseinander, verwandelten präzise imperiale Technik in rauchende Trümmer. Funken sprühten, Kunststoff schmolz, und der Geruch von verbrannter Elektronik mischte sich mit dem bereits vertrauten Gestank von Blut und Ozon.
+
+„Das reicht", sagte Ganden und steckte den Blaster ein. „Gehen wir."
+
+---
+
+Oben empfing sie das Tageslicht und Kaelum, der reglos am Ausgang stand. Neben ihm lief Daro Fel auf und ab wie ein Tier in einem zu kleinen Käfig, die schmalen Hände ständig in Bewegung, die drei Augen huschend.
+
+Kaelum beugte sich zu Ganden und raunt leise: „Er wollte schon selbst vorgehen." Ganden warf dem Gran einen kurzen Blick zu, und wandte sich dann an ihn. „Es tut mir leid, wir mussten uns zunächst um etwas kümmern. Aber jetzt müssen wir so schnell wie möglich weg. Unsere Unterhaltung muss vertagt werden – bis wir in Sicherheit sind."
+
+Komaru war bereits auf dem Weg nach draußen. Er blieb an der Tür stehen, drehte sich um und zog einen kleinen Fernzünder aus seiner Tasche. Die Sprengladung – ein Paket Plastiksprengstoff, das er vor dem Abstieg an einer der innenliegenden Stützstreben der Parabolantenne befestigt hatte – wartete auf ihren Einsatz.
+
+„Fingerabdrücke beseitigen", sagte er knapp. Sie traten ins Freie. Der Wind Lothals zerrte an ihren Kleidern, der Staub knirschte unter den Stiefeln. Komaru drückte den Zünder.
+
+Die Explosion erschütterte den Boden unter ihren Füßen. Die Stützstrebe zerbarst, und die massive Parabolantenne kippte zur Seite. Ihr Gewicht riss die Dachkonstruktion mit sich, und mit einem langgezogenen Grollen stürzte die Wetterstation in sich zusammen. Staub und Trümmer schossen in die Höhe, eine braune Wolke, die der Wind sofort über die Steppe trieb. Als sich der Staub legte, war von dem Gebäude nur noch ein Haufen aus verbogenem Metall und zerbrochenem Beton übrig. Der Keller darunter mochte noch existieren – aber da musste erst einmal jemand graben.
+
+„Auf den Speeder", ordnete Ganden an. Daro Fel starrte das abenteuerlich zusammengeschweißte Brett mit den angeschweißten Haltegriffen und dem Düsentriebwerk an der Rückseite an. Sein Blick wanderte von dem Gefährt zu Komaru, der sich bereits breitbeinig auf die Steuerposition stellte, und zurück.
+
+„Wie er mich wegbringt, ist mir egal", murmelte der Gran und kletterte auf die Ladefläche. „Hauptsache, ich komme hier weg."
+
+Komaru ließ die Düsen aufheulen. Der Speeder schoss über die Steppe davon – flach über das kniehohe Gras, das unter dem Repulsorwind zur Seite knickte. Ganden kauerte neben Fel auf dem Brett und klammerte sich an einen der Haltegriffe.
+
+„Nicht in Luftlinie", rief er Komaru über den Fahrtwind zu. „Umwege. Hügel und Schluchten als Deckung."
+
+Der Togorianer nickte und riss den Speeder in eine weite Kurve. Sie tauchten in eine flache Senke ein, folgten einem ausgetrockneten Flussbett und nutzten jede Erhebung, die Lothals Landschaft ihnen bot.
+
+Ganden nutzte die Fahrt, um den Gran auszufragen. „Wie hieß der Captain?", rief er über das Dröhnen der Düse.
+
+Fel schüttelte den Kopf, alle drei Augen halb geschlossen gegen den Wind. „Keine Ahnung. Die haben mich beim Raumhafen einfach mitgenommen." Sein Gesicht verzerrte sich. „So eine Scheiße. Ich habe alles so gut geplant gehabt."
+
+Ghalrixtho, der sich flach auf das Heck des Speeders gepresst hatte, zog die erbeutete Uniform aus dem Rucksack und verglich den Schnitt mit seiner Erinnerung an das Überwachungsvideo, das sie bei Zydo gefunden hatten. Kleidung und Ausrüstung passten – aber die Aufnahme war zu pixelig gewesen, um Gesichter zu erkennen.
+
+Fünf Minuten nach dem Aufbruch hob Ganden den Blick. Am Himmel, hoch über ihnen, zischten zwei – nein, drei Gleiter vorbei. Schnittige imperiale Silhouetten, die in Richtung der Rauchsäule steuerten, die noch immer von der zerstörten Wetterstation aufstieg.
+
+Komaru drosselte die Düse nicht. Der Speeder flog tief, kaum einen Meter über dem Gras, und die Gleiter zogen vorbei, ohne ihre Flugbahn zu ändern. Sie hatten den kleinen Speeder entweder nicht bemerkt oder für irrelevant gehalten.
+
+Ganden atmete aus. „Weiterfahren." Die Turbot tauchte am Horizont auf – ein dunkler, gedrungener Umriss im Schutz einer Felsformation, umgeben von der inszenierten Ausgrabungsstätte, die sie als Tarnung errichtet hatten.
+
+„Halt", sagte Ganden. Er griff in seinen Rucksack und holte die Schirmmütze des ISB-Captains hervor. Die übergroße Mütze mit dem breiten Schirm. Er drehte sich zu Daro Fel um.
+
+„Bevor wir in Sichtweite unseres Schiffes kommen – setzen Sie die Mütze auf. Über die Augen."
+
+Fels drei Augen weiteten sich. „Was soll das?" Er wich zurück, soweit es auf dem schmalen Brett möglich war. „Nein! Ich bin frei jetzt. Ich brauche das nicht. Ihr habt nichts zu befürchten."
+
+Gandens Gesichtsausdruck veränderte sich nicht. Er zog seinen Blaster und drückte die Mündung unter die Brust des Gran. Der kalte Stahl presste sich durch den dünnen Stoff des Nadelstreifenanzugs.
+
+„Es ist zu unserem Schutz. Mütze auf." Die Worte kamen leise, beinahe freundlich. Aber die Mündung des Blasters ließ keinen Raum für Verhandlungen.
+
+Fels Widerstand brach in sich zusammen wie die Wetterstation vor zehn Minuten. Zitternd nahm er die Mütze und zog sie sich tief über seine drei Augen. Der breite Schirm verdeckte sein gesamtes Gesichtsfeld. Blind und murmelnd – „Was soll das denn? Hey, was soll das?" – kauerte er auf dem vibrierenden Deck, während Komaru den Speeder die letzten Meter zur Rampe der Turbot steuerte.
+
+Das Hydraulikzischen der sich öffnenden Laderampe war das letzte Geräusch, bevor die lothale Steppe hinter einer Wand aus Durastahl verschwand.
 
 ---
 
