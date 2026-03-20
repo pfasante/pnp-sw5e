@@ -16,7 +16,7 @@ Komaru fluchte leise. „Schneller."
 
 Sobald sie in Funkreichweite waren, ging Ganden auf den Kanal: „Varnira, Schiff zum Abflug bereit machen. Sofort."
 
-Varniras Stimme kam trocken und sachlich: „Rechnen wir auch die Ausgrabung ab?"
+Varniras Stimme kam trocken und sachlich: „Brechen wir auch die Ausgrabung ab?"
 
 „Alles."
 

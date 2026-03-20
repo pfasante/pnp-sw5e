@@ -1,14 +1,14 @@
 # Kapitel 18 – Freie Fahrt
 
-Die Turbot summte im Leerlauf, als Ghalrixtho den Plan skizzierte. Es waren keine komplizierten Worte nötig – ein paar knappe Sätze, ein paar Handzeichen auf der Holokarte, und jeder wusste, wo er zu stehen hatte.
+Das leise Brummen der Lebenserhaltung und das gelegentliche Klicken der Bordheizung waren die einzigen Geräusche in der Turbot, als Ghalrixtho den Plan skizzierte. Es waren keine komplizierten Worte nötig – knappe Sätze, Handzeichen auf der Holokarte, und jeder wusste, wo er zu stehen hatte.
 
-„Den Störsender nehmen wir mit", sagte der Chiss. „G4-X aktiviert ihn auf Kommando, damit sie keine Verstärkung funken können. Die Blendgranaten – Varnira, können Sie Fernzünder daran anbringen?"
+„Den Störsender nehmen wir mit", sagte der Chiss. „G4-X aktiviert ihn auf Kommando, damit sie keine Verstärkung funken können. Die Blendgranaten – Varnira, kannst du Fernzünder daran anbringen?"
 
 Die Devaronierin musterte die vier zylindrischen Granaten, die Ghalrixtho auf den Tisch gelegt hatte. „Das Schiff ist nicht dafür ausgerüstet", sagte sie sachlich. „Aber einen Sender anzupassen ist kein Hexenwerk." Sie nahm die erste Granate in die Hand und drehte sie prüfend. „Allerdings – der Störsender könnte die Fernzündung beeinflussen. Kein garantiertes Signal."
 
 „Besser als nichts", sagte Komaru.
 
-Ganden lehnte sich an die Wand und betrachtete die Holokarte. „Zwei Granaten platzieren wir hinter dem Frachter. Wenn wir sie dort zünden, blenden sie uns nicht, nur die andere Seite. Die anderen zwei behalten wir." Er sah zu Ghalrixtho. „Du gehst auf das Wrack?"
+Ganden lehnte sich an die Wand und betrachtete die Holokarte. „Zwei Granaten montieren wir an der Frachter-Wand in unserem Rücken. Wenn wir die zünden, blenden sie jeden, der zu uns herüberschaut – aber nicht uns. Die anderen zwei behalten wir." Er sah zu Ghalrixtho. „Du gehst auf das Wrack?"
 
 Der Chiss nickte. „Erhöhte Position, Sicht auf die Zufahrt. Fernkampf." Er tippte auf die Karte. „Ganden und Komaru machen die Übergabe. G4-X bleibt beim Speeder – Fluchtfahrzeug und Störsender."
 
@@ -20,7 +20,7 @@ Varnira arbeitete schnell. Zwanzig Minuten später lagen vier Granaten mit impro
 
 Gegen Mitternacht brachen sie auf.
 
-G4-X übernahm den Speeder. Der Kampfdroide hatte eine Beziehung zu dem abenteuerlichen Gefährt entwickelt, die nur ein Wesen ohne organische Vorurteile entwickeln konnte – er behandelte das zusammengeschweißte Brett mit dem Düsentriebwerk wie eine Erweiterung seines eigenen Körpers. Gewichtsverlagerung in den Kurven, dosierter Schub in den Geraden, ein Fahrstil, der irgendwo zwischen Rennpilot und Surfer lag. Auf der Ladefläche, festgezurrt an den Haltegriffen wie ein Stück Fracht, lag Daro Fel. Bewusstlos, die übergroße Mütze noch immer über seinen drei Augen.
+G4-X übernahm den Speeder. Der Kampfdroide hatte eine Beziehung zu dem abenteuerlichen Gefährt entwickelt, die nur ein Wesen ohne organische Vorurteile entwickeln konnte – er behandelte das zusammengeschweißte Brett mit dem Düsentriebwerk wie eine Erweiterung seines eigenen Körpers. Gewichtsverlagerung in den Kurven, dosierter Schub in den Geraden, ein Fahrstil, der irgendwo zwischen Rennpilot und Surfer lag. Auf der Ladefläche, festgezurrt an den Haltegriffen wie ein Stück Fracht, lag Daro Fel. Varniras Sedativum hielt ihn in einem tiefen, gleichmäßigen Schlaf, aus dem ihn auch G4-X' Fahrmanöver nicht wecken konnten.
 
 Die lothale Steppe glitt unter ihnen hinweg – dunkel, endlos, durchzogen vom Rauschen des kniehohen Grases. Ganden kauerte zwischen Komaru und G4-X, eingequetscht, und konnte kaum etwas sehen. Aber Komaru, der hinten auf dem Brett hockte und sich gegen die Fliehkraft der Kurven stemmte, ließ den Blick über den Himmel schweifen.
 
@@ -30,13 +30,13 @@ Er hatte recht. Am Himmel zogen Lichter vorbei – keine Orbitalflüge, aber Gle
 
 Der Schrottplatz empfing sie in Stille. Kein Licht, keine Bewegung, nur der Wind, der durch die Skelette ausgeweideter Raumschiffe pfiff. G4-X drosselte den Speeder und ließ ihn zwischen zwei Containern gleiten – unsichtbar von der Zufahrt aus.
 
-Sie arbeiteten schnell und wortlos. Zwei Granaten hinter dem Rumpf der Common Ground, versteckt in Nischen des ausgeschlachteten Frachters. Ghalrixtho kletterte auf das Wrack und fand eine Position zwischen zwei verbogenen Deckplatten – Deckung hinter sich, freie Sicht auf die Zufahrtsstraße und die Freifläche davor. Er legte sich flach, die Pistole neben sich, und wurde Teil des Schrotts.
+Sie arbeiteten schnell und wortlos. Zwei Granaten an der Rumpfwand der Common Ground, auf ihrer Seite montiert – in Brusthöhe, so platziert, dass der Lichtblitz jeden treffen würde, der von der Freifläche her zu ihnen schaute. Ghalrixtho kletterte auf das Wrack und fand eine Position zwischen zwei verbogenen Deckplatten – Deckung hinter sich, freie Sicht auf die Zufahrtsstraße und die Freifläche davor. Er legte sich flach, die Pistole neben sich, und wurde Teil des Schrotts.
 
-Unten richteten sich Ganden und Komaru ein. Der Gran lag zwischen ihnen am Boden, ein regloses Bündel im zerknitterten Nadelstreifenanzug. Ganden stellte zwei tragbare Lampen auf – kein grelles Licht, aber genug, um die Freifläche in ein gleichmäßiges, sanftes Leuchten zu tauchen. Vertrauenserweckend. Professionell.
+Unten richteten sich Ganden und Komaru ein. Der Gran lag zwischen ihnen am Boden, ein regloses Bündel im zerknitterten Nadelstreifenanzug. Ganden stellte mehrere tragbare Lampen auf – kein grelles Licht, aber genug, um die Freifläche in ein gleichmäßiges, sanftes Leuchten zu tauchen.
 
-Dann beugte er sich zu Fel hinunter und öffnete eines seiner drei Augen. Die Pupille raste hin und her – schnell, unregelmäßig, als verfolge sie etwas, das nur der Bewusstlose sehen konnte. Ganden runzelte die Stirn. Bei einem Menschen hätte er sich Sorgen gemacht. Aber bei einem Gran? Keine Ahnung. Er fühlte am Hals nach dem Puls – irgendetwas schlug dort, aber ob es das Richtige war, konnte er nicht sagen. Zehn Minuten später derselbe Befund. Stabil. Was auch immer das bei einem Gran bedeutete.
+Dann beugte er sich zu Fel hinunter und öffnete eines seiner drei Augen. Die Pupille raste hin und her – schnell, unregelmäßig, als verfolge sie etwas, das nur der Schlafende sehen konnte. Ganden runzelte die Stirn. Bei einem Menschen hätte er sich Sorgen gemacht. Aber bei einem Gran? Keine Ahnung. Er fühlte am Hals nach dem Puls – irgendetwas schlug dort, aber ob es das Richtige war, konnte er nicht sagen. Zehn Minuten später derselbe Befund. Stabil. Was auch immer das bei einem Gran bedeutete.
 
-Ganden richtete sich auf und zog seinen Blaster. Nicht um zu schießen – um zu warten. Er nahm das Oberteil ab, zog das Magazin heraus, holte ein kleines Bürstchen aus seiner Jackentasche und begann, den Lauf zu reinigen. Routiniert, mechanisch, die Hände beschäftigt, während der Verstand arbeitete. Emitter prüfen. Zusammensetzen. Einstecken. Wieder herausziehen. Noch einmal.
+Ganden richtete sich auf und zog seinen Blaster. Nicht um zu schießen – um ihn zu warten. Er nahm das Oberteil ab, zog das Magazin heraus, holte ein kleines Bürstchen aus seiner Jackentasche und begann, den Lauf zu reinigen. Routiniert, mechanisch, die Hände beschäftigt, während der Verstand arbeitete. Emitter prüfen. Zusammensetzen. Einstecken. Wieder herausziehen. Noch einmal.
 
 Über ihm, auf dem rostigen Skelett der Common Ground, lag Ghalrixtho reglos in der Dunkelheit und beobachtete die leere Straße. Sie warteten.
 
@@ -54,9 +54,9 @@ Die Türen des ersten Fahrzeugs öffneten sich nach oben. Das Chassis hob sich m
 
 „Stopp", sagte Ganden. Laut, bestimmt, aber nicht feindselig. „Nicht näher."
 
-Die Gamoreaner taumelten kurz, als hätte der Befehl sie physisch getroffen. Sie grunzten sich an – ein Geräusch, das irgendwo zwischen Sprache und Verdauung lag, guturale Laute, deren Sprachzentrum im Magen zu liegen schien. Dann traten sie zwei Schritte vor und musterten den Gran am Boden, dann Ganden, dann Komaru. „Ware? Kontrolle!", grunzte der eine.
+Die Gamoreaner taumelten kurz, als hätte der Befehl sie physisch getroffen. Sie grunzten sich an – ein Geräusch, das irgendwo zwischen Sprache und Verdauung lag, gutturale Laute, deren Sprachzentrum im Magen zu liegen schien. Dann traten sie zwei Schritte vor und musterten den Gran am Boden, dann Ganden, dann Komaru. „Ware? Kontrolle!", grunzte der eine.
 
-Komaru bemerkte, wie die beiden ständig blinzelten und die kleinen Schweinsaugen zusammenkniffen. Die Lampen. Das Licht, das die Crew aufgestellt hatte, blendete die Gamoreaner – sie versuchten, durch den Lichtkegel hindurch etwas zu erkennen, und scheiterten dabei auf eine Weise, die fast Mitleid erregen konnte.
+Komaru bemerkte, wie die beiden ständig blinzelten und die kleinen Schweinsaugen zusammenkniffen. Die Lampen, das Licht, das die Crew aufgestellt hatte, blendete die Gamoreaner – sie versuchten, durch den Lichtkegel hindurch etwas zu erkennen, und scheiterten dabei auf eine Weise, die fast Mitleid erregen konnte.
 
 „Boss sagt, wenn ihr bewaffnet, alles gut", fuhr der Gamoreaner fort, nachdem er eine weitere Runde Grunzen mit seinem Partner absolviert hatte. „Wenn ihr nicht bewaffnet – ihr Betrüger."
 
@@ -68,27 +68,31 @@ Auf ein Handzeichen der Gamoreaner öffnete sich das zweite Fahrzeug. Zuerst die
 
 Rax Vonn.
 
-Der Unterweltboss trat zwischen seine Gamoreaner hindurch wie ein Mann, der einen Ballsaal betritt. Nicht groß, nicht beeindruckend gebaut, aber mit einer Selbstsicherheit, die Körpergröße überflüssig machte. Eine Pistole an der Seite, aber nichts gezogen. Hinter ihm, aus derselben Limousine, quetschte sich ein schmaler Protokolldroide heraus – die metallisch-hölzernen Bewegungen ein absurder Kontrast zu den gepanzerten Gestalten um ihn herum.
+Der Unterweltboss trat zwischen seine Gamoreaner hindurch wie ein Mann, der einen Ballsaal betritt. Nicht groß, nicht beeindruckend gebaut, aber mit einer Selbstsicherheit, die Körpergröße überflüssig machte. Eine Pistole an der Seite, aber nichts gezogen. Hinter ihm, aus der ersten Limousine, quetschte sich noch ein schmaler Protokolldroide heraus – die metallisch-hölzernen Bewegungen ein absurder Kontrast zu den gepanzerten Gestalten um ihn herum.
 
-Rax kam auf Ganden zu und streckte die Hand aus. „Ein Mann der alten Schule. Das weiß ich zu schätzen." Ein fester Händedruck. „Ich schaue mir eure Ware an und ihr euch meine."
+Rax kam auf Ganden zu. Ganden streckte die Hand aus – eine bewusste Geste, die Augenhöhe signalisierte, nicht Unterwerfung. Rax ergriff sie. „Ein Mann der alten Schule", sagte er. „Das weiß ich zu schätzen." Ein fester Händedruck. „Das ist nur fair. Ich schaue mir eure Ware an und ihr euch meine."
 
-Der Protokolldroide trat vor und präsentierte den Transponder – einen kleinen Kasten in einem geschlossenen Gehäuse, Schnittstellen oben und unten, kompakt genug, um ihn mit einer Hand zu halten. Gleichzeitig ging einer der Rodianer nach vorn zu Daro Fel.
+Ganden ließ die Hand los und trat einen Schritt zurück. „Bevor ihr euch den Gran anseht – wir prüfen zuerst den Transponder."
+
+Rax hob eine Augenbraue, nickte dann aber. Er gab dem Protokolldroiden ein Zeichen. Der Droide trat vor und präsentierte den Transponder – einen kleinen Kasten in einem geschlossenen Gehäuse, Schnittstellen oben und unten, kompakt genug, um ihn mit einer Hand zu halten.
 
 Ganden bedeutete Komaru, den Transponder zu übernehmen. Der Togorianer nahm das Gerät entgegen und drehte es in seinen Pranken. Ganden trat neben ihn, musterte das Gehäuse und erkannte die Bauweise. Imperiale Seriennummern, bekannte Schnittstellen. Er zeigte Komaru, wo der verborgene Öffnungsmechanismus saß.
 
-Komaru klappte das Gehäuse auf und ging direkt über die Hardware – keine Benutzeroberfläche, keine Menüs, nur nackte Schaltkreise und Kontaktpunkte. Er sendete ein Testsignal. Auf seinem Datapad erschien die Antwort: die Identität eines huttischen Handelsschiffs, komplett mit Lizenzen, Registrierungscodes und Strukturdaten. Hochwertige Technik – nicht neu, aber kenntnisreich modifiziert. Jemand hatte diesen Transponder mit Sachverstand zusammengebaut.
+Komaru klappte das Gehäuse auf. Keine Benutzeroberfläche, keine Menüs – nur nackte Schaltkreise und Kontaktpunkte. Er griff sich ein Kabel aus seiner Tasche, verband den Transponder mit seinem Datapad und umging die fehlende Steuerungssoftware, indem er die Befehle direkt an die Hardware schickte. Ein Testsignal. Auf seinem Datapad erschien die Antwort: die Identität eines huttischen Handelsschiffs, komplett mit Lizenzen, Registrierungscodes und Strukturdaten. Hochwertige Technik – nicht neu, aber kenntnisreich modifiziert. Jemand hatte diesen Transponder mit Sachverstand zusammengebaut.
 
 „Sieht gut aus", sagte Komaru.
 
-Parallel kniete der Rodianer neben Daro Fel und hielt ihm ein kompaktes Gerät an den Hals – ein Vitalscanner. Er las die Daten ab, nickte und stand auf. „Alles in Ordnung, Boss."
+Ganden nickte Rax zu. Erst jetzt trat einer der Rodianer vor und kniete neben Daro Fel. Er hielt ihm ein kompaktes Gerät an den Hals – ein Vitalscanner. Er las die Daten ab, nickte und stand auf. „Alles in Ordnung, Boss."
 
 Rax Vonn betrachtete den bewusstlosen Gran mit einem Blick, in dem sich Zufriedenheit und Verachtung mischten. „Was habt ihr mit dem gemacht?" Dann, ohne die Antwort abzuwarten: „Er kommt schon wieder auf die Beine."
 
 Er wandte sich an Ganden und Komaru. „Gute Ware. Und ich möchte betonen – sie ist nicht nur gut, sie ist selten. Verdammt selten." Er legte den Kopf schief. „Dieser Transponder wird euch gute Dienste leisten, wenn ihr ihn richtig einsetzt. Euer Schiff wird man damit nicht verändern. Aber er wird euch Zeit geben. Auf Entfernung Dinge ermöglichen und in der Nähe genug Zeit zum Manövrieren. Behandelt ihn sorgsam und verbrennt ihn nicht."
 
-Dann das Schließfach-Geld. „Was ist mit seinem Geld?" Rax' Blick glitt wieder zu dem bewusstlosen Gran. „Ihr gefällt mir. Habt ihr euch verdient."
+Rax' Blick wanderte zurück zum Gran. „Was ist mit seinem Geld?"
 
-Ganden neigte den Kopf um eine Nuance. Das war's. Siebzehntausend Credits – akzeptiert, ohne Verhandlung, ohne Drohung. Ein Geschenk des Königs an seine nützlichsten Söldner.
+„Wir behalten es", sagte Ganden.
+
+Rax musterte ihn einen Moment. Dann zuckte ein dünnes Lächeln über sein Gesicht. „Ihr gefällt mir. Habt ihr euch verdient." Keine Verhandlung, keine Drohung. Abgehakt.
 
 Dann veränderte sich die Atmosphäre. Rax Vonn hob den Blick zum Himmel, wo in der Ferne ein Licht vorbeizog – schnell, zielstrebig, imperial.
 
@@ -106,7 +110,7 @@ Rax verschränkte die Arme. „Ich glaube nicht an Zufälle. Also frage ich mich
 
 Ganden und Komaru tauschten einen Blick. Objekt K772. Sie wussten, was – oder besser: wer – damit gemeint war. Aber das war nichts, was Rax Vonn erfahren musste.
 
-„Wir wissen es nicht genau", sagte Komaru. Dann lenkte er das Gespräch. „Aber lassen Sie mich eine Frage stellen, Rax. In den Minen – da gibt es nicht nur Dunium, richtig? Wissen wir beide, was es da noch geben mag. Exotisches Material. Könnte jemand, der mit einem verdammten roten Lichtschwert hierher kommt, daran interessiert sein?"
+„Wir wissen es nicht genau", sagte Komaru. Dann lenkte er das Gespräch. „Aber lass mich eine Frage stellen, Rax. In den Minen – da gibt es nicht nur Dunium, richtig? Wissen wir beide, was es da noch geben mag. Exotisches Material. Könnte jemand, der mit einem verdammten roten Lichtschwert hierher kommt, daran interessiert sein?"
 
 Rax' Augen verengten sich. „Jetzt wird es spannend. Prinzipiell ja. Aber weshalb jetzt?"
 
@@ -152,7 +156,7 @@ Komaru fluchte leise. „Schneller."
 
 Sobald sie in Funkreichweite waren, ging Ganden auf den Kanal: „Varnira, Schiff zum Abflug bereit machen. Sofort."
 
-Varniras Stimme kam trocken und sachlich: „Rechnen wir auch die Ausgrabung ab?"
+Varniras Stimme kam trocken und sachlich: „Brechen wir auch die Ausgrabung ab?"
 
 „Alles."
 
@@ -188,13 +192,13 @@ Kollisionsradar.
 
 Ganden riss das Steuer nach Backbord.
 
-Es war kein Gedanke – es war Muskelgedächtnis, eingebrannt in Jahren an der Imperialen Akademie, aufgefrischt in Dutzenden Situationen, in denen Denken den Tod bedeutet hätte. Die Turbot krängte hart zur Seite, die Trägheitsdämpfer heulten auf, und zwei Blasterbolzen zischten so dicht am Cockpitfenster vorbei, dass Ganden die Hitze durch das Transparistahl zu spüren meinte.
+Es war kein Gedanke – es war Muskelgedächtnis, eingebrannt durch jahrelange Routine, aufgefrischt in Dutzenden Situationen, in denen Denken den Tod bedeutet hätte. Die Turbot krängte hart zur Seite, die Trägheitsdämpfer heulten auf, und zwei Blasterbolzen zischten so dicht am Cockpitfenster vorbei, dass Ganden die Hitze durch das Transparistahl zu spüren meinte.
 
 „Gefechtsstation!"
 
-Seine Stimme hallte durch das Schiff, verstärkt vom internen Kommunikationssystem. Das Licht wechselte – die weißen Deckenlampen erloschen, und das fahle Rot der Gefechtsilluminierung tauchte jeden Korridor, jeden Raum in die Farbe eines Alarmsignals.
+Seine Stimme hallte durch das Schiff, verstärkt vom internen Kommunikationssystem. Das Licht wechselte – die weißen Deckenlampen erloschen, und das fahle Rot der Gefechtsbeleuchtung tauchte jeden Korridor, jeden Raum in die Farbe eines Alarmsignals.
 
-Im Maschinenraum wurde Ghalrixtho von der plötzlichen Beschleunigung gegen die gegenüberliegende Wand geschleudert. Die Schulter traf zuerst – derselbe Arm, der seit dem Kampf im ISB-Bunker nicht richtig verheilt war. Er biss die Zähne zusammen, stieß sich von der Wand ab und rannte zum Turmaufstieg.
+Im Maschinenraum wurde Ghalrixtho von der plötzlichen Beschleunigung gegen die gegenüberliegende Wand geschleudert. Die Schulter traf zuerst – derselbe Arm, der seit dem Kampf im ISB-Bunker noch nicht richtig verheilt war. Er biss die Zähne zusammen, stieß sich von der Wand ab und rannte zum Turmaufstieg.
 
 Die Luke zum Geschützturm öffnete sich über ihm. Ghalrixtho zog sich hoch, ließ sich in den Sitz fallen und legte die Hände auf die Steuergriffe des Doppelgeschützes. Vor ihm öffnete sich der Himmel Lothals – dunkel, sternenklar, durchzogen von den Leuchtspuren imperialer Triebwerke.
 
@@ -202,11 +206,11 @@ Er drehte den Turm. Blick nach links: ein TIE Fighter, der sich gerade in einer 
 
 Dann tat das Schiff etwas, das Ghalrixtho nicht erwartet hatte.
 
-Die Turbot drehte sich nach Backbord – nicht weg von den Angreifern, sondern auf den linken TIE Fighter zu. Direkt in seine Flugbahn. Ghalrixtho sah durch das Sichtfenster des Turms, wie der hexagonale Jäger größer wurde. Schnell. Zu schnell.
+Die Turbot drehte sich nach Backbord – nicht weg von den Angreifern, sondern auf den linken TIE Fighter zu. Direkt in seine Flugbahn. Ghalrixtho sah durch das Sichtfenster des Turms, wie der Jäger mit seinen charakteristischen Solarsegeln größer wurde. Schnell. Zu schnell.
 
 Aufprall.
 
-Die Turbot rammte den TIE Fighter mit der vollen Masse eines Leichtfrachters. Es war kein Zusammenstoß – es war eine Hinrichtung. Der TIE hatte keinen Schild, keine Panzerung, nur ein fragiles Solarsegel und einen Kugelrumpf, der für Geschwindigkeit gebaut war, nicht für Widerstand. Er zerbarst beim Aufprall wie ein Insekt auf einer Windschutzscheibe. Trümmerteile sprühten in alle Richtungen – Solarzellenbruchstücke, Metallsplitter, ein brennendes Stück Cockpitrahmen, das am Turm vorbeischoss und in der Atmosphäre verglühte.
+Die Turbot rammte den TIE Fighter mit der vollen Masse eines Leichtfrachters. Es war kein Zusammenstoß – es war eine Hinrichtung. Der TIE hatte keinen Schild, keine Panzerung, nur seine fragilen Solarsegel und einen Kugelrumpf, der für Geschwindigkeit gebaut war, nicht für Widerstand. Er zerbarst beim Aufprall wie ein Insekt auf einer Windschutzscheibe. Trümmerteile sprühten in alle Richtungen – Solarzellenbruchstücke, Metallsplitter, ein brennendes Stück Cockpitrahmen, das am Turm vorbeischoss und in der Atmosphäre verglühte.
 
 Ghalrixtho blinzelte. Der Blick klärte sich. Die Turbot vibrierte, aber sie flog weiter. Vor ihm nur noch Trümmerwolken und der zweite TIE Fighter, der von Steuerbord heranjagte.
 
@@ -218,7 +222,7 @@ Im Cockpit sah Ganden den heranrasenden TIE auf dem Radar und durch das Seitenfe
 
 Die Schüsse kamen. Aber sie kamen nicht rein. Sie gingen raus.
 
-Ghalrixthos Doppelgeschütz spuckte Feuer. Die ersten Bolzen trafen das linke Solarsegel des TIE Fighters – rissen Löcher in die schwarze Fläche, die wie brennende Augen in der Dunkelheit aufleuchteten. Der zweite Feuerstoß traf die Querstrebe zwischen Segel und Cockpitkugel. Für den Bruchteil einer Sekunde hing der TIE noch im Raum, als wüsste er nicht, dass er bereits tot war. Dann zerlegte er sich. Die Strebe brach, das Segel riss ab und taumelte brennend davon, und die Cockpitkugel implodierte in einer grellen Explosion.
+Ghalrixthos Doppelgeschütz spuckte Feuer. Die ersten Bolzen trafen das linke Solarsegel des TIE Fighters – rissen Löcher in die schwarze Fläche, die wie brennende Augen in der Dunkelheit aufleuchteten. Der zweite Feuerstoß traf die Querstrebe zwischen Segel und Cockpitkugel. Für den Bruchteil einer Sekunde hing der TIE noch im Raum, als wüsste er nicht, dass er bereits tot war. Dann zerlegte er sich. Die Strebe brach, das Segel riss ab und taumelte brennend davon, und die Cockpitkugel zerbarst in einer grellen Explosion.
 
 Aus dem Cockpit drang ein gutturaler Jubelschrei, der so gar nicht nach dem kultivierten Professor klang.
 
@@ -236,7 +240,7 @@ Komarus Augen huschten über die Systemdaten. Da – ein Engpass in der Kalibrie
 
 Ganden versuchte ein Brems-Manöver – den verfolgenden TIE in eine Überschusssituation zwingen. Er zog den Schubhebel zurück. Zu weit. Die Turbot übersteuerte, geriet ins Schlingern. Ein Fehler, den ein erfahrener Pilot nicht gemacht hätte.
 
-Aber der TIE-Pilot hatte vorausberechnet, was ein kompetenter Gegner tun würde. Er hatte sich angepasst – und Gandens Inkompetenz nicht einkalkuliert. Der Fehler des einen provozierte den Fehler des anderen. Der TIE flog in die falsche Richtung, gefangen in Lothals dichter Atmosphäre, die seine Manövrierfähigkeit einschränkte, und verlor den Kontakt.
+Aber der TIE-Pilot hatte mit einem routinierten Gegner gerechnet. Er hatte sein Ausweichmanöver an das angepasst, was ein kompetenter Pilot getan hätte – und genau das hatte Ganden nicht getan. Das Schlingern der Turbot war so unberechenbar, dass der TIE in die falsche Richtung ausbrach. Lothals dichte Atmosphäre tat den Rest: Wo der wendige Jäger im Vakuum mühelos korrigiert hätte, fraß der Luftwiderstand sein Momentum. Er verlor den Kontakt.
 
 Komaru zählte. „Sieben. Sechs. Fünf."
 
@@ -266,11 +270,11 @@ Dann kam eine andere Stimme. Nicht automatisch. Menschlich. Scharf.
 
 „Identifizieren. Identifizieren!"
 
-Ganden legte die Hand auf den Hyperspace-Hebel. Einen Herzschlag lang – nicht länger – blickte er durch das Cockpitfenster auf Lothal hinab. Ein brauner, staubiger Planet, der sich langsam unter ihnen drehte. Irgendwo dort unten war ein Schrottplatz, auf dem sie einen Mann gegen ihre Freiheit getauscht hatten. Irgendwo dort unten lief ein Inquisitor durch die Straßen von Capital City. Irgendwo dort unten lagen Minen, die Geheimnisse bargen, die sie noch nicht verstanden.
+Ganden legte die Hand auf den Hyperraum-Knopf. Einen Herzschlag lang – nicht länger – blickte er durch das Cockpitfenster auf Lothal hinab. Ein brauner, staubiger Planet, der sich langsam unter ihnen drehte. Irgendwo dort unten war ein Schrottplatz, auf dem sie einen Mann gegen ihre Freiheit getauscht hatten. Irgendwo dort unten lief ein Inquisitor durch die Straßen von Capital City. Irgendwo dort unten lagen Minen, die Geheimnisse bargen, die sie noch nicht verstanden.
 
 Aber das war jetzt nicht mehr ihr Problem.
 
-Ganden schob den Hebel nach vorn.
+Ganden drückte den Knopf.
 
 Einen Moment lang stand die Welt still. Die Sterne erstarrten, als hielte das Universum den Atem an. Dann streckten sie sich – aus Punkten wurden Striche, aus Strichen wurden Lichtbahnen, und die Turbot schoss in den Hyperraum.
 

@@ -1,12 +1,12 @@
 Ganden riss das Steuer nach Backbord.
 
-Es war kein Gedanke – es war Muskelgedächtnis, eingebrannt in Jahren an der Imperialen Akademie, aufgefrischt in Dutzenden Situationen, in denen Denken den Tod bedeutet hätte. Die Turbot krängte hart zur Seite, die Trägheitsdämpfer heulten auf, und zwei Blasterbolzen zischten so dicht am Cockpitfenster vorbei, dass Ganden die Hitze durch das Transparistahl zu spüren meinte.
+Es war kein Gedanke – es war Muskelgedächtnis, eingebrannt durch jahrelange Routine, aufgefrischt in Dutzenden Situationen, in denen Denken den Tod bedeutet hätte. Die Turbot krängte hart zur Seite, die Trägheitsdämpfer heulten auf, und zwei Blasterbolzen zischten so dicht am Cockpitfenster vorbei, dass Ganden die Hitze durch das Transparistahl zu spüren meinte.
 
 „Gefechtsstation!"
 
-Seine Stimme hallte durch das Schiff, verstärkt vom internen Kommunikationssystem. Das Licht wechselte – die weißen Deckenlampen erloschen, und das fahle Rot der Gefechtsilluninierung tauchte jeden Korridor, jeden Raum in die Farbe eines Alarmsignals.
+Seine Stimme hallte durch das Schiff, verstärkt vom internen Kommunikationssystem. Das Licht wechselte – die weißen Deckenlampen erloschen, und das fahle Rot der Gefechtsbeleuchtung tauchte jeden Korridor, jeden Raum in die Farbe eines Alarmsignals.
 
-Im Maschinenraum wurde Ghalrixtho von der plötzlichen Beschleunigung gegen die gegenüberliegende Wand geschleudert. Die Schulter traf zuerst – derselbe Arm, der seit dem Kampf im ISB-Bunker nicht richtig verheilt war. Er biss die Zähne zusammen, stieß sich von der Wand ab und rannte zum Turmaufstieg.
+Im Maschinenraum wurde Ghalrixtho von der plötzlichen Beschleunigung gegen die gegenüberliegende Wand geschleudert. Die Schulter traf zuerst – derselbe Arm, der seit dem Kampf im ISB-Bunker noch nicht richtig verheilt war. Er biss die Zähne zusammen, stieß sich von der Wand ab und rannte zum Turmaufstieg.
 
 Die Luke zum Geschützturm öffnete sich über ihm. Ghalrixtho zog sich hoch, ließ sich in den Sitz fallen und legte die Hände auf die Steuergriffe des Doppelgeschützes. Vor ihm öffnete sich der Himmel Lothals – dunkel, sternenklar, durchzogen von den Leuchtspuren imperialer Triebwerke.
 
@@ -14,11 +14,11 @@ Er drehte den Turm. Blick nach links: ein TIE Fighter, der sich gerade in einer 
 
 Dann tat das Schiff etwas, das Ghalrixtho nicht erwartet hatte.
 
-Die Turbot drehte sich nach Backbord – nicht weg von den Angreifern, sondern auf den linken TIE Fighter zu. Direkt in seine Flugbahn. Ghalrixtho sah durch das Sichtfenster des Turms, wie der hexagonale Jäger größer wurde. Schnell. Zu schnell.
+Die Turbot drehte sich nach Backbord – nicht weg von den Angreifern, sondern auf den linken TIE Fighter zu. Direkt in seine Flugbahn. Ghalrixtho sah durch das Sichtfenster des Turms, wie der Jäger mit seinen charakteristischen Solarsegeln größer wurde. Schnell. Zu schnell.
 
 Aufprall.
 
-Die Turbot rammte den TIE Fighter mit der vollen Masse eines Leichtfrachters. Es war kein Zusammenstoß – es war eine Hinrichtung. Der TIE hatte keinen Schild, keine Panzerung, nur ein fragiles Solarsegel und einen Kugelrumpf, der für Geschwindigkeit gebaut war, nicht für Widerstand. Er zerbarst beim Aufprall wie ein Insekt auf einer Windschutzscheibe. Trümmerteile sprühten in alle Richtungen – Solarzellenbruchstücke, Metallsplitter, ein brennendes Stück Cockpitrahmen, das am Turm vorbeischoss und in der Atmosphäre verglühte.
+Die Turbot rammte den TIE Fighter mit der vollen Masse eines Leichtfrachters. Es war kein Zusammenstoß – es war eine Hinrichtung. Der TIE hatte keinen Schild, keine Panzerung, nur seine fragilen Solarsegel und einen Kugelrumpf, der für Geschwindigkeit gebaut war, nicht für Widerstand. Er zerbarst beim Aufprall wie ein Insekt auf einer Windschutzscheibe. Trümmerteile sprühten in alle Richtungen – Solarzellenbruchstücke, Metallsplitter, ein brennendes Stück Cockpitrahmen, das am Turm vorbeischoss und in der Atmosphäre verglühte.
 
 Ghalrixtho blinzelte. Der Blick klärte sich. Die Turbot vibrierte, aber sie flog weiter. Vor ihm nur noch Trümmerwolken und der zweite TIE Fighter, der von Steuerbord heranjagte.
 
@@ -30,7 +30,7 @@ Im Cockpit sah Ganden den heranrasenden TIE auf dem Radar und durch das Seitenfe
 
 Die Schüsse kamen. Aber sie kamen nicht rein. Sie gingen raus.
 
-Ghalrixthos Doppelgeschütz spuckte Feuer. Die ersten Bolzen trafen das linke Solarsegel des TIE Fighters – rissen Löcher in die schwarze Fläche, die wie brennende Augen in der Dunkelheit aufleuchteten. Der zweite Feuerstoß traf die Querstrebe zwischen Segel und Cockpitkugel. Für den Bruchteil einer Sekunde hing der TIE noch im Raum, als wüsste er nicht, dass er bereits tot war. Dann zerlegte er sich. Die Strebe brach, das Segel riss ab und taumelte brennend davon, und die Cockpitkugel implodierte in einer grellen Explosion.
+Ghalrixthos Doppelgeschütz spuckte Feuer. Die ersten Bolzen trafen das linke Solarsegel des TIE Fighters – rissen Löcher in die schwarze Fläche, die wie brennende Augen in der Dunkelheit aufleuchteten. Der zweite Feuerstoß traf die Querstrebe zwischen Segel und Cockpitkugel. Für den Bruchteil einer Sekunde hing der TIE noch im Raum, als wüsste er nicht, dass er bereits tot war. Dann zerlegte er sich. Die Strebe brach, das Segel riss ab und taumelte brennend davon, und die Cockpitkugel zerbarst in einer grellen Explosion.
 
 Aus dem Cockpit drang ein gutturaler Jubelschrei, der so gar nicht nach dem kultivierten Professor klang.
 
@@ -48,7 +48,7 @@ Komarus Augen huschten über die Systemdaten. Da – ein Engpass in der Kalibrie
 
 Ganden versuchte ein Brems-Manöver – den verfolgenden TIE in eine Überschusssituation zwingen. Er zog den Schubhebel zurück. Zu weit. Die Turbot übersteuerte, geriet ins Schlingern. Ein Fehler, den ein erfahrener Pilot nicht gemacht hätte.
 
-Aber der TIE-Pilot hatte vorausberechnet, was ein kompetenter Gegner tun würde. Er hatte sich angepasst – und Gandens Inkompetenz nicht einkalkuliert. Der Fehler des einen provozierte den Fehler des anderen. Der TIE flog in die falsche Richtung, gefangen in Lothals dichter Atmosphäre, die seine Manövrierfähigkeit einschränkte, und verlor den Kontakt.
+Aber der TIE-Pilot hatte mit einem routinierten Gegner gerechnet. Er hatte sein Ausweichmanöver an das angepasst, was ein kompetenter Pilot getan hätte – und genau das hatte Ganden nicht getan. Das Schlingern der Turbot war so unberechenbar, dass der TIE in die falsche Richtung ausbrach. Lothals dichte Atmosphäre tat den Rest: Wo der wendige Jäger im Vakuum mühelos korrigiert hätte, fraß der Luftwiderstand sein Momentum. Er verlor den Kontakt.
 
 Komaru zählte. „Sieben. Sechs. Fünf."
 
@@ -78,11 +78,11 @@ Dann kam eine andere Stimme. Nicht automatisch. Menschlich. Scharf.
 
 „Identifizieren. Identifizieren!"
 
-Ganden legte die Hand auf den Hyperspace-Hebel. Einen Herzschlag lang – nicht länger – blickte er durch das Cockpitfenster auf Lothal hinab. Ein brauner, staubiger Planet, der sich langsam unter ihnen drehte. Irgendwo dort unten war ein Schrottplatz, auf dem sie einen Mann gegen ihre Freiheit getauscht hatten. Irgendwo dort unten lief ein Inquisitor durch die Straßen von Capital City. Irgendwo dort unten lagen Minen, die Geheimnisse bargen, die sie noch nicht verstanden.
+Ganden legte die Hand auf den Hyperraum-Knopf. Einen Herzschlag lang – nicht länger – blickte er durch das Cockpitfenster auf Lothal hinab. Ein brauner, staubiger Planet, der sich langsam unter ihnen drehte. Irgendwo dort unten war ein Schrottplatz, auf dem sie einen Mann gegen ihre Freiheit getauscht hatten. Irgendwo dort unten lief ein Inquisitor durch die Straßen von Capital City. Irgendwo dort unten lagen Minen, die Geheimnisse bargen, die sie noch nicht verstanden.
 
 Aber das war jetzt nicht mehr ihr Problem.
 
-Ganden schob den Hebel nach vorn.
+Ganden drückte den Knopf.
 
 Einen Moment lang stand die Welt still. Die Sterne erstarrten, als hielte das Universum den Atem an. Dann streckten sie sich – aus Punkten wurden Striche, aus Strichen wurden Lichtbahnen, und die Turbot schoss in den Hyperraum.
 
