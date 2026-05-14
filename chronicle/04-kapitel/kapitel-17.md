@@ -442,4 +442,4 @@ Fünf Stunden bis zur Übergabe.
 
 ---
 
-[← Kapitel 16](kapitel-16.md)
+[← Kapitel 16](kapitel-16.md) | [Kapitel 18 →](kapitel-18.md)
