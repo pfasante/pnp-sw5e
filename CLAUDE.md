@@ -45,4 +45,4 @@ uv run python ../../../scripts/transcribe_merge.py \
 - Session folders follow the naming pattern `YYYY-MM-DD_session-NN/`.
 - Chronicle chapters: `chronicle/04-kapitel/kapitel-NN.md`. Chapters 1–12 are not yet written as prose; the chronicle starts at chapter 13.
 - Chronicle workbench file naming: `session-NN-storyboard.md`, `session-NN-szene-NN.md`, `kapitel-NN-szene-NN-entwurf.md`.
-- Player characters: Ghalrixtho (Chiss Operative), Ganden Arvang (Human Tactician Scholar), Komaru (Togorian Scout), G4-X (Droid Fighter), Varnira Sesh (Devaronian Engineer).
+- Player characters: Ghalrixtho (Chiss Operative), Ganden Arvang (Human Tactician Scholar), Komaru (Togorian Scout), G4-X (Droid Fighter), Varnira Sesh (Devaronian Engineer), Kaelum.

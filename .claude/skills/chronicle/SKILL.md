@@ -143,6 +143,7 @@ Orientiere dich am Stil der bestehenden Kapitel in `chronicle/04-kapitel/`. Wese
   - Komaru: pragmatisch, direkt, körperlich-dominant, trockener Humor
   - G4-X: mechanisch, pflichtbewusst
   - Varnira: klinisch, sachlich, kompetent
+  - Kaelum: (noch zu beschreiben)
 - **Atmosphäre:** Star-Wars-typisch – imperiale Bedrohung, Unterwelt-Flair, Frontier-Stimmung auf Lothal. Technische Details (Blaster, Repulsoren, Holoprojektoren) natürlich einstreuen.
 - **Länge:** Szenen sollen ausführlich genug sein, um die Handlung lebendig zu machen, aber nicht aufgebläht. Orientierung: die bestehenden Kapitel haben ca. 1500–3000 Wörter.
 

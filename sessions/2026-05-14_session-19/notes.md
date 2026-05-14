@@ -1,0 +1,75 @@
+# Session 19 – Neunzehnte Runde
+
+**Datum:** 2026-05-14
+**Startzeit:** 21:04
+**Endzeit:** 23:21
+
+## Notizen
+- (Andreas übernimmt GM von Benni, Benni spielt Kaelum)
+- Wir sind von Lothal losgeflogen, Richtung Treffpunkt im Galaxis-Inneren
+- Am dritten Tag des Fluges gehen Alarm-Signal an, Ghalrixtho sitzt am Steuer
+- Störung einer Hyperraum-Route, auf der wir uns befinden, bei Iego
+- Ghalrixtho deaktiviert den Hyperraum-Antrieb und warnt die Crew
+- Wir landen mitten in einer Weltraum-Schlacht
+- Sternenzerstörer (Imperial I Klasse Name "Titan") und andere Schiffe kämpfen
+- Zigarrenförmiger Separatisten-Kreuzer "Obsidian Arrow"
+	- ist mit einer Stilisierten Sonne "Black Sun" bemalt (Söldner, Untergrund, …)
+- Sternenzerstörer funkt uns mit ISB-Kennung an und bittet um Unterstützung
+- Ganden macht sich an die Beantwortung
+- Planet "Iego", tropisch heiß, Basalt
+	- Das Planeten-System ohne Sonne
+	- Wird von riesigen brennenden Plasma-Wolken beleuchtet
+	- Wir müssen extrem aufpassen woher wir fliegen
+	- Auf Iego gab es eine Stadt, "Cliffhold" / Klippenhorst, die nicht verlassen werden konnte, weil sie von Separatisten dort gefangen gehalten wurden
+	- Das Lasersystem zum Gefangenhalten wurde während der Separatisten-Kriege zerstört
+- Kaelum besetzt den Geschützturm, Komaru ist auch ins Cockpit gekommen
+	- Kaelum spürt das Plasma über seine Macht-Sensitivität
+	- Außerdem spürt er einen Machtnutzer
+- Viele Black Sun Schiffe fangen in einem kollektiven, koordinierten Selbstmord-Manöver die Tie-Bomber Torpedos ab -> Machtnutzer ist auf dem Black Sun Separatisten-Schiff an Bord
+- Ganden informiert uns, dass die Black Sun ein Verbrecher-Syndikat ist
+- Ghalrixtho schaut sich Gandens Nachricht an den Sternenzerstörer an
+	- verschlüsselt, Projektkennung
+	- typische Politiker-Brief-Nachricht
+- Obsidian Arrow setzt drei Lande-Schiffe ab, die Richtung Iego fliegen
+- Als wir den Landeanflug beginnen, funkt uns die Obsidian Arrow an, wir sollten nicht auf dem Planeten landen, da sie diesen beanspruchen
+- Die Obsidian Arrow fährt große Turbo-Laser Geschütze aus und trifft die Titan schwer, das Schild des Sternenzerstörers fällt 
+- "Commander (Han) Ares" (Der Titan von Anaxes) hällt auf der Titan eine flammende Motivationsrede
+- Der Sternenzerstörer setzt zu einem Ramm-Manöver auf die Obsidian Arrow an
+	- Die meisten Tie-Fighter wurden zerlegt
+- Kaelum wird von dem Machtnutzer fern-kontrolliert und schießt in den Raum
+	- Trifft einen Tie-Bomber, der in die Obsidian Arrow einschlägt
+	- Trifft bei einem zweiten Schuß einen Tie-Fighter
+- Die Obsidian Arrow weicht in einem knappen Manöver dem Ramm-Versuch der Titan aus
+- Die Beeinflussung von Kaelum passiert durch eine Kampf-Meditation, eine alte Sith-Technik
+- Komaru erinnert sich, dass er schon einmal mit Piraten der Black Sun zu tun
+- Ghalrixtho erkennt kleine, zu Hunderten, Rettungskapseln von beiden Schiffen abgehend
+- Die Front der Obsidian Arrow bricht ab, unter großen Explosionen
+- Die Titan geht auf Breitseite zur Obsidian Arrow
+- Kaelum sagt, wir müssen Han Ares aufhalten
+- Ganden sagt, wir können die Brücke der Titan ausschalten
+- Ghalrixtho nimmt Kurs auf diese, Ganden versucht die Titan zu warnen
+- aber Komaru verhindert dies
+- Ganden: "Ghalrixtho wird uns alle umbringen"
+- wir fliegen weiter auf die Komandobrücke zu
+- als wir in Reichweite sind, beginnt Kaelum zu feuern - seine ganze Wut löst sich in diesem Angriff
+- Wir werden angegriffen, Schilde auf 50% runter
+- Kaelums Schüsse treffen die Komandobrücke
+- Ghalrixtho dreht die Turbot ab um in der Deckung der Titan zu wenden
+- Da ein Black Sun Schiff uns ins Visier nimmt, schaltet Ghalrixtho die Schilde nach hinten
+- Komaru schaut nach Kaelum, der die gesamte Schiffsmunition auf die Brücke geleert hat
+- Der Reaktor der Titan explodiert
+- Unsere Schilde fallen aus
+- Die Explosion fegt das Black Sun Schiff weg und die Turbot wird auf den Planeten zu gedrückt
+- Durch die Atmosphäre hindurch, stürzen wir auf Iego ab, zwischen spitzen Basaltnadeln und Urwald, kommen wir in einer Schlucht zum stehen, hochkant hängend
+- Ganden stürzt bei dem Absturz gegen das Com-Modul und zieht sich eine starke Kopfverletzung zu -> bewusstlos
+- Ghalrixtho versucht mit erste Hilfe seine Blutung zu stoppen -> schafft es nicht, funkt nach Varnira dann Kaelum und Komaru zur Hilfe
+- Komaru trifft auf den bewegungslosen G4-X, der noch halb an einer Steckdose hängt
+- Kaelum sieht Varnira, die in der Messe hängt, bewusstlos, mit einem schweren offenen Knochenbruch
+- Als Kaelum bei ihr ankommt, sieht er auch einen noch schwereren Beinbruch, aus dem viel Blut sprudelt
+- Mit Varniras Med-Kit kann er die Blutung am Bein stoppen und gibt ihr die Bakta-Spritze daraus
+- Komaru kommt gerade noch rechtzeitig um Ganden mit seiner Bakta-Spritze vor dem Tod zu bewahren
+- Ghalrixtho bemerkt, wie das Schiff zu rutschen beginnt
+- Komaru und Ghalrixtho schaffen es gerade so, Ganden in die Rettungskapsel zu verfrachten
+- Kaelum stellt fest, dass G4-X über das Kabel in einem Kurzschluss festhängt und zieht mit Hilfe der Macht das Kabel raus - mit einem blenden Lichtbogen fliegt das Kabel raus
+- G4-X hilft Kaelum Varnira zu tragen und gemeinsam schaffen wir es alle in die Rettungskapsel
+- Das Schiff stürzt weiter ab, wir drehen uns, im letzten Moment schließen wir die Rettungskapsel und lösen diese vom Raumschiff	

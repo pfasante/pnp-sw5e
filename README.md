@@ -17,7 +17,7 @@ sessions/
 background/
   bekannter-hintergrund.md  ← Spieler-seitig bekannte Lore
   charaktere/
-    ghalrixtho.md / ganden.md / komaru.md / g4-x.md / varnira.md
+    ghalrixtho.md / ganden.md / komaru.md / g4-x.md / varnira.md / kaelum.md
 chronicle/
   README.md               ← Workflow-Dokumentation
   01-storyboard/          ← Grobe Handlungsgerüste

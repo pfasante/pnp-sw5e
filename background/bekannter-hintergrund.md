@@ -1,6 +1,6 @@
 # Bekannter Hintergrund
 
-## Die Turbot
+## Die Turbot auf Lothal
 
 - Eine Stunde (mit dem Speeder, s.u.) außerhalb von Capital City
 - Wir haben dort zur Tarnung eine archäologische Ausgrabungsstelle eingerichtet
@@ -15,3 +15,8 @@
 - Fracht kann man auf der Ladefläche notdürftig an den Haltegriffen befestigen
 - Trotz der abenteuerlichen Konstruktion ist der Speeder hervorragend zu manövrieren
 - Insbesondere G4-X hat Spaß daran gefunden, in halsbrecherischem Tempo durch Lothals weite Ebenen zu rasen
+
+## Die Turbot auf Iego
+
+- nach Weltraumschlacht zwischen Sternenzerstörer Titan und Black Sun Kreuzer Obsidian Arrow abgestürzt auf Iego
+- eingeklemmt zwischen Basaltnadeln, rutscht gerade ab
