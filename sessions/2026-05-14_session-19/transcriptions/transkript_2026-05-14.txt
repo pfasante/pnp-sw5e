@@ -1,0 +1,1315 @@
+[00:00:00] Andreas: Ihr befindet euch auf der Brücke der Turbot und seid gerade von Lothal abgereist, aber jetzt schon mehrere Tage unterwegs.
+[00:00:15] Andreas: So lange wie man eben unterwegs ist, wenn man so weit draußen im Outer Rim ist und etwas tiefer in Zentrum der Galaxis reisen möchte.
+[00:00:30] Andreas: für die abstände die man zurücklegen muss und für die zeit die die reisen dauern und vor allem auch
+[00:00:37] Andreas: für die menge an treibstoff die notwendig ist um das alles hier zurücklegen zu können irgendwann
+[00:00:44] Andreas: mal müssen wir auch wieder auftanken aber wir sind jetzt von lothal losgeflogen unser f punkt
+[00:00:53] Andreas: zu dem wir müssen, befindet sich einfach weiter im Inneren der Galaxis, sagt Ganten.
+[00:01:01] Andreas: Und wir sind noch einige Zeit unterwegs.
+[00:01:04] Andreas: Als am dritten Tag plötzlich Alarmsignale losgehen.
+[00:01:12] Andreas: Galrixtus sitzt im Cockpit, die anderen haben gerade keine Schicht.
+[00:01:20] Andreas: und bei dir beginnen Alarmsignale zu leuchten.
+[00:01:26] Andreas: Ich bitte dich um einen Piloting-Wurf.
+[00:01:30] Andreas: Und dann einen... genau... und...
+[00:01:35] Andreas: Aha, sehr gut, dann brauchst du keinen anderen Wurf.
+[00:01:38] Andreas: Es ist so, dass deine... also das passiert eigentlich nie.
+[00:01:44] Andreas: Es gibt Störungen auf der Hyperraumroute.
+[00:01:47] Andreas: Und zwar sind die Hyperraumrouten vor allem,
+[00:01:49] Andreas: Wenn sie durch große Gaswolken oder Plasmawolken fliegen, sind sie so angelegt, dass sie natürlich in störungsfreien Gebieten durchkurven.
+[00:02:04] Andreas: Und hier, ihr befindet euch in einem der Extricariumwolken bei IEGO.
+[00:02:11] Andreas: Und eigentlich sollte hier gar nichts sein, da fliegt man einfach nur durch.
+[00:02:15] Andreas: Aber hier ist etwas und zwar ist die Hyperraumroute gestört. Der nächste Beacon ist nicht ansteuerbar und du kannst nichts anderes tun. Du weißt es einfach, du wirst aus dem Hyperraum raus müssen, denn ansonsten zerschellt ihr irgendwo vielleicht gegen einen Stern oder ohne Beacon fliegt ihr einfach in irgendeine Richtung davon.
+[00:02:38] Andreas: Das heißt, gleich wird es euch einfach automatisch rausnehmen. Du kannst etwas früher rausgehen durch dein Piloting-Wurf. Seht ihr das Bild? Da hat es nicht funktioniert. Jetzt aber, oder?
+[00:02:39] Friedrich: Ja, ich möchte gerne die Situation kontrollieren können, deswegen deaktiviere ich den Überraumantrieb und gebe gleichzeitig durch die Sprachausgabe aus Störungen auf der Überraumroute.
+[00:03:04] Friedrich: wir gehen aus dem Hüferraum und müssen die Situation analysieren.
+[00:03:14] Friedrich: Moment, ich sehe auch nur die Kabut.
+[00:03:15] Benjamin: Nee, ich sehe bislang noch nichts. Ja, oh ja. Also ich würde, wenn ich dieses Signal höre, ich denke, wir haben uns in den letzten Tagen auch schon ein bisschen eingespielt, wenn ich vor allem mitbekomme, dass er gerade am Steuer ist, dann werde ich zum Geschützturm schnell laufen, da hochklettern.
+[00:03:18] Martin: Also wenige Augenblick je nach dem Tüt steht Komaru schon da, nur in Hose, ansonsten unbekleidet. Ist was los? Ist was los? Endlich.
+[00:03:30] Friedrich: Jetzt sehen wir sie. Das heißt, soll ich nochmal einen...
+[00:03:31] Martin: Oh ja, immer schön.
+[00:03:33] Andreas: Also ihr sitzt im Cockpit.
+[00:03:35] Andreas: Es ist ja eines von diesen koreanischen Untertassen,
+[00:03:39] Andreas: in dem ihr fliegt mit dem seitlich angebrachten Cockpit.
+[00:03:43] Andreas: Und der Hyperraum ist eigentlich dieses seltsame Lichtspektrum,
+[00:03:52] Andreas: diese Art Tunnel, dieser Tunnelblick, den ihr hier habt.
+[00:03:56] Andreas: Und zack bist du draußen.
+[00:03:59] Andreas: und du befindest dich sofort in einer unkontrollierbaren Situation.
+[00:04:14] Andreas: Also im Weltall ist eigentlich ja alles still und du hörst nichts.
+[00:04:21] Andreas: Aber in Star Wars hört man was.
+[00:04:25] Martin: Ja, hoffentlich.
+[00:04:25] Andreas: Und deshalb hört er das jetzt auch.
+[00:04:29] Andreas: So, ich muss nur ganz kurz finden.
+[00:04:31] Andreas: Jetzt hat es mir das irgendwie wieder weggekommen.
+[00:04:34] Andreas: Eine Sekunde, sorry.
+[00:04:41] Andreas: Hier. Ihr befindet euch mitten in einer Schlacht. Das ist der Grund dafür, dass ihr aus der Hyperraumroute rausgenommen seid. Wahrscheinlich hat man einfach den Beacon zerstört oder jemand hat das bewusst gemacht.
+[00:05:11] Andreas: Und zwar, ihr seid unübersichtlich, es sind Schiffe um euch herum. Ein TIE Fighter fliegt einfach direkt vor deinem Cockpit durch. Du siehst einen TIE Fighter. Dahinter die typische pfeilförmige Struktur. Dahinten in diesem roten, neblichen Gebiet eines Sternenzerstörers.
+[00:05:35] Andreas: Und ein anderes Schiff, relativ nah bei dir, direkt vor dir eigentlich, ein riesiges Drum, ein langes, garrenartiges Raumschiff und es herrscht eine große Schlacht. Das ist es. Aber du bist jetzt nicht direkt drin, sondern noch ein paar tausend Kilometer davon entfernt und insofern kannst du unter Umständen noch reagieren.
+[00:06:02] Andreas: Was tust du also?
+[00:06:07] Friedrich: Also ich möchte die Scanner aktivieren, um zu gucken, wer da...
+[00:06:12] Friedrich: Also anscheinend ist ja das Imperium da irgendwie involviert, aber wer da...
+[00:06:16] Friedrich: Welche Schiffe da sonst auf der anderen Seite stehen und ob das
+[00:06:20] Friedrich: halt alles vor uns stattfindet oder ob um uns herum vielleicht noch irgendwas sich befindet.
+[00:06:26] Friedrich: Also die Nummer kenne ich von einem vorherigen Contract, wo ich mit denen zusammengearbeitet habe.
+[00:06:55] Andreas: Aber der hat so etwas Ähnliches wie eine Atmosphäre. Und du kriegst die Signale, die sind auch teilweise hier eingespeichert, von verschiedenen Schiffen. Und zwar ist hier der imperiale Sternenzerstörer, der Imperial 1 Klasse Titan unterwegs.
+[00:07:17] Andreas: und du hörst alle möglichen Funksignale und die laufen durch von irgendwelchen Warnungen, Angriffen, Attackensequenzen
+[00:07:31] Andreas: und dieser imperiale Sternenzerstörer hat wohl seine komplette TIE-Flotte gerade engaged, die kämpfen.
+[00:07:41] Andreas: und gleichzeitig das direkt vor euch befindliche Schiff.
+[00:07:48] Andreas: Also direkt sieht so aus, als wäre es direkt vor dir,
+[00:07:51] Andreas: aber nein, das Schiff ist einfach nur gewaltig.
+[00:07:55] Andreas: Dieses Schiff ist in der Datenbank als Obsidian Arrow gekennzeichnet.
+[00:08:02] Andreas: Der Obsidian Arrow ist ein Providence Cruiser,
+[00:08:05] Andreas: ein alter Separatistenkreuzer,
+[00:08:09] Andreas: der dafür eingesetzt wurde, ganze Planeten anzugreifen, um sie zu übernehmen.
+[00:08:16] Andreas: Also diese Providence Cruiser haben Battletroids abgesetzt.
+[00:08:23] Martin: Also es waren Invasionsschiffe mit Bodentruppen, die sie transportiert haben.
+[00:08:28] Andreas: Richtig. Und die sind nun dort.
+[00:08:31] Andreas: Und jetzt bekommt ihr das erste Signal.
+[00:08:35] Andreas: Und zwar der imperiale Sternenzerstörer Titan pingt dich an.
+[00:08:41] Andreas: Ping. Ping.
+[00:08:44] Andreas: Bitte um Unterstützung.
+[00:08:46] Andreas: Es läuft ein imperiales Signal mit einer ISB-Nummer, die du kennst aus deiner Vergangenheit, Galrixdo, läuft hier durch, als wäre das Schiff, die Turbot, Teil des ISB-Netzwerks.
+[00:09:01] Andreas: Und der Titan nimmt einfach ganz regulär mit dir Kontakt auf. Was tust du?
+[00:09:08] Andreas: Du kennst diese Art der Signatur. Du kennst nicht genau die Nummer, du weißt aber ganz genau, dass diese Kodierung eine USB-Kodierung ist. Du hörst Fußschritte im Hintergrund, aber ihr beide dürft jetzt erstmal was tun. Kellum und Komaru, was tut ihr?
+[00:09:13] Friedrich: die okay also erstmal noch über die bordeinlage noch mal einen spruch geschützt firma besitzen
+[00:09:30] Friedrich: wir haben kriegen kontakt von ihr ist von dem sb denn zerstörer also das heißt er kommt auf
+[00:10:01] Benjamin: Das ist ja, glaube ich, in der Mitte, dann kann man ja hoch und mich dort positionieren und dort erstmal versuchen, einen Überblick zu bekommen, was hier eigentlich gerade passiert.
+[00:10:19] Benjamin: Ja. Hi!
+[00:10:27] Andreas: was man einen Flügel nennt, die in verschiedenen Fächerformationen angreifen.
+[00:10:33] Andreas: Und zwar greifen die immer so an, dass die TIE-Fighter etwas tiefer fliegen,
+[00:10:37] Andreas: die TIE-Bomber dann in Fächerformationen darüber und dann die Interceptors nach vorne ausgreifen.
+[00:10:44] Andreas: Das heißt also, es ist dieses typische Angriffsmanöver, welches im Grunde so aussieht wie ein Fächer, der ausfährt.
+[00:10:49] Andreas: und in der Mitte fährt der Sternenkreuzer der Imperial-Klasse direkt frontal,
+[00:10:58] Andreas: letztendlich in hoher Geschwindigkeit, auf das andere Schiff, die Obsidian Arrow, zu.
+[00:11:06] Andreas: Und ja, er kommt im Grunde von schräg rechts über euch, nach und nach auf euch zu
+[00:11:06] Friedrich: uns zu ja oder leo winken der soll eigentlich ins bett nichts da stern zerstörer hat uns mit
+[00:11:13] Andreas: und diese Obsidian Arrow ist aber ja auch Kilometer von euch entfernt und trotzdem so riesig.
+[00:11:18] Andreas: Und die Obsidian Arrow lässt an den verschiedenen Hangars jetzt selbst Fighter raus, die anders aussehen. Und zwar haben die eine spezielle Struktur. Ich muss das jetzt leider wieder so umstellen, dass ihr das sehen könnt.
+[00:11:38] Andreas: Die sehen im Grunde eher so aus, wie man sich ein Raumschiff vorstellt. Also die haben zwei Flügel vorne, ein Cockpit und unter dem Flügel ihren Antrieb und ihre Laserkanonen. Seht ihr das? Zudem haben die auch ganz unterschiedliche, teilweise hochkant fliegende Bomber oder andere Schiffe, die hier mit dabei sind.
+[00:12:01] Andreas: Und jetzt seht ihr auch die ersten... Hallo! Hallo Leo! Schönen Abend! So, während du nach und nach jetzt die Obsidian Arrow siehst, wie sie seitlich zu euch kommt, erkennt ihr eine große goldene stilisierte Sonne auf dieses Schiff gemalt.
+[00:12:10] Benjamin: Haben wir das schon mal irgendwo gesehen?
+[00:12:13] Martin: Wer will heute mitspielen?
+[00:12:17] Martin: Jetzt mach mal einen Charakter.
+[00:12:18] Martin: Also Kumaro ist ja gleich beim ersten Alarm auf die Brücke, weil er sich gefreut hat, dass endlich was los ist, weil er sich schon sehr gelangweilt hat. Und kriege ich jetzt den Hilferuf mit, den imperialen? Oder wahrscheinlich nicht. Ja, ja, ich ruhe mich aus, passt schon.
+[00:12:35] Andreas: Und zwar sieht diese Sonne so aus.
+[00:12:49] Andreas: Also sie hat oben...
+[00:12:52] Andreas: Später. Später. Später.
+[00:12:56] Benjamin: Okay.
+[00:12:58] Andreas: Du erkennst, er hat dieses Zeichen.
+[00:13:02] Andreas: Black Sun. Irgendwelche Söldner. Irgendwas. Untergrund. Was auch immer. Du weißt es noch nicht so genau.
+[00:13:11] Andreas: Galrixto allerdings ganz genau
+[00:13:16] Andreas: Black Sun ist eines der Syndikate
+[00:13:19] Andreas: und die haben eigentlich gar keine so großen Schiffe
+[00:13:26] Andreas: Ja, jetzt Komaru
+[00:13:32] Andreas: Ja, ja, ja
+[00:13:44] Andreas: Ganten kommt auch
+[00:13:46] Andreas: Was ist denn los?
+[00:13:51] Friedrich: Imperia mit ISB-Kennung angefunkt
+[00:13:53] Friedrich: und bittet um Hilfe
+[00:13:54] Friedrich: im Kampf.
+[00:13:57] Andreas: Ich werde antworten
+[00:13:58] Andreas: Du fliegst, Komaru
+[00:13:59] Andreas: also ihr seht ganz kurz, wie Ganten sich an den Kommunikations
+[00:14:04] Martin: wollen wir ihn denn ausbeten ich fragte rieckst du mal was für eine hilfe wollen die denn von uns
+[00:14:10] Andreas: Ganten setzt sich an den Kommunikationsrechner
+[00:14:15] Andreas: und tippt, er tippt also irgendwelche Sachen ein
+[00:14:19] Andreas: er beachtet euch nicht weiter
+[00:14:21] Andreas: ja, ihr könnt euch entscheiden, Ganten ist abgelenkt, was tut ihr?
+[00:14:30] Friedrich: Also die von der...
+[00:14:33] Friedrich: Das sind diese beiden großen Raume,
+[00:14:35] Friedrich: der Sternenzerstörer und die
+[00:14:36] Friedrich: Obsidian Arrow, die kämpfen gegeneinander
+[00:14:39] Friedrich: und die lassen jetzt jeweils ihre Schiffe raus.
+[00:14:41] Friedrich: Der Sternenzerstörer hat seine TIE weiter
+[00:14:42] Andreas: genau, ja, richtig, die verlassen
+[00:14:43] Friedrich: rausgelassen und der Black Arrow
+[00:14:45] Friedrich: lässt diese Black Sun Chips, die du
+[00:14:47] Friedrich: da zeigst, raus.
+[00:14:50] Andreas: gerade den Hangar bei dem Obsidian Arrow von der Black Sun mit den Schiffen. Die Imperialen haben
+[00:14:58] Andreas: allerdings ihre Fächerformation schon angefangen und jetzt gerade beginnen die Bomber mit dem Anflug,
+[00:15:06] Andreas: sodass also dann die Photonentorpedos abgeworfen werden, um den großen Kreuzer da auszuschalten.
+[00:15:12] Andreas: Weil eigentlich kämpfen die großen Schlachtschiffe nicht gegeneinander, sondern das machen die Bomber,
+[00:15:16] Andreas: die sich gegenseitig ausschalten.
+[00:15:19] Friedrich: Das heißt, die TIE-Bomber
+[00:15:21] Friedrich: lassen ihre Bomben schon auf die
+[00:15:23] Friedrich: Obsidian Arrow ab.
+[00:15:23] Andreas: Das geht jetzt langsam los.
+[00:15:25] Andreas: In der nächsten Minute werden die absetzen.
+[00:15:25] Friedrich: Okay.
+[00:15:28] Friedrich: Ich habe noch
+[00:15:29] Friedrich: zwei andere Fragen, aber die Turbot hat,
+[00:15:31] Andreas: Ja, ein Klasse 1 Schildsystem, ganz schwach.
+[00:15:31] Friedrich: wir haben Schilde an der Turbot oder
+[00:15:33] Friedrich: wie ist die ausgestattet?
+[00:15:42] Friedrich: Und der Planet,
+[00:15:43] Andreas: Der Frachter hat halt Panzerung.
+[00:15:44] Friedrich: der da,
+[00:15:46] Friedrich: ja, okay,
+[00:15:47] Friedrich: der Planet, der da zu sehen ist,
+[00:15:49] Friedrich: der auf dem Bild, der ist auch in Wirklichkeit da.
+[00:15:52] Andreas: Der Planet ist da.
+[00:15:53] Friedrich: Und was ist das für ein Planet?
+[00:15:55] Friedrich: Haben die Sensoren das irgendwie angezeigt?
+[00:15:55] Andreas: Jetzt läuft es durch.
+[00:15:58] Andreas: Das ist der Planet Iego.
+[00:16:01] Andreas: Iego.
+[00:16:02] Andreas: Hier steht, tropisch, heiß, basalt und dann fast unbewohnt. Und jetzt bitte ich dich um einen Wurf auf History bzw. auf Investigation, was du möchtest.
+[00:16:02] Friedrich: Ist der irgendwie bewohnt?
+[00:16:04] Friedrich: Hat der eine...
+[00:16:05] Friedrich: Feste Planetennobfläche 25.
+[00:16:24] Andreas: Ah, du weißt was über IEGO. IEGO ist das Planetensystem ohne Sonne. Es gibt nur ganz wenige davon. Die Beleuchtung kommt über dieses verteilte Extricarium-Plasma, welches im ganzen Sonnensystem verteilt ist und dieses rote Leuchten hier darstellt.
+[00:16:58] Andreas: Es ist teilweise zu solchen kleinen sonnenartigen Mondstrukturen zusammengeballt, aber eigentlich ist es ein großes Feld aus brennendem Plasma, in dem ihr euch jetzt da befindet. Hier muss man wissen, wo man entlangfliegen muss, ansonsten ist man ganz schnell weg mit seinem Schiff.
+[00:17:14] Andreas: Meistens sind diese riesigen Extricarium-Wolken übersät mit Schiffswracks, mit allen möglichen Dingen und Sachen aus dem, also Asteroiden und so weiter, die sich nach und nach dann ansammeln und in diesem Feld nach und nach sich ansammeln so lange,
+[00:17:35] Andreas: bis dann in diesem planetaren System diese Konvektion einsetzt und dann die neue Sonne zusammengezogen wird.
+[00:17:45] Andreas: Das ist also ein Planet, der entweder nach der Explosion der Sonne noch weit genug draußen,
+[00:17:53] Andreas: jetzt im Plasma-Feld einer explodierten Sonne vorhanden ist,
+[00:17:58] Andreas: Oder aber es ist in diesem grünen Stadium des Sonnensystems und der Trabant ist noch von einem alten Sonnensystem übrig. Das heißt also, das ist eine wirklich spannende Situation, die man hier vor sich findet, eine sehr interessante.
+[00:18:15] Andreas: Aber der Planet ist bewohnbar bzw. tatsächlich kann man dort, also es gibt eine Atmosphäre, nur wie du siehst. Du erinnerst dich daran, als du über IEGO nachgelesen hast, schon früher.
+[00:18:25] Friedrich: Und ist der auch bewohnt?
+[00:18:27] Friedrich: Könnten wir darauf landen?
+[00:18:35] Andreas: du weißt, dieser Planet ist mal vorgekommen
+[00:18:40] Andreas: in diesem Projekt, welches sehr wichtig für dich ist.
+[00:18:46] Andreas: Das war eine der wichtigen Informationen, die dort gehandelt wurde.
+[00:18:51] Andreas: Und der Planet Iego, der ist, also zwei Dinge sind wichtig.
+[00:18:59] Andreas: Also erst mal gab es dort eine Stadt, Cliffholt heißt die.
+[00:19:03] Andreas: Und diese Stadt Clifford konnte nicht verlassen werden. Von allen, die dort abgestürzt sind, konnte die Stadt nicht verlassen werden, weil ein Separatisten-Lasersystem über den Planeten gelegt war, um die Bewohner darin gefangen zu nehmen.
+[00:19:23] Andreas: Man weiß nicht genau weshalb, aber die Leute sind dort gefangen genommen worden und konnten dann nicht mehr fort. Also wer auch immer mit seinem Schiff durch die Atmosphäre geflogen ist, dem wurde reingelassen, aber nicht mehr rausgelassen. Und diese ganze Sache wurde während der Klonkriege zerstört.
+[00:19:39] Andreas: und du weißt nicht mehr genau,
+[00:19:42] Andreas: was die Hintergründe waren, aber das ist schon sehr, sehr viel
+[00:19:45] Andreas: Information, die du einfach hast, weil du dich schon
+[00:19:47] Friedrich: Also meine Einschätzung ist,
+[00:19:48] Andreas: damit beschäftigt hast. Und zwar hatte das
+[00:19:50] Andreas: den Hintergrund, dass eine,
+[00:19:55] Andreas: es hieß, eine der wichtigen Waffen,
+[00:19:58] Andreas: die deine Leute, also die
+[00:20:00] Andreas: Chiss haben wollten, befand sich in diesem
+[00:20:03] Andreas: System und
+[00:20:06] Andreas: als dann aber die
+[00:20:08] Andreas: Republik, die alte Republik
+[00:20:11] Andreas: dort zuerst hingekommen ist,
+[00:20:13] Andreas: haben die wohl diese Waffe beschafft.
+[00:20:16] Andreas: Also das ist also wirklich
+[00:20:17] Andreas: sehr, sehr interessanter Ort und
+[00:20:19] Andreas: du kannst dir vorstellen, warum hier gekämpft
+[00:20:21] Andreas: wird. Ja, jetzt seht ihr
+[00:20:25] Andreas: Moment, jetzt seht
+[00:20:27] Andreas: ihr, wie die Bomber ihre
+[00:20:28] Andreas: Photonentorpedos ausklinken. Das
+[00:20:31] Andreas: heißt also, ihr seht jetzt
+[00:20:32] Andreas: tausende Photonentorpedos
+[00:20:35] Andreas: auf diesen
+[00:20:37] Andreas: auf die Obsidian Arrow losfliegen
+[00:20:39] Andreas: und die entsprechenden Raketen und so weiter, die hier und Countermeasures nach und nach einsetzen.
+[00:20:47] Andreas: Und die beiden Fighterflotten treffen nun aufeinander und es entsteht dieser riesige Dogfight vor euch, den ihr hier erkennen könnt.
+[00:20:58] Friedrich: wir können uns dem Kampf entweder anschließen,
+[00:21:01] Friedrich: das sage ich wieder durch die Raumschiff-Sprechanlage,
+[00:21:04] Friedrich: dass alle das hören.
+[00:21:07] Friedrich: So wie sich die Situation gerade ausmalt,
+[00:21:10] Friedrich: Ausmalt schätze ich, dass wir auf Imperiums Seite bessere Chancen haben, diesen Kampf zu überleben. Allerdings wird unsere Schildpanzerung wahrscheinlich sehr getestet werden. Eine Alternative wäre, dass wir versuchen, auf dem Planeten hier landen und dem Kampf versuchen auszuweichen.
+[00:21:32] Andreas: Aber bevor ihr jetzt antwortet, ist jetzt erstmal Komaru dran, um in der ganzen Zeit, die ich dir Informationen gegeben habe,
+[00:21:39] Andreas: ob die Ganten dran saß, zu handeln.
+[00:21:41] Andreas: Und dann ist auch noch Calum wieder dran.
+[00:21:44] Andreas: Aber Kumaro, du bist jetzt erst mal mit was immer auch du tun möchtest.
+[00:21:45] Benjamin: 17, jetzt muss ich ganz
+[00:21:48] Andreas: Du stehst hier im Cockpit, du hast die Informationen vorliegen.
+[00:21:51] Andreas: Was möchtest du tun?
+[00:21:58] Martin: und du willst du überhaupt etwas sagen dass uns einfach abhauen sonst bekommen die nur mehr
+[00:22:00] Friedrich: Das habe ich noch nicht gehört. Sie haben nur um Unterstützung gebeten und ich deute auf Ganden. Er wollte antworten.
+[00:22:09] Andreas: Ich sage, wir sind auf einer Mission und wollen uns heraushalten,
+[00:22:15] Andreas: murmelt Ganten vor sich hin.
+[00:22:22] Martin: informationen das nicht nur ich war ab was die spezialisten machen was ist denn die schwarze
+[00:22:24] Andreas: Sie haben uns ja schon angepingt.
+[00:22:27] Friedrich: Pauen ist hier auch nicht ganz so einfach.
+[00:22:30] Andreas: Genau, also dazu, du weißt es jetzt, Galrix,
+[00:22:33] Andreas: ihr könnt nicht abhauen.
+[00:22:35] Andreas: Man kann nicht mehr ohne den Hyperraumknoten in den Hyperraum hier eintreten. Ansonsten kannst du wild fliegen. Du kannst natürlich versuchen, in diese Plasma-Wolke hier hineinzufliegen, in irgendeine Seite. Übrigens, das IEGO-System heißt das System der tausend Monde. Es gibt keine Sonne. Das Ganze ist quasi statisch.
+[00:22:57] Andreas: Und es gibt hier im Grunde ja nichts, worum sich etwas drehen kann. Vielleicht dreht sich alles um den großen Planeten Iego und diese ganzen Trabanten, die hier herumfliegen, diese fast fertigen oder sich schon bereits auflösenden Monde, die man hier erkennen kann, die sind teilweise bewohnbar, teilweise vielleicht nicht bewohnbar.
+[00:23:19] Andreas: bewohnbar. Das heißt, aber
+[00:23:21] Andreas: überall um euch herum hat es
+[00:23:23] Andreas: größere und kleinere Trabanten und auch
+[00:23:25] Andreas: Asteroidengürtel und es ist
+[00:23:27] Andreas: wirklich schwierig hier zu manövrieren.
+[00:23:31] Friedrich: Also wenn wir eine sehr genaue Sternenkarte von diesem System haben,
+[00:23:35] Friedrich: dann könnten wir versuchen, so wie in der Aszendenz gereist wird,
+[00:23:40] Friedrich: mit Mikrosprüngen uns hier vorzubewegen.
+[00:23:42] Friedrich: Aber das halte ich für extrem gefährlich wegen der Plasma-Beschaffenheit,
+[00:23:46] Friedrich: die dieses System erhält.
+[00:23:52] Andreas: Komaru, möchtest du noch irgendwas
+[00:23:54] Andreas: Spezielles tun?
+[00:24:00] Andreas: Kelum, ich bitte dich um
+[00:24:02] Andreas: einen Machtwurf. Einfach nur
+[00:24:04] Andreas: einen W20 und
+[00:24:05] Andreas: deine
+[00:24:07] Andreas: mystische Fähigkeit draufschmeißen.
+[00:24:16] Benjamin: kurz gucken.
+[00:24:19] Benjamin: Der Charakterbogen ist noch nicht ganz fertig,
+[00:24:21] Benjamin: aber das müssten...
+[00:24:21] Andreas: 15 war die Schwierigkeit.
+[00:24:23] Andreas: Du hast also auf jeden Fall...
+[00:24:23] Benjamin: Ja, okay, dann...
+[00:24:24] Benjamin: Also ich müsste auf 20 kommen, wenn ich es gerade richtig
+[00:24:24] Andreas: Genau, okay. Ja, das ist schon eine wichtige Info, also eine schmutzige 20 und folgendes.
+[00:24:27] Benjamin: habe.
+[00:24:35] Andreas: Sobald ihr hier aus dem Hyperraum getreten seid, hat dich dieses Plasma letztendlich eingeschlossen.
+[00:24:44] Andreas: Du fühlst dich wie in einer Glocke innerlich und gleichzeitig verbunden mit dem da draußen.
+[00:24:54] Andreas: dieser unwirtlichen, seltsamen, tödlichen Natur da draußen.
+[00:25:03] Andreas: Nicht für Lebewesen geeignet und geschaffen.
+[00:25:09] Andreas: Das ist das Erste, was du wahrnimmst.
+[00:25:11] Andreas: Und das Zweite, hier ist ein Machtnutzer aktiv.
+[00:25:18] Andreas: Und zwar ist hier eine Präsenz vorhanden.
+[00:25:25] Andreas: Und das seht ihr alle nicht, aber Caelum kann es wahrnehmen. Als die erste Salve der Photonentorpedos mit ihren langen blauen Strichen, mit diesen, weiß nicht, wie man das nennt, Feuern hinten am...
+[00:25:49] Andreas: durch diese rote Wolke auf die Plexam zu fliegen.
+[00:25:55] Andreas: Siehst du, wie sich mehrere von den Fightern der Obsidian Arrow absetzen
+[00:26:01] Andreas: und tatsächlich auch wie in so einer Fächerbewegung ganz genau jeweils in die Position der Photonentorpedos begeben
+[00:26:13] Andreas: und dann nach und nach.
+[00:26:19] Andreas: In 30 Explosionen, 40 Explosionen einen großen Teil der anfliegenden Photonentorpedos in einem Selbstmordkommando abfangen.
+[00:26:31] Andreas: Von den Imperialen abgeschossen auf die Obsidian Arrow eingeflogen, in einer tödlichen Salve, die normalerweise solche Schiffe ausschellt. Diese alten Schiffe haben keine Chance gegen einen Sternenzerstörer der Imperialen 1-Klasse.
+[00:26:35] Benjamin: Nur noch mal zu verständen.
+[00:26:36] Benjamin: Also die Torpedos, die kamen
+[00:26:38] Benjamin: zu den Imperialen.
+[00:26:41] Benjamin: Genau, gut.
+[00:26:41] Benjamin: Ja, die dann eigentlich würde ich gerne über den Bordfunk zumindest funken.
+[00:26:57] Andreas: Die sind einfach viel moderner ausgerüstet und die hätten die zerlegt, auch wenn die ein ordentliches Schild oder so dran hätte, einfach durch die geballte Masse an Angriff hätte man die zerlegt.
+[00:27:10] Andreas: Und die Turbolaser der beiden großen Schiffe schießen ja konstant jetzt schon Salven aufeinander, um einfach die Kapazität der Schilde auszu- oder zu verringern. Aber jetzt wäre eigentlich der Einschlag gewesen, der die Schlacht in Richtung der Imperialen gekippt hätte. Das ist nicht geschehen.
+[00:27:31] Andreas: Und dieses kollektive, koordinierte Selbstmordkommando, welches du hier siehst, dass diese Schiffe der Black Sun durchführen, um ihr Mutterschiff zu schützen, das bestärkt dich in dem Glauben an die tödliche und menschen- und lebensfeindliche Natur der Galaxis.
+[00:28:09] Benjamin: Die Macht ist stark dort draußen auf der Seite der schwarzen Sonne.
+[00:28:17] Martin: ist das irgendeine Inquisitionseinrichtung? Verbrecher? Mit solchen Schiffen? Mit so einem Schiff? Also ich bin dafür, so blöd es sich anhört, dass wir das imperiale Schiff unterstützen. Das ist echt eine Wahl zwischen Pest und Cholera, aber wie geht das? Also mir wäre es lieber festen Boden unter den Füßen zu haben, das schon.
+[00:28:22] Andreas: Nein, sagt Gunton, die Black Sun sind ein Verbrechersyndikat.
+[00:28:32] Andreas: Ein Verbrechersyndikat.
+[00:28:34] Andreas: Piraten.
+[00:28:36] Andreas: Sklavenhändler.
+[00:28:40] Andreas: Sie haben wohl ein altes Separatistenschiff gekapert oder ausgerüstet.
+[00:28:45] Andreas: Ihr seht jetzt, das geht, aber ihr seht folgendes.
+[00:29:07] Friedrich: Wieso landen wir nicht auf Jägerung?
+[00:29:16] Martin: Das Problem ist, wenn wir dem Imperium helfen und sie gewinnen, dann dürfen wir an Bord kommen und sie bedanken sich bei uns und dann gibt es Ärger.
+[00:29:20] Andreas: Aus der Obsidian Arrow setzen sich nun unten diese typischen breiten Landungsschiffe.
+[00:29:29] Andreas: die Kampfdroiden absetzen.
+[00:29:32] Andreas: Und zwar drei Stück setzen sich nach unten ab und fliegen in Richtung Iego.
+[00:29:39] Andreas: Begleitet von Saarfeitern und auch bereits beharpt von mehreren angreifenden Taifeitern.
+[00:29:47] Andreas: Ihr kommt jetzt der Schlacht natürlich schon etwas näher, denn die Schlacht kommt auf euch zu.
+[00:29:54] Andreas: Also jetzt müsstet ihr euch dann entscheiden.
+[00:30:02] Andreas: Wir können uns nicht der schwarzen Sonne anschließen, sagt Ganten.
+[00:30:05] Andreas: Aber ansonsten weiß ich auch nicht, was wir tun sollen.
+[00:30:26] Martin: Wenn wir ihnen nicht helfen und uns verdrücken und sie die schwarze Sonne besiegen, dann sind wir vielleicht sicher und können hinterher abhauen.
+[00:30:39] Martin: Wenn wir unterstützende Piraten gewinnen, haben wir auch ein großes Problem.
+[00:30:46] Martin: Eigentlich sind alle Varianten blöd, aber ich würde trotzdem dem Schwarzen Saar nicht helfen.
+[00:30:52] Martin: Wenn du denkst, wir können landen, wäre mir das lieb.
+[00:30:57] Friedrich: Ich bin mir ziemlich sicher, dass wir landen können.
+[00:31:00] Martin: Dann los, machen wir nicht lange rum.
+[00:31:03] Andreas: Gibt es denn einen Raumhafen auf Iego, fragt Ganten.
+[00:31:07] Friedrich: Es gibt eine alte Stadt.
+[00:31:09] Friedrich: Ich weiß allerdings nicht mehr, in welchem Zustand sie ist.
+[00:31:11] Friedrich: es war während der Separatistenkriege, wurde dieser Planet sehr umkämpft.
+[00:31:17] Friedrich: Das ist ungefähr das Einzige, also das meiste, woran ich mich noch erinnere, sind das die Informationen.
+[00:31:17] Andreas: Auf der Cliffhold oder Klippenhorst oder wie man es auch immer sagen möchte, das ist die Stadt.
+[00:31:31] Andreas: Ganten, wenn du meinst...
+[00:31:34] Martin: Ich habe Kippenhorst verstanden und habe gleich ganz gut angenehm gesagt, dass du es rauchen kannst.
+[00:31:35] Andreas: Klippenhorst.
+[00:31:42] Martin: Ich mache dir im Namen alle Ehre.
+[00:31:43] Andreas: Genau.
+[00:31:48] Andreas: Aber nichts dagegen, zum Planeten zu fliegen.
+[00:31:51] Andreas: Ich habe den Imperialen gesagt, wir sind aus dem Hyperraum geflogen, wegen dem fehlenden Beacon.
+[00:31:59] Andreas: Wir haben aber eine wichtige eigene Mission.
+[00:32:01] Andreas: Das heißt, ihr kriegt jetzt mehrere Funksignale von Imperialen und mehrere Funksignale aber jetzt auch der Black Sun und Gunton antwortet aber darauf. Wenn du möchtest, kannst du mitlesen. Mit einem kleinen Klick und deinen Computerfähigkeiten kannst du mitlesen.
+[00:32:21] Friedrich: Ja, ich würde mitlesen.
+[00:32:30] Andreas: Gunton hat es zwar abgeschaltet, aber nicht irgendwie gesichert oder so.
+[00:32:35] Andreas: Er hat einfach nur tatsächlich den kleinen Bildschirm seitlich bei dir vorne am Cockpit
+[00:32:40] Andreas: über die Kommunikation umgeleitet und hat dir dort die Schilde angezeigt,
+[00:32:46] Andreas: sodass du also ganz genau informiert warst über den Zustand des Raumschiffes,
+[00:32:50] Andreas: aber nicht über seine Kommunikation.
+[00:32:53] Andreas: Er gibt Folgendes durch.
+[00:32:55] Andreas: Eine Kennung, eindeutig imperialer ISB, eine Projektkennung und dann eine verschlüsselte Nachricht, die im Grunde so ähnlich aussieht wie ein kurzer Brief oder eine kurze persönliche Note.
+[00:33:30] Andreas: sich die Politikabteilungen, also größere imperiale Einheiten haben ja immer Politikoffiziere,
+[00:33:38] Andreas: sind meistens die weiß-uniformierten ISB-Offiziere, die irgendwelche Security-Sachen machen und
+[00:33:47] Andreas: er schickt hier quasi wie von einem zum anderen eine verschlüsselte Nachricht. Und die Verschlüsselung
+[00:33:53] Andreas: ist eine Nachricht, das lernen die auswendig.
+[00:33:59] Andreas: Das heißt, das ist nichts, was man in einem Stick mit sich trägt
+[00:34:04] Andreas: oder was man sonst wie verschlüsseln oder entschlüsseln kann,
+[00:34:08] Andreas: sondern die haben so eine Art Code, den lernen sie auswendig
+[00:34:12] Andreas: und mit dem können sie kommunizieren.
+[00:34:14] Andreas: Ein großer Teil der Ausbildung liegt in diesen Sachen.
+[00:34:20] Andreas: und
+[00:34:22] Andreas: ja, du siehst
+[00:34:26] Andreas: nicht spontan, wie du es
+[00:34:28] Andreas: entschlüsseln könntest.
+[00:34:31] Friedrich: Ja, ich ändere dann unseren Kurs, dass wir auf den Planeten zufliegen
+[00:34:31] Andreas: Siehst du?
+[00:34:35] Friedrich: und beginne quasi den Landeanflug auf den Planeten
+[00:34:36] Andreas: Mhm.
+[00:34:41] Friedrich: und versuche so ein bisschen wegzukommen von der Route,
+[00:34:44] Friedrich: die diese Landungsraumschiffe da nehmen.
+[00:34:48] Andreas: Stopp, kommt jetzt imperiales Schiff,
+[00:34:52] Andreas: landen sie
+[00:34:53] Andreas: nicht auf unserem Planeten.
+[00:34:55] Andreas: Stopp, imperiales Schiff,
+[00:34:57] Andreas: landen sie nicht auf unserem Planeten.
+[00:34:59] Andreas: Hier spricht die Obsidian Arrow.
+[00:35:02] Andreas: Das System
+[00:35:03] Andreas: IEGO wird durch
+[00:35:05] Andreas: die schwarze Sonne beansprucht.
+[00:35:09] Andreas: Stopp, imperiales Schiff, landen sie nicht auf dem Planeten.
+[00:35:15] Friedrich: Also das kam jetzt an uns.
+[00:35:17] Andreas: Ja, gar nichts. Du siehst gar nichts. Aber jetzt bitte ich
+[00:35:18] Benjamin: Haben wir zumindest optisch irgendwelche Anzeichen von orbitalem Verteidigungssystem?
+[00:35:25] Benjamin: Irgendwelche Satelliten, irgendwas? Gar nicht zu sehen.
+[00:35:30] Andreas: Komaru und Calum
+[00:35:34] Andreas: um einen ganz normalen Wahrnehmungswurf, Perception.
+[00:36:00] Benjamin: Bei mir müssen es 13 oder 14 sein, ja.
+[00:36:05] Andreas: Gut. Also, ihr
+[00:36:12] Andreas: seht folgendes. Die Schlacht, also ihr während
+[00:36:16] Andreas: Wenn ihr im Landeanflug seid, begebt ihr euch ja quasi nach links in Richtung Planetenoberfläche. Die Planetenoberfläche ist nur außen mit solchen roten Blitzen beleuchtet. Das ist sowas ähnliches wie ein komplett den Planeten überziehendes Netz an Sonnenwinden oder einer Art Wetterleuchten, das man da erkennen kann.
+[00:36:39] Andreas: Darunter ist eine dicke, dunstige Wolkenschicht zu erkennen und unter der Wolkenschicht an manchen Stellen so etwas Ähnliches wie Kontinente.
+[00:36:50] Andreas: Es ist also kein Lavafluss oder dergleichen, sondern es gibt eine Atmosphäre.
+[00:36:56] Andreas: Nur dieses leuchtende Plasma erzeugt elektromagnetische Strömungen und Partikel, die hier von allen Richtungen auf den Planeten einfliegen.
+[00:37:07] Andreas: Der Planet wird jetzt nach und nach unter euch immer größer und die Schlacht über euch könnt ihr jetzt aus einer anderen Perspektive sehen. Um die Obsidian Arrow haben sich nun in einer riesigen Blase, in einer riesigen Wolke diese ganzen Fighters versammelt und schießen auf die Obsidian Arrow.
+[00:37:31] Andreas: Aber dann seht ihr, wie aus der Seite der Obsidian Arrow relativ große Turbolaser-Kanonen, und zwar eine riesige Batterie, losschießen.
+[00:37:41] Andreas: Und diese wiederum schlagen in dem Titan, in dem Sternenzerstörer, ziemlich schwer ein.
+[00:37:47] Andreas: Und der Sternenzerstörer bekommt dieses Wetterleuchten, blaue Blitze über sein Schildsystem. Und diese blauen Blitze deuten darauf hin, das wisst ihr alle, wenn man das sieht, das ist die finale Phase des tatsächlichen Schildes.
+[00:38:08] Andreas: Wahrscheinlich sind es spezielle Ionenlaser, die da abgeschossen wurden und das komplette Schildsystem dieses Sternenzerstörers wird in den nächsten Minuten ausfallen. Das ist überraschend. Doch bessere Technologie als erwartet. Ich kann euch das jetzt mal kurz zeigen.
+[00:38:29] Andreas: es ist die Schlacht gar nicht so unausgeglichen wie gedacht, sondern es hat der eine und der andere etwas zu bieten.
+[00:38:42] Andreas: Also ihr seht die ersten Einschläge auf der Oberfläche dieses riesigen Sternenzerstörers.
+[00:38:47] Andreas: So ein Sternenzerstörer, nur als Info, hat eine Crew von ca. 24.000 Personen.
+[00:38:54] Andreas: Das heißt also, da hat es zwei Legionen meistens drauf, 7900 Sturmtruppler, 7900 imperiale Truppler und dann eben der Rest sind Highfighter-Crew, Mechanics, alles was man so braucht.
+[00:39:12] Andreas: Ein imperialer Sternzerstörer wird ja eingesetzt, um diese Planeten zu unterdrücken. Da gibt es 20 ATs drauf, da gibt es verschiedene Landungssysteme und so weiter. Also das sind riesige Kampfstationen, die hier gegeneinander kämpfen und aufeinander losgehen.
+[00:39:36] Andreas: Und die Schlacht geht weiter. Ihr hört jetzt die ersten Warnsignale und jemand, der als Commodore Ares beschrieben wird, hat sein Comm aufgeschaltet und hält eine anfeuernde Rede an seine Truppen.
+[00:39:56] Andreas: Dies ist ein System des Imperiums. Erinnert euch an eure Aufgabe. Wir sind Teil des ersten Geschwaders. Unsere Aufgabe ist, nicht zurückzuweichen und entweder pflastern die Leichen unserer Gegner das Feld oder die unseren.
+[00:40:25] Andreas: Angriff
+[00:40:28] Andreas: Bis zum letzten Mann.
+[00:40:38] Andreas: Eine weitere Salve des großen Schlachtschiffes wird ausgeschickt.
+[00:40:39] Friedrich: Diese Landeschiffe, die wurden auch von Teiljägern angegriffen.
+[00:40:44] Andreas: Und die kommen sich jetzt näher und behalten sich direkt relativ auf nahe Distanz, also ein paar Kilometer Abstand.
+[00:40:50] Andreas: Große Turbolaser, die in großen Salven wie so alte Segelschiffe in Breitseite gegeneinander aufeinander einschießen.
+[00:41:08] Andreas: Ja, zwei kleine Wolken von TIE-Jägern sind dort unten.
+[00:41:12] Andreas: Aber die TIE-Jäger sind fast vollständig vernichtet worden. Hier sind die Black Sun Schiffe in der Überzahl und die drei großen reitflüglichen Landesschiffe sinken jetzt in die Atmosphäre ein und ihr seht das typische Glühen und Leuchten und den langen Schweif des Eintritts in die Atmosphäre.
+[00:41:34] Andreas: Also während die Schlacht tobt, setzen sich jetzt drei Schiffe der Obsidian Arrow von dort vorne ab und halten auf euch zu. Sie drehen also quasi um und kommen auf euch zu. Dauert noch eine Weile, ihr könntet auch ausweichen, aber die fliegen auf jeden Fall auf euch zu.
+[00:41:46] Friedrich: Also ich halte weiter auf den Planeten zu.
+[00:41:49] Friedrich: Ich würde sagen, wir müssen uns darauf gefasst machen,
+[00:41:52] Friedrich: dass die Obsidian Arrow den Sternenzerstörer zerlegen kann.
+[00:42:00] Benjamin: Dessen Name habe ich gerade auf der imperialen Seite gehört, ja.
+[00:42:24] Andreas: imperiales Schiff, landen Sie nicht auf unserem Planeten.
+[00:42:31] Andreas: Stopp. Wir haben es nicht ausgeschaltet seitdem.
+[00:42:32] Friedrich: Welche Kennung senden wir?
+[00:42:36] Friedrich: Also haben wir dieses Gerät, das wir von Lothal haben,
+[00:42:44] Friedrich: das würde ich mal davon ausgehen, dass wir das nicht unbedingt aktiv haben,
+[00:42:49] Friedrich: sondern dass wir eine normale Kennung aussenden?
+[00:42:53] Friedrich: Um Sternenzerstörer. Nein. Wir können auf den Planeten oder in den Kampf einsteigen. Dann bringt es auch nicht, wenn wir uns da drauf verstecken. Ich schalte den Galrixus, schalte den, den, den, na, das dumme Gerät aus, dessen Name mir nicht einfällt.
+[00:42:53] Andreas: Wir haben eine imperiale Kennung gesendet, sagt Ganten.
+[00:42:58] Andreas: Deshalb habe ich auch sofort so kommuniziert.
+[00:43:05] Andreas: Jetzt ganz kurz wieder eine Information, und zwar Kelum.
+[00:43:10] Andreas: Als du über dein Komsignal den Namen Ares gehört hast,
+[00:43:17] Andreas: Und das erste Geschwader.
+[00:43:20] Andreas: Erinnerst du dich an etwas?
+[00:43:22] Andreas: Und zwar heißt dieser Han Ares, der Kommodor, Titan von Anaxes deshalb, weil der den Angriff auf Anaxes befehligt hat und den Planeten Anaxes vernichtet hat.
+[00:43:45] Andreas: Und seine Stimme, wie er seine Leute erfeuert hat mit diesen aufmunternden Worten zum Selbstmord.
+[00:43:52] Andreas: Der Sternenzerstörer hält relativ gerade immer noch auf den Obsidian Arrow zu.
+[00:43:56] Benjamin: Ich funke in die Brücke.
+[00:43:58] Benjamin: Wissen wir, von welchem Schiff kam diese Stimme?
+[00:44:07] Benjamin: Gucken wir raus.
+[00:44:08] Benjamin: Wie ist jetzt die Situation des Sternenzerstörers?
+[00:44:11] Benjamin: Der wurde angegriffen.
+[00:44:14] Benjamin: Ich meine, wir sind doch hier, also im Vergleich, eine Fliege zwischen zwei Titanen irgendwie.
+[00:44:22] Andreas: Und du hast es noch nie gesehen, aber du hast schon mal gehört, dass die spezielle Form dieses Schlachtschiffes im Zweifelsfall zum Rahmen eingesetzt wird.
+[00:44:34] Andreas: Also ich gebe euch jetzt mal noch ganz kurz von dieser Obsidian Arrow das Bild, sodass ihr euch das auch vorstellen könnt.
+[00:44:44] Benjamin: Oder wie muss ich mir so die Größen einschätzen?
+[00:44:57] Andreas: So, die Obsidian Arrow sieht so aus. Das ist also dieses typische Separatistenschiff. Die liegt in Breitseite, liegt in Breitseite der angreifenden Titan und nur das, auch das vielleicht nochmal, der imperiale Sternenzerstörer Titan. Sieht so aus. Ganz klassischer.
+[00:45:12] Benjamin: So ein Splitter.
+[00:45:32] Benjamin: So ein klassischer.
+[00:45:35] Andreas: Die Brücke befindet sich deshalb am anderen Ende des Schiffes, fällt dir jetzt auf, warum? Dass man vorne rammen kann. Und das ist, was der vorhat. Die Triebwerke leuchten hinten blau auf, ziehen ganz, ganz lange Triebwerksspuren in den rötlichen Himmel und diese beiden großen Titanen werden bald aufeinandertreffen.
+[00:45:42] Benjamin: Weil es rammt.
+[00:45:43] Benjamin: Sagst du mir nochmal kurz den Namen dieses Commanders?
+[00:46:05] Andreas: Tatsächlich sind die TIE Fighter jetzt sehr in der Minderzahl. Das waren so circa 70 Einheiten und sieht nicht mehr gut aus. Die Starfighter der Black Sun sind in der Überzahl und wie gesagt, drei fliegen weiterhin auf euch zu.
+[00:46:29] Andreas: Wer von euch möchte was tun?
+[00:46:42] Martin: Was ist denn los mit dir? Wovon sterilisieren?
+[00:46:43] Benjamin: Are...
+[00:46:43] Benjamin: Ja, Han Ares, okay.
+[00:46:44] Andreas: Han, H-A-N, und dann Ares, A-R-E-S, Ares, Han, Ares. Und er nennt sich der Titan von Anaxes und sein Schiff heißt Titan. Nein, das können wir nicht. Den kenne ich gut, sagt Ganten. Der ist unsere einzige Chance, wenn hier alles schief geht. Das ist der einzige vernünftige.
+[00:47:06] Benjamin: Ich, ähm...
+[00:47:08] Benjamin: Die anderen merken, dass ein Funkspruch, sozusagen, dass der Kanal geöffnet wird.
+[00:47:14] Benjamin: Und dann kommt wahrscheinlich erstmal nur Rauschen.
+[00:47:17] Benjamin: Eine brüchige Stimme, die sich zusammen scheint.
+[00:47:23] Benjamin: Und wir müssen uns Han Ares schnappen.
+[00:47:27] Benjamin: Was soll das heißen? Er ist der Mörder von Anaxes. Ante Anaxes. Geht ja nicht, der hat einen ganzen Planeten auf seinem Gewissen. Das müssen wir verhindern. Der Transponder, genau. Ich habe gerade auch die ganze Zeit überlegt.
+[00:47:49] Andreas: Eine schlechte Situation hier. Können wir hier nicht wegfliegen, Galrixto? Wir müssen uns auf der Planetenoberfläche verstecken. Was hast du denn, Kelum? Kennst du etwa den Ares? Ihr seht, wie plötzlich Erkenntnis über das Gesicht Gantens zieht und er reibt sich die Stirn. Das ist der nächste. Seine Aufgabe ist es, die Planetenoberflächen zu sterilisieren.
+[00:48:52] Andreas: Von bewohntem Leben, Pomaru.
+[00:48:58] Martin: Hans Bonder, denkt das was?
+[00:49:14] Andreas: Okay, ja, kannst du machen.
+[00:49:18] Andreas: Den Transponder.
+[00:49:19] Friedrich: Den Transponder, danke.
+[00:49:21] Benjamin: Nein, komme ich ganz knapp nicht drauf.
+[00:49:24] Friedrich: Ich sag zu Gundam, antworte ihnen, dass wir nicht in diesen Kampf involviert sind. Ja, machen wir das. Also ich drehe dann so, dass wir, sind wir vor der Planetenatmosphäre noch, ja? Dann so, dass wir vom, also so weit das Plasma das erlaubt.
+[00:49:24] Andreas: Also jetzt kommt natürlich, weshalb haben Sie Ihr Transponder abgeschaltet und so weiter.
+[00:49:30] Andreas: Also es ist einfach ganz viel Kommunikation hier auf den ganzen Kanälen.
+[00:49:34] Andreas: Aber die Black Sun Schiffe geben jetzt die letzte Warnung.
+[00:49:38] Andreas: Drehen Sie ab.
+[00:49:38] Andreas: wir unternehmen eine Landung.
+[00:49:43] Andreas: Drehen Sie ab.
+[00:49:55] Andreas: Ganten, okay.
+[00:49:57] Andreas: Und tippt sofort los und er schreibt auch
+[00:49:59] Andreas: das. Er schreibt,
+[00:50:00] Andreas: wir sind aus der Hyperraumroute
+[00:50:02] Andreas: geworfen worden und nicht
+[00:50:04] Andreas: in diese Streitigkeit involviert.
+[00:50:11] Andreas: Ich denke, wir sollten visuell
+[00:50:12] Andreas: abdrehen, gell, Rixx-Toh?
+[00:50:23] Andreas: Ja.
+[00:50:28] Friedrich: Kälung, was soll das?
+[00:50:29] Andreas: Uh, ich habe mir eine 20 gewürfelt.
+[00:50:31] Andreas: Okay, also.
+[00:50:33] Andreas: Calum, du spürst
+[00:50:35] Andreas: in deinem Geist plötzlich eine
+[00:50:37] Andreas: Verbindung.
+[00:50:39] Andreas: Und zwar gibt dir jemand
+[00:50:41] Andreas: den Befehl,
+[00:50:44] Andreas: drehe dein
+[00:50:45] Andreas: Laserturm und
+[00:50:47] Andreas: feuere. Und du kannst,
+[00:50:49] Andreas: wenn du jetzt eine 15 schaffst,
+[00:50:51] Andreas: auf einen Willenswurf,
+[00:50:53] Andreas: also Weisheitsrettungswurf, kannst
+[00:50:55] Andreas: du was dagegen tun. Ansonsten
+[00:50:57] Andreas: handelst du, bevor du darüber nachdenkst.
+[00:51:05] Andreas: Drehst also einfach
+[00:51:06] Andreas: den kleinen Turbolaserturm und drückst
+[00:51:08] Andreas: ab.
+[00:51:10] Andreas: Und er schießt und die Turbolaser verschwinden fast in der Distanz. Du kannst es fast nicht mehr erkennen, wo du hingeschossen hast. Ganz weit dort hinten.
+[00:51:23] Andreas: Aber dann trifft es einen der Teilbomber und dessen Flügel löst sich vom Rumpf und er dreht ab und schlägt in diese Nadel der Obsidian Arrow unten ein.
+[00:51:42] Andreas: Und zwar ist ja das Cockpit oder die Brücke da am Flügel ganz oben angebracht und dann befindet sich dieser lange Turm letztendlich und dort unten in den Turm schlägt der Teilbomber ein und es gibt eine riesige Explosion, die nicht jetzt das ganze Ding abknickt, dafür ist der Teilbomber zu klein, aber dort schlägt es ein.
+[00:52:07] Andreas: Und dann merkst du es wieder, du kriegst einen neuen Fehl. Diesmal brauchst du aber nur zehn, um dich dagegen wehren zu können.
+[00:52:20] Benjamin: Nein, oh, ganz schlecht.
+[00:52:21] Andreas: Ja, du...
+[00:52:21] Andreas: Das ist tatsächlich so. Du wirst einfach in die ganze Sache hinein koordiniert. Und was ihr seht, wir haben gefeuert auf das Geschwader und unten kommen jetzt schon Meldungen. Unterlassen Sie das Feuer. Sie haben gegen die eigenen getroffen.
+[00:52:22] Benjamin: Wobei, vielleicht ganz kurz dazu, also in dem Moment, in dem ich mitbekomme, wer da bei den Imperialen ist, lasse ich mich auch, muss ich gar nicht so verführt werden, auf die TIE Fighter zu schießen.
+[00:53:02] Andreas: Wie sagt man da? Friendly Fire, Friendly Fire, Alert, Friendly Fire. Er schießt ja nochmal und jetzt hast du einen der TIE Fighter ausgeschaltet. Auch wieder auf eine enorme Distanz. Es ist so, als würde dir jemand die Hand führen. Also in die Schlacht hinein, oder wie?
+[00:53:05] Benjamin: Wir müssen Ares aufhalten, Menschen.
+[00:53:22] Friedrich: Also okay, ich wende, sodass wir jetzt dann in die Richtung fliegen, in die Kälung schießt.
+[00:53:29] Friedrich: Ich werte das jetzt als...
+[00:53:32] Andreas: Die haben wieder abgedreht, als ihr abgedreht habt, haben die abgedreht und begleiten jetzt weiter die Landungsschiffe, die jetzt aber unter die Atmosphäre schon eingetreten sind.
+[00:53:33] Friedrich: Und leite die Schildenergie auf die Front um.
+[00:53:42] Friedrich: Was, wie reagieren denn die Black-Sun-Schiffe, die auf uns zurückfliegen?
+[00:53:46] Friedrich: Okay. Wir sind ja jetzt eher von der Schlacht weggekommen bei der Landung wahrscheinlich. Ich würde auch die Geschwindigkeit drosseln, sodass wir da jetzt nicht, ist ja noch ein bisschen Entfernung, noch nicht so richtig da reinrasen, aber dass wir noch ein bisschen Zeit haben, das ja intern zu klären.
+[00:53:54] Andreas: Und ihr seht gerade die drei hellen Punkte dieser in die Erdatmosphäre eintretenden kleinen Pfeiter, die euch vorher verfolgt haben.
+[00:54:01] Andreas: Ja, ja, ja. Also ihr beobachtet nun folgendes. Das möchte ich noch machen und dann könnt ihr intern klären.
+[00:54:23] Friedrich: Vielleicht können wir den einen oder anderen Bomber aus sicherer Entfernung erwischen. Ich mach das auch mal, ne? Rettungskapseln. Die Rettungsboote sind von der Titanen, gehen die ab oder von beiden?
+[00:54:27] Andreas: Ihr seht, wie die Obsidian Arrow ein Ausweichmanöver einleitet. Also dieses riesige Schiff gibt irgendeine Art Energie seitlich, dass es sich dreht, im dreidimensionalen Raum richtig tordiert dreht und schafft es tatsächlich, dem Sternenzerstörer im letzten Moment so weit auszuweichen, dass der Sternenzerstörer über die Oberfläche jetzt der Obsidian Arrow drüber fliegt.
+[00:54:57] Andreas: die Brücke abschert und die beiden Schiffe jetzt in ihren Heckantrieben sich gegenseitig quasi blenden und voneinander wegdriften.
+[00:55:10] Andreas: Es gibt einen riesigen Lichtblitz, die beiden Schilde treffen aufeinander, diese großen Raumschiffe fallen jeweils aus.
+[00:55:20] Andreas: Das bedeutet, dass mehrere Photonentorpedos durch die Oberfläche jetzt einschlagen, sowohl beim einen als auch beim anderen.
+[00:55:27] Andreas: Und die Oberfläche des Sternenzerstörers ist schon ziemlich in Brand. Und jetzt schießen verschiedene von den Black-Sun-Schiffen vor allem aufs Heck, also um die Triebwerke des Sternenzerstörers anzugreifen. Aber der komplette obere Anteil ist abgeschert von der Obsidian Arrow.
+[00:55:45] Andreas: und da liegen die Decks blank und offen
+[00:55:49] Andreas: und da trifft auch alles Mögliche heraus.
+[00:55:54] Andreas: Also da fliegt einfach in alle Richtungen,
+[00:55:55] Andreas: fliegt Debri nach draußen
+[00:55:57] Andreas: und vielleicht auch der eine oder andere Passagier.
+[00:55:59] Benjamin: Ich hätte noch mal eine Frage bei diesem Einfluss. Das muss ja verdammt weit weg sein. Wir sprechen ja hier von Hunderten, Tausenden, wie auch immer Kilometern, die da zwischen uns sind. Spüre ich in irgendeiner Form die Farbe, die Schattierung der Macht? Ist es eine Überzeugung? Gibt es da irgendwas?
+[00:56:01] Andreas: Das heißt also, da ist wirklich was geboten
+[00:56:04] Andreas: und mehrere Teilbomber haben es geschafft,
+[00:56:08] Andreas: ihre Ladung so abzusetzen,
+[00:56:12] Andreas: dass ziemlich mittig dieses riesige Schiff
+[00:56:15] Andreas: enorme Schäden erleidet und ihr seht so eine ganz leichte, versetzte, in sich knickende Bewegung
+[00:56:25] Andreas: dieses großen Schiffs Obsidian Arrow nach und nach.
+[00:56:28] Andreas: Das heißt, es wird vielleicht nicht ganz auseinanderbrechen,
+[00:56:32] Andreas: aber die großen in dieser Torsionsausweichbewegung frei werdenden Kräfte
+[00:56:36] Andreas: beginnt den ganzen Bug des Schiffes abzudrehen.
+[00:56:41] Andreas: Ja, ihr hört lauter Schmerzensstreie über Koms Tode und nach und nach ist es so, dass die Fighter der Black Sun die wenigen TIE Fighter und jetzt auch die letzten Bomber aufs Korn genommen haben.
+[00:57:01] Andreas: und ihr kommt auf diese großen Schiffe
+[00:57:04] Andreas: und verschiedene dort fliegenden TIE Fighter immer näher zu,
+[00:57:07] Andreas: aber es dauert jetzt ein bisschen,
+[00:57:08] Andreas: bis ihr dann an der Schlacht dran seid,
+[00:57:10] Andreas: vielleicht eine Minute, eineinhalb Minuten.
+[00:57:12] Andreas: In der Zeit könnt ihr euch unterhalten.
+[00:57:23] Andreas: Ja.
+[00:57:29] Andreas: Ja.
+[00:57:31] Andreas: Also das ist eine eindeutige Kampfmeditation
+[00:57:55] Andreas: und Kampfmeditationen sind etwas,
+[00:57:58] Andreas: was du in deiner Ausbildung gelernt hast.
+[00:58:02] Andreas: Sif-Meister haben Kampfmeditationen gelernt.
+[00:58:09] Andreas: Das ist eine verschollene Technik.
+[00:58:17] Benjamin: Ja, ich rufe im Grunde in der ganzen Ambivalenz, die Macht ist stark auf der Seite der schwarzen Sonne, aber wir müssen diesen Ares ausschalten. Er ist der Mörder von Planeten. Er ist der Mörder von Planeten. Wie wogt der Kampf? Also du hast gerade so beschrieben, die scheinen ja beide schwer beschädigt zu sein.
+[00:58:38] Andreas: Bist du dir sicher, Calum?
+[00:58:45] Andreas: Aber mit unserem Frachter haben wir hier doch keine Chance.
+[00:58:48] Andreas: Wir haben kein Kriegsschiff.
+[00:59:12] Benjamin: hat im Moment eine Seite eine Übermacht.
+[00:59:12] Andreas: Ja, ich bitte dich jetzt hier um einen Wurf,
+[00:59:20] Benjamin: Vorhin klang das nach Black Sun, aber hilft mir nicht viel.
+[00:59:25] Andreas: der deine Kenntnisse in Kriegsführung ausdrückt.
+[00:59:30] Andreas: Da muss ich mal kurz auf den Charakterbogen schauen.
+[00:59:33] Andreas: Was wäre denn das da am sinnvollsten?
+[00:59:41] Andreas: Warte mal, ich mache auch mal einen Gantenhirnwurf.
+[00:59:44] Andreas: Okay, aber du musst es machen.
+[00:59:45] Andreas: Ich würde sagen, das ist tatsächlich ein Lorwurf in dem Fall.
+[00:59:50] Andreas: Du kriegst allerdings einen Bonus von plus zwei jetzt gerade drauf.
+[00:59:54] Benjamin: Da komme ich auf 9. Ich habe bei Lore...
+[01:00:01] Andreas: Ja.
+[01:00:04] Andreas: Ah, okay.
+[01:00:06] Andreas: Also während du einfach überwältigt bist noch von diesem Eindruck
+[01:00:11] Andreas: und vor allem von deinen inneren Gefühlen,
+[01:00:14] Benjamin: Ja, schnitt sich gegenseitig aus.
+[01:00:14] Andreas: von der Aufwallung deiner inneren Gefühle,
+[01:00:17] Andreas: finden zwei Sachen statt.
+[01:00:20] Andreas: Und erstens, Komaru, jetzt erinnerst du dich, Black Sun. Dieses Symbol. Du hattest schon mal in deiner Vergangenheit mit Piraten zu tun. Das war die Black Sun. Das war nicht die Obsidian Arrow, aber es war die Black Sun.
+[01:00:42] Andreas: Und jetzt ist es so, Karl Rixtow, du siehst die ganzen kleinen Explosionen, als auf den beiden Schiffen nach und nach zu Hunderten die kleinen Evakuierungsschiffe, die Rettungsbeibote abgesetzt werden.
+[01:01:14] Andreas: und Richtung Planetenoberfläche ausfächern.
+[01:01:18] Andreas: Und auch weiter von der Black Sun nach und nach diese wiederum aufs Korn nehmen
+[01:01:23] Andreas: und da auch 10, 20, 30 von diesen Rettungsbooten abschießen.
+[01:01:31] Andreas: Von beiden, beide großen Schiffe setzen diese Rettungsbeibote ab.
+[01:01:33] Friedrich: Also, so wie das jetzt aussieht, wird der Sternenzerstörer mit der Breitseite dann den Obsidian Arrow auch erledigen.
+[01:01:36] Andreas: Und jetzt seht ihr, wie mehrere große Landungsschiffe,
+[01:01:44] Andreas: die so zigarrenartig, viereckig, zigarrenartig aussehen, in einem Karacho aus dem Hangar der Titanen rausfliegen, auch in Richtung Planetenoberfläche.
+[01:01:56] Andreas: Und jetzt bricht tatsächlich die ganze Front des riesigen Schiffs der Obsidian Arrow ab und ihr seht eine große multiple Explosion dort und dann driftet dieses ganze Stück seitlich ab.
+[01:02:21] Andreas: und die Beschleunigung, die jetzt plötzlich da ist, drängt,
+[01:02:26] Andreas: also dadurch, dass der hintere Teil jetzt nun wesentlich stärker beschleunigen kann,
+[01:02:31] Andreas: drängt gegen den ganzen Bug und der Bug wird so nach oben abgedreht.
+[01:02:37] Andreas: Und es kann sein, dass, wenn sie Pech haben, er noch in dieses Schiff hineingedrängt wird.
+[01:02:43] Andreas: Der große Sternenzerstörer allerdings dreht sich nach und nach um und nimmt eine Seitenposition ein zur Obsidian Arrow. Und jetzt kommt dein Wissen. Der Sternenzerstörer begibt sich in die Breitseite. Außer wir verhindern es.
+[01:03:11] Martin: Ich hätte ja gesagt, wenn wir den Planeten anfliegen,
+[01:03:15] Martin: das hätte die Black Sun wahrscheinlich abgelenkt.
+[01:03:20] Martin: Sie haben ja explizit davor gewarnt.
+[01:03:23] Martin: Aber wenn jetzt ohnehin schon hunderte von Schiffen dahin sausen
+[01:03:25] Martin: und abgeschossen werden, ist das auch kein sinnvolles Manöver.
+[01:03:42] Martin: Freizeiten. Warum?
+[01:03:46] Friedrich: Oder ich gebe Gas.
+[01:03:50] Andreas: Callum, wenn du möchtest, wenn du dich dafür entscheidest, können wir in diesem Moment, das sagt Gunton, die Brücke des Sternenzerstörers angreifen. Sie haben gerade keine Schilde.
+[01:04:09] Martin: Der Black Sun, da bin ich überhaupt nicht dafür.
+[01:04:15] Martin: wenn sich gegenseitig auslöschen ist, dass das allerbeste was passieren kann. Wie können wir das? Also die Menschen löschen sich gegenseitig aus. Also wie auch immer, ich bin auf jeden Fall dafür, dass Möglichkeit beide drauf gehen.
+[01:04:21] Friedrich: Ja, aber das tun sie nur, wenn wir die Brücke zerstören.
+[01:04:24] Friedrich: Wenn wir das nicht tun, dann wird der Sternenzerstörer hier wegkommen.
+[01:04:27] Friedrich: Also, ich meinte das übrigens gerade ernst.
+[01:04:58] Andreas: Ja, also was du wahrnimmst, Komaru, ist, du siehst, wie Ganten langsam wieder zu diesem Steuerpult hingeht und seine rechte Hand ganz behutsam wieder auf das Pad abgelegt hat, wo man tippen kann.
+[01:05:00] Martin: Irgendwas ist mit mir komisch. Ich gehe mal hin und lege mal die Katze schwer auf die Schulter.
+[01:05:03] Friedrich: Also GALRIXO gibt Gas und fliegt Richtung Sternenzerstörer.
+[01:05:31] Andreas: und beginnt, er schaut dich an und zeigt auf Galrixto, kann ich nicht sehen,
+[01:05:38] Martin: Ganten, alles in Ordnung. Mach die Geste bitte noch mal, weil ich war gerade auf der Eintritt und ich sehe das so nicht.
+[01:05:50] Andreas: und zeigt auf Galrixto und dann über das Cockpit auf den Sternenzerstörer
+[01:05:56] Andreas: und macht dann diese Geste.
+[01:06:06] Andreas: Also er zeigt sich erst auf Galrixto, dann auf den Sternenzerstörer und macht dann so.
+[01:06:13] Martin: Meine Kamera ist eingefroren. Es kommt mir total nicht nach Ganten vor.
+[01:06:15] Andreas: Okay, er tippt sich nicht an die Stirn, wie wenn jemand verrückt wäre,
+[01:06:16] Friedrich: Herr Matze, in dem Moment gucke ich rüber.
+[01:06:20] Andreas: sondern er macht diese kreisende Bewegung.
+[01:06:23] Andreas: Der ist irre.
+[01:06:31] Martin: Ich sag mal, ich lass die Tatzen noch auf seiner Schulter und schau Ganten dann an und sag relativ laut, glaubst du, dass Galadix uns verraten will? Warum sollte er das? Das können wir sowohl, die Frage ist nur, was kommt dabei raus? Die Chance für was?
+[01:06:38] Andreas: Aber du legst die Schulter so.
+[01:06:45] Andreas: Er schreckt.
+[01:06:55] Andreas: Er fixiert euch beide.
+[01:06:58] Andreas: Nein, aber umbringen wird er uns.
+[01:07:05] Andreas: Wir können doch keinen imperialen Sternenzerstörer angreifen.
+[01:07:21] Andreas: Er schaut euch beide an.
+[01:07:23] Andreas: Ich bin dagegen, aber die Chance würde sich trotzdem bieten.
+[01:07:27] Benjamin: Wir müssen sie nutzen, kommt aus dem Off.
+[01:07:31] Andreas: Ja, genau.
+[01:07:31] Andreas: Also, ihr bewegt euch. Hast du irgendwas an eurem Kurs geändert, Galrix? Du bewegst dich jetzt schnell auf den Sternenzerstörer, und zwar den oberen Anteil des Sternenzerstörers zu. Und jetzt zeigt es an, dass du in Reichweite bist. Du kannst jetzt schießen, theoretisch. Das ist zwar die Maximalreichweite, aber du könntest jetzt schießen.
+[01:07:31] Martin: Aber wer schreibt sie am Schiff eigentlich Rettungskapseln? Stimmt ja. Gallum ist hinten. Also bei uns ist der Turbulencer. Ist der in der Mitte des Schiffs, der Turbulencer? Ah ja, da steht es genau. Okay.
+[01:07:38] Friedrich: Du könntest heißt K-Loom, ja?
+[01:07:54] Benjamin: Also ich werde schießen, sobald ich kann.
+[01:07:58] Andreas: Kalum, ja. Kalum sitzt
+[01:08:04] Andreas: abgesucht.
+[01:08:06] Benjamin: Auf die Brücke. Das ist...
+[01:08:08] Andreas: Du weißt, dass so ein kleiner
+[01:08:10] Andreas: Turbolaserturm nicht viel
+[01:08:12] Andreas: ausrichten wird. Aber wenn man
+[01:08:14] Andreas: viel genug schießt, kannst du
+[01:08:16] Andreas: vielleicht doch Schaden ausrichten.
+[01:08:18] Friedrich: Man muss ja nur die richtige Stelle treffen.
+[01:08:19] Benjamin: Genau, genau. Ich werde mit Dauerfeuer versuchen, die Brücke unter Beschuss zu nehmen. Einfach im Wissen. Ich fokussiere darauf. Ich schieße nicht auf die Brücke. Ich schieße auf Ares, der auf dieser Brücke ist. Ich schieße auf Han Ares.
+[01:08:41] Benjamin: 13 und 16. 4.
+[01:08:43] Andreas: Ich bitte dich jetzt um zwei W20er
+[01:08:46] Andreas: Würfe und mir einfach
+[01:08:48] Andreas: das Ergebnis quasi durchgeben. Du kannst
+[01:08:50] Andreas: einfach mal mit zwei Stück.
+[01:08:52] Andreas: Gut.
+[01:08:54] Andreas: Dankeschön. Und jetzt bitte ich
+[01:08:59] Andreas: dich noch um einen
+[01:09:00] Andreas: Weisheitsrettungswurf.
+[01:09:08] Andreas: Also,
+[01:09:09] Andreas: du legst an und feuerst.
+[01:09:13] Andreas: Und du hast
+[01:09:14] Andreas: das Gefühl, dass
+[01:09:16] Andreas: dein ganzer Zorn,
+[01:09:19] Andreas: die ganze
+[01:09:20] Andreas: aufgestaute,
+[01:09:22] Andreas: ja, diese
+[01:09:25] Andreas: negative Energie,
+[01:09:28] Andreas: die sich aufgestaut hat, über deine
+[01:09:30] Andreas: Ausbildung hinweg, über
+[01:09:32] Andreas: die ganze Zeit, seit deiner
+[01:09:34] Andreas: Kindheit, seitdem du
+[01:09:35] Andreas: von deinen Eltern auf den Frachter gesetzt wurdest, seitdem du dort aus dem Fenster gesehen hast, wie nach und nach die Turbolaser auf Anaxes Oberfläche eingeschlagen haben und dort vernichtet haben, was dir lieb und teuer war.
+[01:09:57] Andreas: Die Schiffswerften, die Straßenzüge, durch die du gelaufen bist, alles das, was dir wichtig war und wahrscheinlich auch deine Eltern.
+[01:10:11] Andreas: Und dieser ganze aufgestaute Zorn, der dann während deiner Ausbildung natürlich in eine andere Richtung geformt wurde,
+[01:10:19] Andreas: Aber jetzt, diese kleine Bewegung am Abzug, da hinein steckst du alles, was du hast und es fließt aus dir heraus. Es ist geradezu schwächend, wie ein Ausatmen.
+[01:10:41] Andreas: Es fließt aus dir heraus und es lässt dich los. Und dann schlägt eine Salve in die oberen Schilde der Turbot ein, denn ihr werdet jetzt auch beschossen.
+[01:11:02] Andreas: und du kriegst Galrixto die ganzen Meldungen eines Einschlags.
+[01:11:09] Andreas: Die Schilde sind auf 50% unten an dieser Stelle.
+[01:11:12] Andreas: Noch zwei oder drei Einschläge und dann wird durch die Hülle durchgelasert werden.
+[01:11:19] Andreas: Es schüttelt euch ganz schön durch.
+[01:11:21] Andreas: Jetzt ist Komaru dran, weil du hast jetzt alles mitbekommen.
+[01:11:24] Andreas: Ganten hat nicht tippen können, weil du ihn ja festgehalten hast.
+[01:11:29] Andreas: Aber Ganten schaut dir in die Augen.
+[01:11:34] Andreas: Und dann flüsterte er, das war ein Fehler.
+[01:11:49] Andreas: Bei Rettungskapseln gibt es.
+[01:11:52] Andreas: Wenn du dir das Schiff anguckst, ich zeige dir jetzt mal noch ganz kurz hier das Raumschiff.
+[01:12:00] Andreas: Die Turbot mit ihrem Plan hat einen Escape-Port direkt hinter dem Cockpit auf der anderen Seite des Gangs
+[01:12:14] Andreas: und einen neben dem Antriebsbereich seitlich auf der anderen Seite des Schiffes.
+[01:12:35] Friedrich: In der Mitte.
+[01:12:39] Andreas: Auf dem oberen Turbolaser, ihr habt nur oben auf dem Schiff einen, unten keinen.
+[01:12:47] Andreas: In der Mitte, da ist der Turret-Axis und der ist in der Mitte des Schiffes.
+[01:12:53] Martin: Okay, also Marv hat ein schweres Gefühl, dass bei seinen Teammitgliedern irgendwas nicht stimmt. Und zwar massiv. Das heißt, er checkt jetzt mal, was mit Callum ist.
+[01:12:53] Andreas: Ich zeige dir kurz das andere Bild des Schiffes, so sieht das Schiff aus.
+[01:12:57] Andreas: Das heißt, da oben ist der Zwillingslaserturm, der Turbot, ein maler, einfacher Turbolaser. Turbolaser ist trotzdem schwerer als der Laser eines Fighters, eines kleinen Fighters. Ein Turbolaser wie hier auf dem Frachter ist was schweres, aber es ist trotzdem eine kleine Variante von diesen Turbolasern.
+[01:13:23] Andreas: Ganten läuft dir hinterher
+[01:14:02] Martin: aber es ist gut, das zu sein.
+[01:14:07] Andreas: bis er aus dem Cockpit draußen ist
+[01:14:09] Andreas: und versucht dich dann
+[01:14:11] Andreas: an der Schulter aufzuhalten
+[01:14:13] Andreas: hier ist etwas ganz und gar faul
+[01:14:13] Martin: Was ist denn, Ganten?
+[01:14:18] Andreas: ich kann nicht die Macht spüren
+[01:14:19] Martin: Ja, der Meinung bin ich auch.
+[01:14:23] Andreas: aber hier ist etwas los
+[01:14:25] Andreas: und es hat mit Calum zu tun
+[01:14:26] Andreas: Ganten drückt
+[01:14:29] Andreas: auf sein Komm ganz bewusst
+[01:14:31] Andreas: sieh nach ihm
+[01:14:32] Martin: Ich bin gerade auf dem Weg zu Kellum.
+[01:14:36] Andreas: ja
+[01:14:41] Martin: Wir wissen ja, dass sich diese Machtbenutzer gegenseitig spüren und beeinflussen können,
+[01:14:46] Martin: auch auf große Distanz.
+[01:14:48] Martin: Vielleicht passiert so etwas.
+[01:14:53] Martin: Ich laufe, wie gesagt, dorthin und ich gehe weiter zum Turm.
+[01:14:54] Andreas: kümmere dich um Calum
+[01:14:56] Andreas: ich gehe zurück zu Galrixto
+[01:14:58] Andreas: das war ein Fehler
+[01:14:59] Andreas: wir hätten nicht schießen sollen.
+[01:15:02] Andreas: Und dann läuft Gunton wieder zurück
+[01:15:04] Andreas: ins Cockpit.
+[01:15:10] Martin: Alles in Ordnung.
+[01:15:12] Andreas: So, also du läufst zum
+[01:15:13] Andreas: Turm. Calum, du
+[01:15:15] Andreas: hast die komplette
+[01:15:17] Andreas: Munition eures Turmes.
+[01:15:20] Andreas: Also man kann nämlich
+[01:15:21] Andreas: nicht stundenlang mit diesem Turm schießen.
+[01:15:23] Andreas: Das sind Munitionskapseln,
+[01:15:26] Andreas: die hier nach und nach
+[01:15:27] Andreas: Energiekammern, die verschossen werden.
+[01:15:30] Andreas: Und du hast einfach so lange
+[01:15:31] Andreas: gefeuert, bis die Rohre glühen
+[01:15:33] Andreas: und die Munition, die wenige, die hier an Bord war, verschossen ist.
+[01:15:39] Andreas: Du hast den ganzen Turm entleert.
+[01:15:40] Andreas: Und du siehst jetzt nach und nach, wie die Laser dort unten einschlagen.
+[01:15:45] Andreas: Und zwar ziehen die kleine Explosionen über die Vorderseite dieses Turmes des Sternenzerstörers.
+[01:15:59] Andreas: Also ihr habt ja die beiden Schildgeneratoren oben, die ja ausgefallen sind.
+[01:16:02] Andreas: und dann der Turm und ganz vorne ist die Brücke.
+[01:16:06] Andreas: Und dieser mittlere Bereich der Brücke, da ziehst du jetzt nach und nach mit deinen Explosionen durch.
+[01:16:12] Andreas: Und die Brücke ist natürlich schwer gepanzert aus allen möglichen Richtungen,
+[01:16:16] Andreas: aber es gibt ja dieses große Fenster, sodass man also visuellen Kontakt mit der Außenwelt halten kann.
+[01:16:23] Andreas: Weil wenn du so ein großes Schiff steuerst und alles Mögliche fällt aus,
+[01:16:26] Andreas: du hast keinen Bildschirm oder sonst was mehr, dann musst du das Schiff trotzdem noch steuern können.
+[01:16:31] Andreas: Und durch dieses Fenster schlagen jetzt deine Laserkanonenschüsse nach und nach durch. Und es wird nach außen gedrängt und du siehst wie 10, 20, 30 Personen da nach draußen gerissen werden und durch das Weltall treiben mit dem roten Hintergrund.
+[01:16:58] Andreas: Und jetzt treffen euch von unten mehrere Schüsse. Du kannst nicht mehr sagen, ob das Black Sun oder Imperiale sind, die dich treffen. Und die Turbot wird durchgeschüttelt und etwas abgetrieben und jetzt fliegt ihr auch schon über den riesigen Sternenzerstörer hinweg, der an vielen Punkten brennt und dann seid ihr über dem Cockpit weg und dreht ab. Galrix, wo möchtest du hinsteuern?
+[01:17:25] Andreas: von unten, jetzt bitte ich dich
+[01:17:26] Friedrich: Habe ich mitbekommen, von wo wir getroffen wurden?
+[01:17:34] Andreas: um einen Perception-Wurf
+[01:17:35] Andreas: du kannst nichts sagen, nicht mal
+[01:17:38] Friedrich: Sechs.
+[01:17:39] Friedrich: Ja, also wenn wir jetzt schon so nah an dem Sternenzerstörer sind, dann würde ich versuchen, den quasi als Deckung mitzunehmen und abzudrehen mit so einer Drehbewegung, möglichst nah am Sternenzerstörer selber abzufliegen und runterzutauchen.
+[01:17:42] Andreas: ob Black Sun oder
+[01:17:43] Andreas: vielleicht einer der Turbolasertürme
+[01:17:46] Andreas: sogar, aber dann müsste eigentlich das
+[01:17:48] Andreas: Schiff durchlöchert worden sein, also wahrscheinlich
+[01:17:50] Andreas: war es doch irgendein kleinerer Schuss
+[01:17:52] Andreas: ja
+[01:17:56] Andreas: ja
+[01:18:02] Andreas: du bewegst dich tatsächlich
+[01:18:06] Friedrich: Also ich versuche weiter nach unten, das ist für mich der schnellste Weg aus dem Explosionsradius zu kommen, weil wenn der losgeht, dann wird der auch in Richtung des Triebwerkes nach hinten rausschleudern.
+[01:18:08] Andreas: in die Mündung
+[01:18:10] Andreas: des
+[01:18:10] Andreas: großen Triebwerks
+[01:18:14] Andreas: nach unten und du siehst, wie das Triebwerk anfängt zu flackern.
+[01:18:19] Andreas: Also dieses blaue Leuchten
+[01:18:22] Andreas: kurz aufhört und dann ganz aus ist.
+[01:18:27] Andreas: Der Sternenzerstörer hat durch vielerlei
+[01:18:30] Andreas: Einschläge seine Triebwerke verloren.
+[01:18:34] Andreas: Und jetzt fliegst du an ihm vorbei und jetzt
+[01:18:38] Andreas: kommt dein Blick wieder auf die große Obsidian Arrow,
+[01:18:42] Andreas: die tatsächlich gerade dabei ist, mit Bug und Heck aneinander zu stoßen und in sich hinein zu fliegen.
+[01:18:51] Andreas: Und ihr könnt es nicht hören, aber du kannst dir vorstellen, dass diese riesigen Mengen an Metall hier quietschend und knarrend aufeinandertreffen und es entstehen immer mehr Explosionen, die sich über die Oberfläche des Schiffes ziehen.
+[01:19:08] Andreas: ihr seid so nah, dass
+[01:19:14] Andreas: wenn hier der Reaktor hochgeht
+[01:19:17] Andreas: seid ihr auch weg
+[01:19:18] Andreas: mhm, mhm, genau
+[01:19:38] Friedrich: Genau, nach unten und dann so schräg von der Titan wegzufliegen.
+[01:19:44] Friedrich: und also wenn ich
+[01:19:45] Andreas: mhm, es ist tatsächlich
+[01:19:46] Friedrich: beobachte die Sensoren, wenn ich sehe, dass uns
+[01:19:49] Friedrich: irgendein Schiff, also außer
+[01:19:50] Friedrich: die Titan, selber
+[01:19:52] Friedrich: angreift, dass ich da
+[01:19:54] Friedrich: drauf reagieren kann.
+[01:19:57] Andreas: ein einzelner Black Sun Fighter
+[01:20:00] Andreas: der euch am Tail
+[01:20:01] Andreas: sitzt jetzt und
+[01:20:03] Andreas: der
+[01:20:04] Andreas: auf euch zuhält
+[01:20:07] Andreas: seine Laserkanonen ausrichtet
+[01:20:10] Andreas: und du hast deine ganzen Schilde nach vorne
+[01:20:11] Andreas: positioniert
+[01:20:12] Andreas: du kannst jetzt noch reagieren, was möchtest
+[01:20:16] Andreas: du tun? Entweder den Turbot drehen oder schildet nach hinten. Das ist das Einzige, was du schaffst.
+[01:20:18] Friedrich: Ich mache die Schilder nach hinten und sage
+[01:20:21] Friedrich: Welche Schilder
+[01:20:24] Andreas: Jetzt kommen wir zurück zu Calum und zu Komaro. Also Calum sitzt dort, alles ist aus dir herausgeflossen
+[01:20:31] Andreas: und du sitzt betäubt und starrst. Du hast noch das Gefühl dieser nach draußen triftenden
+[01:20:41] Andreas: Leute und du fühlst eine gewisse Genugtuung.
+[01:20:46] Andreas: Du hast etwas getan.
+[01:20:49] Andreas: Und dann berührt dich eine
+[01:20:53] Andreas: haarige Hand an der Schulter. Calum wird von Komaru
+[01:20:57] Andreas: in seinem Sitz herumgedreht. Ihr schaut euch
+[01:21:01] Andreas: gegenseitig an. Du hast zwar Energie,
+[01:21:16] Benjamin: Er ist der Mörder von Anaxes. Er war.
+[01:21:22] Benjamin: Da sieht man, wie Cain ums Blick nochmal so nach draußen suchend.
+[01:21:27] Benjamin: So ganz sicher ist er sich natürlich nicht, wer da draußen jetzt schwebt.
+[01:21:33] Benjamin: Verstehst du, ich habe diese Macht gespürt, aber die Macht hat mich nur zu Dingen gebracht, die ich eh tun wollte.
+[01:21:42] Benjamin: Er musste sterben.
+[01:21:45] Benjamin: Anaxes. Nein.
+[01:21:49] Martin: Du hast die Macht also gespürt, das heißt, sie hat dich bewegt.
+[01:21:52] Martin: und dieser Mörder von, wie heißt dein Planet? Anaxes?
+[01:22:02] Martin: War der ein Machtnutzer? Wo ist der Machtnutzer? Wer benutzt dich?
+[01:22:15] Benjamin: Er muss wirklich mächtig sein. Er ist weit weg.
+[01:22:19] Benjamin: Aber ich denke auf
+[01:22:21] Martin: Er wird auf der Auxilien-Aua sein.
+[01:22:22] Benjamin: er. Und es muss ein Sith sein.
+[01:22:26] Martin: Callum, wir haben ein Problem, wenn er dich einfach benutzen kann.
+[01:22:37] Martin: Im Moment hat er dich gegen das imperialische Schiff benutzt.
+[01:22:40] Martin: Aber wenn er dich hier gegen uns benutzt, haben wir ein Problem.
+[01:22:43] Martin: kannst du dich... Gut, pass auf,
+[01:22:49] Benjamin: Er hat mich dort genutzt, wo ich hin wollte.
+[01:22:52] Benjamin: Ich wollte
+[01:22:54] Benjamin: Han Ares töten.
+[01:22:57] Benjamin: Deswegen hat er es so einfach.
+[01:23:03] Martin: wenn du ein Ziel brauchst,
+[01:23:04] Martin: es gibt zwei Möglichkeiten. Die erste,
+[01:23:07] Martin: wir sperren dich ein oder fesseln dich.
+[01:23:09] Martin: Die zweite, du fokussierst dich
+[01:23:11] Martin: auf ein neues Ziel.
+[01:23:12] Martin: Alrix, du versuchst zu entkommen.
+[01:23:17] Martin: Die Titanen scheinen weitgehend
+[01:23:19] Martin: ausgeschaltet zu sein.
+[01:23:21] Martin: Eine Gefahr für uns ist jetzt die Obsidian Arrow.
+[01:23:26] Martin: Wenn du dasselbe
+[01:23:27] Martin: noch einmal machst, gut triffst,
+[01:23:32] Benjamin: Ich werde nebenher die Kontrollen
+[01:23:35] Benjamin: durchschalten. Die Energie ist
+[01:23:37] Benjamin: hier völlig leer jetzt, oder? Also
+[01:23:39] Benjamin: haben wir noch irgendeine Munition?
+[01:23:42] Andreas: aber du hast einfach keine Munition mehr. Du kannst nicht mehr schießen.
+[01:23:42] Benjamin: Jaja, aber
+[01:23:43] Benjamin: wie nah
+[01:23:45] Andreas: Und jetzt siehst du auch hinten, weil er hat dich herumgedreht, direkt vor dir, da fliegt ein Schiff der Black Sun und kommt immer näher. Und dann siehst du auch schon das Mündungsfeuer. Grüne Strahlen schießen auf dich zu. Vielleicht 300 Meter entfernt, relativ groß, visuell sichtbar.
+[01:24:02] Benjamin: ist der denn
+[01:24:04] Benjamin: bei uns? Gut, das ist leider für mich
+[01:24:11] Andreas: hebt sich von den beiden Schiffen ab, die dort hinten, diese riesigen Schiffe, diese Pötte, die da hinten in sich verkeilt, sich drehen.
+[01:24:14] Benjamin: viel zu weit.
+[01:24:16] Benjamin: Der macht noch einen Salto dabei.
+[01:24:25] Andreas: Und ihr seht, wie ohne Triebwerke der dreieckige Titan nach und nach immer größer wird, weil er eben halt jetzt die Rückseite euch zuwendet.
+[01:24:38] Andreas: und somit aus dieser Perspektive in diesem Plasma-Nebel ein riesiges schwarzes Dreieck vor euch immer größer wird
+[01:24:48] Andreas: und der dahinter befindliche, in zwei Teilen herumdriftende Obsidian Arrow fast abgedeckt wird.
+[01:25:00] Andreas: Und dann seht ihr es, wie sonnenhell hinter der Titan alles sich in eurem Blickfeld hell aufleuchtend verschiebt und eine Ruckwelle erst einmal, zweimal durch den Turbot kommt.
+[01:25:28] Andreas: Und dann seht ihr, also dann nimmt quasi diese Explosion euer ganzes Blickfeld ein.
+[01:25:36] Andreas: Da ist die Reaktorexplosion.
+[01:25:39] Andreas: Die Schilde fallen aus.
+[01:25:42] Andreas: Das Obsidian Arrow Schiff, welches gerade die ersten Schüsse...
+[01:25:46] Andreas: Ah, die vom Turbot.
+[01:25:47] Friedrich: fallen aus?
+[01:25:48] Martin: unsere...
+[01:25:49] Andreas: das Obsidian Arrow Schiff befindet sich eben nicht
+[01:25:55] Andreas: in diesem dreieckigen Feld der Titan, sondern etwas außerhalb.
+[01:26:02] Andreas: Und es wird einfach weggefegt.
+[01:26:05] Andreas: Das heißt, die große Druckwelle, die euch schützt,
+[01:26:11] Andreas: die fegt einfach wie ein Hammer dieses kleine Schiff weg.
+[01:26:15] Andreas: Einmal ist es da und plötzlich, zack, es ist weg.
+[01:26:18] Andreas: und in tausenden kleinen Teilen und noch nicht meine Explosion,
+[01:26:26] Andreas: es ist einfach nur zerrissen in unterschiedlichste Bestandteile und von euch weg.
+[01:26:31] Andreas: Um euch herum riesiges Chaos und ihr werdet auf die Planetenoberfläche zugeschoben.
+[01:26:38] Andreas: Euch drückt es, also Ganten fällt hinter dir im Cockpit um.
+[01:26:44] Andreas: Du hast Gott sei Dank deine Gurte an. Kalum, du bist auch noch angegurtet, aber Komaru, dich bitte ich jetzt um einen Athletics-Wurf oder Acrobatics, was auch immer du möchtest.
+[01:26:54] Martin: Ja, das machen wir gerne. Hier muss man sich bestimmt festhalten.
+[01:26:57] Andreas: Ja, sehr gut, du schaffst es.
+[01:27:36] Martin: und fest und mit einem Ruck
+[01:27:38] Martin: hält ich mich fest.
+[01:27:40] Martin: Er merkt auch einen ziemlichen Ruck,
+[01:27:42] Martin: aber zum Glück habe ich mit dem Fuß noch abgestützt
+[01:27:44] Martin: und reiße ihn noch raus.
+[01:27:47] Martin: Guck ihn dann an.
+[01:27:49] Martin: Wir sollten die Schäden überprüfen.
+[01:28:10] Andreas: gut aus, elegant schon gar nicht.
+[01:28:14] Andreas: Kai Rixtho, du siehst, wie alle Ruder, die,
+[01:28:17] Andreas: nicht Ruder, alle Anzeigen, die dir zeigen, wo der Horizont
+[01:28:22] Andreas: ist und wo du dich gerade befindest, drehen sich einfach.
+[01:28:26] Andreas: Die Zahlenwerte gehen hoch und runter, die Turbot, du siehst
+[01:28:30] Andreas: nichts mehr. Um dich herum sind große Trümmerteile. Es fliegt
+[01:28:34] Andreas: gerade mitten in dieser ganzen riesigen, hellen Plasmawolke,
+[01:28:38] Andreas: die dich geradezu blendet, aber du siehst trotzdem wie in Zeitlupe ein riesiges Stück eines Schiffes, in dem große Kräne drin sind, die irgendetwas gehalten haben, wie ein Hangar an dir vorbeiziehen und dann mitten in die Erdatmosphäre,
+[01:29:01] Andreas: oder in die Atmosphäre, nicht Erdatmosphäre, in die Atmosphäre von diesem Planeten Iego, nicht Iago, sondern Iego, eindringen und genauso wie die Turbot jetzt dieses typische Asteroidenartige eindringen in die Atmosphäre zeigen.
+[01:29:08] Friedrich: Diego.
+[01:29:23] Andreas: Um euch herum tausende Teile von Schiffen und ihr alle stürzt auf die Atmosphäre von Iguzu und ihr seht plötzlich Wolken, gelblich, rötlich, dann keine Wolken mehr.
+[01:29:41] Andreas: ein riesiger Urwald und aus diesem Urwald, nein, das sind keine Bäume, das sind einzelne schwarze Felsnadeln, die wie ein Wald, soweit das Auge reicht, hervorstehen. Ein Wald aus Basalt.
+[01:29:58] Andreas: Und dieser Basalt ist wiederum bewachsen mit Urwald und du stürzt zwischen diesen Basaltfelsen hinein und die Törbert wird durchgeschüttelt, stößt gegen den einen Basaltfelsen, dann gegen den anderen Basaltfelsen und wird dann eingeklemmt in ein Tal nach unten gerissen.
+[01:30:21] Andreas: und ihr habt einen richtig schönen, wunderbaren, ordentlichen Absturz, den ihr hier hinlegt mit großen Schäden am Schiff und es reißt euch herum und ich bitte euch alle um 4w6 und Geschicklichkeitswurf halbiert, ansonsten 4w6 Schaden.
+[01:30:48] Andreas: ich mache die 4w6
+[01:30:50] Friedrich: Also, sorry, was machen wir jetzt?
+[01:30:52] Andreas: und ihr macht jeweils
+[01:30:54] Andreas: einen Geschicklichkeitsbruch.
+[01:30:54] Martin: Ich habe schon gewürfelt.
+[01:30:56] Andreas: Ah ja, gut. Genau.
+[01:30:57] Andreas: Ansonsten könnt ihr auch das nehmen.
+[01:30:58] Benjamin: Ich nehme den nur von Martin.
+[01:31:01] Friedrich: Geschicklichkeit ist Dexterity, oder was?
+[01:31:03] Andreas: Ja, genau. Und
+[01:31:05] Andreas: er sieht so aus.
+[01:31:10] Andreas: Ist jemand über 15?
+[01:31:13] Andreas: Ah ja.
+[01:31:13] Friedrich: Ja, Martin.
+[01:31:13] Friedrich: Okay, was habe ich nach dem, wie viele Hitpoints habe ich nach dem Levelaufstieg? Also die aktuellen Plus, das ist wieder hoch gewesen, ja, okay. 27, minus 9, 18. Hängen wir in der Luft zwischen so Basaltnadeln fest oder?
+[01:31:14] Andreas: Ah, okay. Du kannst es halbieren.
+[01:31:16] Andreas: Du kriegst also 3 Schaden.
+[01:31:17] Andreas: Ne, was haben wir hier?
+[01:31:19] Andreas: 5 Schadenspunkte, aber alle
+[01:31:22] Andreas: anderen kriegen die 9 Schadenspunkte.
+[01:31:32] Andreas: 27 hast du.
+[01:31:37] Andreas: Ja.
+[01:31:50] Andreas: Schauen wir mal, ob das
+[01:31:51] Andreas: hinkommt vom Ton her. Ich weiß nicht.
+[01:31:54] Andreas: Wahrscheinlich nicht.
+[01:31:57] Benjamin: Oh.
+[01:31:57] Andreas: Eher nicht.
+[01:31:58] Andreas: Ja.
+[01:31:58] Benjamin: Aber das
+[01:32:00] Benjamin: Boom kam an.
+[01:32:02] Andreas: Genau. Und jetzt
+[01:32:04] Andreas: seid ihr dort unten.
+[01:32:07] Andreas: Abgestürzt.
+[01:32:11] Andreas: Um euch herum.
+[01:32:13] Andreas: Brennt es. Und jetzt hört ihr
+[01:32:14] Andreas: tatsächlich Einschläge.
+[01:32:16] Andreas: Krach, Explosionen, alles mögliche wackelt und driftet um euch herum.
+[01:32:25] Andreas: Das Kreischen von Metall, Funken, die hier und dort rausschlagen und dann ist die Energie des Schiffes weg.
+[01:32:37] Andreas: Es wird dunkel und wie Fackellicht oder einzelne energetische Funken erhellen diese Dunkelheit hier.
+[01:32:50] Andreas: Aber da hängt ihr. Das Schiff ist nicht flach, sondern hochkant. Das heißt also alles, was in diesem Schiff normalerweise gut begehbar ist, ist jetzt eine gefährliche Falle, weil man tief fallen kann in diesem breiten Schiff.
+[01:33:09] Andreas: und da hängt ihr nun.
+[01:33:13] Andreas: Ihr oben in diesem Laserturm.
+[01:33:17] Andreas: Um euch herum schwarze Felsen in dieser Glaskuppel.
+[01:33:21] Andreas: Ihr könnt froh sein.
+[01:33:22] Andreas: Es hätte euch auch viel, viel schlimmer treffen können.
+[01:33:26] Andreas: Aber die Kuppel ist nicht beschädigt.
+[01:33:29] Andreas: Ihr seht allerdings Basalt.
+[01:33:41] Andreas: Ihr hängt, ja genau, ihr hängt irgendwo,
+[01:33:42] Friedrich: Du hast gesagt, es gibt
+[01:33:45] Andreas: du kannst es nicht sagen, deine Instrumente sind ausgefallen.
+[01:33:49] Andreas: Ich komme gleich zum Cockpit, jetzt erstmal noch bei euch beiden in der Kuppel.
+[01:33:55] Andreas: Ich muss nur hier leider immer jetzt das bei diesen Bildern umstellen,
+[01:33:59] Andreas: deshalb dauert es so lange und deshalb verzögert sich das bei mir immer so.
+[01:34:00] Martin: Erst du und dir.
+[01:34:02] Andreas: Also das ist ja der Basalt und da direkt vor euch,
+[01:34:08] Andreas: natürlich alles verschoben und krumm, aber es ist eine dunkle Stimmung.
+[01:34:13] Andreas: Und jetzt ist es ruhig. Ihr hört nur noch dieses Zucken, ein leichtes Brennen. Ihr habt Blut und einen metallischen Geschmack im Mund und es stinkt nach Abgasen.
+[01:34:31] Andreas: Und jetzt zum Cockpit. Galrixto, du hängst einfach gut in deinem Schräg im Sitz des Cockpits.
+[01:34:39] Andreas: Gunton liegt da unten auf einer der Steuerkonsolen, ist bewusstlos.
+[01:34:46] Andreas: Er blutet aus der Nase und aus dem Ohr und du hörst auch sonst nichts.
+[01:34:55] Andreas: Keine Bewegungen, gar nichts. Aber du siehst vor dir, wo sich das Schiff befindet.
+[01:35:00] Andreas: Das Schiff befindet sich in einer Schlucht. Und zwar zeige ich dir einmal, wie diese Schlucht von oben aussehen würde.
+[01:35:14] Andreas: Ja, aber das ist die Schlucht von oben. Aber ihr seid in diese Schlucht hineingestürzt. Und die Schlucht erweckt folgenden Eindruck. Und da steckt das Schiff irgendwo auf halber Höhe. Du siehst nicht mal das Ende der Schlucht unten. Eine rötliche Wolke befindet sich unten und oben.
+[01:35:16] Martin: Du erinnerst dich so. Alles gut?
+[01:35:47] Andreas: Ebenso eine rötliche Wolke und dazwischen der schwarze Stein dieser Basaltschlucht. Und da steckt ihr nun mit dem Schiff hochkant.
+[01:35:55] Benjamin: Boah.
+[01:36:01] Andreas: Ja, oben ist es bewachsen ein bisschen, seitlich ist es ein bisschen bewachsen, unten siehst du nur roten Nebel. Ja, es funktioniert kein System mehr. Es sind nicht mal die roten Lichter an, die normalerweise angehen. Irgendwas hat hier komplett den Stromkreis ausgeschaltet.
+[01:36:03] Friedrich: überall Urwald. Also ist das bewachsen?
+[01:36:08] Friedrich: Okay. Also gut.
+[01:36:19] Friedrich: Wenn ich Ganten da unten bewusstlos liegen
+[01:36:23] Friedrich: sehe, dann versuche ich mich erstmal irgendwie so abzuschnallen,
+[01:36:29] Friedrich: dass ich da nicht direkt auch runtersegle, sondern irgendwie auf dem Sitz
+[01:36:32] Friedrich: sitzen bleibe. Und
+[01:36:34] Friedrich: der Schiffsfunk ist wahrscheinlich ausgefallen.
+[01:36:41] Friedrich: Dann
+[01:36:41] Friedrich: über mein normales Comlink
+[01:36:55] Andreas: Ja, das geht.
+[01:36:57] Friedrich: versuche ich die anderen zu erreichen. Hallo, könnt ihr mich hören?
+[01:37:05] Friedrich: Bei mir ja, Gundon scheint hier bewusstlos zu liegen.
+[01:37:05] Martin: Wir engeln uns.
+[01:37:06] Martin: Hast du irgendwelche
+[01:37:08] Friedrich: Ich gucke jetzt nach ihm.
+[01:37:14] Martin: Statusnachrichten vom Schiff?
+[01:37:16] Martin: Wo sind wir? Warum sind wir in dieser komischen Position?
+[01:37:20] Friedrich: Wir hängen in einer Schlucht fest, kann ich erkennen.
+[01:37:23] Friedrich: Das Schiff scheint komplett ausgefallen zu sein.
+[01:37:25] Friedrich: Ich gucke jetzt erst nach Gundon.
+[01:37:28] Friedrich: Und dann, wie gesagt, mache ich mich los und versuche darunter zu klettern. Einigermaßen koordiniert. Gut, das hat mich wohl ziemlich durchgefüttelt.
+[01:37:49] Friedrich: Scheiß macht, kann ich
+[01:37:57] Martin: Sag mal, wie ist das mit der Schwerkraft?
+[01:37:59] Martin: Wir haben ja am Schiff eigentlich künstliche Schwerkraft.
+[01:38:02] Martin: Und die zieht ja Richtung zur Basis hin.
+[01:38:06] Martin: Jetzt steht das senkrecht und wir haben aber planetare Schwerkraft.
+[01:38:08] Martin: Haben wir jetzt Schwerkraft in zwei Richtungen?
+[01:38:16] Martin: Okay, also keine künstliche mehr.
+[01:38:16] Andreas: produziert wird. Ihr habt keine künstliche Schwerkraft.
+[01:38:20] Andreas: Die ganzen Systeme sind ausgefallen. Ihr wisst
+[01:38:24] Andreas: auch gar nicht, welche Schäden aufgetreten sind. Ihr habt auch von den anderen noch nichts
+[01:38:28] Andreas: gehört. Ihr habt nichts von Vanira gehört. Ihr habt nichts von
+[01:38:31] Andreas: euren ganzen anderen Passagieren gehört.
+[01:38:37] Martin: Ich denke, ich bin immer noch so halbwegs festgehalten.
+[01:38:40] Benjamin: Ich habe
+[01:38:40] Andreas: Du fällst auf Ganten herunter. Jetzt machen wir das ganz kurz. Du fällst auf Ganten
+[01:38:41] Benjamin: Ich habe Komaro vorhin was funken gehört.
+[01:38:45] Andreas: herunter. Ganten rührt sich nicht. Er hat eine
+[01:38:48] Andreas: ziemlich schwere Kopfwunde,
+[01:38:52] Andreas: rot, hinten am Hinterkopf.
+[01:38:55] Andreas: Er muss auf das
+[01:38:56] Andreas: KOM-System so stark aufgeschlagen
+[01:38:58] Andreas: sein, dass tatsächlich
+[01:38:59] Andreas: das Blechgehäuse des KOM-Systems
+[01:39:03] Andreas: und dass es so ein Plastel
+[01:39:04] Andreas: nach innen gedrückt wurde.
+[01:39:11] Friedrich: also
+[01:39:12] Friedrich: kann ich dann reagieren, wenn ich aufgestanden bin
+[01:39:15] Friedrich: oder da irgendwie aufgewaltet bin
+[01:39:16] Andreas: Ja, du bist runtergefallen, du hast
+[01:39:17] Friedrich: also
+[01:39:18] Andreas: dir nicht wehgetan, du wurdest ja von
+[01:39:20] Andreas: Ganten gut abgefangen.
+[01:39:22] Andreas: Er reagiert allerdings nicht.
+[01:39:22] Friedrich: ich
+[01:39:24] Friedrich: untersuche ihn dann und versuche halt irgendwie
+[01:39:26] Friedrich: erste Hilfe zu leisten, also wenn ich da diese
+[01:39:28] Friedrich: Wunde sehe
+[01:39:29] Friedrich: ja, weiß nicht, ob ich irgendwas zum Verbinden
+[01:39:29] Andreas: Er ist absolut
+[01:39:32] Friedrich: finde oder
+[01:39:33] Andreas: bewusstlos, er lebt
+[01:39:33] Friedrich: ja, also das ist hauptsächlich
+[01:39:35] Andreas: allerdings noch, weil seine Augen sich nämlich drehen und bewegen, also ganz stark in Bewegung sind und in allen Richtungen hin und her fließen.
+[01:39:46] Andreas: Aber das sieht nach einer schweren Gehirnerschütterung aus. Könnte sein, dass er nicht überlebt. Du hast sowas schon mal gesehen.
+[01:39:56] Andreas: Also so eine Kopfwunde hast du schon gesehen, als du einmal diesen Sturmtruppler genommen hast, seinen Helm vom Kopf gerissen hast und dann seinen Kopf gegen diesen Stein mehrfach geschlagen hast, hast du exakt dieselbe Situation im Grunde ausgelöst.
+[01:40:00] Friedrich: die Platzwunde oder die Kopfwunde, die
+[01:40:02] Friedrich: er da hat oder
+[01:40:03] Friedrich: Ja, also blutet das noch stark oder so?
+[01:40:21] Andreas: Und er ist dann mehrere Stunden später einfach an seinen schweren Verwundungen gestorben.
+[01:40:26] Andreas: Du wolltest ihn noch befragen, aber es hat damals nicht mehr funktioniert.
+[01:40:40] Andreas: Ja, ja, die Kopfhunde blutet stark und bedeckt nun auch schon hier die Seite des Cockpits und fließt in dieser Glasschüssel.
+[01:40:47] Friedrich: Okay, also ich versuche erstmal da die Blutung zu stoppen.
+[01:40:52] Andreas: Ja, mach mal einen Medizinwurf bitte. Klappt nicht.
+[01:40:54] Friedrich: Okay, dann funke ich nochmal durchs Kommen.
+[01:41:09] Friedrich: Vanira, kannst du uns hören?
+[01:41:11] Friedrich: Ganten hat eine starke Kopfverletzung
+[01:41:13] Friedrich: und ich kriege die Blutung nicht gestopft.
+[01:41:15] Friedrich: Gestoppt.
+[01:41:17] Andreas: Warnira ist nicht im Com-Link vorhanden. Ihr Com-Signal empfängt nicht.
+[01:41:26] Friedrich: Das heißt, sie antwortet nicht oder ich kann sie nicht anfunken
+[01:41:28] Friedrich: oder was?
+[01:41:32] Andreas: Du weißt, das ist unterschiedlich, es klickt unterschiedlich, du weißt das ganz genau. Wenn jemand das Comlink ausgeschaltet hat, weißt du einfach von dem, wie sich das anhört, das ist nicht mehr an.
+[01:41:34] Friedrich: Wir haben ja wahrscheinlich so eine
+[01:41:40] Friedrich: Broadcast-Möglichkeit.
+[01:41:48] Friedrich: Also wir haben wahrscheinlich irgendwie so eine
+[01:41:50] Friedrich: Broadcast-Möglichkeit,
+[01:41:53] Friedrich: dass es alle hören. Auf die check ich
+[01:41:54] Friedrich: das, dass es halt alle hören und ich spreche
+[01:41:56] Friedrich: aber Vanira an. Das heißt, sie reagiert
+[01:41:59] Friedrich: dann nicht oder ich kriege irgendwie mit, dass sie
+[01:41:59] Andreas: Nein, nein, jetzt springen wir zu euch.
+[01:42:00] Friedrich: Komaro, Kellum, könnt ihr irgendwie hier runterkommen und mir helfen?
+[01:42:13] Benjamin: Sehe ich den, höre ich ihn denn akustisch hier irgendwo neben mir?
+[01:42:17] Benjamin: Oder wo ist der?
+[01:42:17] Andreas: Ja, ja, natürlich, so wie ich das verstehe. Oder, Kumaro, wo bist du?
+[01:42:20] Benjamin: Ich weiß ja nicht, ob er irgendwo runtergefallen ist oder so.
+[01:42:21] Andreas: Ja, du hast dich gut festgehalten, du hast dich gut verkeilen können, du bist eben nicht diesen Treppenschacht nach unten in euren Hangar-Bereich oder nicht Hangar, sondern in euren Frachtbereich runtergefallen.
+[01:42:28] Martin: Auf dem Aufland scheint Hilfe auf der Brücke. Und genau das versuchen wir jetzt.
+[01:42:40] Benjamin: Ich bin ja angeschnallt.
+[01:42:41] Benjamin: Das heißt, ich versuche erst mal, Komaro den Arm zu reichen,
+[01:42:45] Benjamin: um ihn irgendwie zu mir hochzuziehen, damit er da irgendwo einen besseren Halt hat.
+[01:43:03] Benjamin: Lass uns rüberklettern.
+[01:43:11] Andreas: Genau, also es ist...
+[01:43:12] Benjamin: Warte nicht auf mich.
+[01:43:14] Benjamin: rufe ich ihn noch hinter. Ich gehe davon aus,
+[01:43:14] Andreas: Ihr müsst dreimal würfeln.
+[01:43:16] Benjamin: dass der viel schneller ist.
+[01:43:18] Martin: Das bin ich tatsächlich. Ich kann nämlich, ich habe eine Crawl, Line, Run, Swim Speed auf meiner Full Speed und bin von schwierigen Terranen beeinflusst.
+[01:43:28] Andreas: Ja, das ist hervorragend.
+[01:43:31] Martin: Das heißt, ich kann da jetzt ganz schnell durchfließen.
+[01:43:33] Andreas: Du kannst ohne weiteres, also dich beeinflusst es nicht, du weißt, wie man an Wänden hochklettert, du kannst Abgründe einfach überspringen und dich gut ab, also dich gut durchmanövrieren, aber letztendlich musst du von rechts nach links dich bewegen, weil der Boden, also es ist schon ein Boden da, aber es ist natürlich dieses, dieser Gang ist wie so eine Art Kurve über vier, fünf Meter in die Tiefe und dann wieder nach oben.
+[01:44:02] Andreas: Das heißt also, es ist tatsächlich besser, wenn du nicht unten läufst, sondern wenn du dich irgendwie seitlich daran entlang bewegst.
+[01:44:10] Andreas: Calum, du musst dich wahrscheinlich nach unten ablassen, um da durchzukommen und dann halt an der Wandseite von unten nach oben laufen.
+[01:44:18] Andreas: Und dann ist es halt sehr schwierig, in den Cockpit-Bereich wieder hochzukommen.
+[01:44:21] Andreas: Du musst also quasi erst nach unten klettern und dann hinten hoch zum Cockpit hochklettern.
+[01:44:29] Benjamin: Das mache ich,
+[01:44:31] Benjamin: wo es sinnvoll und nötig ist.
+[01:44:33] Benjamin: Nee, nee.
+[01:44:35] Benjamin: Also, ich lasse mir Zeit.
+[01:44:37] Benjamin: Ich mache das eher auf Nummer sicher,
+[01:44:39] Benjamin: weil ich weiß, dass Komaru
+[01:44:41] Benjamin: eh schneller dort sein wird.
+[01:44:45] Friedrich: Kannst du nochmal sagen, wie genau wir da jetzt hängen? Hängen wir mit der Schnauze nach unten oder so auf der Seite, dass die rechte Seite da quasi unten ist?
+[01:44:53] Andreas: Also genau, der Einfachkeit halber hängt ihr quasi genau so, wie es jetzt auf dem Plan abgebildet ist.
+[01:45:00] Andreas: Das heißt, ihr hängt mit dem Cockpit nach oben, mit dem Triebwert nach unten, flach zwischen diesen Basaltnasen drin.
+[01:45:19] Andreas: Ja, Komaru, du kommst zu dem Gang, läufst den Gang entlang und da liegt der Erste.
+[01:45:28] Andreas: Und zwar hattet ihr doch einen Passagier dabei, den Darufell. Und der Darufell liegt auch bewusstlos hier am Boden, also eigentlich an der rechten Wand des Gangs zum Cockpit.
+[01:45:49] Andreas: Und der Dauphel ist abgegeben. Wer dort liegt, ist nicht der Dauphel, sondern das ist euer Begleiter Gags. Das ist Gags. Der war wohl eingesteckt. Er hängt noch teilweise an diesem Stromkabel und liegt einfach dran, ohne sich zu bewegen.
+[01:45:50] Benjamin: Aber den Darufell hatten wir den,
+[01:45:53] Benjamin: hattet ihr den nicht
+[01:45:54] Benjamin: beim Syndikat abgegeben?
+[01:45:57] Martin: Eigentlich schon, dass da aber Fällen ist.
+[01:45:58] Martin: Ja, der Herrlund wird sowieso gleich nachkommen. Da gehe ich lieber die weitere Strecke, weil ich habe es viel leichter, hier durchzukommen und überlasse ihm das hier. Das ist zwar jetzt vielleicht ein bisschen komisch, aber auch gleich schlauer. Das heißt, ich gehe erstmal lieber zu den anderen.
+[01:45:59] Benjamin: Genau, genau.
+[01:46:00] Friedrich: Ja, stimmt.
+[01:46:07] Benjamin: Gags, okay.
+[01:46:08] Benjamin: Hängt sie irgendwo fest? Hängt sie irgendwo dran? Oder liegt die irgendwo drauf?
+[01:46:24] Andreas: Vielleicht hat er irgendeine, also es sieht nicht unbedingt gesund aus, kein Licht brennt. Da musst du, ne, der verliert kein Öl oder so, aber der hängt eben an diesem Ladekabel.
+[01:46:53] Martin: der super mediziner aber das krieg ich hin das heißt ich check erst mal wie das im zustand
+[01:46:54] Friedrich: Der scheint ja auch kein Öl zu verlieren.
+[01:46:56] Friedrich: Also, wenn Komaro losgeht, um sein Medkit zu besorgen, ich versuche halt weiterhin diese Blutung irgendwie zu stoppen.
+[01:47:03] Andreas: Auf der anderen Seite steht die Tür zu Gantons Gemach offen, hängt quasi einfach nur, du musst sie ein bisschen aufschieben oder zuschieben, um dran vorbeizukommen und dann bist du schon im Cockpit-Bereich und da siehst du, wie Galrixto über Ganten hängt, so im hinteren Bereich des Cockpits in der Nähe der Tür und Ganten sieht wirklich nicht gut aus.
+[01:47:30] Andreas: er ist dabei zu sterben und es sieht nicht mehr gut aus.
+[01:47:48] Martin: überhaupt ist okay wahrscheinlich habe ich nicht bei mir vielleicht bin ja wir hatten ja vor allem
+[01:48:03] Martin: ruhepause das heißt ich muss zu meinem schlafplatz an mein gepäck und das matt pack holen also das
+[01:48:10] Martin: heißt, ich beeile mich jetzt sehr schnell,
+[01:48:10] Andreas: Ja, das ist wirklich gut, dass du dich so gut in dem Schiff bewegen kannst,
+[01:48:12] Martin: dass ich da hinkomme,
+[01:48:14] Martin: hole das Matpack und dann gleich wieder
+[01:48:16] Martin: zu Ganten zurück, um ihn zu versorgen.
+[01:48:21] Andreas: weil der Calum kommt gerade dort den Gang hochgeklettert, während du schon wieder zurückkommst.
+[01:48:28] Andreas: Und Calum, als du versucht hast, da nach oben zu klettern, musst du dich allerdings entscheiden.
+[01:48:35] Andreas: Entweder kletterst du weiter zum Cockpit oder du gehst in den jetzt ganz oben hochkant stehenden Bereich eurer Messe oder dort, wo ihr auch immer gegessen habt.
+[01:48:52] Andreas: Denn dort hängt, mitten zwischen den aus den Schränken gefallenen Gläsern und den Plastelbechern und Tellern, Varnira auf dem Tresen.
+[01:49:07] Andreas: und auch sie sieht bewusstlos aus.
+[01:49:13] Andreas: Vor allem aber reagiert sie nicht darauf,
+[01:49:16] Andreas: dass ihr Radius und ihre Ulna aus dem Oberarm rausstehen,
+[01:49:22] Andreas: weil sie nämlich einen schweren Knochenbruch am Unterarm erlitten hat.
+[01:49:25] Andreas: Ja, sie liegt auf dem, also der unterste Schrank ist aufgegangen
+[01:49:27] Martin: In oben raus.
+[01:49:30] Martin: Ich wusste ja genau, wo es ist,
+[01:49:42] Andreas: und da ist der ganze Inhalt des Schrankes rausgefallen.
+[01:49:45] Andreas: Auf sie drauf und sie hängt an der unteren Wand, auf dem Tresen, am Boden und auf ihr drauf Besteck, Gläser, alles mögliche.
+[01:49:59] Andreas: Ihr Arm ist etwas krumm verklemmt in der schräg aufgegangenen Tür.
+[01:50:06] Andreas: Sie muss beim Runterfallen auf die Tür, die jetzt hier leicht aus den Angeln gerissen ist, dieses Plastelbehälters der Küche, sie aufgeschlagen.
+[01:50:17] Andreas: Und auch sie bewegt sich einfach nicht. Sie liegt nur da.
+[01:50:24] Benjamin: Dann werde ich, ich funke mal durch, was ich gesehen habe und werde dann zu ihr klettern.
+[01:50:34] Andreas: Also du kommst zu ihr hin.
+[01:50:35] Andreas: ich bitte dich noch um einen Athletics-Wurf
+[01:50:39] Andreas: jetzt, weil da muss man sich schon hochziehen
+[01:50:41] Andreas: nochmal diese letzte Stufe
+[01:50:42] Andreas: das schaffst du
+[01:50:45] Benjamin: 21.
+[01:50:45] Andreas: tatsächlich
+[01:50:45] Andreas: der Barhocker ist gut
+[01:50:49] Andreas: befestigt am Boden, du kannst dich
+[01:50:51] Andreas: wie beim Rack
+[01:50:52] Andreas: hochziehen
+[01:50:53] Andreas: draufstellen und
+[01:50:56] Andreas: dann liegt sie vor dir da
+[01:50:59] Andreas: an der rechten Wand
+[01:51:00] Andreas: hinter ihr
+[01:51:02] Andreas: so ein Bild, welches
+[01:51:04] Andreas: Ganten wahrscheinlich aus Coruscant mitgebracht hat. Irgend so eine Kunst einer Alienrasse. Direkt darauf, das ganze Bild hat sie Blut verschmiert, liegt sie und sie hat nicht nur einen gebrochenen Arm, sondern auch einen gebrochenen Oberschenkel. Und dieser Bruch ist wesentlich schlimmer und da sprudelt das Blut geradezu bachartig hervor. Das hat sie, ja.
+[01:51:36] Benjamin: Ich schaue erstmal ganz schnell, ob sie bei sich irgendwo ein Matpack oder sowas hat. Immerhin ist sie unsere Medizinerin.
+[01:51:43] Benjamin: Das heißt, also Idealfall wäre, ich gucke nach einem Matpack, ziehe da raus, da wird es ja vielleicht so einen moderneren Tourniquet oder sowas geben und versuche einfach, das möglichst schnell abzubinden, in der Hoffnung, dass durch dieses Matpack das auch einfach einfacher fällt.
+[01:51:46] Andreas: Sie hat am Gürtel ein Medpack.
+[01:52:00] Andreas: Ja.
+[01:52:01] Andreas: Du musst also, genau.
+[01:52:05] Andreas: Ja. Das ist ein Kunststoffband,
+[01:52:09] Benjamin: Ja, im Moment geht es nur um Retten, mehr nicht.
+[01:52:12] Andreas: welches sich selbst zusammenzieht.
+[01:52:14] Andreas: Das heißt, du legst das
+[01:52:15] Andreas: Kunststoffband um, das klickt
+[01:52:17] Andreas: ein
+[01:52:19] Andreas: und dann ist es so, als würde es so eine Art
+[01:52:21] Andreas: Dropper, das sich aufrollen.
+[01:52:24] Andreas: Zieht sich das
+[01:52:25] Andreas: selbst zusammen und
+[01:52:27] Andreas: dann fällt dir auch schon die Bacta-Spritze
+[01:52:29] Andreas: in die Hand, die dort liegt
+[01:52:30] Andreas: und du haust diese Stimulanz
+[01:52:33] Andreas: einfach direkt bei ihr in die Schulter.
+[01:52:36] Andreas: Zack.
+[01:52:40] Andreas: Du musst irgendwas anderes finden, um den Oberarm noch abzubinden.
+[01:52:45] Andreas: Das weißt du einfach.
+[01:52:53] Andreas: Ja.
+[01:53:13] Andreas: Naja, gut, das ist eine offene Wunde, die stark blutet,
+[01:53:16] Benjamin: Ja. Okay. Wobei da dann die Frage wäre, ist das sozusagen so, wie sie liegt und wie ich ihr Beibib bin? Habe ich aber überhaupt eine Möglichkeit, das hier in Ruhe zu behandeln? Oder wäre es besser, sie erst runterzubringen? Mache ich das erstmal. Und ja, dann schaue ich hier mal nach, ob ich irgendetwas finde, um den Arm zumindest notdürftig erstmal abzubinden.
+[01:53:16] Andreas: aber nicht sprudelnd.
+[01:53:18] Andreas: Muss trotzdem abgebunden werden.
+[01:53:36] Andreas: Naja, du kannst sie auf die Seite des Schiffes legen.
+[01:53:55] Andreas: Geil, Rickstu.
+[01:53:56] Andreas: Ja, also das ist bei diesen Kopfwunden natürlich schwieriger. Du weißt nicht genau, was du da machen musst. Aber im Grunde hat er ja eher innere Verletzungen. Das heißt also, wie viele medizinische Kenntnisse hast du mit Galrix? Das heißt also, du weißt wirklich nicht, was du machen kannst, aber mach mal einen B20-Wurf.
+[01:54:10] Friedrich: Irgendwie, wenn ich das nicht verbunden kriege, dann halt, indem ich da irgendwie Stoff drauf drücke und halt einen Druckverband ohne Verband anlege.
+[01:54:37] Friedrich: Minus 1. Wie mache ich das? Ah, D20, ne? So, 7.
+[01:54:47] Andreas: Gut. Also du, während du versuchst, auf seinen Kopf zu drücken, beginnt Ganten etwas zu husten. Die Augen fixieren dich etwas, aber er sieht dich nicht.
+[01:55:02] Friedrich: Ich gucke irgendwie, bewegen sich die Augen immer noch so unkontrolliert?
+[01:55:31] Friedrich: Ich spreche ihn irgendwie an, kannst du mich hören?
+[01:55:39] Andreas: Okay, Komaru, du findest nach einiger Zeit in deiner Kammer...
+[01:55:40] Friedrich: Lass die Augen auf, ich weite an.
+[01:55:42] Friedrich: Also ich versuche, seine Aufmerksamkeit zu kriegen und dass er dabei bleibt und nicht wieder das Bewusstsein verliert.
+[01:56:03] Martin: nur ist es da jetzt nicht mehr.
+[01:56:06] Martin: Aber
+[01:56:06] Martin: man kann es wahrscheinlich denken, genau.
+[01:56:09] Martin: Ich schnappe es mal also ganz schnell und
+[01:56:10] Martin: also ich habe ja gesehen, dass Zeit
+[01:56:13] Martin: wichtig ist, das heißt, ich trötele jetzt wirklich
+[01:56:14] Martin: nicht rum.
+[01:56:33] Andreas: Und du weißt einfach, dass du musst ihm diese Bacta-Injektion irgendwo in den Halsbereich reinjagen, sonst wird es wirklich schwierig. Wer weiß, was der für Verletzungen hat. Oder sogar vielleicht direkt im Brustbereich irgendwo. Genau, also da ist jetzt Lebensrettung angesagt.
+[01:56:34] Martin: Sehr gut.
+[01:56:45] Martin: Ja, genau.
+[01:56:47] Martin: Also eine starke Blutung habe ich ja vorher nicht gesehen, aber das macht es ja nicht besser. Also deswegen schnell zurück und dann, ja das bringt jetzt nichts, wenn ich jetzt Kälum störe und Ganten liegen lasse. Also ich gehe zuerst zu Ganten.
+[01:57:03] Andreas: Du kommst tatsächlich jetzt an Kelum vorbei, der über die Verletzte gebeugt ist. Möchtest du zu ihr oder zu Ganten? Du steigst über Gax hinweg und kommst zu Ganten.
+[01:57:27] Martin: und hast du Schmerzen beim Atmen? Kannst du mich hören?
+[01:57:33] Andreas: Gunton zuckt etwas, sein Fokus ist schlecht, seine Augen bewegen sich, zittern von rechts nach links und er hustet.
+[01:57:50] Martin: Ja, dachte ich mal. Gut.
+[01:57:50] Andreas: Er reagiert nicht wirklich.
+[01:57:56] Friedrich: Hast du das Medkit?
+[01:57:59] Martin: Ich habe das MedKit. Ich muss mal schauen,
+[01:58:03] Martin: ob ich mehr als eine Anwendung habe. Ich glaube nämlich,
+[01:58:06] Martin: ich habe nur noch eins.
+[01:58:12] Andreas: Eine Anwendung, genau. Und ich bitte dich jetzt auch nochmal auf Medizin zu würfeln.
+[01:58:12] Martin: Ich habe nur noch eins.
+[01:58:18] Martin: Moment.
+[01:58:46] Martin: Ich fokussiere mich.
+[01:58:47] Andreas: Ah, super. Ja, es war knapp. Er hat nämlich zwei Todesrettungswürfe nicht geschafft.
+[01:58:49] Martin: Das wird ja. Oh, ja genau, also 17 insgesamt. Das heißt, ich kriege einen schönen Mix aus Epinephrin gegen den Schock und Cortison gegen die Hirnschwellung und Bacta ist sowieso ein Allheilmittel, das ist da garantiert unbegrenzt und dann wahrscheinlich die dann reparieren.
+[01:59:02] Andreas: Ja, also du stabilisierst Ganten, indem du ihm einfach die Injektion gibst. Ansonsten wäre er wahrscheinlich an einem Schlaganfall oder irgend sowas jetzt. Oder wäre das Ideen einfach zu stark gewesen, welches sich innen drin aufgebaut hat. Du kannst es nicht genau sagen.
+[01:59:25] Andreas: Aber genau, was auch immer dort gemacht wird. Es kann auch sein, dass da irgendwelche Nanopartikel jetzt tätig werden. Das heißt also, da sind verschiedene Sachen tätig und er beginnt wieder etwas stabiler zu atmen und sein Puls geht regelmäßiger.
+[01:59:46] Martin: Genau. Glaubst du, wir können die Leitungskapsel lösen?
+[01:59:58] Andreas: So, jetzt bitte ich Galrixto um einen Wurf auf Wahrnehmung. Du hörst ein Quietschen. Das Quietschen wird etwas stärker. Ja, du hast ganz leicht dieses Gefühl, ganz kurz, wie wenn sich der Bauch so ganz kurz anhebt.
+[02:00:12] Friedrich: Wahrnehmung, Perception, 16.
+[02:00:28] Friedrich: Merke ich irgendwie, dass das Schiff sich bewegt oder so?
+[02:00:31] Friedrich: Ich glaube, wir rutschen ab.
+[02:00:42] Andreas: Und tatsächlich. Ja, aber Achtung, wenn du Ganten jetzt über die Kante ziehst, dann ist direkt unter dir ein Schacht, der ist fast 10 Meter tief. Bis zur Tür der Rettungskapsel.
+[02:00:53] Friedrich: Kumaro, lass uns Gunn zur Rettungskapsel bringen.
+[02:00:56] Friedrich: Kaelum, schaffst du Vanira hier raus?
+[02:01:00] Benjamin: Mach ich. Mit der Inspiration kannst du noch mal würfeln.
+[02:01:05] Friedrich: Ja, dann wo sind wir?
+[02:01:15] Friedrich: Es ist eine Rettungskapsel.
+[02:01:17] Friedrich: Wie sollen wir hier sonst rauskommen?
+[02:01:17] Martin: Ja, wir stecken hier irgendwo fest. Das kann schwierig werden.
+[02:01:26] Friedrich: Während wir hier diskutieren, versuche ich Gunn schon zu bewegen.
+[02:01:29] Martin: Ja, ja, ist schon gut. Ich packe Lampen schon.
+[02:01:30] Friedrich: Wir sind im Cockpit.
+[02:01:33] Martin: Wenn er jetzt runterfällt, ist er hinüber. Das kann ich dir sagen. Also Mühe geben.
+[02:01:44] Andreas: Ihr seid im Cockpit, auf der rechten Stufe quasi, rechts. Ja, 1,30 Meter, sowas. Also es ist schon etwas breiter als 1 Meter, sodass zwei Menschen gerade so aneinander vorbeilaufen können.
+[02:01:51] Friedrich: Komaro, kannst du in den Gang rübergehen?
+[02:01:56] Friedrich: Wie breit ist das? Einen Meter?
+[02:01:59] Friedrich: Dann versuche ich, mich breit drüber zu stellen
+[02:02:09] Andreas: Okay, ich bitte euch beide um Athletics oder Acrobatics Checks und die Schwierigkeit ist im Bereich von 15. Genau, da kannst du deinen Wurf wiederholen, um dann den zweiten dann zu nehmen.
+[02:02:15] Friedrich: und den Gang so rüberzuziehen, dass Komaro den annehmen kann.
+[02:02:21] Friedrich: Ohne, dass er jetzt runterknallt und sich die nächste Kopfwunde holt.
+[02:02:40] Friedrich: 18.
+[02:02:41] Friedrich: was macht der die inspiration nummer 19 also ja wir haben auch noch zwei andere drei andere
+[02:02:43] Martin: Ich gebe auf jeden Fall wieder einen Boost. Das ist hier echt notwendig.
+[02:02:50] Martin: Ich wollte gerade sagen, Moment, wir sprengen die nicht ab und schauen dann, ob Platz ist. Das ist die falsche Reihenfolge. Sondern wir machen tatsächlich erstmal einen Umgebungsscan, damit wir ausrechnen können, in welchem Winkel und in welche Richtung wir rauskommen.
+[02:03:03] Andreas: Okay, also ihr beide schafft es tatsächlich, mit großer Mühe Ganten zwischen euch hin und her zu schieben.
+[02:03:13] Andreas: Und nur weil sich Komaro so gut hier links und rechts festhalten kann, schafft ihr es, die schwere Last in die Rettungskapsel zu bringen.
+[02:03:23] Andreas: Und tatsächlich, die Rettungskapsel hat Energie. Dort ist das rote Licht zu erkennen.
+[02:03:28] Andreas: Und dort kann man die Rettungskapsel absprengen, wenn man möchte. Der Knopf ist rot und rund bereit. Wenn man dort drauf drückt, schließt sich ruckartig die Tür und dann wird die Rettungskapsel abgesprengt. Nach unten in die Schlucht hinein.
+[02:03:46] Andreas: Ja, es gibt, ja, also die Rettungskapsel muss visuell gesteuert werden und dazu gibt es ein Bullauge. Das heißt, du kannst es aufmachen und rausgucken.
+[02:04:06] Martin: Weil das bringt nichts, wenn wir uns in den Boden schießen und dann da feststecken. Ergo erstmal rechnen.
+[02:04:19] Andreas: Ja, genau. Es bewegt sich das ganze Stiff wieder ein ganz kleines Stück und ihr schlittert etwas, vielleicht einen halben Meter nach unten. Und ja, da kann man jemanden festschnallen.
+[02:04:24] Friedrich: passagiere also ich meine dann liegt jetzt hier ist okay aber ich würde jetzt bevor ich die
+[02:04:32] Friedrich: rettungskapsel starte erstmal noch nach kecks und war nie reingucken ich weiß nicht gar nicht so
+[02:04:37] Friedrich: weiß nicht was man keks ist hätte ich noch nicht gesehen können wir irgendwie fest schnallen da
+[02:04:40] Martin: schwer beschädigt den habe ich gesehen ja jetzt zusammenfällt wahrscheinlich hat ich
+[02:04:52] Friedrich: Da sind ja bestimmt Sitze drin.
+[02:04:54] Friedrich: Ja.
+[02:04:56] Friedrich: Kumaro, wir...
+[02:04:56] Andreas: Jetzt springen wir aber wieder zu Kalum.
+[02:04:59] Andreas: Kalum, du bist über Varnira gebeugt mit den beiden gebrochenen Gliedmaßen.
+[02:05:05] Andreas: Das sieht auch nicht besonders gut aus.
+[02:05:07] Andreas: Und wenn du sie bewegst, dann bewegen die sich ebenso.
+[02:05:12] Andreas: Und Gex liegt unter dir.
+[02:05:16] Andreas: Was tust du?
+[02:05:18] Benjamin: Wie weit ist das denn von dort, wo ich jetzt mit Vanira bin, bis zum nächsten Boden, sag ich mal in Anführungszeichen?
+[02:05:27] Benjamin: Also mein Idealfall wäre ja, ich komme runter. Okay, okay. Dann werde ich sie ganz vorsichtig.
+[02:05:29] Andreas: Zwischen 1,30 und 1,50 geht es nach unten um den nächsten Absatz.
+[02:05:34] Andreas: Das ist nicht so tief.
+[02:05:36] Andreas: Die merkt nichts. Jetzt macht dieses Schiff eben diesen Ruck, den ich gerade beschrieben habe. Und du siehst jetzt hier Gex und Vanira. Du kannst entweder Gex mitnehmen oder Vanira. Und jetzt bitte ich dich um einen Wurf, auch einen W20er.
+[02:05:41] Benjamin: Ja, es tut jetzt weh, aber wahrscheinlich ist sie eh, sie ist ja bewusstlos.
+[02:05:42] Friedrich: Klick.
+[02:05:45] Benjamin: große Vorteile. Genau. Also, dann werde ich sie vorsichtig runterlassen.
+[02:05:50] Benjamin: Ich werde sie natürlich nicht an den Gliedmaßen runterlassen, die
+[02:05:54] Benjamin: eh schon gebrochen sind. Ich werde auch kurz mal vorher das andere Bein,
+[02:05:58] Benjamin: den anderen Arm einfach abchecken, nicht das da.
+[02:06:02] Benjamin: Und dann lasse ich sie ganz vorsichtig runter, um
+[02:06:06] Benjamin: im Bestfall bei Gags mit ihr zu landen.
+[02:06:10] Benjamin: Ja, die Frage ist, bei Gags kann ich den irgendwie aktivieren? Gibt es da irgendwie einen Schalter oder sowas? Moment, ich muss kurz gucken, was habe ich? 16. Und das Kabel selbst, ist das unter Strom? Also oder wie? Kann eigentlich nicht sein.
+[02:06:29] Andreas: Okay, es ist nicht so, dass sich die dunkle Seite derart übermannt, dass du beide zurücklässt, aber du nimmst wohl Maniera weiter mit, oder?
+[02:06:50] Andreas: Mach mal einen Technikwurf. Ihr seid mit Ganten beschäftigt, also ihr könnt leider da nicht interagieren gerade.
+[02:07:04] Andreas: 16. Der ist in einem ewigen Kurzschluss gefangen, weil er an diesem Kabel, welches weder ein- noch ausgesteckt ist, hängt.
+[02:07:23] Andreas: Das ist unter Strom.
+[02:07:23] Benjamin: Gut, und um diesen Kurzschluss zu deaktivieren, müsste ich das Kabel entfernen, ja?
+[02:07:33] Andreas: Das ist sehr gut.
+[02:07:33] Benjamin: Gut, ich gehe davon aus, dass hier prinzipiell kein Strom ist, aber man weiß es ja nicht genau.
+[02:07:39] Benjamin: Kaelum wird sich kurz konzentrieren und bewegt seine Hand kurz so und mit der Hilfe der Macht wird er dieses Kabel entfernen.
+[02:07:56] Andreas: Gax sinkt jetzt voll ganz auf den Boden herunter.
+[02:07:59] Andreas: Das Kabel war relativ tief drin gesteckt.
+[02:08:02] Andreas: Also das ist so ein Stecker, der sich verbindet
+[02:08:05] Andreas: und dann würde sich so verdrehen.
+[02:08:06] Andreas: Und der ist nur noch am letzten bisschen gehalten,
+[02:08:10] Andreas: dieser Drehnut.
+[02:08:13] Andreas: Am letzten bisschen ist er gehalten
+[02:08:15] Andreas: und es gibt tatsächlich einen richtig blendenden Lichtbogen.
+[02:08:18] Andreas: wenn du das Kabel raus...
+[02:08:22] Andreas: Das wäre nicht gesund gewesen, das anzufassen.
+[02:08:25] Andreas: Und dann
+[02:08:25] Andreas: gehen die Augen
+[02:08:28] Andreas: von Gex an
+[02:08:29] Andreas: zur Stelle
+[02:08:32] Andreas: und er fasst
+[02:08:34] Andreas: die andere Seite des
+[02:08:36] Andreas: von
+[02:08:38] Andreas: Vernierer an
+[02:08:39] Andreas: und ich helfe dir tragen.
+[02:08:46] Benjamin: Wir sind abgestürzt. Wir müssen zu einer der Rettungskapseln. Wie groß sind denn die Rettungskapseln? Wie viele Leute passen denn da rein überhaupt?
+[02:08:47] Andreas: Statusbericht.
+[02:08:57] Friedrich: Ich würde sagen drei.
+[02:08:59] Andreas: Müsst halt
+[02:09:02] Benjamin: Ja, gut. Sehr gut. Galrixo, wir brauchen dich.
+[02:09:05] Friedrich: Wie es auf dem Bild aussieht.
+[02:09:07] Andreas: übereinander reinklettern.
+[02:09:09] Andreas: So richtig besonders gemütlich ist es nicht, ja.
+[02:09:14] Andreas: Also ihr seid dann ja zu fünft.
+[02:09:18] Andreas: Rettungsroutine 27 einleiten.
+[02:09:22] Andreas: Also er zuckt so ein bisschen und es haut Funken seitlich raus,
+[02:09:26] Andreas: aber er schnappt Vanira und klettert mit seinen Metallklauen die Wand entlang.
+[02:09:36] Andreas: Und dann seid ihr vor dem Abgrund, als Galrixto gerade von unten hochklettert.
+[02:09:41] Andreas: Weil du wolltest ja da wieder raus, so wie ich das sehe, und nach den anderen schauen.
+[02:09:46] Friedrich: Ja.
+[02:09:49] Andreas: Ihr lasst gemeinsam Warnierer ab, weil ihr zu zweit seid und der Druide auch mithilft.
+[02:10:01] Andreas: Schafft ihr es, dort unten in die Rettungskapsel hineinzukommen?
+[02:10:05] Andreas: Die Rettungskapsel, also es ist wirklich eng.
+[02:10:07] Andreas: also einer von euch muss sich quasi
+[02:10:18] Andreas: oberhalb von allen verkeilen
+[02:10:22] Andreas: gegen die Wand oder sonst was
+[02:10:24] Andreas: ansonsten müsst ihr einen zurücklassen
+[02:10:28] Andreas: also jetzt kommt es drauf an
+[02:10:28] Benjamin: Naja, sag mal, Vanira hat im Moment eh ein paar mehr Winkel und Scharnierstellen, als sie normalerweise hätte.
+[02:10:40] Benjamin: Nein, aber Galrixo überschreibt das.
+[02:10:41] Friedrich: Der hat ja nicht so magnetische Füße, mit denen er sich an der Decke festmachen kann.
+[02:10:43] Andreas: bei der Rettungskapsel gibt es jetzt eine Meldung
+[02:10:51] Andreas: zu viele Passagiere
+[02:10:52] Andreas: maximales Gewicht überschritten.
+[02:11:01] Martin: ich stelle mich mal oben über den anderen zwischen die wände auch für dann immer noch
+[02:11:10] Martin: breit endlich mal ein technisches problem finde ich gut buchstäblich ist es gut
+[02:11:11] Andreas: Und jetzt rutscht das ganze Schiff ab.
+[02:11:14] Andreas: Und ihr merkt es.
+[02:11:16] Andreas: Es löst sich und ihr dreht euch
+[02:11:20] Friedrich: Redet sich das auch oder rutscht das einfach so runter?
+[02:11:22] Andreas: nach oben.
+[02:11:24] Andreas: Ihr droht wieder rauszufallen
+[02:11:27] Andreas: in diesen langen Gang. Du machst die Tür zu
+[02:11:28] Friedrich: Mit Tür zu.
+[02:11:30] Andreas: und schlägst auf den Knopf.
+[02:11:34] Andreas: Und dann macht es diesen Schlag.
+[02:11:37] Andreas: Und die Rettungskapsel löst sich und damit hören wir für heute auf.
+[02:11:44] Benjamin: Super. Sehr schön.
+[02:11:51] Andreas: Ja, ich hoffe, es hat euch Spaß gemacht.
+[02:11:53] Friedrich: Ja, sehr gut.
+[02:11:53] Benjamin: Ja, ein Einstieg mit einem Knall im wahrsten Sinne.
+[02:11:54] Friedrich: Wäre sehr schön.
+[02:11:58] Benjamin: Toll, danke schön. Und tolle Musik. Tolle Musik.
+[02:12:03] Friedrich: Ja.
+[02:12:05] Andreas: Ja, ich bin selber ganz begeistert, wie gut die jetzt rausgekommen ist,
+[02:12:08] Andreas: weil genau dieses letzte Stück hatte ich gar nicht vorbereitet.
+[02:12:11] Andreas: Das war nur dort verfügt.
