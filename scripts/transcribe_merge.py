@@ -3,19 +3,23 @@ import subprocess
 import os
 import csv
 import datetime
-import shutil
 
 # --- Voreinstellungen ---
 DEFAULT_MODEL = "large-v3"
 DEFAULT_LANGUAGE = "German"
 DEFAULT_OUTPUT = f"transkript_{datetime.date.today()}.txt"
 
+# Initial-Prompt für Whisper mit kanonischen Eigennamen. Falsch-
+# varianten werden in scripts/whisper-corrections.md gesammelt.
 INITIAL_PROMPT = (
-    "Das ist ein Transkript unserer Star Wars 5e Pen and Paper Rollenspiel Kampagne. "
-    "Es wird jeweils die Audiospur eines Mitspielers transkribiert. Die Spieler Charaktere "
-    "heißen Ganden Arvang, Komaru und Ghalrixtho, weitere auftauchende Charaktere sind "
-    "Kaelum, G4-X, Varnira Sesh, Daro Fel und Rax Vonn. Korrigiere ggfs undeutlich "
-    "ausgesprochene Namen dieser Charaktere."
+    "Das ist ein Transkript einer Pen-and-Paper-Session zum "
+    "Star-Wars-5e-System. Pro Audiospur wird ein einzelner Mitspieler "
+    "transkribiert. Die Spielercharaktere heißen Ghalrixtho "
+    "(Chiss-Operative), Ganden Arvang, Komaru (Togorianer-Scout), "
+    "G4-X (Kampfdroide), Varnira Sesh (Devaronierin) und Kaelum "
+    "(junger Padawan). Wichtige NPCs sind Daro Fel, Rax Vonn, "
+    "Inquisitor Elthirhof und Ghalrixthos Schwester Ghalsintha. "
+    "Bitte schreibe diese Namen genau so und konsistent."
 )
 
 def transcribe_file(audio_file, model):
