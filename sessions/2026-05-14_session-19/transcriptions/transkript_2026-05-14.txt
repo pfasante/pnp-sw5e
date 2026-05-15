@@ -3,10 +3,10 @@
 [00:00:30] Andreas: für die abstände die man zurücklegen muss und für die zeit die die reisen dauern und vor allem auch
 [00:00:37] Andreas: für die menge an treibstoff die notwendig ist um das alles hier zurücklegen zu können irgendwann
 [00:00:44] Andreas: mal müssen wir auch wieder auftanken aber wir sind jetzt von lothal losgeflogen unser f punkt
-[00:00:53] Andreas: zu dem wir müssen, befindet sich einfach weiter im Inneren der Galaxis, sagt Ganten.
+[00:00:53] Andreas: zu dem wir müssen, befindet sich einfach weiter im Inneren der Galaxis, sagt Ganden.
 [00:01:01] Andreas: Und wir sind noch einige Zeit unterwegs.
 [00:01:04] Andreas: Als am dritten Tag plötzlich Alarmsignale losgehen.
-[00:01:12] Andreas: Galrixtus sitzt im Cockpit, die anderen haben gerade keine Schicht.
+[00:01:12] Andreas: Ghalrixtho sitzt im Cockpit, die anderen haben gerade keine Schicht.
 [00:01:20] Andreas: und bei dir beginnen Alarmsignale zu leuchten.
 [00:01:26] Andreas: Ich bitte dich um einen Piloting-Wurf.
 [00:01:30] Andreas: Und dann einen... genau... und...
@@ -66,9 +66,9 @@
 [00:08:35] Andreas: Und zwar der imperiale Sternenzerstörer Titan pingt dich an.
 [00:08:41] Andreas: Ping. Ping.
 [00:08:44] Andreas: Bitte um Unterstützung.
-[00:08:46] Andreas: Es läuft ein imperiales Signal mit einer ISB-Nummer, die du kennst aus deiner Vergangenheit, Galrixdo, läuft hier durch, als wäre das Schiff, die Turbot, Teil des ISB-Netzwerks.
+[00:08:46] Andreas: Es läuft ein imperiales Signal mit einer ISB-Nummer, die du kennst aus deiner Vergangenheit, Ghalrixtho, läuft hier durch, als wäre das Schiff, die Turbot, Teil des ISB-Netzwerks.
 [00:09:01] Andreas: Und der Titan nimmt einfach ganz regulär mit dir Kontakt auf. Was tust du?
-[00:09:08] Andreas: Du kennst diese Art der Signatur. Du kennst nicht genau die Nummer, du weißt aber ganz genau, dass diese Kodierung eine USB-Kodierung ist. Du hörst Fußschritte im Hintergrund, aber ihr beide dürft jetzt erstmal was tun. Kellum und Komaru, was tut ihr?
+[00:09:08] Andreas: Du kennst diese Art der Signatur. Du kennst nicht genau die Nummer, du weißt aber ganz genau, dass diese Kodierung eine USB-Kodierung ist. Du hörst Fußschritte im Hintergrund, aber ihr beide dürft jetzt erstmal was tun. Kaelum und Komaru, was tut ihr?
 [00:09:13] Friedrich: die okay also erstmal noch über die bordeinlage noch mal einen spruch geschützt firma besitzen
 [00:09:30] Friedrich: wir haben kriegen kontakt von ihr ist von dem sb denn zerstörer also das heißt er kommt auf
 [00:10:01] Benjamin: Das ist ja, glaube ich, in der Mitte, dann kann man ja hoch und mich dort positionieren und dort erstmal versuchen, einen Überblick zu bekommen, was hier eigentlich gerade passiert.
@@ -95,24 +95,24 @@
 [00:12:56] Benjamin: Okay.
 [00:12:58] Andreas: Du erkennst, er hat dieses Zeichen.
 [00:13:02] Andreas: Black Sun. Irgendwelche Söldner. Irgendwas. Untergrund. Was auch immer. Du weißt es noch nicht so genau.
-[00:13:11] Andreas: Galrixto allerdings ganz genau
+[00:13:11] Andreas: Ghalrixtho allerdings ganz genau
 [00:13:16] Andreas: Black Sun ist eines der Syndikate
 [00:13:19] Andreas: und die haben eigentlich gar keine so großen Schiffe
 [00:13:26] Andreas: Ja, jetzt Komaru
 [00:13:32] Andreas: Ja, ja, ja
-[00:13:44] Andreas: Ganten kommt auch
+[00:13:44] Andreas: Ganden kommt auch
 [00:13:46] Andreas: Was ist denn los?
 [00:13:51] Friedrich: Imperia mit ISB-Kennung angefunkt
 [00:13:53] Friedrich: und bittet um Hilfe
 [00:13:54] Friedrich: im Kampf.
 [00:13:57] Andreas: Ich werde antworten
 [00:13:58] Andreas: Du fliegst, Komaru
-[00:13:59] Andreas: also ihr seht ganz kurz, wie Ganten sich an den Kommunikations
+[00:13:59] Andreas: also ihr seht ganz kurz, wie Ganden sich an den Kommunikations
 [00:14:04] Martin: wollen wir ihn denn ausbeten ich fragte rieckst du mal was für eine hilfe wollen die denn von uns
-[00:14:10] Andreas: Ganten setzt sich an den Kommunikationsrechner
+[00:14:10] Andreas: Ganden setzt sich an den Kommunikationsrechner
 [00:14:15] Andreas: und tippt, er tippt also irgendwelche Sachen ein
 [00:14:19] Andreas: er beachtet euch nicht weiter
-[00:14:21] Andreas: ja, ihr könnt euch entscheiden, Ganten ist abgelenkt, was tut ihr?
+[00:14:21] Andreas: ja, ihr könnt euch entscheiden, Ganden ist abgelenkt, was tut ihr?
 [00:14:30] Friedrich: Also die von der...
 [00:14:33] Friedrich: Das sind diese beiden großen Raume,
 [00:14:35] Friedrich: der Sternenzerstörer und die
@@ -205,8 +205,8 @@
 [00:21:07] Friedrich: So wie sich die Situation gerade ausmalt,
 [00:21:10] Friedrich: Ausmalt schätze ich, dass wir auf Imperiums Seite bessere Chancen haben, diesen Kampf zu überleben. Allerdings wird unsere Schildpanzerung wahrscheinlich sehr getestet werden. Eine Alternative wäre, dass wir versuchen, auf dem Planeten hier landen und dem Kampf versuchen auszuweichen.
 [00:21:32] Andreas: Aber bevor ihr jetzt antwortet, ist jetzt erstmal Komaru dran, um in der ganzen Zeit, die ich dir Informationen gegeben habe,
-[00:21:39] Andreas: ob die Ganten dran saß, zu handeln.
-[00:21:41] Andreas: Und dann ist auch noch Calum wieder dran.
+[00:21:39] Andreas: ob die Ganden dran saß, zu handeln.
+[00:21:41] Andreas: Und dann ist auch noch Kaelum wieder dran.
 [00:21:44] Andreas: Aber Kumaro, du bist jetzt erst mal mit was immer auch du tun möchtest.
 [00:21:45] Benjamin: 17, jetzt muss ich ganz
 [00:21:48] Andreas: Du stehst hier im Cockpit, du hast die Informationen vorliegen.
@@ -214,11 +214,11 @@
 [00:21:58] Martin: und du willst du überhaupt etwas sagen dass uns einfach abhauen sonst bekommen die nur mehr
 [00:22:00] Friedrich: Das habe ich noch nicht gehört. Sie haben nur um Unterstützung gebeten und ich deute auf Ganden. Er wollte antworten.
 [00:22:09] Andreas: Ich sage, wir sind auf einer Mission und wollen uns heraushalten,
-[00:22:15] Andreas: murmelt Ganten vor sich hin.
+[00:22:15] Andreas: murmelt Ganden vor sich hin.
 [00:22:22] Martin: informationen das nicht nur ich war ab was die spezialisten machen was ist denn die schwarze
 [00:22:24] Andreas: Sie haben uns ja schon angepingt.
 [00:22:27] Friedrich: Pauen ist hier auch nicht ganz so einfach.
-[00:22:30] Andreas: Genau, also dazu, du weißt es jetzt, Galrix,
+[00:22:30] Andreas: Genau, also dazu, du weißt es jetzt, Ghalrixtho,
 [00:22:33] Andreas: ihr könnt nicht abhauen.
 [00:22:35] Andreas: Man kann nicht mehr ohne den Hyperraumknoten in den Hyperraum hier eintreten. Ansonsten kannst du wild fliegen. Du kannst natürlich versuchen, in diese Plasma-Wolke hier hineinzufliegen, in irgendeine Seite. Übrigens, das IEGO-System heißt das System der tausend Monde. Es gibt keine Sonne. Das Ganze ist quasi statisch.
 [00:22:57] Andreas: Und es gibt hier im Grunde ja nichts, worum sich etwas drehen kann. Vielleicht dreht sich alles um den großen Planeten Iego und diese ganzen Trabanten, die hier herumfliegen, diese fast fertigen oder sich schon bereits auflösenden Monde, die man hier erkennen kann, die sind teilweise bewohnbar, teilweise vielleicht nicht bewohnbar.
@@ -234,7 +234,7 @@
 [00:23:46] Friedrich: die dieses System erhält.
 [00:23:52] Andreas: Komaru, möchtest du noch irgendwas
 [00:23:54] Andreas: Spezielles tun?
-[00:24:00] Andreas: Kelum, ich bitte dich um
+[00:24:00] Andreas: Kaelum, ich bitte dich um
 [00:24:02] Andreas: einen Machtwurf. Einfach nur
 [00:24:04] Andreas: einen W20 und
 [00:24:05] Andreas: deine
@@ -255,7 +255,7 @@
 [00:25:09] Andreas: Das ist das Erste, was du wahrnimmst.
 [00:25:11] Andreas: Und das Zweite, hier ist ein Machtnutzer aktiv.
 [00:25:18] Andreas: Und zwar ist hier eine Präsenz vorhanden.
-[00:25:25] Andreas: Und das seht ihr alle nicht, aber Caelum kann es wahrnehmen. Als die erste Salve der Photonentorpedos mit ihren langen blauen Strichen, mit diesen, weiß nicht, wie man das nennt, Feuern hinten am...
+[00:25:25] Andreas: Und das seht ihr alle nicht, aber Kaelum kann es wahrnehmen. Als die erste Salve der Photonentorpedos mit ihren langen blauen Strichen, mit diesen, weiß nicht, wie man das nennt, Feuern hinten am...
 [00:25:49] Andreas: durch diese rote Wolke auf die Plexam zu fliegen.
 [00:25:55] Andreas: Siehst du, wie sich mehrere von den Fightern der Obsidian Arrow absetzen
 [00:26:01] Andreas: und tatsächlich auch wie in so einer Fächerbewegung ganz genau jeweils in die Position der Photonentorpedos begeben
@@ -286,7 +286,7 @@
 [00:29:39] Andreas: Begleitet von Saarfeitern und auch bereits beharpt von mehreren angreifenden Taifeitern.
 [00:29:47] Andreas: Ihr kommt jetzt der Schlacht natürlich schon etwas näher, denn die Schlacht kommt auf euch zu.
 [00:29:54] Andreas: Also jetzt müsstet ihr euch dann entscheiden.
-[00:30:02] Andreas: Wir können uns nicht der schwarzen Sonne anschließen, sagt Ganten.
+[00:30:02] Andreas: Wir können uns nicht der schwarzen Sonne anschließen, sagt Ganden.
 [00:30:05] Andreas: Aber ansonsten weiß ich auch nicht, was wir tun sollen.
 [00:30:26] Martin: Wenn wir ihnen nicht helfen und uns verdrücken und sie die schwarze Sonne besiegen, dann sind wir vielleicht sicher und können hinterher abhauen.
 [00:30:39] Martin: Wenn wir unterstützende Piraten gewinnen, haben wir auch ein großes Problem.
@@ -294,13 +294,13 @@
 [00:30:52] Martin: Wenn du denkst, wir können landen, wäre mir das lieb.
 [00:30:57] Friedrich: Ich bin mir ziemlich sicher, dass wir landen können.
 [00:31:00] Martin: Dann los, machen wir nicht lange rum.
-[00:31:03] Andreas: Gibt es denn einen Raumhafen auf Iego, fragt Ganten.
+[00:31:03] Andreas: Gibt es denn einen Raumhafen auf Iego, fragt Ganden.
 [00:31:07] Friedrich: Es gibt eine alte Stadt.
 [00:31:09] Friedrich: Ich weiß allerdings nicht mehr, in welchem Zustand sie ist.
 [00:31:11] Friedrich: es war während der Separatistenkriege, wurde dieser Planet sehr umkämpft.
 [00:31:17] Friedrich: Das ist ungefähr das Einzige, also das meiste, woran ich mich noch erinnere, sind das die Informationen.
 [00:31:17] Andreas: Auf der Cliffhold oder Klippenhorst oder wie man es auch immer sagen möchte, das ist die Stadt.
-[00:31:31] Andreas: Ganten, wenn du meinst...
+[00:31:31] Andreas: Ganden, wenn du meinst...
 [00:31:34] Martin: Ich habe Kippenhorst verstanden und habe gleich ganz gut angenehm gesagt, dass du es rauchen kannst.
 [00:31:35] Andreas: Klippenhorst.
 [00:31:42] Martin: Ich mache dir im Namen alle Ehre.
@@ -350,7 +350,7 @@
 [00:35:17] Andreas: Ja, gar nichts. Du siehst gar nichts. Aber jetzt bitte ich
 [00:35:18] Benjamin: Haben wir zumindest optisch irgendwelche Anzeichen von orbitalem Verteidigungssystem?
 [00:35:25] Benjamin: Irgendwelche Satelliten, irgendwas? Gar nicht zu sehen.
-[00:35:30] Andreas: Komaru und Calum
+[00:35:30] Andreas: Komaru und Kaelum
 [00:35:34] Andreas: um einen ganz normalen Wahrnehmungswurf, Perception.
 [00:36:00] Benjamin: Bei mir müssen es 13 oder 14 sein, ja.
 [00:36:05] Andreas: Gut. Also, ihr
@@ -390,10 +390,10 @@
 [00:42:36] Friedrich: Also haben wir dieses Gerät, das wir von Lothal haben,
 [00:42:44] Friedrich: das würde ich mal davon ausgehen, dass wir das nicht unbedingt aktiv haben,
 [00:42:49] Friedrich: sondern dass wir eine normale Kennung aussenden?
-[00:42:53] Friedrich: Um Sternenzerstörer. Nein. Wir können auf den Planeten oder in den Kampf einsteigen. Dann bringt es auch nicht, wenn wir uns da drauf verstecken. Ich schalte den Galrixus, schalte den, den, den, na, das dumme Gerät aus, dessen Name mir nicht einfällt.
-[00:42:53] Andreas: Wir haben eine imperiale Kennung gesendet, sagt Ganten.
+[00:42:53] Friedrich: Um Sternenzerstörer. Nein. Wir können auf den Planeten oder in den Kampf einsteigen. Dann bringt es auch nicht, wenn wir uns da drauf verstecken. Ich schalte den Ghalrixtho, schalte den, den, den, na, das dumme Gerät aus, dessen Name mir nicht einfällt.
+[00:42:53] Andreas: Wir haben eine imperiale Kennung gesendet, sagt Ganden.
 [00:42:58] Andreas: Deshalb habe ich auch sofort so kommuniziert.
-[00:43:05] Andreas: Jetzt ganz kurz wieder eine Information, und zwar Kelum.
+[00:43:05] Andreas: Jetzt ganz kurz wieder eine Information, und zwar Kaelum.
 [00:43:10] Andreas: Als du über dein Komsignal den Namen Ares gehört hast,
 [00:43:17] Andreas: Und das erste Geschwader.
 [00:43:20] Andreas: Erinnerst du dich an etwas?
@@ -420,14 +420,14 @@
 [00:46:42] Martin: Was ist denn los mit dir? Wovon sterilisieren?
 [00:46:43] Benjamin: Are...
 [00:46:43] Benjamin: Ja, Han Ares, okay.
-[00:46:44] Andreas: Han, H-A-N, und dann Ares, A-R-E-S, Ares, Han, Ares. Und er nennt sich der Titan von Anaxes und sein Schiff heißt Titan. Nein, das können wir nicht. Den kenne ich gut, sagt Ganten. Der ist unsere einzige Chance, wenn hier alles schief geht. Das ist der einzige vernünftige.
+[00:46:44] Andreas: Han, H-A-N, und dann Ares, A-R-E-S, Ares, Han, Ares. Und er nennt sich der Titan von Anaxes und sein Schiff heißt Titan. Nein, das können wir nicht. Den kenne ich gut, sagt Ganden. Der ist unsere einzige Chance, wenn hier alles schief geht. Das ist der einzige vernünftige.
 [00:47:06] Benjamin: Ich, ähm...
 [00:47:08] Benjamin: Die anderen merken, dass ein Funkspruch, sozusagen, dass der Kanal geöffnet wird.
 [00:47:14] Benjamin: Und dann kommt wahrscheinlich erstmal nur Rauschen.
 [00:47:17] Benjamin: Eine brüchige Stimme, die sich zusammen scheint.
 [00:47:23] Benjamin: Und wir müssen uns Han Ares schnappen.
 [00:47:27] Benjamin: Was soll das heißen? Er ist der Mörder von Anaxes. Ante Anaxes. Geht ja nicht, der hat einen ganzen Planeten auf seinem Gewissen. Das müssen wir verhindern. Der Transponder, genau. Ich habe gerade auch die ganze Zeit überlegt.
-[00:47:49] Andreas: Eine schlechte Situation hier. Können wir hier nicht wegfliegen, Galrixto? Wir müssen uns auf der Planetenoberfläche verstecken. Was hast du denn, Kelum? Kennst du etwa den Ares? Ihr seht, wie plötzlich Erkenntnis über das Gesicht Gantens zieht und er reibt sich die Stirn. Das ist der nächste. Seine Aufgabe ist es, die Planetenoberflächen zu sterilisieren.
+[00:47:49] Andreas: Eine schlechte Situation hier. Können wir hier nicht wegfliegen, Ghalrixtho? Wir müssen uns auf der Planetenoberfläche verstecken. Was hast du denn, Kaelum? Kennst du etwa den Ares? Ihr seht, wie plötzlich Erkenntnis über das Gesicht Gandens zieht und er reibt sich die Stirn. Das ist der nächste. Seine Aufgabe ist es, die Planetenoberflächen zu sterilisieren.
 [00:48:52] Andreas: Von bewohntem Leben, Pomaru.
 [00:48:58] Martin: Hans Bonder, denkt das was?
 [00:49:14] Andreas: Okay, ja, kannst du machen.
@@ -441,7 +441,7 @@
 [00:49:38] Andreas: Drehen Sie ab.
 [00:49:38] Andreas: wir unternehmen eine Landung.
 [00:49:43] Andreas: Drehen Sie ab.
-[00:49:55] Andreas: Ganten, okay.
+[00:49:55] Andreas: Ganden, okay.
 [00:49:57] Andreas: Und tippt sofort los und er schreibt auch
 [00:49:59] Andreas: das. Er schreibt,
 [00:50:00] Andreas: wir sind aus der Hyperraumroute
@@ -453,7 +453,7 @@
 [00:50:28] Friedrich: Kälung, was soll das?
 [00:50:29] Andreas: Uh, ich habe mir eine 20 gewürfelt.
 [00:50:31] Andreas: Okay, also.
-[00:50:33] Andreas: Calum, du spürst
+[00:50:33] Andreas: Kaelum, du spürst
 [00:50:35] Andreas: in deinem Geist plötzlich eine
 [00:50:37] Andreas: Verbindung.
 [00:50:39] Andreas: Und zwar gibt dir jemand
@@ -523,7 +523,7 @@
 [00:58:02] Andreas: Sif-Meister haben Kampfmeditationen gelernt.
 [00:58:09] Andreas: Das ist eine verschollene Technik.
 [00:58:17] Benjamin: Ja, ich rufe im Grunde in der ganzen Ambivalenz, die Macht ist stark auf der Seite der schwarzen Sonne, aber wir müssen diesen Ares ausschalten. Er ist der Mörder von Planeten. Er ist der Mörder von Planeten. Wie wogt der Kampf? Also du hast gerade so beschrieben, die scheinen ja beide schwer beschädigt zu sein.
-[00:58:38] Andreas: Bist du dir sicher, Calum?
+[00:58:38] Andreas: Bist du dir sicher, Kaelum?
 [00:58:45] Andreas: Aber mit unserem Frachter haben wir hier doch keine Chance.
 [00:58:48] Andreas: Wir haben kein Kriegsschiff.
 [00:59:12] Benjamin: hat im Moment eine Seite eine Übermacht.
@@ -532,7 +532,7 @@
 [00:59:25] Andreas: der deine Kenntnisse in Kriegsführung ausdrückt.
 [00:59:30] Andreas: Da muss ich mal kurz auf den Charakterbogen schauen.
 [00:59:33] Andreas: Was wäre denn das da am sinnvollsten?
-[00:59:41] Andreas: Warte mal, ich mache auch mal einen Gantenhirnwurf.
+[00:59:41] Andreas: Warte mal, ich mache auch mal einen Gandenhirnwurf.
 [00:59:44] Andreas: Okay, aber du musst es machen.
 [00:59:45] Andreas: Ich würde sagen, das ist tatsächlich ein Lorwurf in dem Fall.
 [00:59:50] Andreas: Du kriegst allerdings einen Bonus von plus zwei jetzt gerade drauf.
@@ -566,26 +566,26 @@
 [01:03:25] Martin: und abgeschossen werden, ist das auch kein sinnvolles Manöver.
 [01:03:42] Martin: Freizeiten. Warum?
 [01:03:46] Friedrich: Oder ich gebe Gas.
-[01:03:50] Andreas: Callum, wenn du möchtest, wenn du dich dafür entscheidest, können wir in diesem Moment, das sagt Gunton, die Brücke des Sternenzerstörers angreifen. Sie haben gerade keine Schilde.
+[01:03:50] Andreas: Kaelum, wenn du möchtest, wenn du dich dafür entscheidest, können wir in diesem Moment, das sagt Gunton, die Brücke des Sternenzerstörers angreifen. Sie haben gerade keine Schilde.
 [01:04:09] Martin: Der Black Sun, da bin ich überhaupt nicht dafür.
 [01:04:15] Martin: wenn sich gegenseitig auslöschen ist, dass das allerbeste was passieren kann. Wie können wir das? Also die Menschen löschen sich gegenseitig aus. Also wie auch immer, ich bin auf jeden Fall dafür, dass Möglichkeit beide drauf gehen.
 [01:04:21] Friedrich: Ja, aber das tun sie nur, wenn wir die Brücke zerstören.
 [01:04:24] Friedrich: Wenn wir das nicht tun, dann wird der Sternenzerstörer hier wegkommen.
 [01:04:27] Friedrich: Also, ich meinte das übrigens gerade ernst.
-[01:04:58] Andreas: Ja, also was du wahrnimmst, Komaru, ist, du siehst, wie Ganten langsam wieder zu diesem Steuerpult hingeht und seine rechte Hand ganz behutsam wieder auf das Pad abgelegt hat, wo man tippen kann.
+[01:04:58] Andreas: Ja, also was du wahrnimmst, Komaru, ist, du siehst, wie Ganden langsam wieder zu diesem Steuerpult hingeht und seine rechte Hand ganz behutsam wieder auf das Pad abgelegt hat, wo man tippen kann.
 [01:05:00] Martin: Irgendwas ist mit mir komisch. Ich gehe mal hin und lege mal die Katze schwer auf die Schulter.
-[01:05:03] Friedrich: Also GALRIXO gibt Gas und fliegt Richtung Sternenzerstörer.
-[01:05:31] Andreas: und beginnt, er schaut dich an und zeigt auf Galrixto, kann ich nicht sehen,
-[01:05:38] Martin: Ganten, alles in Ordnung. Mach die Geste bitte noch mal, weil ich war gerade auf der Eintritt und ich sehe das so nicht.
-[01:05:50] Andreas: und zeigt auf Galrixto und dann über das Cockpit auf den Sternenzerstörer
+[01:05:03] Friedrich: Also Ghalrixtho gibt Gas und fliegt Richtung Sternenzerstörer.
+[01:05:31] Andreas: und beginnt, er schaut dich an und zeigt auf Ghalrixtho, kann ich nicht sehen,
+[01:05:38] Martin: Ganden, alles in Ordnung. Mach die Geste bitte noch mal, weil ich war gerade auf der Eintritt und ich sehe das so nicht.
+[01:05:50] Andreas: und zeigt auf Ghalrixtho und dann über das Cockpit auf den Sternenzerstörer
 [01:05:56] Andreas: und macht dann diese Geste.
-[01:06:06] Andreas: Also er zeigt sich erst auf Galrixto, dann auf den Sternenzerstörer und macht dann so.
-[01:06:13] Martin: Meine Kamera ist eingefroren. Es kommt mir total nicht nach Ganten vor.
+[01:06:06] Andreas: Also er zeigt sich erst auf Ghalrixtho, dann auf den Sternenzerstörer und macht dann so.
+[01:06:13] Martin: Meine Kamera ist eingefroren. Es kommt mir total nicht nach Ganden vor.
 [01:06:15] Andreas: Okay, er tippt sich nicht an die Stirn, wie wenn jemand verrückt wäre,
 [01:06:16] Friedrich: Herr Matze, in dem Moment gucke ich rüber.
 [01:06:20] Andreas: sondern er macht diese kreisende Bewegung.
 [01:06:23] Andreas: Der ist irre.
-[01:06:31] Martin: Ich sag mal, ich lass die Tatzen noch auf seiner Schulter und schau Ganten dann an und sag relativ laut, glaubst du, dass Galadix uns verraten will? Warum sollte er das? Das können wir sowohl, die Frage ist nur, was kommt dabei raus? Die Chance für was?
+[01:06:31] Martin: Ich sag mal, ich lass die Tatzen noch auf seiner Schulter und schau Ganden dann an und sag relativ laut, glaubst du, dass Galadix uns verraten will? Warum sollte er das? Das können wir sowohl, die Frage ist nur, was kommt dabei raus? Die Chance für was?
 [01:06:38] Andreas: Aber du legst die Schulter so.
 [01:06:45] Andreas: Er schreckt.
 [01:06:55] Andreas: Er fixiert euch beide.
@@ -595,11 +595,11 @@
 [01:07:23] Andreas: Ich bin dagegen, aber die Chance würde sich trotzdem bieten.
 [01:07:27] Benjamin: Wir müssen sie nutzen, kommt aus dem Off.
 [01:07:31] Andreas: Ja, genau.
-[01:07:31] Andreas: Also, ihr bewegt euch. Hast du irgendwas an eurem Kurs geändert, Galrix? Du bewegst dich jetzt schnell auf den Sternenzerstörer, und zwar den oberen Anteil des Sternenzerstörers zu. Und jetzt zeigt es an, dass du in Reichweite bist. Du kannst jetzt schießen, theoretisch. Das ist zwar die Maximalreichweite, aber du könntest jetzt schießen.
+[01:07:31] Andreas: Also, ihr bewegt euch. Hast du irgendwas an eurem Kurs geändert, Ghalrixtho? Du bewegst dich jetzt schnell auf den Sternenzerstörer, und zwar den oberen Anteil des Sternenzerstörers zu. Und jetzt zeigt es an, dass du in Reichweite bist. Du kannst jetzt schießen, theoretisch. Das ist zwar die Maximalreichweite, aber du könntest jetzt schießen.
 [01:07:31] Martin: Aber wer schreibt sie am Schiff eigentlich Rettungskapseln? Stimmt ja. Gallum ist hinten. Also bei uns ist der Turbulencer. Ist der in der Mitte des Schiffs, der Turbulencer? Ah ja, da steht es genau. Okay.
 [01:07:38] Friedrich: Du könntest heißt K-Loom, ja?
 [01:07:54] Benjamin: Also ich werde schießen, sobald ich kann.
-[01:07:58] Andreas: Kalum, ja. Kalum sitzt
+[01:07:58] Andreas: Kaelum, ja. Kaelum sitzt
 [01:08:04] Andreas: abgesucht.
 [01:08:06] Benjamin: Auf die Brücke. Das ist...
 [01:08:08] Andreas: Du weißt, dass so ein kleiner
@@ -636,13 +636,13 @@
 [01:10:11] Andreas: Und dieser ganze aufgestaute Zorn, der dann während deiner Ausbildung natürlich in eine andere Richtung geformt wurde,
 [01:10:19] Andreas: Aber jetzt, diese kleine Bewegung am Abzug, da hinein steckst du alles, was du hast und es fließt aus dir heraus. Es ist geradezu schwächend, wie ein Ausatmen.
 [01:10:41] Andreas: Es fließt aus dir heraus und es lässt dich los. Und dann schlägt eine Salve in die oberen Schilde der Turbot ein, denn ihr werdet jetzt auch beschossen.
-[01:11:02] Andreas: und du kriegst Galrixto die ganzen Meldungen eines Einschlags.
+[01:11:02] Andreas: und du kriegst Ghalrixtho die ganzen Meldungen eines Einschlags.
 [01:11:09] Andreas: Die Schilde sind auf 50% unten an dieser Stelle.
 [01:11:12] Andreas: Noch zwei oder drei Einschläge und dann wird durch die Hülle durchgelasert werden.
 [01:11:19] Andreas: Es schüttelt euch ganz schön durch.
 [01:11:21] Andreas: Jetzt ist Komaru dran, weil du hast jetzt alles mitbekommen.
-[01:11:24] Andreas: Ganten hat nicht tippen können, weil du ihn ja festgehalten hast.
-[01:11:29] Andreas: Aber Ganten schaut dir in die Augen.
+[01:11:24] Andreas: Ganden hat nicht tippen können, weil du ihn ja festgehalten hast.
+[01:11:29] Andreas: Aber Ganden schaut dir in die Augen.
 [01:11:34] Andreas: Und dann flüsterte er, das war ein Fehler.
 [01:11:49] Andreas: Bei Rettungskapseln gibt es.
 [01:11:52] Andreas: Wenn du dir das Schiff anguckst, ich zeige dir jetzt mal noch ganz kurz hier das Raumschiff.
@@ -651,38 +651,38 @@
 [01:12:35] Friedrich: In der Mitte.
 [01:12:39] Andreas: Auf dem oberen Turbolaser, ihr habt nur oben auf dem Schiff einen, unten keinen.
 [01:12:47] Andreas: In der Mitte, da ist der Turret-Axis und der ist in der Mitte des Schiffes.
-[01:12:53] Martin: Okay, also Marv hat ein schweres Gefühl, dass bei seinen Teammitgliedern irgendwas nicht stimmt. Und zwar massiv. Das heißt, er checkt jetzt mal, was mit Callum ist.
+[01:12:53] Martin: Okay, also Marv hat ein schweres Gefühl, dass bei seinen Teammitgliedern irgendwas nicht stimmt. Und zwar massiv. Das heißt, er checkt jetzt mal, was mit Kaelum ist.
 [01:12:53] Andreas: Ich zeige dir kurz das andere Bild des Schiffes, so sieht das Schiff aus.
 [01:12:57] Andreas: Das heißt, da oben ist der Zwillingslaserturm, der Turbot, ein maler, einfacher Turbolaser. Turbolaser ist trotzdem schwerer als der Laser eines Fighters, eines kleinen Fighters. Ein Turbolaser wie hier auf dem Frachter ist was schweres, aber es ist trotzdem eine kleine Variante von diesen Turbolasern.
-[01:13:23] Andreas: Ganten läuft dir hinterher
+[01:13:23] Andreas: Ganden läuft dir hinterher
 [01:14:02] Martin: aber es ist gut, das zu sein.
 [01:14:07] Andreas: bis er aus dem Cockpit draußen ist
 [01:14:09] Andreas: und versucht dich dann
 [01:14:11] Andreas: an der Schulter aufzuhalten
 [01:14:13] Andreas: hier ist etwas ganz und gar faul
-[01:14:13] Martin: Was ist denn, Ganten?
+[01:14:13] Martin: Was ist denn, Ganden?
 [01:14:18] Andreas: ich kann nicht die Macht spüren
 [01:14:19] Martin: Ja, der Meinung bin ich auch.
 [01:14:23] Andreas: aber hier ist etwas los
-[01:14:25] Andreas: und es hat mit Calum zu tun
-[01:14:26] Andreas: Ganten drückt
+[01:14:25] Andreas: und es hat mit Kaelum zu tun
+[01:14:26] Andreas: Ganden drückt
 [01:14:29] Andreas: auf sein Komm ganz bewusst
 [01:14:31] Andreas: sieh nach ihm
-[01:14:32] Martin: Ich bin gerade auf dem Weg zu Kellum.
+[01:14:32] Martin: Ich bin gerade auf dem Weg zu Kaelum.
 [01:14:36] Andreas: ja
 [01:14:41] Martin: Wir wissen ja, dass sich diese Machtbenutzer gegenseitig spüren und beeinflussen können,
 [01:14:46] Martin: auch auf große Distanz.
 [01:14:48] Martin: Vielleicht passiert so etwas.
 [01:14:53] Martin: Ich laufe, wie gesagt, dorthin und ich gehe weiter zum Turm.
-[01:14:54] Andreas: kümmere dich um Calum
-[01:14:56] Andreas: ich gehe zurück zu Galrixto
+[01:14:54] Andreas: kümmere dich um Kaelum
+[01:14:56] Andreas: ich gehe zurück zu Ghalrixtho
 [01:14:58] Andreas: das war ein Fehler
 [01:14:59] Andreas: wir hätten nicht schießen sollen.
 [01:15:02] Andreas: Und dann läuft Gunton wieder zurück
 [01:15:04] Andreas: ins Cockpit.
 [01:15:10] Martin: Alles in Ordnung.
 [01:15:12] Andreas: So, also du läufst zum
-[01:15:13] Andreas: Turm. Calum, du
+[01:15:13] Andreas: Turm. Kaelum, du
 [01:15:15] Andreas: hast die komplette
 [01:15:17] Andreas: Munition eures Turmes.
 [01:15:20] Andreas: Also man kann nämlich
@@ -704,7 +704,7 @@
 [01:16:23] Andreas: Weil wenn du so ein großes Schiff steuerst und alles Mögliche fällt aus,
 [01:16:26] Andreas: du hast keinen Bildschirm oder sonst was mehr, dann musst du das Schiff trotzdem noch steuern können.
 [01:16:31] Andreas: Und durch dieses Fenster schlagen jetzt deine Laserkanonenschüsse nach und nach durch. Und es wird nach außen gedrängt und du siehst wie 10, 20, 30 Personen da nach draußen gerissen werden und durch das Weltall treiben mit dem roten Hintergrund.
-[01:16:58] Andreas: Und jetzt treffen euch von unten mehrere Schüsse. Du kannst nicht mehr sagen, ob das Black Sun oder Imperiale sind, die dich treffen. Und die Turbot wird durchgeschüttelt und etwas abgetrieben und jetzt fliegt ihr auch schon über den riesigen Sternenzerstörer hinweg, der an vielen Punkten brennt und dann seid ihr über dem Cockpit weg und dreht ab. Galrix, wo möchtest du hinsteuern?
+[01:16:58] Andreas: Und jetzt treffen euch von unten mehrere Schüsse. Du kannst nicht mehr sagen, ob das Black Sun oder Imperiale sind, die dich treffen. Und die Turbot wird durchgeschüttelt und etwas abgetrieben und jetzt fliegt ihr auch schon über den riesigen Sternenzerstörer hinweg, der an vielen Punkten brennt und dann seid ihr über dem Cockpit weg und dreht ab. Ghalrixtho, wo möchtest du hinsteuern?
 [01:17:25] Andreas: von unten, jetzt bitte ich dich
 [01:17:26] Friedrich: Habe ich mitbekommen, von wo wir getroffen wurden?
 [01:17:34] Andreas: um einen Perception-Wurf
@@ -756,12 +756,12 @@
 [01:20:16] Andreas: du tun? Entweder den Turbot drehen oder schildet nach hinten. Das ist das Einzige, was du schaffst.
 [01:20:18] Friedrich: Ich mache die Schilder nach hinten und sage
 [01:20:21] Friedrich: Welche Schilder
-[01:20:24] Andreas: Jetzt kommen wir zurück zu Calum und zu Komaro. Also Calum sitzt dort, alles ist aus dir herausgeflossen
+[01:20:24] Andreas: Jetzt kommen wir zurück zu Kaelum und zu Komaru. Also Kaelum sitzt dort, alles ist aus dir herausgeflossen
 [01:20:31] Andreas: und du sitzt betäubt und starrst. Du hast noch das Gefühl dieser nach draußen triftenden
 [01:20:41] Andreas: Leute und du fühlst eine gewisse Genugtuung.
 [01:20:46] Andreas: Du hast etwas getan.
 [01:20:49] Andreas: Und dann berührt dich eine
-[01:20:53] Andreas: haarige Hand an der Schulter. Calum wird von Komaru
+[01:20:53] Andreas: haarige Hand an der Schulter. Kaelum wird von Komaru
 [01:20:57] Andreas: in seinem Sitz herumgedreht. Ihr schaut euch
 [01:21:01] Andreas: gegenseitig an. Du hast zwar Energie,
 [01:21:16] Benjamin: Er ist der Mörder von Anaxes. Er war.
@@ -777,7 +777,7 @@
 [01:22:19] Benjamin: Aber ich denke auf
 [01:22:21] Martin: Er wird auf der Auxilien-Aua sein.
 [01:22:22] Benjamin: er. Und es muss ein Sith sein.
-[01:22:26] Martin: Callum, wir haben ein Problem, wenn er dich einfach benutzen kann.
+[01:22:26] Martin: Kaelum, wir haben ein Problem, wenn er dich einfach benutzen kann.
 [01:22:37] Martin: Im Moment hat er dich gegen das imperialische Schiff benutzt.
 [01:22:40] Martin: Aber wenn er dich hier gegen uns benutzt, haben wir ein Problem.
 [01:22:43] Martin: kannst du dich... Gut, pass auf,
@@ -829,8 +829,8 @@
 [01:26:18] Andreas: und in tausenden kleinen Teilen und noch nicht meine Explosion,
 [01:26:26] Andreas: es ist einfach nur zerrissen in unterschiedlichste Bestandteile und von euch weg.
 [01:26:31] Andreas: Um euch herum riesiges Chaos und ihr werdet auf die Planetenoberfläche zugeschoben.
-[01:26:38] Andreas: Euch drückt es, also Ganten fällt hinter dir im Cockpit um.
-[01:26:44] Andreas: Du hast Gott sei Dank deine Gurte an. Kalum, du bist auch noch angegurtet, aber Komaru, dich bitte ich jetzt um einen Athletics-Wurf oder Acrobatics, was auch immer du möchtest.
+[01:26:38] Andreas: Euch drückt es, also Ganden fällt hinter dir im Cockpit um.
+[01:26:44] Andreas: Du hast Gott sei Dank deine Gurte an. Kaelum, du bist auch noch angegurtet, aber Komaru, dich bitte ich jetzt um einen Athletics-Wurf oder Acrobatics, was auch immer du möchtest.
 [01:26:54] Martin: Ja, das machen wir gerne. Hier muss man sich bestimmt festhalten.
 [01:26:57] Andreas: Ja, sehr gut, du schaffst es.
 [01:27:36] Martin: und fest und mit einem Ruck
@@ -841,7 +841,7 @@
 [01:27:47] Martin: Guck ihn dann an.
 [01:27:49] Martin: Wir sollten die Schäden überprüfen.
 [01:28:10] Andreas: gut aus, elegant schon gar nicht.
-[01:28:14] Andreas: Kai Rixtho, du siehst, wie alle Ruder, die,
+[01:28:14] Andreas: Ghalrixtho, du siehst, wie alle Ruder, die,
 [01:28:17] Andreas: nicht Ruder, alle Anzeigen, die dir zeigen, wo der Horizont
 [01:28:22] Andreas: ist und wo du dich gerade befindest, drehen sich einfach.
 [01:28:26] Andreas: Die Zahlenwerte gehen hoch und runter, die Turbot, du siehst
@@ -911,7 +911,7 @@
 [01:34:02] Andreas: Also das ist ja der Basalt und da direkt vor euch,
 [01:34:08] Andreas: natürlich alles verschoben und krumm, aber es ist eine dunkle Stimmung.
 [01:34:13] Andreas: Und jetzt ist es ruhig. Ihr hört nur noch dieses Zucken, ein leichtes Brennen. Ihr habt Blut und einen metallischen Geschmack im Mund und es stinkt nach Abgasen.
-[01:34:31] Andreas: Und jetzt zum Cockpit. Galrixto, du hängst einfach gut in deinem Schräg im Sitz des Cockpits.
+[01:34:31] Andreas: Und jetzt zum Cockpit. Ghalrixtho, du hängst einfach gut in deinem Schräg im Sitz des Cockpits.
 [01:34:39] Andreas: Gunton liegt da unten auf einer der Steuerkonsolen, ist bewusstlos.
 [01:34:46] Andreas: Er blutet aus der Nase und aus dem Ohr und du hörst auch sonst nichts.
 [01:34:55] Andreas: Keine Bewegungen, gar nichts. Aber du siehst vor dir, wo sich das Schiff befindet.
@@ -923,7 +923,7 @@
 [01:36:01] Andreas: Ja, oben ist es bewachsen ein bisschen, seitlich ist es ein bisschen bewachsen, unten siehst du nur roten Nebel. Ja, es funktioniert kein System mehr. Es sind nicht mal die roten Lichter an, die normalerweise angehen. Irgendwas hat hier komplett den Stromkreis ausgeschaltet.
 [01:36:03] Friedrich: überall Urwald. Also ist das bewachsen?
 [01:36:08] Friedrich: Okay. Also gut.
-[01:36:19] Friedrich: Wenn ich Ganten da unten bewusstlos liegen
+[01:36:19] Friedrich: Wenn ich Ganden da unten bewusstlos liegen
 [01:36:23] Friedrich: sehe, dann versuche ich mich erstmal irgendwie so abzuschnallen,
 [01:36:29] Friedrich: dass ich da nicht direkt auch runtersegle, sondern irgendwie auf dem Sitz
 [01:36:32] Friedrich: sitzen bleibe. Und
@@ -952,13 +952,13 @@
 [01:38:16] Andreas: produziert wird. Ihr habt keine künstliche Schwerkraft.
 [01:38:20] Andreas: Die ganzen Systeme sind ausgefallen. Ihr wisst
 [01:38:24] Andreas: auch gar nicht, welche Schäden aufgetreten sind. Ihr habt auch von den anderen noch nichts
-[01:38:28] Andreas: gehört. Ihr habt nichts von Vanira gehört. Ihr habt nichts von
+[01:38:28] Andreas: gehört. Ihr habt nichts von Varnira gehört. Ihr habt nichts von
 [01:38:31] Andreas: euren ganzen anderen Passagieren gehört.
 [01:38:37] Martin: Ich denke, ich bin immer noch so halbwegs festgehalten.
 [01:38:40] Benjamin: Ich habe
-[01:38:40] Andreas: Du fällst auf Ganten herunter. Jetzt machen wir das ganz kurz. Du fällst auf Ganten
-[01:38:41] Benjamin: Ich habe Komaro vorhin was funken gehört.
-[01:38:45] Andreas: herunter. Ganten rührt sich nicht. Er hat eine
+[01:38:40] Andreas: Du fällst auf Ganden herunter. Jetzt machen wir das ganz kurz. Du fällst auf Ganden
+[01:38:41] Benjamin: Ich habe Komaru vorhin was funken gehört.
+[01:38:45] Andreas: herunter. Ganden rührt sich nicht. Er hat eine
 [01:38:48] Andreas: ziemlich schwere Kopfwunde,
 [01:38:52] Andreas: rot, hinten am Hinterkopf.
 [01:38:55] Andreas: Er muss auf das
@@ -973,7 +973,7 @@
 [01:39:16] Andreas: Ja, du bist runtergefallen, du hast
 [01:39:17] Friedrich: also
 [01:39:18] Andreas: dir nicht wehgetan, du wurdest ja von
-[01:39:20] Andreas: Ganten gut abgefangen.
+[01:39:20] Andreas: Ganden gut abgefangen.
 [01:39:22] Andreas: Er reagiert allerdings nicht.
 [01:39:22] Friedrich: ich
 [01:39:24] Friedrich: untersuche ihn dann und versuche halt irgendwie
@@ -996,11 +996,11 @@
 [01:40:47] Friedrich: Okay, also ich versuche erstmal da die Blutung zu stoppen.
 [01:40:52] Andreas: Ja, mach mal einen Medizinwurf bitte. Klappt nicht.
 [01:40:54] Friedrich: Okay, dann funke ich nochmal durchs Kommen.
-[01:41:09] Friedrich: Vanira, kannst du uns hören?
-[01:41:11] Friedrich: Ganten hat eine starke Kopfverletzung
+[01:41:09] Friedrich: Varnira, kannst du uns hören?
+[01:41:11] Friedrich: Ganden hat eine starke Kopfverletzung
 [01:41:13] Friedrich: und ich kriege die Blutung nicht gestopft.
 [01:41:15] Friedrich: Gestoppt.
-[01:41:17] Andreas: Warnira ist nicht im Com-Link vorhanden. Ihr Com-Signal empfängt nicht.
+[01:41:17] Andreas: Varnira ist nicht im Com-Link vorhanden. Ihr Com-Signal empfängt nicht.
 [01:41:26] Friedrich: Das heißt, sie antwortet nicht oder ich kann sie nicht anfunken
 [01:41:28] Friedrich: oder was?
 [01:41:32] Andreas: Du weißt, das ist unterschiedlich, es klickt unterschiedlich, du weißt das ganz genau. Wenn jemand das Comlink ausgeschaltet hat, weißt du einfach von dem, wie sich das anhört, das ist nicht mehr an.
@@ -1010,10 +1010,10 @@
 [01:41:50] Friedrich: Broadcast-Möglichkeit,
 [01:41:53] Friedrich: dass es alle hören. Auf die check ich
 [01:41:54] Friedrich: das, dass es halt alle hören und ich spreche
-[01:41:56] Friedrich: aber Vanira an. Das heißt, sie reagiert
+[01:41:56] Friedrich: aber Varnira an. Das heißt, sie reagiert
 [01:41:59] Friedrich: dann nicht oder ich kriege irgendwie mit, dass sie
 [01:41:59] Andreas: Nein, nein, jetzt springen wir zu euch.
-[01:42:00] Friedrich: Komaro, Kellum, könnt ihr irgendwie hier runterkommen und mir helfen?
+[01:42:00] Friedrich: Komaru, Kaelum, könnt ihr irgendwie hier runterkommen und mir helfen?
 [01:42:13] Benjamin: Sehe ich den, höre ich ihn denn akustisch hier irgendwo neben mir?
 [01:42:17] Benjamin: Oder wo ist der?
 [01:42:17] Andreas: Ja, ja, natürlich, so wie ich das verstehe. Oder, Kumaro, wo bist du?
@@ -1021,7 +1021,7 @@
 [01:42:21] Andreas: Ja, du hast dich gut festgehalten, du hast dich gut verkeilen können, du bist eben nicht diesen Treppenschacht nach unten in euren Hangar-Bereich oder nicht Hangar, sondern in euren Frachtbereich runtergefallen.
 [01:42:28] Martin: Auf dem Aufland scheint Hilfe auf der Brücke. Und genau das versuchen wir jetzt.
 [01:42:40] Benjamin: Ich bin ja angeschnallt.
-[01:42:41] Benjamin: Das heißt, ich versuche erst mal, Komaro den Arm zu reichen,
+[01:42:41] Benjamin: Das heißt, ich versuche erst mal, Komaru den Arm zu reichen,
 [01:42:45] Benjamin: um ihn irgendwie zu mir hochzuziehen, damit er da irgendwo einen besseren Halt hat.
 [01:43:03] Benjamin: Lass uns rüberklettern.
 [01:43:11] Andreas: Genau, also es ist...
@@ -1034,7 +1034,7 @@
 [01:43:31] Martin: Das heißt, ich kann da jetzt ganz schnell durchfließen.
 [01:43:33] Andreas: Du kannst ohne weiteres, also dich beeinflusst es nicht, du weißt, wie man an Wänden hochklettert, du kannst Abgründe einfach überspringen und dich gut ab, also dich gut durchmanövrieren, aber letztendlich musst du von rechts nach links dich bewegen, weil der Boden, also es ist schon ein Boden da, aber es ist natürlich dieses, dieser Gang ist wie so eine Art Kurve über vier, fünf Meter in die Tiefe und dann wieder nach oben.
 [01:44:02] Andreas: Das heißt also, es ist tatsächlich besser, wenn du nicht unten läufst, sondern wenn du dich irgendwie seitlich daran entlang bewegst.
-[01:44:10] Andreas: Calum, du musst dich wahrscheinlich nach unten ablassen, um da durchzukommen und dann halt an der Wandseite von unten nach oben laufen.
+[01:44:10] Andreas: Kaelum, du musst dich wahrscheinlich nach unten ablassen, um da durchzukommen und dann halt an der Wandseite von unten nach oben laufen.
 [01:44:18] Andreas: Und dann ist es halt sehr schwierig, in den Cockpit-Bereich wieder hochzukommen.
 [01:44:21] Andreas: Du musst also quasi erst nach unten klettern und dann hinten hoch zum Cockpit hochklettern.
 [01:44:29] Benjamin: Das mache ich,
@@ -1048,22 +1048,22 @@
 [01:44:53] Andreas: Also genau, der Einfachkeit halber hängt ihr quasi genau so, wie es jetzt auf dem Plan abgebildet ist.
 [01:45:00] Andreas: Das heißt, ihr hängt mit dem Cockpit nach oben, mit dem Triebwert nach unten, flach zwischen diesen Basaltnasen drin.
 [01:45:19] Andreas: Ja, Komaru, du kommst zu dem Gang, läufst den Gang entlang und da liegt der Erste.
-[01:45:28] Andreas: Und zwar hattet ihr doch einen Passagier dabei, den Darufell. Und der Darufell liegt auch bewusstlos hier am Boden, also eigentlich an der rechten Wand des Gangs zum Cockpit.
-[01:45:49] Andreas: Und der Dauphel ist abgegeben. Wer dort liegt, ist nicht der Dauphel, sondern das ist euer Begleiter Gags. Das ist Gags. Der war wohl eingesteckt. Er hängt noch teilweise an diesem Stromkabel und liegt einfach dran, ohne sich zu bewegen.
-[01:45:50] Benjamin: Aber den Darufell hatten wir den,
+[01:45:28] Andreas: Und zwar hattet ihr doch einen Passagier dabei, den Daro Fel. Und der Daro Fel liegt auch bewusstlos hier am Boden, also eigentlich an der rechten Wand des Gangs zum Cockpit.
+[01:45:49] Andreas: Und der Dauphel ist abgegeben. Wer dort liegt, ist nicht der Dauphel, sondern das ist euer Begleiter G4-X. Das ist G4-X. Der war wohl eingesteckt. Er hängt noch teilweise an diesem Stromkabel und liegt einfach dran, ohne sich zu bewegen.
+[01:45:50] Benjamin: Aber den Daro Fel hatten wir den,
 [01:45:53] Benjamin: hattet ihr den nicht
 [01:45:54] Benjamin: beim Syndikat abgegeben?
 [01:45:57] Martin: Eigentlich schon, dass da aber Fällen ist.
-[01:45:58] Martin: Ja, der Herrlund wird sowieso gleich nachkommen. Da gehe ich lieber die weitere Strecke, weil ich habe es viel leichter, hier durchzukommen und überlasse ihm das hier. Das ist zwar jetzt vielleicht ein bisschen komisch, aber auch gleich schlauer. Das heißt, ich gehe erstmal lieber zu den anderen.
+[01:45:58] Martin: Ja, der Kaelum wird sowieso gleich nachkommen. Da gehe ich lieber die weitere Strecke, weil ich habe es viel leichter, hier durchzukommen und überlasse ihm das hier. Das ist zwar jetzt vielleicht ein bisschen komisch, aber auch gleich schlauer. Das heißt, ich gehe erstmal lieber zu den anderen.
 [01:45:59] Benjamin: Genau, genau.
 [01:46:00] Friedrich: Ja, stimmt.
-[01:46:07] Benjamin: Gags, okay.
+[01:46:07] Benjamin: G4-X, okay.
 [01:46:08] Benjamin: Hängt sie irgendwo fest? Hängt sie irgendwo dran? Oder liegt die irgendwo drauf?
 [01:46:24] Andreas: Vielleicht hat er irgendeine, also es sieht nicht unbedingt gesund aus, kein Licht brennt. Da musst du, ne, der verliert kein Öl oder so, aber der hängt eben an diesem Ladekabel.
 [01:46:53] Martin: der super mediziner aber das krieg ich hin das heißt ich check erst mal wie das im zustand
 [01:46:54] Friedrich: Der scheint ja auch kein Öl zu verlieren.
-[01:46:56] Friedrich: Also, wenn Komaro losgeht, um sein Medkit zu besorgen, ich versuche halt weiterhin diese Blutung irgendwie zu stoppen.
-[01:47:03] Andreas: Auf der anderen Seite steht die Tür zu Gantons Gemach offen, hängt quasi einfach nur, du musst sie ein bisschen aufschieben oder zuschieben, um dran vorbeizukommen und dann bist du schon im Cockpit-Bereich und da siehst du, wie Galrixto über Ganten hängt, so im hinteren Bereich des Cockpits in der Nähe der Tür und Ganten sieht wirklich nicht gut aus.
+[01:46:56] Friedrich: Also, wenn Komaru losgeht, um sein Medkit zu besorgen, ich versuche halt weiterhin diese Blutung irgendwie zu stoppen.
+[01:47:03] Andreas: Auf der anderen Seite steht die Tür zu Gantons Gemach offen, hängt quasi einfach nur, du musst sie ein bisschen aufschieben oder zuschieben, um dran vorbeizukommen und dann bist du schon im Cockpit-Bereich und da siehst du, wie Ghalrixtho über Ganden hängt, so im hinteren Bereich des Cockpits in der Nähe der Tür und Ganden sieht wirklich nicht gut aus.
 [01:47:30] Andreas: er ist dabei zu sterben und es sieht nicht mehr gut aus.
 [01:47:48] Martin: überhaupt ist okay wahrscheinlich habe ich nicht bei mir vielleicht bin ja wir hatten ja vor allem
 [01:48:03] Martin: ruhepause das heißt ich muss zu meinem schlafplatz an mein gepäck und das matt pack holen also das
@@ -1071,9 +1071,9 @@
 [01:48:10] Andreas: Ja, das ist wirklich gut, dass du dich so gut in dem Schiff bewegen kannst,
 [01:48:12] Martin: dass ich da hinkomme,
 [01:48:14] Martin: hole das Matpack und dann gleich wieder
-[01:48:16] Martin: zu Ganten zurück, um ihn zu versorgen.
-[01:48:21] Andreas: weil der Calum kommt gerade dort den Gang hochgeklettert, während du schon wieder zurückkommst.
-[01:48:28] Andreas: Und Calum, als du versucht hast, da nach oben zu klettern, musst du dich allerdings entscheiden.
+[01:48:16] Martin: zu Ganden zurück, um ihn zu versorgen.
+[01:48:21] Andreas: weil der Kaelum kommt gerade dort den Gang hochgeklettert, während du schon wieder zurückkommst.
+[01:48:28] Andreas: Und Kaelum, als du versucht hast, da nach oben zu klettern, musst du dich allerdings entscheiden.
 [01:48:35] Andreas: Entweder kletterst du weiter zum Cockpit oder du gehst in den jetzt ganz oben hochkant stehenden Bereich eurer Messe oder dort, wo ihr auch immer gegessen habt.
 [01:48:52] Andreas: Denn dort hängt, mitten zwischen den aus den Schränken gefallenen Gläsern und den Plastelbechern und Tellern, Varnira auf dem Tresen.
 [01:49:07] Andreas: und auch sie sieht bewusstlos aus.
@@ -1105,7 +1105,7 @@
 [01:50:59] Andreas: an der rechten Wand
 [01:51:00] Andreas: hinter ihr
 [01:51:02] Andreas: so ein Bild, welches
-[01:51:04] Andreas: Ganten wahrscheinlich aus Coruscant mitgebracht hat. Irgend so eine Kunst einer Alienrasse. Direkt darauf, das ganze Bild hat sie Blut verschmiert, liegt sie und sie hat nicht nur einen gebrochenen Arm, sondern auch einen gebrochenen Oberschenkel. Und dieser Bruch ist wesentlich schlimmer und da sprudelt das Blut geradezu bachartig hervor. Das hat sie, ja.
+[01:51:04] Andreas: Ganden wahrscheinlich aus Coruscant mitgebracht hat. Irgend so eine Kunst einer Alienrasse. Direkt darauf, das ganze Bild hat sie Blut verschmiert, liegt sie und sie hat nicht nur einen gebrochenen Arm, sondern auch einen gebrochenen Oberschenkel. Und dieser Bruch ist wesentlich schlimmer und da sprudelt das Blut geradezu bachartig hervor. Das hat sie, ja.
 [01:51:36] Benjamin: Ich schaue erstmal ganz schnell, ob sie bei sich irgendwo ein Matpack oder sowas hat. Immerhin ist sie unsere Medizinerin.
 [01:51:43] Benjamin: Das heißt, also Idealfall wäre, ich gucke nach einem Matpack, ziehe da raus, da wird es ja vielleicht so einen moderneren Tourniquet oder sowas geben und versuche einfach, das möglichst schnell abzubinden, in der Hoffnung, dass durch dieses Matpack das auch einfach einfacher fällt.
 [01:51:46] Andreas: Sie hat am Gürtel ein Medpack.
@@ -1134,11 +1134,11 @@
 [01:53:16] Andreas: aber nicht sprudelnd.
 [01:53:18] Andreas: Muss trotzdem abgebunden werden.
 [01:53:36] Andreas: Naja, du kannst sie auf die Seite des Schiffes legen.
-[01:53:55] Andreas: Geil, Rickstu.
-[01:53:56] Andreas: Ja, also das ist bei diesen Kopfwunden natürlich schwieriger. Du weißt nicht genau, was du da machen musst. Aber im Grunde hat er ja eher innere Verletzungen. Das heißt also, wie viele medizinische Kenntnisse hast du mit Galrix? Das heißt also, du weißt wirklich nicht, was du machen kannst, aber mach mal einen B20-Wurf.
+[01:53:55] Andreas: Ghalrixtho.
+[01:53:56] Andreas: Ja, also das ist bei diesen Kopfwunden natürlich schwieriger. Du weißt nicht genau, was du da machen musst. Aber im Grunde hat er ja eher innere Verletzungen. Das heißt also, wie viele medizinische Kenntnisse hast du mit Ghalrixtho? Das heißt also, du weißt wirklich nicht, was du machen kannst, aber mach mal einen B20-Wurf.
 [01:54:10] Friedrich: Irgendwie, wenn ich das nicht verbunden kriege, dann halt, indem ich da irgendwie Stoff drauf drücke und halt einen Druckverband ohne Verband anlege.
 [01:54:37] Friedrich: Minus 1. Wie mache ich das? Ah, D20, ne? So, 7.
-[01:54:47] Andreas: Gut. Also du, während du versuchst, auf seinen Kopf zu drücken, beginnt Ganten etwas zu husten. Die Augen fixieren dich etwas, aber er sieht dich nicht.
+[01:54:47] Andreas: Gut. Also du, während du versuchst, auf seinen Kopf zu drücken, beginnt Ganden etwas zu husten. Die Augen fixieren dich etwas, aber er sieht dich nicht.
 [01:55:02] Friedrich: Ich gucke irgendwie, bewegen sich die Augen immer noch so unkontrolliert?
 [01:55:31] Friedrich: Ich spreche ihn irgendwie an, kannst du mich hören?
 [01:55:39] Andreas: Okay, Komaru, du findest nach einiger Zeit in deiner Kammer...
@@ -1154,8 +1154,8 @@
 [01:56:33] Andreas: Und du weißt einfach, dass du musst ihm diese Bacta-Injektion irgendwo in den Halsbereich reinjagen, sonst wird es wirklich schwierig. Wer weiß, was der für Verletzungen hat. Oder sogar vielleicht direkt im Brustbereich irgendwo. Genau, also da ist jetzt Lebensrettung angesagt.
 [01:56:34] Martin: Sehr gut.
 [01:56:45] Martin: Ja, genau.
-[01:56:47] Martin: Also eine starke Blutung habe ich ja vorher nicht gesehen, aber das macht es ja nicht besser. Also deswegen schnell zurück und dann, ja das bringt jetzt nichts, wenn ich jetzt Kälum störe und Ganten liegen lasse. Also ich gehe zuerst zu Ganten.
-[01:57:03] Andreas: Du kommst tatsächlich jetzt an Kelum vorbei, der über die Verletzte gebeugt ist. Möchtest du zu ihr oder zu Ganten? Du steigst über Gax hinweg und kommst zu Ganten.
+[01:56:47] Martin: Also eine starke Blutung habe ich ja vorher nicht gesehen, aber das macht es ja nicht besser. Also deswegen schnell zurück und dann, ja das bringt jetzt nichts, wenn ich jetzt Kälum störe und Ganden liegen lasse. Also ich gehe zuerst zu Ganden.
+[01:57:03] Andreas: Du kommst tatsächlich jetzt an Kaelum vorbei, der über die Verletzte gebeugt ist. Möchtest du zu ihr oder zu Ganden? Du steigst über G4-X hinweg und kommst zu Ganden.
 [01:57:27] Martin: und hast du Schmerzen beim Atmen? Kannst du mich hören?
 [01:57:33] Andreas: Gunton zuckt etwas, sein Fokus ist schlecht, seine Augen bewegen sich, zittern von rechts nach links und er hustet.
 [01:57:50] Martin: Ja, dachte ich mal. Gut.
@@ -1170,16 +1170,16 @@
 [01:58:46] Martin: Ich fokussiere mich.
 [01:58:47] Andreas: Ah, super. Ja, es war knapp. Er hat nämlich zwei Todesrettungswürfe nicht geschafft.
 [01:58:49] Martin: Das wird ja. Oh, ja genau, also 17 insgesamt. Das heißt, ich kriege einen schönen Mix aus Epinephrin gegen den Schock und Cortison gegen die Hirnschwellung und Bacta ist sowieso ein Allheilmittel, das ist da garantiert unbegrenzt und dann wahrscheinlich die dann reparieren.
-[01:59:02] Andreas: Ja, also du stabilisierst Ganten, indem du ihm einfach die Injektion gibst. Ansonsten wäre er wahrscheinlich an einem Schlaganfall oder irgend sowas jetzt. Oder wäre das Ideen einfach zu stark gewesen, welches sich innen drin aufgebaut hat. Du kannst es nicht genau sagen.
+[01:59:02] Andreas: Ja, also du stabilisierst Ganden, indem du ihm einfach die Injektion gibst. Ansonsten wäre er wahrscheinlich an einem Schlaganfall oder irgend sowas jetzt. Oder wäre das Ideen einfach zu stark gewesen, welches sich innen drin aufgebaut hat. Du kannst es nicht genau sagen.
 [01:59:25] Andreas: Aber genau, was auch immer dort gemacht wird. Es kann auch sein, dass da irgendwelche Nanopartikel jetzt tätig werden. Das heißt also, da sind verschiedene Sachen tätig und er beginnt wieder etwas stabiler zu atmen und sein Puls geht regelmäßiger.
 [01:59:46] Martin: Genau. Glaubst du, wir können die Leitungskapsel lösen?
-[01:59:58] Andreas: So, jetzt bitte ich Galrixto um einen Wurf auf Wahrnehmung. Du hörst ein Quietschen. Das Quietschen wird etwas stärker. Ja, du hast ganz leicht dieses Gefühl, ganz kurz, wie wenn sich der Bauch so ganz kurz anhebt.
+[01:59:58] Andreas: So, jetzt bitte ich Ghalrixtho um einen Wurf auf Wahrnehmung. Du hörst ein Quietschen. Das Quietschen wird etwas stärker. Ja, du hast ganz leicht dieses Gefühl, ganz kurz, wie wenn sich der Bauch so ganz kurz anhebt.
 [02:00:12] Friedrich: Wahrnehmung, Perception, 16.
 [02:00:28] Friedrich: Merke ich irgendwie, dass das Schiff sich bewegt oder so?
 [02:00:31] Friedrich: Ich glaube, wir rutschen ab.
-[02:00:42] Andreas: Und tatsächlich. Ja, aber Achtung, wenn du Ganten jetzt über die Kante ziehst, dann ist direkt unter dir ein Schacht, der ist fast 10 Meter tief. Bis zur Tür der Rettungskapsel.
+[02:00:42] Andreas: Und tatsächlich. Ja, aber Achtung, wenn du Ganden jetzt über die Kante ziehst, dann ist direkt unter dir ein Schacht, der ist fast 10 Meter tief. Bis zur Tür der Rettungskapsel.
 [02:00:53] Friedrich: Kumaro, lass uns Gunn zur Rettungskapsel bringen.
-[02:00:56] Friedrich: Kaelum, schaffst du Vanira hier raus?
+[02:00:56] Friedrich: Kaelum, schaffst du Varnira hier raus?
 [02:01:00] Benjamin: Mach ich. Mit der Inspiration kannst du noch mal würfeln.
 [02:01:05] Friedrich: Ja, dann wo sind wir?
 [02:01:15] Friedrich: Es ist eine Rettungskapsel.
@@ -1190,18 +1190,18 @@
 [02:01:30] Friedrich: Wir sind im Cockpit.
 [02:01:33] Martin: Wenn er jetzt runterfällt, ist er hinüber. Das kann ich dir sagen. Also Mühe geben.
 [02:01:44] Andreas: Ihr seid im Cockpit, auf der rechten Stufe quasi, rechts. Ja, 1,30 Meter, sowas. Also es ist schon etwas breiter als 1 Meter, sodass zwei Menschen gerade so aneinander vorbeilaufen können.
-[02:01:51] Friedrich: Komaro, kannst du in den Gang rübergehen?
+[02:01:51] Friedrich: Komaru, kannst du in den Gang rübergehen?
 [02:01:56] Friedrich: Wie breit ist das? Einen Meter?
 [02:01:59] Friedrich: Dann versuche ich, mich breit drüber zu stellen
 [02:02:09] Andreas: Okay, ich bitte euch beide um Athletics oder Acrobatics Checks und die Schwierigkeit ist im Bereich von 15. Genau, da kannst du deinen Wurf wiederholen, um dann den zweiten dann zu nehmen.
-[02:02:15] Friedrich: und den Gang so rüberzuziehen, dass Komaro den annehmen kann.
+[02:02:15] Friedrich: und den Gang so rüberzuziehen, dass Komaru den annehmen kann.
 [02:02:21] Friedrich: Ohne, dass er jetzt runterknallt und sich die nächste Kopfwunde holt.
 [02:02:40] Friedrich: 18.
 [02:02:41] Friedrich: was macht der die inspiration nummer 19 also ja wir haben auch noch zwei andere drei andere
 [02:02:43] Martin: Ich gebe auf jeden Fall wieder einen Boost. Das ist hier echt notwendig.
 [02:02:50] Martin: Ich wollte gerade sagen, Moment, wir sprengen die nicht ab und schauen dann, ob Platz ist. Das ist die falsche Reihenfolge. Sondern wir machen tatsächlich erstmal einen Umgebungsscan, damit wir ausrechnen können, in welchem Winkel und in welche Richtung wir rauskommen.
-[02:03:03] Andreas: Okay, also ihr beide schafft es tatsächlich, mit großer Mühe Ganten zwischen euch hin und her zu schieben.
-[02:03:13] Andreas: Und nur weil sich Komaro so gut hier links und rechts festhalten kann, schafft ihr es, die schwere Last in die Rettungskapsel zu bringen.
+[02:03:03] Andreas: Okay, also ihr beide schafft es tatsächlich, mit großer Mühe Ganden zwischen euch hin und her zu schieben.
+[02:03:13] Andreas: Und nur weil sich Komaru so gut hier links und rechts festhalten kann, schafft ihr es, die schwere Last in die Rettungskapsel zu bringen.
 [02:03:23] Andreas: Und tatsächlich, die Rettungskapsel hat Energie. Dort ist das rote Licht zu erkennen.
 [02:03:28] Andreas: Und dort kann man die Rettungskapsel absprengen, wenn man möchte. Der Knopf ist rot und rund bereit. Wenn man dort drauf drückt, schließt sich ruckartig die Tür und dann wird die Rettungskapsel abgesprengt. Nach unten in die Schlucht hinein.
 [02:03:46] Andreas: Ja, es gibt, ja, also die Rettungskapsel muss visuell gesteuert werden und dazu gibt es ein Bullauge. Das heißt, du kannst es aufmachen und rausgucken.
@@ -1214,17 +1214,17 @@
 [02:04:52] Friedrich: Da sind ja bestimmt Sitze drin.
 [02:04:54] Friedrich: Ja.
 [02:04:56] Friedrich: Kumaro, wir...
-[02:04:56] Andreas: Jetzt springen wir aber wieder zu Kalum.
-[02:04:59] Andreas: Kalum, du bist über Varnira gebeugt mit den beiden gebrochenen Gliedmaßen.
+[02:04:56] Andreas: Jetzt springen wir aber wieder zu Kaelum.
+[02:04:59] Andreas: Kaelum, du bist über Varnira gebeugt mit den beiden gebrochenen Gliedmaßen.
 [02:05:05] Andreas: Das sieht auch nicht besonders gut aus.
 [02:05:07] Andreas: Und wenn du sie bewegst, dann bewegen die sich ebenso.
-[02:05:12] Andreas: Und Gex liegt unter dir.
+[02:05:12] Andreas: Und G4-X liegt unter dir.
 [02:05:16] Andreas: Was tust du?
-[02:05:18] Benjamin: Wie weit ist das denn von dort, wo ich jetzt mit Vanira bin, bis zum nächsten Boden, sag ich mal in Anführungszeichen?
+[02:05:18] Benjamin: Wie weit ist das denn von dort, wo ich jetzt mit Varnira bin, bis zum nächsten Boden, sag ich mal in Anführungszeichen?
 [02:05:27] Benjamin: Also mein Idealfall wäre ja, ich komme runter. Okay, okay. Dann werde ich sie ganz vorsichtig.
 [02:05:29] Andreas: Zwischen 1,30 und 1,50 geht es nach unten um den nächsten Absatz.
 [02:05:34] Andreas: Das ist nicht so tief.
-[02:05:36] Andreas: Die merkt nichts. Jetzt macht dieses Schiff eben diesen Ruck, den ich gerade beschrieben habe. Und du siehst jetzt hier Gex und Vanira. Du kannst entweder Gex mitnehmen oder Vanira. Und jetzt bitte ich dich um einen Wurf, auch einen W20er.
+[02:05:36] Andreas: Die merkt nichts. Jetzt macht dieses Schiff eben diesen Ruck, den ich gerade beschrieben habe. Und du siehst jetzt hier G4-X und Varnira. Du kannst entweder G4-X mitnehmen oder Varnira. Und jetzt bitte ich dich um einen Wurf, auch einen W20er.
 [02:05:41] Benjamin: Ja, es tut jetzt weh, aber wahrscheinlich ist sie eh, sie ist ja bewusstlos.
 [02:05:42] Friedrich: Klick.
 [02:05:45] Benjamin: große Vorteile. Genau. Also, dann werde ich sie vorsichtig runterlassen.
@@ -1232,17 +1232,17 @@
 [02:05:54] Benjamin: eh schon gebrochen sind. Ich werde auch kurz mal vorher das andere Bein,
 [02:05:58] Benjamin: den anderen Arm einfach abchecken, nicht das da.
 [02:06:02] Benjamin: Und dann lasse ich sie ganz vorsichtig runter, um
-[02:06:06] Benjamin: im Bestfall bei Gags mit ihr zu landen.
-[02:06:10] Benjamin: Ja, die Frage ist, bei Gags kann ich den irgendwie aktivieren? Gibt es da irgendwie einen Schalter oder sowas? Moment, ich muss kurz gucken, was habe ich? 16. Und das Kabel selbst, ist das unter Strom? Also oder wie? Kann eigentlich nicht sein.
+[02:06:06] Benjamin: im Bestfall bei G4-X mit ihr zu landen.
+[02:06:10] Benjamin: Ja, die Frage ist, bei G4-X kann ich den irgendwie aktivieren? Gibt es da irgendwie einen Schalter oder sowas? Moment, ich muss kurz gucken, was habe ich? 16. Und das Kabel selbst, ist das unter Strom? Also oder wie? Kann eigentlich nicht sein.
 [02:06:29] Andreas: Okay, es ist nicht so, dass sich die dunkle Seite derart übermannt, dass du beide zurücklässt, aber du nimmst wohl Maniera weiter mit, oder?
-[02:06:50] Andreas: Mach mal einen Technikwurf. Ihr seid mit Ganten beschäftigt, also ihr könnt leider da nicht interagieren gerade.
+[02:06:50] Andreas: Mach mal einen Technikwurf. Ihr seid mit Ganden beschäftigt, also ihr könnt leider da nicht interagieren gerade.
 [02:07:04] Andreas: 16. Der ist in einem ewigen Kurzschluss gefangen, weil er an diesem Kabel, welches weder ein- noch ausgesteckt ist, hängt.
 [02:07:23] Andreas: Das ist unter Strom.
 [02:07:23] Benjamin: Gut, und um diesen Kurzschluss zu deaktivieren, müsste ich das Kabel entfernen, ja?
 [02:07:33] Andreas: Das ist sehr gut.
 [02:07:33] Benjamin: Gut, ich gehe davon aus, dass hier prinzipiell kein Strom ist, aber man weiß es ja nicht genau.
 [02:07:39] Benjamin: Kaelum wird sich kurz konzentrieren und bewegt seine Hand kurz so und mit der Hilfe der Macht wird er dieses Kabel entfernen.
-[02:07:56] Andreas: Gax sinkt jetzt voll ganz auf den Boden herunter.
+[02:07:56] Andreas: G4-X sinkt jetzt voll ganz auf den Boden herunter.
 [02:07:59] Andreas: Das Kabel war relativ tief drin gesteckt.
 [02:08:02] Andreas: Also das ist so ein Stecker, der sich verbindet
 [02:08:05] Andreas: und dann würde sich so verdrehen.
@@ -1254,7 +1254,7 @@
 [02:08:22] Andreas: Das wäre nicht gesund gewesen, das anzufassen.
 [02:08:25] Andreas: Und dann
 [02:08:25] Andreas: gehen die Augen
-[02:08:28] Andreas: von Gex an
+[02:08:28] Andreas: von G4-X an
 [02:08:29] Andreas: zur Stelle
 [02:08:32] Andreas: und er fasst
 [02:08:34] Andreas: die andere Seite des
@@ -1265,15 +1265,15 @@
 [02:08:47] Andreas: Statusbericht.
 [02:08:57] Friedrich: Ich würde sagen drei.
 [02:08:59] Andreas: Müsst halt
-[02:09:02] Benjamin: Ja, gut. Sehr gut. Galrixo, wir brauchen dich.
+[02:09:02] Benjamin: Ja, gut. Sehr gut. Ghalrixtho, wir brauchen dich.
 [02:09:05] Friedrich: Wie es auf dem Bild aussieht.
 [02:09:07] Andreas: übereinander reinklettern.
 [02:09:09] Andreas: So richtig besonders gemütlich ist es nicht, ja.
 [02:09:14] Andreas: Also ihr seid dann ja zu fünft.
 [02:09:18] Andreas: Rettungsroutine 27 einleiten.
 [02:09:22] Andreas: Also er zuckt so ein bisschen und es haut Funken seitlich raus,
-[02:09:26] Andreas: aber er schnappt Vanira und klettert mit seinen Metallklauen die Wand entlang.
-[02:09:36] Andreas: Und dann seid ihr vor dem Abgrund, als Galrixto gerade von unten hochklettert.
+[02:09:26] Andreas: aber er schnappt Varnira und klettert mit seinen Metallklauen die Wand entlang.
+[02:09:36] Andreas: Und dann seid ihr vor dem Abgrund, als Ghalrixtho gerade von unten hochklettert.
 [02:09:41] Andreas: Weil du wolltest ja da wieder raus, so wie ich das sehe, und nach den anderen schauen.
 [02:09:46] Friedrich: Ja.
 [02:09:49] Andreas: Ihr lasst gemeinsam Warnierer ab, weil ihr zu zweit seid und der Druide auch mithilft.
@@ -1284,8 +1284,8 @@
 [02:10:22] Andreas: gegen die Wand oder sonst was
 [02:10:24] Andreas: ansonsten müsst ihr einen zurücklassen
 [02:10:28] Andreas: also jetzt kommt es drauf an
-[02:10:28] Benjamin: Naja, sag mal, Vanira hat im Moment eh ein paar mehr Winkel und Scharnierstellen, als sie normalerweise hätte.
-[02:10:40] Benjamin: Nein, aber Galrixo überschreibt das.
+[02:10:28] Benjamin: Naja, sag mal, Varnira hat im Moment eh ein paar mehr Winkel und Scharnierstellen, als sie normalerweise hätte.
+[02:10:40] Benjamin: Nein, aber Ghalrixtho überschreibt das.
 [02:10:41] Friedrich: Der hat ja nicht so magnetische Füße, mit denen er sich an der Decke festmachen kann.
 [02:10:43] Andreas: bei der Rettungskapsel gibt es jetzt eine Meldung
 [02:10:51] Andreas: zu viele Passagiere
