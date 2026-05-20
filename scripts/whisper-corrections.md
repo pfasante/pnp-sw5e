@@ -93,6 +93,21 @@ beschränken.
 
 ---
 
+## Star-Wars-Setting-Begriffe
+
+Eigennamen aus dem Star-Wars-Universum (keine Charaktere), die Whisper
+systematisch zu deutsch klingenden Wörtern verschiebt.
+
+### corellianisch (Adjektiv, von Corellia)
+
+Beschreibt z.B. die Bauart der Turbot.
+
+| Falschvariante | Erstmals |
+|----------------|----------|
+| koreanisch | S19 |
+
+---
+
 ## Bulk-Replace: empfohlene Reihenfolge
 
 1. **Mehr-Token-Phrasen zuerst** (z.B. `Geil, Rickstu.`) — wortgrenzen-

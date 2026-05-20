@@ -21,17 +21,36 @@ $ARGUMENTS/
 
 Falls das Transkript noch fehlt, weise den Benutzer auf `/transcribe` hin und brich ab.
 
+## Kampagnen-Daten
+
+### Spieler ↔ Charakter-Mapping
+
+Die Sprecher-Tags im Transkript sind **Spielernamen**, nicht Charakternamen. Beim Lesen des Transkripts immer übersetzen:
+
+| Spieler | Charakter |
+|---------|-----------|
+| Andreas | Spielleiter (vormals Spieler von Ganden, ab Session 19 GM) |
+| Friedrich | Ghalrixtho |
+| Martin | Komaru |
+| Benjamin | Kaelum (ab Session 19 Spieler-Charakter, davor war Benjamin Spielleiter) |
+| Heike | Varnira Sesh |
+| Stefan | G4-X |
+
+Bei Sessions vor Session 19 war Benjamin der Spielleiter und Ganden wurde von Andreas gespielt. Mapping bei alten Sessions entsprechend anpassen.
+
 ## Hintergrundmaterial
 
 Lies zu Beginn der Pipeline die Dateien im `background/`-Ordner, um den Kontext der Kampagne zu verstehen:
 
-- **`background/bekannter-hintergrund.md`** – Spieler-seitig bekannte Lore (Schiff, Speeder, Umgebung)
-- **`background/charaktere/*.md`** – Charakterbögen der Spielercharaktere (Fähigkeiten, Hintergrund, Persönlichkeit)
+- **`background/bekannter-hintergrund.md`** – Spieler-seitig bekannte Lore (Schiff, Speeder, Umgebung). Wird im Lauf der Kampagne erweitert.
+- **`background/charaktere/*.md`** – Charakterbögen der Spielercharaktere (Fähigkeiten, Hintergrund, Persönlichkeit). Beachte besonders den Abschnitt **"In der Kampagne bekannt"** — er regelt, was die anderen Spielercharaktere über jeden Charakter wissen dürfen.
 
 Diese Informationen sind wichtig für:
 - Korrekte Beschreibung von Ausrüstung, Fahrzeugen und Orten (z.B. der Speeder ist ein Brett mit angeschweißtem Düsentriebwerk, kein normales Fahrzeug)
 - Charakterstimmen und Verhaltensmuster, die über die Kurzprofile in den Stilrichtlinien hinausgehen
 - Konsistenz mit etablierter Kampagnen-Lore
+
+**Vor dem Lesen des Transkripts:** Prüfe, ob die Whisper-Falscherkennungen aus [`scripts/whisper-corrections.md`](../../../scripts/whisper-corrections.md) bereits korrigiert wurden (Stichprobe mit `grep -iE "calum|galrix|ganten|komaro"` auf das Transkript). Falls noch Restvarianten gefunden werden, Benutzer darauf hinweisen, bevor die Pipeline weiterläuft. Neu entdeckte Falscherkennungen ans Ende der Pipeline notieren und in `whisper-corrections.md` ergänzen lassen.
 
 ## Pipeline-Überblick
 
@@ -99,6 +118,7 @@ Erstelle pro Szene eine Datei mit folgender Struktur:
 **Ort:** [Schauplatz]
 **Beteiligte:** [Charaktere]
 **Perspektive:** [Erzählperspektive]
+**Stimmung:** [tonale Färbung, übernommen aus dem Storyboard, ggf. präzisiert]
 
 ## Handlungsablauf
 
@@ -113,8 +133,21 @@ Leitlinien für die Szenen:
 - Jede Szene soll den entsprechenden Transkript-Abschnitt enthalten, damit beim späteren Schreiben der Prosa alle Originalinformationen direkt verfügbar sind.
 - Der Handlungsablauf soll deutlich detaillierter sein als das Storyboard, aber noch keine ausformulierte Prosa.
 - Dialoge aus dem Transkript, die wörtlich oder sinngemäß in die Prosa übernommen werden können, hervorheben.
+- **Lore-Sprache bereits hier:** Der Handlungsablauf wird in Lore-Prosa formuliert, nicht in Regel-Sprech. Keine Game-Klassen ("Operative", "Slicer", "Scout", "Tactician-Scholar", "Engineer", "Fighter", "Padawan-Klasse" etc.), keine Skill-/Feat-Namen ("Crawl-Speed", "Sneak Attack", "Kampfmeditation", "Athletics-Wurf" etc.), keine Würfelbegriffe ("Wurf", "W20", "DC", "Saving Throw", "Schadenspunkte") und keine GM-Attributionen ("Andreas verlangt", "Andreas — als GM — bestätigt"). Würfel-Ergebnisse, Skill-Erfolge und Verletzungs-Mengen werden direkt narrativ übersetzt (hoher Wurf → präzise Beobachtung; X Schaden → konkrete Wunde). Die Originalsprache des GM bleibt nur im **Transkript-Auszug** stehen.
+- **Keine Spekulation über Motive:** Beschreibe nur, was im Transkript explizit gesagt oder durch konkrete Handlungen gezeigt wird. Erfindete Hintergründe, Audienzen, Verbindungen oder dreifache "tiefe Bedeutungen" eines Satzes haben in der Szene nichts verloren — sie gehören in den Charakter-Hintergrund, nicht in den Sessions-Bericht.
+- **Konsistenz mit Vorszene:** Die Position und der Zustand der Charaktere am Ende einer Szene sind der Startzustand der nächsten. Wenn Komaru in Szene 1 ins Cockpit kommt, ist er in Szene 2-4 bereits dort — er "kommt nicht nochmal hinzu".
+- **Spieler-Meta vs. Charakter-Rede:** Im Transkript stehen die **Spielernamen** (Andreas, Benjamin, Friedrich, Martin) als Sprecher-Tags, nicht die Charakternamen. Spielernamen-Aussagen sind oft eine Mischung aus Meta-Beschreibung ("ich mache jetzt einen Wurf"), Charakter-Handlung ("ich klettere zum Turm") und wörtlicher Charakter-Rede. Wörtliche Zitate im Handlungsablauf nur dort, wo der Spieler eindeutig im Charakter spricht. Player-Meta in Lore-Beschreibung umformulieren.
+- **TODO statt Erfinden:** Wenn ein Detail aus den Quellen nicht klar ist, mit `TODO AI: <frage>` markieren und vom Benutzer klären lassen, statt zu spekulieren.
+- **Länge dynamisch:** Der Handlungsablauf einer Szene skaliert mit der Anzahl der Szenen einer Session. Faustregel: das Gesamtkapitel zielt auf ~2000–3500 Wörter Prosa; der Szenen-Handlungsablauf darf etwa **das 1,5-fache der zu erwartenden Prosa-Länge pro Szene** sein (Detail-Reserve für Schritt 2). Bei 4–5 Szenen pro Session also ~600–900 Wörter Handlungsablauf je Szene; bei 8–10 Szenen eher ~400–600. Wenn deutlich darüber, prüfen auf Doppelung oder unnötige Detail-Tiefe — die Grenze ist nicht starr, aber als Selbstkontrolle nützlich.
 
-**Self-Review:** Prüfe jede Szene: Ist der Transkript-Auszug vollständig und korrekt zugeordnet? Deckt der Handlungsablauf alle Details aus Storyboard und Transkript ab? Dann vorlegen und auf Freigabe warten.
+**Self-Review:** Prüfe jede Szene:
+- Ist der Transkript-Auszug vollständig und korrekt zugeordnet?
+- Deckt der Handlungsablauf alle Details aus Storyboard und Transkript ab?
+- Sind alle Regel-Sprech-Begriffe (siehe oben) aus dem Handlungsablauf entfernt?
+- Ist die Crew-Position konsistent mit der Vorszene?
+- Wird Spekulation vermieden (keine erfundenen Motive, Hintergründe, "tiefen Bedeutungen")?
+
+Dann vorlegen und auf Freigabe warten.
 
 ---
 
@@ -127,7 +160,7 @@ Schreibe für jede Szene einen Prosa-Entwurf. **Jede Szene einzeln als eigene Da
 
 ### Stilrichtlinien
 
-Orientiere dich am Stil der bestehenden Kapitel in `chronicle/04-kapitel/`. Wesentliche Merkmale:
+Die bestehenden Kapitel in `chronicle/04-kapitel/` können als grobe Tonalitäts-Referenz dienen, aber jede neue Session darf ihren eigenen Ton finden — bitte nicht sklavisch imitieren. Wesentliche Merkmale, die durchgehalten werden sollen:
 
 - **Sprache:** Deutsch, gehobener aber flüssiger Erzählstil. Keine übertriebene Poetik, sondern klare, bildhafte Prosa.
 - **Perspektive:** Dritte Person, begrenzt allwissend – typischerweise aus der Perspektive eines der Spielercharaktere, kann zwischen Szenen wechseln.
@@ -137,6 +170,7 @@ Orientiere dich am Stil der bestehenden Kapitel in `chronicle/04-kapitel/`. Wese
   - **Fähigkeitsnamen:** Nie Skill-/Feat-Namen wie "Critical Analysis", "Sneak Attack", "Evasive Footwork" verwenden, sondern das Verhalten narrativ beschreiben ("Ganden analysierte die Schwachstellen des Gegners", "Ghalrixtho nutzte die Ablenkung für einen präzisen Stich")
   - **Spielbegriffe:** Begriffe wie "Infiltrator", "NPC", "Hit Dice", "Saving Throw" gehören nicht in die Prosa. Verwende stattdessen narrative Beschreibungen ("schwer gerüsteter Soldat", "der Gepanzerte", "der Schütze")
 - **Charakter-Hintergründe:** Die Charakterbögen in `background/charaktere/` enthalten Hintergrundwissen, das die Spielercharaktere **noch nicht voneinander kennen** (z.B. Gandens ISB-Vergangenheit). Solche Details dürfen in der Prosa nur dann auftauchen, wenn sie in einer Session explizit offenbart wurden. Im Zweifel: nicht erwähnen. Prüfe `background/charaktere/*.md` auf den Abschnitt "In der Kampagne bekannt" für bereits enthüllte Informationen.
+- **Subtext statt Spoiler:** Wenn ein Charakter aus einer Perspektive geschrieben wird, dessen Hintergrund tiefer reicht als die Mitspieler-Charaktere ahnen, gilt: durch *Gewicht* andeuten, nicht durch *Inhalt* offenbaren. Beispiel: "Iego hat ihn geformt" — gut. "Er las das Vornesk-Dossier" — schlecht. Der Leser darf spüren, dass mehr dahinter steckt, ohne dass die Crew es erfahren würde. Die Tiefe wird durch Beziehung-zur-Sache vermittelt (Erinnerung, Reflex, Schweigen), nicht durch faktische Details.
 - **Charakterstimmen:**
   - Ganden: kultiviert, analytisch, manipulativ-charmant, "der Professor"
   - Ghalrixtho: kühl, präzise, wenige Worte, raubtierhafte Präsenz
@@ -196,4 +230,6 @@ Dann vorlegen und auf finale Freigabe warten.
 
 Wenn das Kapitel final freigegeben ist:
 - Bestätige, welche Dateien erstellt/geändert wurden.
+- **Neue Lore-Elemente identifizieren:** Wenn in der Session neue Welt-Elemente, NPCs, Schauplätze, Technologien oder Setting-Konzepte eingeführt wurden, die bisher nicht in `background/bekannter-hintergrund.md` stehen (z.B. neuer Planet, neue Fraktion, neuer wichtiger NPC, neue Schiffs-Eigenschaft), liste sie dem Benutzer auf und schlage vor, sie in `bekannter-hintergrund.md` zu ergänzen — damit künftige Sessions die Lore-Konsistenz wahren können.
+- **Neu entdeckte Whisper-Falschvarianten:** Falls beim Lesen des Transkripts Eigennamen-Falschschreibungen aufgetaucht sind, die noch nicht in `scripts/whisper-corrections.md` stehen, dem Benutzer dort eintragen vorschlagen.
 - Schlage einen Commit vor (aber führe ihn nicht eigenständig aus).
