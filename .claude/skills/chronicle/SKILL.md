@@ -162,30 +162,50 @@ Schreibe für jede Szene einen Prosa-Entwurf. **Jede Szene einzeln als eigene Da
 
 Die bestehenden Kapitel in `chronicle/04-kapitel/` können als grobe Tonalitäts-Referenz dienen, aber jede neue Session darf ihren eigenen Ton finden — bitte nicht sklavisch imitieren. Wesentliche Merkmale, die durchgehalten werden sollen:
 
-- **Sprache:** Deutsch, gehobener aber flüssiger Erzählstil. Keine übertriebene Poetik, sondern klare, bildhafte Prosa.
+- **Sprache:** Deutsch, gehobener aber flüssiger Erzählstil. Keine übertriebene Poetik, sondern klare, bildhafte Prosa. Vorsicht mit Anglizismen — *devastierend* → *verheerend*, *automatisiert* sparsam einsetzen. Idiom-Akkuratesse: *in den Raum stellen* (nicht *legen*), *im Dunklen bleiben* (nicht *liegen*). Bei zeitlich realer Vergangenheit Indikativ statt Konjunktiv (*als sie noch gedacht hatten*, nicht *gedacht hätten*).
 - **Perspektive:** Dritte Person, begrenzt allwissend – typischerweise aus der Perspektive eines der Spielercharaktere, kann zwischen Szenen wechseln.
-- **Dialoge:** Wörtliche Rede in Anführungszeichen. Dialoge sollen sich natürlich anfühlen und den Charakter der Sprecher widerspiegeln. Orientiere dich an Formulierungen aus dem Transkript, aber übersetze sie in den Erzählstil.
+- **Dialoge:** Wörtliche Rede in deutschen Anführungszeichen `„..."`. Dialoge sollen sich natürlich anfühlen und den Charakter der Sprecher widerspiegeln. Orientiere dich an Formulierungen aus dem Transkript, aber übersetze sie in den Erzählstil.
+- **Keine Markdown-Formatierung im Roman-Text:** Italics (`*Wort*`) und Fettdruck (`**Wort**`) gehören nicht in die Prosa — sie passen nicht zum Roman-Satz. Konkret:
+  - **Bildschirm-/Funk-Ausgaben** (Warnmeldungen, Datenbank-Anzeigen, automatisierte Durchsagen): in deutsche Anführungszeichen `„..."`, weil sie als zitierter Text Sinn machen.
+  - **Telepathische Stimme / fremde Gedanken im Kopf:** ebenfalls in `„..."`, weil sie wie Rede behandelt werden.
+  - **Innere Wahrnehmung / Gedanken:** als plain prose integriert, ohne typografische Auszeichnung. Beispiel: *„Tödliche Natur, hörte er in sich, nicht für Lebewesen geschaffen."* statt mit Italics.
+  - **Akzent-Hervorhebungen einzelner Wörter:** ersatzlos streichen. Der Satzbau muss die Betonung tragen, nicht die Typografie. *„Eines hatten sie gekapert."* statt *„Sie *hatten* eines gekapert."*
+- **Lesefluss: keine rückblickenden Meta-Sätze.** Wenn ein Satz erklärt, was der vorherige Satz schon gezeigt hat, ist er überflüssig. Cut-Kandidaten:
+  - **Erklärungs-Satz nach Beschreibung:** *„Hinter der Silhouette stieg ein sonnenhelles Aufleuchten auf."* (die Reaktor-Explosion ist schon klar — ein nachfolgendes *„Der Reaktor war explodiert"* erklärt nur)
+  - **Schlussfolgerung nach Dialog:** *„Mehr sagte Kaelum nicht. Aber es reichte, damit jeder im Schiff begriff..."* — Leser begreift selbst
+  - **Bridge-Satz vor Action:** *„Er wusste sofort, was es bedeutete."* vor der Aktion streichen
+  - **Closing-Coda am Szenenende:** *„Damit endete diese Nacht. Wo es sie hintragen würde, blieb offen."* — Szene endet bei Handlung/Bild, nicht bei Reflexion
+  - **Einzelwort-Punktuation als Bridge:** *„Da."*, *„Endlich:"*, *„Zack."* — alles raus
+  
+  Erlaubt sind hingegen evokative Kurz-Sätze, die *vorwärts* treiben oder ein Bild setzen (*„Eine Schlacht."*, *„Eine Fliege zwischen zwei Titanen."*, *„Sie reagierte nicht."*). Faustregel: Wenn der Satz **erklärt**, raus. Wenn der Satz **zeigt**, bleibt.
+- **Sensorische Erfahrung statt technischer Vermessung:** *„kaum mehr als schulterbreit"* statt *„1,30 bis 1,50 Meter breit"*. Konkrete Maße wirken im Roman wie Reisebericht. Wo immer möglich die erlebte Wirkung beschreiben (Enge, Höhe, Distanz als Körpergefühl), nicht den Zahlenwert.
 - **Spielmechanik:** Würfelergebnisse und Regelmechaniken werden **nie** explizit erwähnt, sondern narrativ umgesetzt (z.B. ein hoher Investigation-Wurf wird zu einer detaillierten, scharfsinnigen Beobachtung). Das gilt auch für:
   - **Schadenspunkte:** Nie als Zahlen nennen ("19 Schadenspunkte"), sondern Wunden beschreiben ("drei Blastereinschläge brannten sich tief in seine Brust")
   - **Fähigkeitsnamen:** Nie Skill-/Feat-Namen wie "Critical Analysis", "Sneak Attack", "Evasive Footwork" verwenden, sondern das Verhalten narrativ beschreiben ("Ganden analysierte die Schwachstellen des Gegners", "Ghalrixtho nutzte die Ablenkung für einen präzisen Stich")
   - **Spielbegriffe:** Begriffe wie "Infiltrator", "NPC", "Hit Dice", "Saving Throw" gehören nicht in die Prosa. Verwende stattdessen narrative Beschreibungen ("schwer gerüsteter Soldat", "der Gepanzerte", "der Schütze")
 - **Charakter-Hintergründe:** Die Charakterbögen in `background/charaktere/` enthalten Hintergrundwissen, das die Spielercharaktere **noch nicht voneinander kennen** (z.B. Gandens ISB-Vergangenheit). Solche Details dürfen in der Prosa nur dann auftauchen, wenn sie in einer Session explizit offenbart wurden. Im Zweifel: nicht erwähnen. Prüfe `background/charaktere/*.md` auf den Abschnitt "In der Kampagne bekannt" für bereits enthüllte Informationen.
+- **Keine Species-Generalisierungen als Charakter-Begründung.** *„Devaronier waren klinisch — Varnira trug ihr Medpack wie eine zweite Haut"* ist schlecht, weil eine ganze Spezies pauschalisiert wird, um eine einzelne Figur zu erklären. Stattdessen das individuelle Verhalten zeigen: *„Varnira trug es immer bei sich, mit der Sorgfalt einer Frau, die mit dem Schlimmsten rechnete."*
 - **Subtext statt Spoiler:** Wenn ein Charakter aus einer Perspektive geschrieben wird, dessen Hintergrund tiefer reicht als die Mitspieler-Charaktere ahnen, gilt: durch *Gewicht* andeuten, nicht durch *Inhalt* offenbaren. Beispiel: "Iego hat ihn geformt" — gut. "Er las das Vornesk-Dossier" — schlecht. Der Leser darf spüren, dass mehr dahinter steckt, ohne dass die Crew es erfahren würde. Die Tiefe wird durch Beziehung-zur-Sache vermittelt (Erinnerung, Reflex, Schweigen), nicht durch faktische Details.
 - **Charakterstimmen:**
   - Ganden: kultiviert, analytisch, manipulativ-charmant, "der Professor"
   - Ghalrixtho: kühl, präzise, wenige Worte, raubtierhafte Präsenz
   - Komaru: pragmatisch, direkt, körperlich-dominant, trockener Humor
   - G4-X: mechanisch, pflichtbewusst
-  - Varnira: klinisch, sachlich, kompetent
-  - Kaelum: (noch zu beschreiben)
+  - Varnira: sachlich, kompetent, vorbereitet
+  - Kaelum: schweigsam, jung, brüchige Stimme bei emotionalen Auslösern; Anaxes als offene Wunde, die jederzeit aufbrechen kann; ringt um Kontrolle und scheitert manchmal; spürt Macht-Phänomene als zweite Schicht der Wirklichkeit
 - **Atmosphäre:** Star-Wars-typisch – imperiale Bedrohung, Unterwelt-Flair, Frontier-Stimmung auf Lothal. Technische Details (Blaster, Repulsoren, Holoprojektoren) natürlich einstreuen.
-- **Länge:** Szenen sollen ausführlich genug sein, um die Handlung lebendig zu machen, aber nicht aufgebläht. Orientierung: die bestehenden Kapitel haben ca. 1500–3000 Wörter.
+- **Länge:** Szenen sollen ausführlich genug sein, um die Handlung lebendig zu machen, aber nicht aufgebläht. Orientierung: die bestehenden Kapitel liegen bei ca. 2500–5000 Wörtern (je nach Action-Dichte der Session); eine Einzelszene zielt grob auf 500–900 Wörter Prosa. Bei action-dichten Sessions mit 8+ Szenen kann das Kapitel deutlich länger werden — die Grenze ist nicht starr.
 
 **Self-Review pro Szene:** Prüfe auf:
 - Konsistenz mit den Quellen (Notizen, Transkript, Storyboard) – werden alle wesentlichen Handlungspunkte abgedeckt?
-- Stilkonsistenz mit bestehenden Kapiteln
 - Charakterstimmen – klingt jeder Charakter wie er selbst?
-- Unnötige Redundanz oder Fülltext
+- **Markdown-Reste:** Italics (`*…*`) oder Bold (`**…**`) im Text? Sollte nicht vorhanden sein (außer als Cut-Kennzeichnung in TODOs).
+- **Meta-Sätze:** Erklärt ein Satz, was der vorherige bereits gezeigt hat? Schneiden.
+- **Einzelwort-Punktuation:** *„Da."*, *„Endlich:"*, *„Zack."* — schneiden.
+- **Closing-Coda am Szenenende** (Reflexion, Aussicht, Zusammenfassung): schneiden — Szene endet bei Handlung/Bild.
+- **Technische Vermessungen** statt sensorischer Erfahrung: umformulieren.
+- **Species-Generalisierungen** als Charakter-Begründung: auf individuelles Verhalten umformulieren.
+- **Anglizismen** (*devastierend*, *automatisiert*-überdosis): wo möglich durch deutsches Wort ersetzen.
 - Überarbeite den Entwurf basierend auf dem Self-Review.
 
 Dann vorlegen und auf Freigabe warten. **Jede Szene einzeln vorlegen** – nicht alle auf einmal.
@@ -199,7 +219,8 @@ Dann vorlegen und auf Freigabe warten. **Jede Szene einzeln vorlegen** – nicht
 
 1. Füge alle Szenen-Entwürfe in der richtigen Reihenfolge zu einem Kapitel zusammen.
 2. Ergänze Übergänge zwischen den Szenen, wo nötig (Zeitsprünge, Ortswechsel).
-3. Erstelle den Kapitel-Header:
+3. **Doppelungen an Szenen-Grenzen straffen:** Beim getrennten Schreiben der Szenen rutschen oft Wiederholungen rein — z.B. eine Bedrohung, die am Ende von Szene N etabliert wird, taucht zu Beginn von Szene N+1 nochmal als Setup auf. Beim Mergen solche Doppelungen entfernen.
+4. Erstelle den Kapitel-Header:
 
 ```markdown
 # Kapitel NN – [Titel]
@@ -211,8 +232,8 @@ Dann vorlegen und auf Freigabe warten. **Jede Szene einzeln vorlegen** – nicht
 [← Kapitel NN-1](kapitel-NN-1.md)
 ```
 
-4. Aktualisiere die Navigation im vorherigen Kapitel (füge Vorwärts-Link hinzu, falls nicht vorhanden).
-5. Aktualisiere `chronicle/04-kapitel/README.md` – neuen Eintrag in die Inhaltsverzeichnis-Tabelle einfügen.
+5. Aktualisiere die Navigation im vorherigen Kapitel (füge Vorwärts-Link hinzu, falls nicht vorhanden).
+6. Aktualisiere `chronicle/04-kapitel/README.md` – neuen Eintrag in die Inhaltsverzeichnis-Tabelle einfügen.
 
 **Kapitel-Titel:** Leite einen kurzen, stimmungsvollen Titel ab, der das zentrale Thema oder Ereignis der Session einfängt (Beispiele: "Kollateralschäden", "Atmosphärische Störungen", "Letzte Nacht auf Lothal").
 
@@ -220,6 +241,7 @@ Dann vorlegen und auf Freigabe warten. **Jede Szene einzeln vorlegen** – nicht
 - Lesen sich die Szenenübergänge flüssig?
 - Gibt es Widersprüche oder Wiederholungen zwischen Szenen?
 - Stimmt der Gesamtbogen?
+- Hält die Prosa die Stilrichtlinien aus Schritt 2 durch (keine Markdown-Reste, keine Meta-Sätze, keine Game-Klassen)? Beim Mergen rutscht manchmal etwas durch, weil mehrere Szenen jetzt nebeneinanderstehen.
 - Sind die Links korrekt (vorheriges Kapitel, README)?
 
 Dann vorlegen und auf finale Freigabe warten.
