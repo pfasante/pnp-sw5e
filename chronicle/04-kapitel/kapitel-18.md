@@ -282,4 +282,4 @@ Lothal verschwand.
 
 ---
 
-[← Kapitel 17](kapitel-17.md)
+[← Kapitel 17](kapitel-17.md) | [Kapitel 19 →](kapitel-19.md)

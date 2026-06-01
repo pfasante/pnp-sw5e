@@ -11,10 +11,11 @@ Die Chronik hält die Ereignisse der Kampagne als Prosa-Narrative fest. Kapitel 
 | Charakter | Spezies | Klasse | Spieler |
 |-----------|---------|--------|---------|
 | [Ghalrixtho](../../background/charaktere/ghalrixtho.md) | Chiss | Operative L3 | Friedrich |
-| [Ganden Arvang](../../background/charaktere/ganden.md) | Mensch | Tactician Scholar L3 | Andreas |
+| [Ganden Arvang](../../background/charaktere/ganden.md) | Mensch | Tactician Scholar L3 | Andreas (ab S19 Spielleiter) |
 | [Komaru](../../background/charaktere/komaru.md) | Togorianer | Scout L3 | Martin |
 | [G4-X](../../background/charaktere/g4-x.md) | Droide | Fighter L1 | Stefan |
 | [Varnira Sesh](../../background/charaktere/varnira.md) | Devaronierin | Engineer L1 | Heike |
+| [Kaelum](../../background/charaktere/kaelum.md) | Mensch | Padawan | Benjamin (ab S19) |
 
 ---
 
@@ -31,6 +32,7 @@ Die Chronik hält die Ereignisse der Kampagne als Prosa-Narrative fest. Kapitel 
 | [Kapitel 16](kapitel-16.md) | Echo der Tiefe | Session 16 |
 | [Kapitel 17](kapitel-17.md) | Letzte Nacht auf Lothal | Session 17 |
 | [Kapitel 18](kapitel-18.md) | Freie Fahrt | Session 18 |
+| [Kapitel 19](kapitel-19.md) | Schwarze Sonne | Session 19 |
 
 ---
 
