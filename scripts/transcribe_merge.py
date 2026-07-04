@@ -16,9 +16,10 @@ INITIAL_PROMPT = (
     "Star-Wars-5e-System. Pro Audiospur wird ein einzelner Mitspieler "
     "transkribiert. Die Spielercharaktere heißen Ghalrixtho "
     "(Chiss-Operative), Ganden Arvang, Komaru (Togorianer-Scout), "
-    "G4-X (Kampfdroide), Varnira Sesh (Devaronierin) und Kaelum "
-    "(junger Padawan). Wichtige NPCs sind Daro Fel, Rax Vonn, "
-    "Inquisitor Elthirhof und Ghalrixthos Schwester Ghalsintha. "
+    "G4-X (Kampfdroide), Varnira Sesh (Devaronierin), Kaelum "
+    "(junger Padawan), Dr. Rath (Arkanier-Mediziner). Wichtige "
+    " NPCs sind Daro Fel, Rax Vonn, Inquisitor Elthirhof und "
+    " Ghalrixthos Schwester Ghalsintha. "
     "Bitte schreibe diese Namen genau so und konsistent."
 )
 

@@ -18,12 +18,14 @@ Reihenfolge beachten (siehe unten).
 | Falschvariante | Erstmals |
 |----------------|----------|
 | Galrixto | S19 |
+| Galrixtor | S20 |
 | Galrix | S19 |
 | Galrixo | S19 |
 | Galrixus | S19 |
 | Galrixtus | S19 |
 | GALRIXO | S19 |
 | Galrixdo | S19 |
+| Gal Rigstow | S20 |
 
 Phrasen-Fehler (mehrere Tokens — exakte Phrase ersetzen, nicht
 Einzelwort):
@@ -51,6 +53,12 @@ Einzelwort):
 |----------------|----------|
 | Komaro | S19 |
 
+### Dr. Rath
+
+| Falschvariante | Erstmals |
+|----------------|----------|
+| Amok Rath | S20 |
+
 ### Ganden
 
 Hinweis: Eine einzelne `Ganten → Ganden`-Ersetzung deckt auch zusammen-
@@ -67,6 +75,7 @@ Suffix unverändert bleibt.
 |----------------|----------|
 | Warnira | S19 |
 | Vanira | S19 |
+| Vanya | S20 |
 
 ### G4-X
 
@@ -105,6 +114,19 @@ Beschreibt z.B. die Bauart der Turbot.
 | Falschvariante | Erstmals |
 |----------------|----------|
 | koreanisch | S19 |
+
+### huttisch (Adjektiv, von Hutten)
+
+| Falschvariante | Erstmals |
+|----------------|----------|
+| ruttischer | S20 |
+
+### Iego (Planet)
+
+| Falschvariante | Erstmals |
+|----------------|----------|
+| Jego | S20 |
+| IEGO | S20 |
 
 ---
 

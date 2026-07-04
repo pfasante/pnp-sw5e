@@ -24,6 +24,7 @@ Die Audio-Dateien werden **nicht** per git versioniert (`.gitignore`). Vor der T
 sessions/YYYY-MM-DD_session-NN/transcriptions/
   andreas.aac
   benjamin.aac
+  marco.aac
   martin.aac
   friedrich.aac
 ```
@@ -34,7 +35,7 @@ Dann aus dem `transcriptions/`-Ordner heraus ausführen:
 cd sessions/2026-03-07_session-17/transcriptions
 
 uv run python ../../../scripts/transcribe_merge.py \
-  --audio andreas.aac benjamin.aac martin.aac friedrich.aac
+  --audio andreas.aac benjamin.aac marco.aac martin.aac friedrich.aac
 ```
 
 Das erzeugt `transkript_YYYY-MM-DD.txt` (Datum des Ausführungstages) und löscht die TSVs danach automatisch.
@@ -43,7 +44,7 @@ Mit explizitem Ausgabenamen (empfohlen, falls das Datum der Session vom Ausführ
 
 ```bash
 uv run python ../../../scripts/transcribe_merge.py \
-  --audio andreas.aac benjamin.aac martin.aac friedrich.aac \
+  --audio andreas.aac benjamin.aac marco.aac martin.aac friedrich.aac \
   --output transkript_2026-03-07.txt
 ```
 
@@ -51,7 +52,7 @@ uv run python ../../../scripts/transcribe_merge.py \
 
 ```bash
 uv run python ../../../scripts/transcribe_merge.py \
-  --merge-only andreas.tsv benjamin.tsv martin.tsv friedrich.tsv \
+  --merge-only andreas.tsv benjamin.tsv marco.aac martin.tsv friedrich.tsv \
   --output transkript_2026-03-07.txt
 ```
 
