@@ -12,18 +12,16 @@
 - Die abgedockte Rettungskapsel stürzt unkontrolliert ab, kollidiert mehrmals heftig mit den steilen Basaltwänden und verkeilt sich schließlich auf einem mehreckigen Basaltpfeiler.
 - Nachdem die Systeme stillstehen, entriegelt Kaelum die Luke. Ein Schwall feucht-heißer, schwefelhaltiger und ammoniakgeladener Luft strömt herein. Die Luftfeuchtigkeit beträgt 90 % bei fast 42 Grad Celsius.
 - Die Insassen bergen sich ins Freie: Der Boden ist von einem glitschigen Biofilm aus Algen überzogen.
-TODO AI: korrigiere, Varnira's Verletzung waren schon im letzten Kapitel klar, das und auch die Verletzungen der anderen ist nicht neu, sondern wurde in der Spielsession nur nochmal wiederholt. Diese Wiederholung ist aber in der Chronik nicht nötig.
-- Die Gruppe stellt fest, dass Dr. Varnira Sesh an einer schweren Oberschenkelfraktur leidet, die mit einem Tourniquet provisorisch versorgt wurde. Dr. Ganden Arvang ist bewusstlos und hat eine stark angeschwollene, entstellte Kopfwunde. Der Droide G4-X weist Kabelbrüche und Funkenflug auf.
+- Da Ganden weiterhin bewusstlos ist und Varniras Beinfraktur dringend medizinisch versorgt werden muss, beschließen Komaru und Kaelum, zur abgestürzten *Turbot* hinabzuklettern, um dort medizinisches Material zu bergen. Ghalrixtho und der leicht beschädigte, funkensprühende G4-X bleiben bei den Verletzten an der Kapsel zurück.
 - Ghalrixtho sichtet die Vorratsbehälter der Kapsel:
   - Zwei imperiale Raumanzüge mit 12-Stunden-Energiezellen.
   - Ein Behälter mit zwei Blastergewehren, zwei leichten Blastern, Vibromacheten und Campingausrüstung.
   - Ein dritter Behälter, der komplett mit Trinkwasser gefüllt ist (essentiell für die Lebenserhaltungssysteme der Anzüge).
 - Ein großer Basaltkeil hat den Kabelkasten der Kapsel durchschlagen und die Antenne komplett abgerissen. Eine physische Reparatur würde Stunden dauern.
-TODO AI: hier ggfs schon einbauen, dass sich Komaru und Kaelum auf den Weg zur Turbot machen und im Folgenden dann nicht mehr bei Ghalrixtho sind
-- Ghalrixtho nutzt sein Comlink, um sich drahtlos in die Schiffssysteme der abgestürzten Turbot einzuhacken, die etwa 1,5 Kilometer entfernt (und mehrere hundert Meter tiefer) in der Schlucht festsitzt.
-- Er liest die Systemdaten der Turbot aus: Triebwerksschäden, Schilde offline, Turbolaserturm abgerissen, Schotten versiegelt, aber der Hangar ist intakt.
+- Ghalrixtho nutzt sein Comlink, um sich drahtlos in die Schiffssysteme der abgestürzten *Turbot* einzuhacken, die etwa 1,5 Kilometer entfernt (und mehrere hundert Meter tiefer) in der Schlucht festsitzt.
+- Er liest die Systemdaten der *Turbot* aus: Triebwerksschäden, Schilde offline, Turbolaserturm abgerissen, Schotten versiegelt, aber der Hangar ist intakt.
 - Er fängt auf Gandens ISB-Übertragungskanal die Rücknachricht eines Rettungsschiffs ab.
-- Ghalrixtho fälscht Gandens ISB-Kennung ("Silber, Delta Gamma 3") und sendet die Antwort: Er bittet um schnelle Extraktion und gibt die exakte Position auf dem Basaltplateau durch.
+- Ghalrixtho fälscht Gandens ISB-Kennung („Silber, Delta Gamma 3“) und sendet die Antwort: Er bittet um schnelle Extraktion und gibt die exakte Position auf dem Basaltplateau durch.
 
 ## Transkript-Auszug
 
