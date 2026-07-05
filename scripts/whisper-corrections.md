@@ -26,6 +26,11 @@ Reihenfolge beachten (siehe unten).
 | GALRIXO | S19 |
 | Galrixdo | S19 |
 | Gal Rigstow | S20 |
+| Geirikstu | S20 |
+| Pascal Rix | S20 |
+| Garrixo | S20 |
+| Gerrixo | S20 |
+| Ghalrixtho 2 | S20 |
 
 Phrasen-Fehler (mehrere Tokens — exakte Phrase ersetzen, nicht
 Einzelwort):
@@ -55,9 +60,9 @@ Einzelwort):
 
 ### Dr. Rath
 
-| Falschvariante | Erstmals |
-|----------------|----------|
 | Amok Rath | S20 |
+| Dr. Rathbun | S20 |
+| Dr. Raab | S20 |
 
 ### Ganden
 
@@ -68,6 +73,8 @@ Suffix unverändert bleibt.
 | Falschvariante | Erstmals |
 |----------------|----------|
 | Ganten | S19 |
+| Dr. Havang | S20 |
+| Gampens | S20 |
 
 ### Varnira
 
@@ -76,6 +83,9 @@ Suffix unverändert bleibt.
 | Warnira | S19 |
 | Vanira | S19 |
 | Vanya | S20 |
+| Dr. Sash | S20 |
+| Varnierer | S20 |
+| Warnierer | S20 |
 
 ### G4-X
 
@@ -114,6 +124,8 @@ Beschreibt z.B. die Bauart der Turbot.
 | Falschvariante | Erstmals |
 |----------------|----------|
 | koreanisch | S19 |
+| korinianische | S20 |
+| korallianischen | S20 |
 
 ### huttisch (Adjektiv, von Hutten)
 
@@ -127,6 +139,27 @@ Beschreibt z.B. die Bauart der Turbot.
 |----------------|----------|
 | Jego | S20 |
 | IEGO | S20 |
+
+### Turbot (Schiff)
+
+| Falschvariante | Erstmals |
+|----------------|----------|
+| Turbid | S20 |
+| Turbid-Extraktion | S20 |
+| Törwort | S20 |
+
+### die Brill (Schiff)
+
+| Falschvariante | Erstmals |
+|----------------|----------|
+| Debril | S20 |
+
+### Xandus (Flugwesen)
+
+| Falschvariante | Erstmals |
+|----------------|----------|
+| Xandos | S20 |
+| Xandros | S20 |
 
 ---
 

@@ -33,6 +33,7 @@ Die Chronik hält die Ereignisse der Kampagne als Prosa-Narrative fest. Kapitel 
 | [Kapitel 17](kapitel-17.md) | Letzte Nacht auf Lothal | Session 17 |
 | [Kapitel 18](kapitel-18.md) | Freie Fahrt | Session 18 |
 | [Kapitel 19](kapitel-19.md) | Schwarze Sonne | Session 19 |
+| [Kapitel 20](kapitel-20.md) | Das System der tausend Monde | Session 20 |
 
 ---
 

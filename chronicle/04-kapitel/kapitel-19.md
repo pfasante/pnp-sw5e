@@ -380,4 +380,4 @@ Ghalrixtho, halb in der Pod-Luke stehend, drohte wieder herauszufallen in den la
 
 ---
 
-[← Kapitel 18](kapitel-18.md)
+[← Kapitel 18](kapitel-18.md) | [Kapitel 20 →](kapitel-20.md)
