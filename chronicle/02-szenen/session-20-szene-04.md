@@ -20,7 +20,7 @@
 - An der Felswand unterhalb des Plateaus rennen Komaru und Kaelum unterdessen um ihr Leben. Komaru nutzt seine Pfadfinderexpertise, um sichere Tritte auf dem schmierigen Algenfilm zu finden, während Kaelum dank der Steigeisen Halt im blanken Basalt findet.
 - Um den beiden Kletterern Deckung zu geben, manövriert Ghalrixtho, der eilig auf den Copilotensitz gestürmt ist, die *Brill* wie ein schützendes Dach direkt über ihre Köpfe. Die Xandus, die von oben auf Komaru und Kaelum herabstoßen wollen, verbrennen klirrend und wegspritzend an den heißen oberen Schildschwingen des Frachters.
 - Ghalrixtho leitet die Schildenergie komplett nach oben um und öffnet die untere Schleuse. Komaru und Kaelum erreichen die hydraulischen Stangen und ziehen sich erleichtert an Bord.
-- Im Cockpit macht sich Dr. Rath sofort an die Reparatur der gebrochenen Scheibe. Unter Zuhilfenahme seines Mechaniker-Werkzeugs fährt er Notfall-Sicherheitsplatten über das Loch. Mit einer präzisen Schweißtechnik verschmilzt er die Platten chemisch mit dem restlichen Spezialglas, dichtet den Riss ab und stellt das Vakuum an Bord wieder her.
+- Im Cockpit macht sich Dr. Rath sofort an die Reparatur der gebrochenen Scheibe. Unter Zuhilfenahme seines Mechaniker-Werkzeugs fährt er Notfall-Sicherheitsplatten über das Loch. Mit einer präzisen Schweißtechnik verschmilzt er die Platten chemisch mit dem restlichen Spezialglas, dichtet den Riss ab und stellt den Kabinendruck an Bord wieder her.
 - Gleichzeitig sendet Dr. Rath seine medizinische Drohne in den Frachtraum. Die Drohne appliziert ein schmerzlinderndes Koltopack direkt auf Gandens Kopfwunde, um dessen Zustand notdürftig zu stabilisieren.
 
 ## Transkript-Auszug

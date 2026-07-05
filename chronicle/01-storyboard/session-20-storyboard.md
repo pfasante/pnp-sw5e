@@ -78,7 +78,7 @@
 - Ghalrixtho rappelt sich auf, schließt die Luke manuell, aktiviert die Schilde und stürmt ins Cockpit, um den Co-Pilotensitz einzunehmen und Dr. Rath zu unterstützen.
 - Ghalrixtho steuert die Brill als Schutzschild direkt über Kaelum und Komaru, die an der Felswand hochklettern. Die Xandus, die sich von oben auf die beiden stürzen wollen, verbrennen am Schild des Schiffs.
 - Kaelum und Komaru können so die letzten Meter unbeschadet hochklettern und gelangen über die geöffnete Unterluke an Bord.
-- Dr. Rath nutzt sein Mechaniker-Werkzeug und repariert die gesplitterte Cockpitscheibe mit einer Schweißtechnik (im Spiel: Tech-Macht *Mending*, wird im Roman rein narrativ als technische Schweißreparatur mit Dichtungs- und Notfallplatten beschrieben), um das Vakuum wiederherzustellen.
+- Dr. Rath nutzt sein Mechaniker-Werkzeug und repariert die gesplitterte Cockpitscheibe mit einer Schweißtechnik (im Spiel: Tech-Macht *Mending*, wird im Roman rein narrativ als technische Schweißreparatur mit Dichtungs- und Notfallplatten beschrieben), um die Druckdichtigkeit wiederherzustellen.
 - Dr. Raths medizinische Drohne verabreicht Ganden ein Koltopack zur Erstversorgung.
 
 **Stimmung/Ton:** Hektisch, dynamisch, Schwerkraft-Verwirrung im trudelnden Schiff, Erleichterung beim Boarding.

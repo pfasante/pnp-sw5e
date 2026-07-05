@@ -36,6 +36,6 @@ Ghalrixtho lenkte das Schiff präzise über die Kante des Abhangs. Er leitete di
 
 „G4-X, sieh nach den anderen beiden, damit sie da unten im Laderaum nicht alleine liegen“, befahl Ghalrixtho dem Droiden, während er das Schiff in eine stabilere Schwebeposition brachte.
 
-Im Cockpit machte sich Dr. Rath sofort an die Arbeit. Er holte sein Schweißwerkzeug hervor und aktivierte die Notfallplatten der Cockpitverkleidung. Mit präzisen Handgriffen zog er die Metallabdeckungen über die gebrochene Scheibe und verschmolz sie chemisch mit dem Spezialglas. Die Dichtungen griffen, das Zischen der entweichenden Luft verstummte, und das Vakuum an Bord war wiederhergestellt.
+Im Cockpit machte sich Dr. Rath sofort an die Arbeit. Er holte sein Schweißwerkzeug hervor und aktivierte die Notfallplatten der Cockpitverkleidung. Mit präzisen Handgriffen zog er die Metallabdeckungen über die gebrochene Scheibe und verschmolz sie chemisch mit dem Spezialglas. Die Dichtungen griffen, das Zischen der entweichenden Luft verstummte, und der Kabinendruck an Bord stabilisierte sich wieder.
 
 Gleichzeitig schwirrte seine medizinische Drohne in den Frachtraum. Sie scannte den verletzten Ganden und applizierte eine kühlende, schmerzlindernde Kolto-Packung auf die deformierte Wunde an seinem Kopf. Die Anzeigen meldeten eine erste, schwache Stabilisierung.
