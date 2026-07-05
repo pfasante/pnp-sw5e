@@ -35,6 +35,9 @@ def transcribe_file(audio_file, model):
         "--device", "cuda",
         "--compute_type", "bfloat16",  # Die Geheimwaffe für moderne RTX-Karten
         "--vad_filter", "True",
+        "--vad_threshold", "0.5",      # Expliziter Schwellenwert für VAD (Standard)
+        "--vad_max_speech_duration_s", "30", # Verhindert Segmente länger als 30s bei Stille
+        "--no_speech_threshold", "0.6", # Hilft, reine Stille-Phasen auszufiltern
         "--condition_on_previous_text", "False",
         "--initial_prompt", INITIAL_PROMPT
     ]
@@ -47,9 +50,20 @@ def transcribe_file(audio_file, model):
         raise
 
 def merge_tsvs(tsv_files, output_file):
-    """Führt die TSV-Dateien chronologisch zusammen."""
+    """Führt die TSV-Dateien chronologisch zusammen und filtert Halluzinationen."""
     print(f"\n[+] Füge folgende Spuren zusammen: {', '.join(tsv_files)}")
     all_lines = []
+
+    # Bekannte Whisper-Halluzinationen (Deutsch) bei Stille
+    hallucination_phrases = [
+        "danke fürs zusehen",
+        "danke fürs zuschauen",
+        "vielen dank fürs zusehen",
+        "untertitel",
+        "untertitelung",
+        "wünsche einen schönen tag",
+        "abonnieren nicht vergessen"
+    ]
 
     for file in tsv_files:
         if not os.path.exists(file):
@@ -69,8 +83,35 @@ def merge_tsvs(tsv_files, output_file):
                 else:
                     start_ms = int(start_val)
                 
+                # Wir parsen auch das Segmentende für die Textdichte-Berechnung
+                end_val = row.get('end', start_val)
+                if '.' in end_val:
+                    end_ms = int(float(end_val) * 1000)
+                else:
+                    end_ms = int(end_val)
+                
                 text = row['text'].strip()
                 if text: # Leere Zeilen ignorieren
+                    duration_s = (end_ms - start_ms) / 1000.0
+                    
+                    # Dichteberechnung: Zeichen und Wörter pro Sekunde
+                    char_count = len(text)
+                    word_count = len(text.split())
+                    char_density = char_count / duration_s if duration_s > 0 else 999
+                    word_density = word_count / duration_s if duration_s > 0 else 999
+                    
+                    # 1. Bekannte Halluzinationsphrasen ausfiltern
+                    if any(phrase in text.lower() for phrase in hallucination_phrases):
+                        print(f"    [-] Ignoriere Halluzinationsphrase von {speaker}: '{text}'")
+                        continue
+                    
+                    # 2. Extrem gedehnte Stille-Segmente ausfiltern
+                    # (Sätze am Ende eines langen Schweigens oder VAD-Fehler).
+                    # Wenn ein Segment länger als 30s ist und eine sehr geringe Dichte aufweist.
+                    if duration_s > 30.0 and (char_density < 1.5 or word_density < 0.3):
+                        print(f"    [-] Ignoriere gedehntes Stillesegment von {speaker} ({duration_s:.1f}s, {char_density:.2f} Z/s): '{text[:60]}...'")
+                        continue
+
                     all_lines.append({
                         'start': start_ms, 
                         'speaker': speaker,
