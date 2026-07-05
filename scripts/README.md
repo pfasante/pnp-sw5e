@@ -75,3 +75,24 @@ uv run python ../../../scripts/transcribe_merge.py \
 ```
 
 Sprecher werden aus dem Dateinamen abgeleitet und groß geschrieben (`andreas.aac` → `Andreas`).
+
+---
+
+## apply_corrections.py
+
+Liest automatisch die Ersetzungen aus `whisper-corrections.md` und wendet sie in der richtigen Reihenfolge (längere Phrasen und Wörter zuerst, um Kollisionen zu vermeiden) auf ein zusammengeführtes Transkript an.
+
+### Verwendung
+
+Aus dem `transcriptions/`-Ordner heraus ausführen:
+
+```bash
+uv run python ../../../scripts/apply_corrections.py transkript_YYYY-MM-DD.txt -o transkript_YYYY-MM-DD.txt
+```
+
+Oder alternativ:
+
+```bash
+# Überschreibt die Eingabedatei direkt
+uv run python ../../../scripts/apply_corrections.py transkript_YYYY-MM-DD.txt
+```

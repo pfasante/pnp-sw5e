@@ -107,9 +107,11 @@ def merge_tsvs(tsv_files, output_file):
                     
                     # 2. Extrem gedehnte Stille-Segmente ausfiltern
                     # (Sätze am Ende eines langen Schweigens oder VAD-Fehler).
-                    # Wenn ein Segment länger als 30s ist und eine sehr geringe Dichte aufweist.
-                    if duration_s > 30.0 and (char_density < 1.5 or word_density < 0.3):
-                        print(f"    [-] Ignoriere gedehntes Stillesegment von {speaker} ({duration_s:.1f}s, {char_density:.2f} Z/s): '{text[:60]}...'")
+                    # Wir filtern nur, wenn das Segment sehr lang ist UND extrem wenige Worte enthält,
+                    # was typisch für reine Stille-Halluzinationen (z. B. "Ja.", "Nee.") ist.
+                    # Echte Sätze (ab 5 Wörtern) behalten wir in jedem Fall bei.
+                    if duration_s > 45.0 and word_count < 5 and char_density < 0.3:
+                        print(f"    [-] Ignoriere gedehntes Stillesegment (Halluzination) von {speaker} ({duration_s:.1f}s, {char_density:.2f} Z/s): '{text[:60]}...'")
                         continue
 
                     all_lines.append({

@@ -31,6 +31,8 @@ Reihenfolge beachten (siehe unten).
 | Garrixo | S20 |
 | Gerrixo | S20 |
 | Ghalrixtho 2 | S20 |
+| Galeristo | S20 |
+| galeristo | S20 |
 
 Phrasen-Fehler (mehrere Tokens — exakte Phrase ersetzen, nicht
 Einzelwort):
@@ -86,6 +88,8 @@ Suffix unverändert bleibt.
 | Dr. Sash | S20 |
 | Varnierer | S20 |
 | Warnierer | S20 |
+| Vanirer | S20 |
+| vanirer | S20 |
 
 ### G4-X
 
