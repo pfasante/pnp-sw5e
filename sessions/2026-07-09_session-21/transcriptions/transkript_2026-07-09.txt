@@ -1,7 +1,7 @@
 [00:00:00] Martin: So, jetzt machen wir noch die beiden. Der Rest ist gerade irgendwie unten reingepoltert. Oder Colto. Irgendwas. Toll für den Spaß. Ich lege dem hektischen Fremden mal so eine weiche, schwere Pranke auf die Schulter. Mal ruhig, mal ruhig. Das wird auch nicht besser, wenn du durchdrehst.
 [00:00:03] Andreas: Hallo Craig. Wenn ich hier auf Videofunktion deaktivieren gehe... Also, ich habe ein Bild hochgeladen hier oben unter Chat. Wenn ihr da auf diesen kleinen, dieses kleine Sprachsymbol geht, diese Sprechblase oben rechts, dann könnt ihr hier auf die Videofunktion deaktivieren.
 [00:00:05] Benjamin: Das warst du im Signal-Kanal schon gepoogt, das ist mir ganz anders geworden.
-[00:00:42] Andreas: Genau, Discord im Chat, da gibt es verschiedene Eindrücke. Also ihr befindet euch noch immer auf Jego. Jego ist dieses System der tausend Monde. Es gibt keine Sonne, es gibt nur dieses Plasma, welches überall strahlt und dieses rötliche Schimmern erzeugt.
+[00:00:42] Andreas: Genau, Discord im Chat, da gibt es verschiedene Eindrücke. Also ihr befindet euch noch immer auf Iego. Iego ist dieses System der tausend Monde. Es gibt keine Sonne, es gibt nur dieses Plasma, welches überall strahlt und dieses rötliche Schimmern erzeugt.
 [00:00:53] Friedrich: Wo genau jetzt? Bei Discord im Chat oder wo hast du das gepostet? In Ghalrixthos? Ich würde mal über den Wortfunk ansonsten über unsere Comlinks, Kaelum und Komaru anfunken. Die Titan hat uns im Traktorstall gefangen. Irgendwelche Ideen? Okay. Ja, ich genau so. Ja, ich. Nein.
 [00:01:05] Marco: Um 5. Juli. Wer ist jetzt nochmal mit Dr. Rath im Cockpit? Ok. Ja. Also, Dr. Rath ist sichtlich nervös und steht jetzt, springt auf, guckt nochmal rüber und sagt, sie haben das im Griff oder die uns, wie auch immer, ich muss weg und rennt aus dem Cockpit raus und versucht Dr. Arvang zu erreichen.
 [00:01:34] Andreas: alles in dieses rötliche Licht taucht. Übrigens auch diesen keilförmigen, riesigen, imperialen Sternenzerstörer, der über euch schwebt zwischen den Basaltnadeln und der die Brill von Dr. Rath nach und nach über den Traktorstrahl nach oben zieht.
@@ -9,7 +9,7 @@
 [00:02:23] Andreas: Aber die Brill ist nicht so riesig, das heißt also sie hat halt einen Hauptraum, eine Ladebucht, einen Durchgang zum Cockpit und zwei Räume, die man als Unterkünfte oder Quartiere bezeichnen kann. Größer ist die Brill nicht.
 [00:02:56] Andreas: Also die Brill selbst hat keine wirkliche medizinische Station oder einen Operationstisch oder dergleichen. Und es gibt ja zwei Patienten. Wo habt ihr die beiden Patienten abgelegt und abgelagert?
 [00:03:20] Marco: Und möchte den jetzt nochmal medizinisch genauer untersuchen. Ja, ich antworte nach bestem Wissen und Gewissen. Aber ich glaube nicht, dass wir eine Menge Bakter haben, außer ich habe es im Inventar.
-[00:03:46] Andreas: Kellum und Kumahu. Der Boden dieses runden, zentralen Aufenthaltsraumes des korrelianischen Frachters, da liegen beide. Etwas ratlos stehen der behaarte Katzenmensch und der komplett unbehaarte, so wie ich das verstanden habe, Kellum, über die beiden Verletzten gebeugt.
+[00:03:46] Andreas: Kaelum und Kumahu. Der Boden dieses runden, zentralen Aufenthaltsraumes des korrelianischen Frachters, da liegen beide. Etwas ratlos stehen der behaarte Katzenmensch und der komplett unbehaarte, so wie ich das verstanden habe, Kaelum, über die beiden Verletzten gebeugt.
 [00:04:30] Andreas: Die A-Weng sieht nicht besonders gut aus, halb geöffnete Augen, angeschwollener Kopf und die Sash hat eine riesige Fraktur am Oberschenkel, eine offene Fraktur, die nur abgebunden ist, die man aber noch sehr gut sehen kann.
 [00:04:53] Andreas: und sie hat Blut überall bereits hier im Bodenbereich des Frachters verteilt.
 [00:05:01] Andreas: Und ihr seid in der Folge.
@@ -26,7 +26,7 @@
 [00:07:03] Marco: Ich glaube, ich heiße Dr. Rath.
 [00:07:20] Martin: Wer bist du überhaupt?
 [00:07:23] Marco: Ich bin hier, weil Dr. Avang mich verständigt hat.
-[00:07:28] Martin: Ganten? Wann?
+[00:07:28] Martin: Ganden? Wann?
 [00:07:28] Andreas: Du weißt es nicht.
 [00:07:30] Marco: Ja, ja, vor einer Weile.
 [00:07:35] Martin: Ah, er wollte euch treffen.
@@ -62,7 +62,7 @@
 [00:08:57] Martin: dass Ihnen das etwas beruhigt.
 [00:08:58] Martin: Der wirkt mir einfach zu hektisch.
 [00:09:00] Martin: Und dann suche ich mal nach
-[00:09:03] Martin: einem Cockpit, wenn Galeristo
+[00:09:03] Martin: einem Cockpit, wenn Ghalrixtho
 [00:09:05] Martin: uns gerade angefunkt hat.
 [00:09:14] Marco: Also es kommt ein Madison-Wurf jetzt.
 [00:09:15] Marco: und ist das jetzt ein D4 oder ein D6
@@ -81,11 +81,11 @@
 [00:10:09] Andreas: Aber das Problem ist eben, dass ein Knochen dieser Art, das lässt sich nicht so richtig ziehen, wenn du nichts hast, mit dem du das richtig durchführst. Das ist einfach was Handwerkliches.
 [00:10:28] Andreas: Also hier muss man eine Vorrichtung bauen oder so, um den Knochen wirklich auseinanderziehen zu können. Der Muskel kontraktiert die ganze Angelegenheit so stark, dass du es momentan noch nicht schaffst.
 [00:10:41] Andreas: Du hast allerdings die Blutung stillen können. Nur wenn du dich nicht in den nächsten Stunden damit beschäftigst, diesen Oberschenkel richtig einzurichten mit irgendetwas, das dir hilft, dann wird sie quasi eine Behinderung haben. Dann teilt es zu sehr aus und dann ist sie auf einer Seite verkürzt und krumm.
-[00:11:01] Andreas: Ja, also du tätschelst ihn so ein bisschen gegen die Wange und kriegst einfach überhaupt gar keine Rückmeldung. Ganten sieht so aus, als würde er sich in einem Koma befinden oder zumindest in tiefer Bewusstlosigkeit. Allerdings atmet er.
+[00:11:01] Andreas: Ja, also du tätschelst ihn so ein bisschen gegen die Wange und kriegst einfach überhaupt gar keine Rückmeldung. Ganden sieht so aus, als würde er sich in einem Koma befinden oder zumindest in tiefer Bewusstlosigkeit. Allerdings atmet er.
 [00:11:04] Marco: Dazu nicht.
-[00:11:10] Marco: Ganten, sprich, wie geht's?
-[00:11:16] Marco: Ganten, bist du wach?
-[00:11:33] Andreas: Bevor du dich um Gunten kümmerst, springen wir jetzt ins Cockpit. Also du hast an alle durchgegeben, Romaro geht ins Cockpit, Calum, was tust du?
+[00:11:10] Marco: Ganden, sprich, wie geht's?
+[00:11:16] Marco: Ganden, bist du wach?
+[00:11:33] Andreas: Bevor du dich um Gunten kümmerst, springen wir jetzt ins Cockpit. Also du hast an alle durchgegeben, Romaro geht ins Cockpit, Kaelum, was tust du?
 [00:11:36] Marco: Die gute Nachricht, er ist nicht tot.
 [00:11:45] Marco: Was denn? Hier sind Verletzte.
 [00:11:51] Andreas: Ja, hier nicht, aber du hast nur im Cockpit die Möglichkeit, nach draußen zu schauen. Hier in diesem mittleren Bereich, ich habe euch die Grill gezeigt, also das ist tatsächlich genau dieses Schiff, welches ihr sehen könnt bei dem Handout.
@@ -144,7 +144,7 @@
 [00:19:04] Martin: da legst du hat das schiff ein sonnensegel wenn ja können wir es rauslassen du siehst ja sogar
 [00:19:08] Friedrich: Sehe ich den, habe ich denn vom Gefühl her den Eindruck, dass das funktionieren könnte, dass wir den irgendwie so unterbrochen kriegen, dass wir, weiß ich nicht, dann wieder absacken und unter die Felsnadeln können und dass es da irgendwo Deckung gibt, wo wir wirklich untertauchen können in dem Urwald oder weil da irgendwelche Steinüberhänge sind oder so.
 [00:19:11] Andreas: Es ist hier ja alles übersät mit diesen Felsnadeln. Quadratkilometer mit Schluchten und das sind ja wirklich tiefe Schluchten.
-[00:19:30] Friedrich: Also ich würde dann versuchen, Galrix so ein bisschen zu simulieren, dass die Technik verrückt spielt. Er schaltet das Schild zwischendurch mal an und aus.
+[00:19:30] Friedrich: Also ich würde dann versuchen, Ghalrixtho so ein bisschen zu simulieren, dass die Technik verrückt spielt. Er schaltet das Schild zwischendurch mal an und aus.
 [00:19:43] Andreas: Also Schluchten, in denen zwischen Gesteinsbrocken, zwischen Gesteinswänden ganze Raumschiffe Platz haben. Ich denke, das geht. Also wenn ihr loskommt auf dem Traktorstrahl, mach mal bitte einen Wurf auf Investigation.
 [00:20:10] Friedrich: wenn sich das irgendwie so eine Xandu Wolke wieder in den Schatten, dass wir davon kommen, das auszunutzen, um nochmal ordentlich Gas zu geben, um ein bisschen nach unten zu fahren, auch zu fliegen, dass wir quasi so Stück für Stück runterkommen, weiter in die Schlucht.
 [00:20:30] Friedrich: und wenn da halt irgendwelche, weiß ich nicht, Bäume, Vorsprünge oder so sind,
@@ -205,7 +205,7 @@
 [00:27:25] Friedrich: Also ich reagiere da nicht drauf.
 [00:27:50] Andreas: Es gibt größere Bereiche, es gibt mit Wasser gefüllte, so eine Art Fjorde, in die man fliegen kann, aber es gibt auch, und du weißt nicht, ob Salzwasser oder Süßwasser, aber es gibt auch diese Dschungel gefüllten, etwas breiteren Bereiche.
 [00:28:13] Andreas: Du hast ja durchaus noch eine Antriebssignatur mit der Brill. Jetzt ist die Frage, wo manövrierst du dich hin? Was möchtest du suchen? Was für eine Art von Platz, Ort, um die Brill möglichst unauffällig zu machen?
-[00:28:29] Friedrich: Bevor wir uns dann noch weiter groß von dem Absturz von der Turbid entfernen, würde ich gerne auch einmal den Ort speichern, dass wir die Koordinaten haben, um da später nochmal hinzukommen.
+[00:28:29] Friedrich: Bevor wir uns dann noch weiter groß von dem Absturz von der Turbot entfernen, würde ich gerne auch einmal den Ort speichern, dass wir die Koordinaten haben, um da später nochmal hinzukommen.
 [00:28:38] Andreas: Ja, richtig. Ich würde sagen, du suchst, aber dein Pilotingwurf war nicht hoch genug. Komaru, schau mal mit raus und mach mal einen Survival-Wurf.
 [00:28:42] Friedrich: Einmal Marker setzen.
 [00:28:43] Friedrich: und dann würde ich
@@ -221,7 +221,7 @@
 [00:29:09] Friedrich: und man auch vielleicht vom Boden aus nicht sichtbar
 [00:29:11] Friedrich: ist oder weiß ich nicht,
 [00:29:13] Friedrich: wenn man einen großen Felsüberhang hat,
-[00:29:15] Friedrich: dass wir darunter vielleicht landen können. Bist du dir sicher? Wie genau sieht das unter der... also die Turbid hängt ja irgendwie, ne? Ist da drunter...
+[00:29:15] Friedrich: dass wir darunter vielleicht landen können. Bist du dir sicher? Wie genau sieht das unter der... also die Turbot hängt ja irgendwie, ne? Ist da drunter...
 [00:29:28] Andreas: Ja, also es ist wirklich, wirklich scheiße hier zu manövrieren und ihr seht auch keine, keine halbhohen Felsnadeln oder sonst was. Also wenn du dich verstecken möchtest, musst du nach unten. Okay, machst du das? Folgst du seiner Anweisung oder machst du was anderes?
 [00:29:29] Martin: Okay. Also ich gebe mir natürlich auch echt Mühe, wenn ich merke, dass er Schwierigkeiten hat, dass er irgendwie abgelenkt ist.
 [00:29:47] Martin: Da muss ich umso aufmerksamer gucken. Deswegen erst mal so, wie es sich gehört. Und dann ordentlich schauen.
@@ -239,7 +239,7 @@
 [00:33:00] Andreas: Ja, genau. Okay, du fährst ganz runter. Also so ist es, es wird noch eine Weile nach euch gesucht. Du siehst die Felsnadeln um dich herum aufragen und kurz war noch der Schatten des Sternenzerstörers zu sehen, aber dann ist er irgendwo nach Osten verschwunden.
 [00:33:02] Friedrich: Was, die Triebwerke aus? Oder was war die Frage? Wenn wir gelandet sind, dann mache ich die Triebwerke aus und fahre nach Möglichkeit alle Systeme unter wie es geht.
 [00:33:28] Andreas: Und da seid ihr nun, zwischen hoch wagenden Bäumen in dieser Senke, neben euch die Turbot, ihr seht große, ja also schon Verletzungen der Hülle, die hier bei der Turbot stattgefunden haben.
-[00:33:29] Friedrich: Also nachdem Galrixo sich das so angeguckt hat, sagt er, das war eine suboptimale Landung hier auf Jego. Jetzt sollten wir uns um die beiden Verletzten kümmern. Ich glaube nicht, dass sie Kaelum hier gespürt haben. Es muss irgendwas mit der Kommunikation mit Gandons Nachricht zu tun haben, dass sie die Brille entdeckt haben. Wieso sollten sie sonst hier zusammenhangend zu uns? Das ist der Arkanian.
+[00:33:29] Friedrich: Also nachdem Ghalrixtho sich das so angeguckt hat, sagt er, das war eine suboptimale Landung hier auf Iego. Jetzt sollten wir uns um die beiden Verletzten kümmern. Ich glaube nicht, dass sie Kaelum hier gespürt haben. Es muss irgendwas mit der Kommunikation mit Gandons Nachricht zu tun haben, dass sie die Brille entdeckt haben. Wieso sollten sie sonst hier zusammenhangend zu uns? Das ist der Arkanian.
 [00:33:50] Andreas: nicht irreparabel, aber es dauert auf jeden Fall sehr, sehr lange Zeit und man braucht die nötigen Werkzeuge.
 [00:33:59] Andreas: Also so einfach das aus dem Ärmel zu schütteln, hier unten die Tür wird reparieren, jetzt wo ihr sie seht vor euch, das wird schwer.
 [00:34:07] Andreas: Also vor allem der seitlich befindliche Gang zum Cockpit ist etwas angeknackst, also der ist einfach beim Abstürzen tordiert worden und aufgebrochen.
@@ -255,18 +255,18 @@
 [00:34:51] Martin: die Atmosphäre lässt sich kaum atmen.
 [00:34:55] Martin: Kohlendioxid, Kohlenmonoxid
 [00:34:56] Martin: gemischt, da muss man mit Anzug
-[00:34:58] Martin: raus. Callum, das war die
+[00:34:58] Martin: raus. Kaelum, das war die
 [00:35:00] Benjamin: Was ist da oben los?
-[00:35:03] Benjamin: Ich schaue bei Galrix, du mal so ein bisschen über die Schulter.
+[00:35:03] Benjamin: Ich schaue bei Ghalrixtho, du mal so ein bisschen über die Schulter.
 [00:35:07] Benjamin: Erkennst du irgendetwas?
 [00:35:10] Martin: Titanen, sie wollten uns hochziehen.
 [00:35:10] Benjamin: Aber weshalb?
 [00:35:15] Martin: Wegen dir? Oder
 [00:35:29] Martin: es hat mit der Brill zu tun. Reden wir doch
 [00:35:31] Martin: mal mit unserem Gastgeber.
-[00:35:32] Martin: Ich glaube, der ist noch in Tracht. Ich habe im Chat gleich mal ein Bild reingepackt. Komaro ist ein Torgorian. Ah, was? Galrix, du siehst so aus. Ja, ich bin für gerade gewundert.
+[00:35:32] Martin: Ich glaube, der ist noch in Tracht. Ich habe im Chat gleich mal ein Bild reingepackt. Komaru ist ein Torgorian. Ah, was? Ghalrixtho, du siehst so aus. Ja, ich bin für gerade gewundert.
 [00:35:36] Benjamin: Viele Augenpaare drehen sich um.
-[00:35:40] Marco: Also, der Doktorat hat in der Zwischenzeit Ganten von dem Großteil seiner Kleidung befreit.
+[00:35:40] Marco: Also, der Doktorat hat in der Zwischenzeit Ganden von dem Großteil seiner Kleidung befreit.
 [00:35:53] Marco: und er hat offenbar auch festgestellt, dass da, dass der Kopf irgendwie angeschwollen ist und hat
 [00:35:59] Marco: versucht den zu stabilisieren. Behelfsmäßig mit so ein bisschen, ein Teil der Kleidung hat er verwendet,
 [00:36:02] Andreas: Ja, so wie ich das sehe, ja.
@@ -338,16 +338,16 @@
 [00:45:58] Martin: ruhe dich aus ich kümmere mich darum allerdings gucke ich so rum ich brauche den anzug kellum
 [00:46:06] Martin: Wo hast du den Anzug hingeschmissen?
 [00:46:10] Friedrich: Du kannst auch meinen Namen.
-[00:46:12] Friedrich: Für Galrixus ist es natürlich viel zu ineffizient, seine Füße einfach noch hochzulegen. Deswegen würde er dann nach einem kurzen Moment, als ihm einfällt, dass Gex auch irgendwie mal einen Schaden abbekommen hat, auch nochmal aufstehen und nach Gex gucken und schauen, ob ich da irgendwie was ihm helfen kann, da zu reparieren oder so, wenn da seine Kabel verrückt sind oder so.
-[00:46:15] Benjamin: Wahrscheinlich hat Calum den noch an.
-[00:46:18] Andreas: Genau, also du ziehst den Anzug aus, gehst in Komaro und du gehst so ein bisschen durch diese Loks durch.
+[00:46:12] Friedrich: Für Ghalrixtho ist es natürlich viel zu ineffizient, seine Füße einfach noch hochzulegen. Deswegen würde er dann nach einem kurzen Moment, als ihm einfällt, dass G4-X auch irgendwie mal einen Schaden abbekommen hat, auch nochmal aufstehen und nach G4-X gucken und schauen, ob ich da irgendwie was ihm helfen kann, da zu reparieren oder so, wenn da seine Kabel verrückt sind oder so.
+[00:46:15] Benjamin: Wahrscheinlich hat Kaelum den noch an.
+[00:46:18] Andreas: Genau, also du ziehst den Anzug aus, gehst in Komaru und du gehst so ein bisschen durch diese Loks durch.
 [00:46:19] Benjamin: Aber jetzt, wo wir drin sind, verdammte Mangelwirtschaft.
 [00:46:19] Martin: So, hopp raus.
 [00:46:25] Benjamin: Jetzt sieht er diesen.
 [00:46:26] Martin: Wenigstens mal die eine.
 [00:46:29] Benjamin: Ja, wir haben sogar zwei, aber wir sind ja auch.
 [00:46:31] Benjamin: Naja, gut.
-[00:46:34] Benjamin: Calum beobachtet im Moment weiter im Cockpit die Funksprüche, schaut sich das so ein bisschen an, um rauszufinden, wonach suchen die eigentlich genau.
+[00:46:34] Benjamin: Kaelum beobachtet im Moment weiter im Cockpit die Funksprüche, schaut sich das so ein bisschen an, um rauszufinden, wonach suchen die eigentlich genau.
 [00:46:42] Benjamin: wird nebenher diesen Anzug ausziehen und ihn ihm rübergeben.
 [00:47:00] Andreas: Und das, was dir auffällt, ist, das sieht nach einer sehr kontrollierten Suchaktion so eine Art Abwicklung der Black Sun, der Überlebenden der Black Sun aus.
 [00:47:16] Andreas: Es werden also Suchtrupps losgeschickt, es werden TIE Fighter losgeschickt, aber es geht nicht immer gut. Also es gibt wohl Widerstand, es gibt manchmal Schießereien. Ihr befindet euch in so einer Art niedrigschwelligen Kriegsgebiet mit einer Menge an Informationen, die reinkommen.
@@ -364,13 +364,13 @@
 [00:49:23] Andreas: einfach wegen der Gefahr, die da ist und dem Chaos, aber kann auch ganz woanders gewesen sein.
 [00:49:31] Andreas: Und was du das eine ums andere Mal hast, sind eben Notsignale, also SOS-Signale, reine technische SOS-Signale, aber auch Leute, die um Hilfe rufen, Leute, die sich den Imperialen ergeben, bei denen dann aber das mit dem Ergeben nicht funktioniert.
 [00:49:54] Andreas: funktioniert. Also es sieht nicht so aus, als würden die Imperialen unter den Black Sun Gefangene machen. Das ist so die Information, die du nach mehreren Minuten rausbekommst.
-[00:50:04] Andreas: Ja, das ist gut. Wirf mal einfach auf so eine technische Reparatur. Ich weiß nicht, ob du da Fähigkeiten hast. Nee, nee, nee, da bräuchtest du so ein Technologie-Set. Also sowas, was zum Beispiel die Dr. Sash konnte oder der Dr. Raph kann. Also du könntest mit Technologien nur raus.
+[00:50:04] Andreas: Ja, das ist gut. Wirf mal einfach auf so eine technische Reparatur. Ich weiß nicht, ob du da Fähigkeiten hast. Nee, nee, nee, da bräuchtest du so ein Technologie-Set. Also sowas, was zum Beispiel die Varnira konnte oder der Dr. Raph kann. Also du könntest mit Technologien nur raus.
 [00:50:36] Friedrich: Also Technology einfach oder? Achso, so eine Tech-Power. Wie bitte? Also okay, ich habe mein Slicer-Kit, wenn ich da irgendwas, da werde ich aber, ja, das habe ich noch im Kopf.
 [00:50:58] Andreas: Ja, da kannst du Hacking-Sachen, Software-Probleme, solche Dinge kannst du vielleicht lösen. Aber untersuche ihn doch mal damit und dann gehe ich die Sachen durch.
 [00:51:02] Martin: Nee, es gibt so Kits.
 [00:51:04] Martin: Also du bräuchtest jetzt zum Beispiel
 [00:51:05] Martin: so ein Electronics-Kit.
-[00:51:25] Andreas: Du findest Gags eingesteckt in einer Energieschleuse, die eben dort in diesem Aufenthaltsraum vorhanden ist und er hat sich tatsächlich in so eine Art Send-By-Modus heruntergefahren.
+[00:51:25] Andreas: Du findest G4-X eingesteckt in einer Energieschleuse, die eben dort in diesem Aufenthaltsraum vorhanden ist und er hat sich tatsächlich in so eine Art Send-By-Modus heruntergefahren.
 [00:51:40] Andreas: Du hast mit deinem Slicer-Skip, du erinnerst dich daran, dass du da noch mal wieder was reparieren wolltest. Funktioniert nicht alles, aber er hat nur leichte Verletzungen, in Anführungszeichen, Beschädigungen davongetragen.
 [00:51:52] Friedrich: Ja, dann mache ich mich mal auf die Suche, ob es irgendwie eine Werkbank gibt oder so, wo ich passendes Werkzeug finden kann im Frachtraum oder so.
 [00:51:58] Andreas: Es sind in der Rückenstruktur mehrere Platten verschoben und Kabel stehen daraus.
@@ -400,9 +400,9 @@
 [00:54:05] Andreas: Und das ist fast so gut wie im Krankenhaus dieses Ding. Du findest solche großen Operationen ungünstig. Das ist nicht so dein Ding, aber jetzt, wo das so technisch gut funktioniert, ist das ein Ding.
 [00:54:23] Marco: MacGyver
 [00:54:24] Marco: Galerix, du suchst ja noch nach
-[00:54:24] Andreas: Ja, also ihr habt beide nach einiger Zeit stabilisiert, sie befinden sich nicht mehr in Lebensgefahr. Dr. Sash wird vielleicht in ein paar Stunden ansprechbar sein, aber ist jetzt einfach wegen dieser starken Verletzung so stark betäubt gewesen, dass sie erst mal aus der Betäubung aufwachen muss.
+[00:54:24] Andreas: Ja, also ihr habt beide nach einiger Zeit stabilisiert, sie befinden sich nicht mehr in Lebensgefahr. Varnira wird vielleicht in ein paar Stunden ansprechbar sein, aber ist jetzt einfach wegen dieser starken Verletzung so stark betäubt gewesen, dass sie erst mal aus der Betäubung aufwachen muss.
 [00:54:26] Benjamin: Ich habe gerade den Anzug abgegeben.
-[00:54:50] Andreas: Bei Ganten sieht es eben nach Kopfverletzung aus, wie es mit dem Neuronalen aussieht. Das könnt ihr ohne medizinische Ausrüstung nicht feststellen. Ihr habt eben keinen Trikorder wie in Star Trek, sondern ihr müsstet hier entweder einen Metroiden da haben oder irgendeine Art Medsarg oder solche Dinge, die eben behandelt werden können.
+[00:54:50] Andreas: Bei Ganden sieht es eben nach Kopfverletzung aus, wie es mit dem Neuronalen aussieht. Das könnt ihr ohne medizinische Ausrüstung nicht feststellen. Ihr habt eben keinen Trikorder wie in Star Trek, sondern ihr müsstet hier entweder einen Metroiden da haben oder irgendeine Art Medsarg oder solche Dinge, die eben behandelt werden können.
 [00:55:18] Andreas: oder auf so einem richtigen medizinischen MedTable.
 [00:55:26] Martin: sobald ich das ding gemacht habe werde ich mich in den anzug da rein pellen war es der eng und
 [00:55:36] Andreas: Ihr habt ja auf der Turbot so eine Art MedBay.
@@ -424,7 +424,7 @@
 [00:56:15] Martin: nicht transportieren und
 [00:56:17] Martin: ob man die Verletzten da jetzt irgendwie da durchbuxiert.
 [00:56:25] Andreas: Also solange keine Systeme, die dann eine künstliche Schwerkraft herstellen, in die richtige Richtung und so weiter aktiv sind, ist es fast unmöglich, in dieser Medbay zu arbeiten, das ist klar.
-[00:56:40] Andreas: Ja, also es ist tatsächlich so, ihr findet dadurch auf der Brill, was technische Sachen anbetrifft, im Grunde alles, was ihr wollt. Deshalb ist die Versorgung von Gags kein Problem. Also die Reparatur geht wirklich leicht von der Hand, weil du hast die wesentlichen Werkzeuge. Du kannst das Verlöten, Verschweißen, das geht ganz leicht von der Hand.
+[00:56:40] Andreas: Ja, also es ist tatsächlich so, ihr findet dadurch auf der Brill, was technische Sachen anbetrifft, im Grunde alles, was ihr wollt. Deshalb ist die Versorgung von G4-X kein Problem. Also die Reparatur geht wirklich leicht von der Hand, weil du hast die wesentlichen Werkzeuge. Du kannst das Verlöten, Verschweißen, das geht ganz leicht von der Hand.
 [00:56:41] Martin: Ja, also deswegen, wenn wir ein Diagnosegerät haben,
 [00:56:45] Martin: das transportabel ist, bringen wir es rüber,
 [00:56:47] Martin: aber die Medbay selber.
@@ -441,7 +441,7 @@
 [00:57:17] Marco: weiß nicht, ob das vielleicht hilft, und ja okay, Astrotech Implements auch noch und Tinkers Implements.
 [00:57:27] Marco: Aber ist wirklich nur, ist an meinem Schiff kein Raumanzug und sind, ich wollte fragen, ob bei der
 [00:57:28] Martin: Nicht schlecht.
-[00:57:58] Andreas: Komaro, was möchtest du in der Zwischenzeit tun?
+[00:57:58] Andreas: Komaru, was möchtest du in der Zwischenzeit tun?
 [00:58:02] Martin: Also, wie gesagt, Anzug an,
 [00:58:04] Martin: weil mittlerweile weiß ich ja,
 [00:58:05] Martin: dass die Luft recht unangenehm ist.
@@ -466,7 +466,7 @@
 [01:00:40] Andreas: Es gibt ja nicht mal eine Sonne, die dieses rötliche Leuchten, welches aus einer Spalte hunderte Meter über dir nach unten in dieses Tal hinein streut, weiter abdecken.
 [01:00:55] Andreas: Und was du hier unten auch wahrnimmst, ist absolute Stille. Also besonders, dass die Blätter über dir manchmal ein bisschen so aneinander reiben oder in einem Leichten, in einer Brise, die durch diese Spalte zieht, sich bewegen, hast du hier im Grunde reine Stille.
 [01:01:16] Andreas: kein Insekt, kein Wurm, nichts, was sich hier unten bewegt. Aber du siehst in der Ferne dort einen von den Xandus, die ihr erlegt habt, und zwar eine Klaue, abgerissene Teile einer großen ledrigen Schwinge und mehrere andere Körperteile,
-[01:01:37] Friedrich: In Ordnung. Ich habe mitbekommen, Komaro ist am besten für alles geeignet. Also ich denke, ich habe da gute Einsatzmöglichkeiten für ihn.
+[01:01:37] Friedrich: In Ordnung. Ich habe mitbekommen, Komaru ist am besten für alles geeignet. Also ich denke, ich habe da gute Einsatzmöglichkeiten für ihn.
 [01:01:45] Andreas: in denen noch Gedärme sich befinden, die aber abgerissen wurden. Teilweise kauterisiert, dass es eines der Teile ist, welches auf euer Schild aufgetroffen ist. Aber ansonsten ist es ganz ruhig.
 [01:02:03] Andreas: Die Turbot ragt vor dir auf und es ist tatsächlich die Spalte zwischen, also im Grunde direkt in Gantons alte Suite hinein, die das Cockpit und den Hauptteil des Schiffes miteinander verbindet.
 [01:02:05] Martin: Düster und still
@@ -501,7 +501,7 @@
 [01:04:34] Andreas: sodass also wenn so ein Raumschiff in irgendeiner Art von dreidimensionaler Position sich befindet und keine Schwerkraft mehr hat oder Schwerkraft in die falsche Richtung, richtig ausgedrückt, kann man dort klettern.
 [01:04:42] Martin: Eben, genau.
 [01:04:43] Martin: Das ist natürlich
-[01:04:48] Andreas: Das Cockpit sieht halt wild aus, weil da ist einer der Sitze abgerissen und liegt da unten herum am Eingangsbereich. Und ansonsten ist tatsächlich das Cockpit ziemlich gut verspritzt, vor allem die Kommunikationseinheit, ob die Ganten draufgefallen ist.
+[01:04:48] Andreas: Das Cockpit sieht halt wild aus, weil da ist einer der Sitze abgerissen und liegt da unten herum am Eingangsbereich. Und ansonsten ist tatsächlich das Cockpit ziemlich gut verspritzt, vor allem die Kommunikationseinheit, ob die Ganden draufgefallen ist.
 [01:04:50] Martin: hervorragend, genau.
 [01:04:53] Martin: Also ich werde auf
 [01:04:54] Martin: jeden Fall als erstes mal ins
@@ -512,9 +512,9 @@
 [01:05:20] Andreas: Du stellst das Hauptsystem ein, es kommt eine ganze Schadensliste durch, sieht aber auch nicht so schlecht aus. Es gibt diesen Hülleschaden, es ist der Cockpitbereich teilweise abgetrennt vom Hauptbereich und es sind auch dort die Schotten dicht und die Schleusen dicht.
 [01:05:22] Martin: Ja, Kopfwunden, Bluten werden
 [01:05:24] Martin: schön und wenn jemand so viel Kopf ist wie der
-[01:05:26] Martin: Ganten, dann erst recht.
+[01:05:26] Martin: Ganden, dann erst recht.
 [01:05:51] Andreas: Aber ansonsten, also der Hyperraumantrieb ist nur teilweise beschädigt. Es sind verschiedene Signale, die es nicht bekommt. Vielleicht sind da irgendwelche Verbindungen unterbrochen oder so. Aber es ist jetzt nicht so, dass da ein großes Reaktorenleck da wäre oder Treibstoffaustritt oder so. Solche drastischen Dinge sind nicht.
-[01:06:17] Andreas: Aber es gibt eben halt Strukturschäden, es sind die Schilde ausgefallen, die Bewaffnung ist gleich null, weil eben halt die ganzen Energiezellen für den Turbolaser weggebrutzelt wurden, also ist alles rausgeschossen worden von Kellum, alles leer.
+[01:06:17] Andreas: Aber es gibt eben halt Strukturschäden, es sind die Schilde ausgefallen, die Bewaffnung ist gleich null, weil eben halt die ganzen Energiezellen für den Turbolaser weggebrutzelt wurden, also ist alles rausgeschossen worden von Kaelum, alles leer.
 [01:06:36] Andreas: Und es gibt lauter Warnsignale, dass im Frachtraum alles durcheinander geflogen ist, dass die Sachen nicht richtig gesichert waren und dass die Fracht sich verselbstständigt hat.
 [01:06:52] Andreas: Wie gesagt, die Struktur ist das Problem.
 [01:06:54] Martin: Okay, das Schadenslog werde ich über
@@ -532,7 +532,7 @@
 [01:07:57] Martin: die packe ich zum Beispiel gleich mal ein.
 [01:07:59] Martin: Die kommen gleich in die erste Lieferung.
 [01:08:01] Martin: Sicher, sicher.
-[01:08:07] Marco: Evakuierung der Turbid beide Rettungskapseln verwendet worden sind. Das heißt, eine ist noch da und intakt. Welche?
+[01:08:07] Marco: Evakuierung der Turbot beide Rettungskapseln verwendet worden sind. Das heißt, eine ist noch da und intakt. Welche?
 [01:08:20] Andreas: Moment, ich schau kurz. Es gibt verschiedene, also die hinterm Cockpit, da seid ihr ja rausgeflogen. Und dann gibt es noch eine Rettungskapsel im Bereich der Untertasse Richtung den anderen Unterkünften.
 [01:08:22] Marco: Also welche Rettungskapsel ist noch da? Also Escape Pod 2 ist noch da. Immerhin, da gibt es schon mal kein Loch im Schiff an der Stelle.
 [01:08:25] Martin: Die vordere ist noch da. Wir sind, glaube ich, in die hintere
@@ -559,7 +559,7 @@
 [01:10:06] Friedrich: denke ich, können wir damit, wenn wir das Schild anmachen,
 [01:10:10] Friedrich: wahrscheinlich kurz im All vielleicht unterwegs sein,
 [01:10:15] Friedrich: aber im Überraum wird es nicht funktionieren.
-[01:10:18] Friedrich: Also wenn ich mir den Schadenslog der Turbid so anschaue, den Kumaro uns geschickt hat, wird es... Es ist sicherlich eine Möglichkeit, die Turbid mit unseren Sachen zu beladen und nach Cliffhold versuchen zu kommen, um dort das Schiff wieder in Betrieb zu nehmen.
+[01:10:18] Friedrich: Also wenn ich mir den Schadenslog der Turbot so anschaue, den Kumaro uns geschickt hat, wird es... Es ist sicherlich eine Möglichkeit, die Turbot mit unseren Sachen zu beladen und nach Cliffhold versuchen zu kommen, um dort das Schiff wieder in Betrieb zu nehmen.
 [01:10:38] Andreas: Aber für den Hyperraum-Sprung muss man das Schild abschalten.
 [01:10:45] Andreas: Und dann habt ihr eben einen eröffneten Bereich.
 [01:10:51] Andreas: Und das ist vielleicht unter Risikobedingungen möglich, aber stellt euch mal vor, es würde dann während dem Flug durch irgendwelche Turbulenzen oder durch irgendwelche Gravitationsverzerrungen der komplette Cockpitbereich dann von der Untertasseneinheit abgesprengt.
@@ -571,9 +571,9 @@
 [01:12:59] Marco: hat aber nichts mit der Black Sun
 [01:13:03] Marco: zu tun. Das sind
 [01:13:05] Marco: unbeteiligte Dritte im Grunde genommen.
-[01:13:24] Andreas: Und dieses Cliffholt war stark besiedelt, als man von IEGO nicht wegkam. Aber seitdem dieses planetare Locksystem aufgelöst ist, ist Cliffholt nur noch ganz spärlich besiedelt, weil die ganzen Leute, als sie dann weg konnten, auch weg sind.
+[01:13:24] Andreas: Und dieses Cliffholt war stark besiedelt, als man von Iego nicht wegkam. Aber seitdem dieses planetare Locksystem aufgelöst ist, ist Cliffholt nur noch ganz spärlich besiedelt, weil die ganzen Leute, als sie dann weg konnten, auch weg sind.
 [01:13:44] Andreas: Und es gibt auf dem ganzen Planeten tatsächlich nur diese eine größere Stadt. Ansonsten vielleicht einzelne Siedlungen. Was hat man hier gemacht? Man hat hier vor allem Mineralien abgebaut und die Thermie genutzt, wenn man ja hier ganz viel Geothermie nutzen kann.
-[01:14:12] Andreas: ansonsten bietet dieser Planet IEGO eigentlich nicht viel. Da brauche ich irgendeinen Wurf von dir, entweder Investigation oder Technology oder so, was auch immer.
+[01:14:12] Andreas: ansonsten bietet dieser Planet Iego eigentlich nicht viel. Da brauche ich irgendeinen Wurf von dir, entweder Investigation oder Technology oder so, was auch immer.
 [01:14:19] Marco: Also diese spärliche Besiedlung
 [01:14:21] Marco: macht es dann wieder unwahrscheinlicher, dass wir alles
 [01:14:23] Marco: finden, was wir brauchen, um
@@ -583,7 +583,7 @@
 [01:15:06] Friedrich: gegebenenfalls müssen wir uns etwas länger auf die suche nach ersatzteilen machen aber ich stimme
 [01:15:12] Friedrich: zu wir sollten diese dinge für not dürftige reparatur hier finden ich denke tatsächlich
 [01:15:21] Friedrich: dass es sinnvoller wäre mit der turbet versuchen wieder hier wegzukommen weil der titan aktuell
-[01:15:30] Friedrich: der nach der Brille sucht. Und die Turbid zumindest nur, also ich würde mich mal in den Schiffsystemen auf die Suche machen nach irgendwelchen Logs oder so, ob ich da nachvollziehen kann, was da an Kommunikation geflossen ist, ob es da irgendwelche Zugriffe auf die Technik gab oder so, ob es da vielleicht einen Hinweis gibt, was uns verraten oder was diese Aufmerksamkeit zufolge zog.
+[01:15:30] Friedrich: der nach der Brille sucht. Und die Turbot zumindest nur, also ich würde mich mal in den Schiffsystemen auf die Suche machen nach irgendwelchen Logs oder so, ob ich da nachvollziehen kann, was da an Kommunikation geflossen ist, ob es da irgendwelche Zugriffe auf die Technik gab oder so, ob es da vielleicht einen Hinweis gibt, was uns verraten oder was diese Aufmerksamkeit zufolge zog.
 [01:15:36] Benjamin: Weshalb genau? Ich wende mich mal an unseren Gastgeber. Weshalb genau wird den Brutipil nun gesucht?
 [01:15:47] Benjamin: Ich habe es noch nicht ganz verstanden. Ich bin im Cockpit.
 [01:15:49] Marco: die leiseste Ahnung.
@@ -594,7 +594,7 @@
 [01:16:01] Marco: Und darauf habe ich reagiert.
 [01:16:06] Marco: Aber da waren jede Menge andere Nachrichten noch,
 [01:16:10] Marco: die mir ausgesprochen fremd vorkamen.
-[01:16:14] Marco: Ich weiß nicht, das Schiff habe ich von Ganten vermittelt bekommen.
+[01:16:14] Marco: Ich weiß nicht, das Schiff habe ich von Ganden vermittelt bekommen.
 [01:16:20] Marco: Ich weiß nicht, was es mit diesem Schiff auf sich hat.
 [01:16:24] Marco: Es ist nicht meins.
 [01:16:57] Andreas: Ja, also du findest folgendes. Das Problem ist, dass du diese Antenneneinheit abgeschaltet hast. Dort sind die ganzen Infos drin. Wenn du sie wieder einschältst, ihr wieder Energie gibst, dann kannst du dadurch diese ganzen Log-Einträge durchgehen, aber ohne es anzuschalten, nicht.
@@ -609,24 +609,24 @@
 [01:19:01] Friedrich: Also, wenn ich mir das
 [01:19:03] Friedrich: eingeguckt habe, dann würde ich noch...
 [01:19:05] Friedrich: Dr. Rath ist bei den...
-[01:19:07] Friedrich: bei Gunton und Vanira
+[01:19:07] Friedrich: bei Gunton und Varnira
 [01:19:09] Friedrich: wahrscheinlich weiterhin, ne? Und
-[01:19:13] Andreas: Nein, weißt du nicht. Ganten wusste das, obwohl ich als Andreas es auch noch nicht wusste, Benni, wo ich hinfliege. Das muss man nur noch sagen. Aber Ganten hat das mit euch noch nicht geteilt. Also es ist wirklich ein bisschen blöd, dass Ganten gerade ausgeschaltet ist, was diese ganzen Inputen.
+[01:19:13] Andreas: Nein, weißt du nicht. Ganden wusste das, obwohl ich als Andreas es auch noch nicht wusste, Benni, wo ich hinfliege. Das muss man nur noch sagen. Aber Ganden hat das mit euch noch nicht geteilt. Also es ist wirklich ein bisschen blöd, dass Ganden gerade ausgeschaltet ist, was diese ganzen Inputen.
 [01:19:13] Friedrich: Gellum, wo bist du? Du bist im Cockpit.
 [01:19:16] Friedrich: Also, dann würde ich mal zu
 [01:19:20] Friedrich: Dr. Rath hingehen
 [01:19:21] Friedrich: und wenn er nicht so beschäftigt
 [01:19:24] Friedrich: ist, ihm zunicken.
-[01:19:27] Friedrich: Galrixo, mein Name.
+[01:19:27] Friedrich: Ghalrixtho, mein Name.
 [01:19:28] Friedrich: Und du bist...
 [01:19:32] Marco: Ich heiße Dr. Rath.
 [01:19:33] Marco: Man nennt mich auch Ermog und die wenigen Wesen, die sich meine Freunde nennen dürfen, nennen mich Ermi.
 [01:19:46] Friedrich: Gut, Erigalrix Tolores ist mein Vorstellungsname, aber ich könnte mich gar nicht so nennen.
-[01:19:54] Friedrich: Sag mal, auf was für einem Auftrag hatte Ganten dich mit diesem Schiff ausgestattet?
+[01:19:54] Friedrich: Sag mal, auf was für einem Auftrag hatte Ganden dich mit diesem Schiff ausgestattet?
 [01:20:04] Marco: Ich glaube, es steht mir nicht frei, das öffentlich kundzutun.
 [01:20:10] Marco: Ich habe eine Abmachung mit Dr. Arwang, die stark auf Privatsphäre und Vertraulichkeit beruht.
 [01:20:19] Marco: Was ich sagen kann, ist, dass ich gerne weg wollte von meinem Heimatplaneten und dass Dr. Awang sich großzügig gezeigt hat, mir ein Raumschiff zur Verfügung zu stellen, diesen kleinen Frachter.
-[01:20:23] Friedrich: Ich habe die Nachricht auf der Turbid lesen können, richtig, und antworten können.
+[01:20:23] Friedrich: Ich habe die Nachricht auf der Turbot lesen können, richtig, und antworten können.
 [01:20:51] Marco: Was es genau mit dem auf sich hat, da hat er wahrscheinlich mehr gewusst als ich, denn diese beeindruckende Aneinanderreihung von Kommunikationseinheiten ist, also sowas habe ich noch nicht gesehen.
 [01:21:16] Marco: Ich bin eigentlich skeptisch gewesen, ob ich überhaupt einen Funkspruch absenden würde können. Aber irgendwie hat es dann doch geklappt, nehme ich an. Ihr hattet meine Nachricht erhalten, nicht wahr?
 [01:21:42] Marco: Also, wir hatten vereinbart, dass ich damit, ich habe keinen Auftrag in dem Sinn, aber wir haben einen Treffpunkt vereinbart und ich war auf dem Weg dahin.
@@ -656,7 +656,7 @@
 [01:24:37] Friedrich: Und bist quasi um den ruttischen Raum dann drum herum geflogen.
 [01:24:41] Andreas: Ja.
 [01:24:41] Andreas: Du hast halt dieses Notsignal in der Nähe von Ossus empfangen und bist dann Richtung Jägerholz sofort aufgebrochen. Das ist relativ nah. Ihr müsst euch das ja auch als etwas Dreidimensionales vorstellen. Also Ossus ist quasi oben und Jägerholz ist tief unten. Das war zumindest der Plan bisher.
-[01:24:50] Marco: Okay, also, aber ich weiß es jetzt tatsächlich nicht mehr. Hatte ich denn jetzt tatsächlich mit Ganten vereinbart, dass wir uns auf Coruscant treffen?
+[01:24:50] Marco: Okay, also, aber ich weiß es jetzt tatsächlich nicht mehr. Hatte ich denn jetzt tatsächlich mit Ganden vereinbart, dass wir uns auf Coruscant treffen?
 [01:25:18] Marco: Okay. Ja. Ja. Ja. Okay. Also, ich glaube, dann würde ich zumindest die Information, dass ich jetzt von Ossos gekommen bin, würde ich Calyxio teilen, mit der Calyxio teilen.
 [01:25:22] Andreas: Dass du mit dem Frachter wieder zurückfliegst, nachdem du ja mehrere Wochen jetzt erstmal unauffindbar warst. Weil du ja Teil dieses wissenschaftlichen Projektes bist und so weiter.
 [01:25:37] Andreas: Als ihr aufgemacht habt, siehst du da entsprechend die Informationen zu den Proben. Das sind alles Proben aus Ossus und die wurden da bei einer Ausgrabung genommen.
@@ -685,23 +685,23 @@
 [01:30:29] Marco: Und ich denke allerdings, wir sollten möglichst viel von diesem beeindruckenden Kommunikationsmaterial der Brill herüberretten.
 [01:30:47] Marco: sachgemäß ausbauen und mit uns nehmen.
 [01:30:52] Benjamin: Wo findet denn dieses Gespräch gerade statt?
-[01:30:54] Benjamin: Okay, gut dann. Wie ist denn der Stand bei Gags gerade?
+[01:30:54] Benjamin: Okay, gut dann. Wie ist denn der Stand bei G4-X gerade?
 [01:31:01] Andreas: Der X ist von seinen Strukturschäden wieder befreit und lädt gerade auf, kann aber aus dem Standby-Modus wieder aufwachen und zu dienen.
 [01:31:21] Benjamin: Wenn wir einen Experten benötigen, um das Schiff zu reparieren und Dinge hier rüber zu bringen,
 [01:31:21] Andreas: Ja, das ist kein Problem. Gatsch ist ja bei den Characters mit dabei, wenn du da draufklickst. Ich weiß nicht, ich habe es gerade versucht zu sharen, aber ich habe es nicht mitbekommen.
-[01:31:31] Benjamin: dann sollten wir zunächst einmal Gags aktivieren und ihn fragen, wie er das sieht.
+[01:31:31] Benjamin: dann sollten wir zunächst einmal G4-X aktivieren und ihn fragen, wie er das sieht.
 [01:31:36] Benjamin: Ich schaue mich so in der Runde um. Ich vermute, er hat da den besten Blick.
-[01:31:43] Marco: Wer ist Gex?
+[01:31:43] Marco: Wer ist G4-X?
 [01:31:45] Benjamin: Ach, ich gehe kurz rüber, klopfe auf die Dose. Das ist unser künstlicher Freund hier.
 [01:31:54] Benjamin: Und ich gucke mir mal an und ich kenne mich ja nicht so aus.
 [01:31:54] Marco: Aha, ein Kollege.
-[01:32:00] Benjamin: Ich kenne Gags ja auch gar noch nicht so lang.
+[01:32:00] Benjamin: Ich kenne G4-X ja auch gar noch nicht so lang.
 [01:32:02] Benjamin: Aber irgendwo wird es doch da einen Knopf geben, wo sowas wie On draufsteht.
 [01:32:18] Marco: Ja.
 [01:32:19] Andreas: Ah, sehr gut, da sieht man also Gats. Das ist also ein humanuierter Droide mit einem flachen Kopf und mit Beinen, wie man sie eher bei Vierbeinern erwarten würde als bei Zweibeinern.
 [01:32:19] Marco: Also es hat sich bei mir geöffnet.
 [01:32:39] Andreas: Ja, Schiffsreparaturen kann ich nicht durchführen. Ich kann allerdings jemandem helfen, der mich anleitet, die Schiffsreparaturen durchzuführen. Aber du weißt, dass man diese ganze Kommunikationseinheit, also RAF, könnte man ausbauen und die passt eins zu eins in den Slot, in dem sich die Turbolaserkanone der Turbo befindet.
-[01:32:42] Benjamin: Also wobei auch der, ich meine, also Gags hat sich meistens um so Technik-Sachen gekümmert,
+[01:32:42] Benjamin: Also wobei auch der, ich meine, also G4-X hat sich meistens um so Technik-Sachen gekümmert,
 [01:32:43] Marco: Ja.
 [01:32:48] Benjamin: aber er ist natürlich auch kein Techniker.
 [01:32:50] Benjamin: Aber gut, ich schaue mich nochmal um in der Runde.
@@ -718,7 +718,7 @@
 [01:34:32] Marco: Vielleicht den Cliffhold.
 [01:34:45] Benjamin: Ist die Stadt, ja, also das werde ich mal machen,
 [01:34:48] Benjamin: ist die Stadt irgendwie betroffen von diesem Konflikt, der hier gerade läuft?
-[01:34:54] Benjamin: Gut, also mal ganz konkret, Calum kennt sich überhaupt nicht aus oder ganz wenig mit sowas.
+[01:34:54] Benjamin: Gut, also mal ganz konkret, Kaelum kennt sich überhaupt nicht aus oder ganz wenig mit sowas.
 [01:35:13] Andreas: Und du kannst auf die Informationen zugreifen, die Dr. Rath zu Iego rausgesucht hat, weil du hast ja am Anfang ganz viele gute Würfe gehabt und insofern wird das alles schön abgelegt. Und da ist Cliffholt eingezeichnet, relativ im Äquatorbereich dieses Planeten.
 [01:35:32] Andreas: Obwohl Äquator ist natürlich in so einer Wolke immer so eine Sache, aber das, was im 90 Grad Winkel zur Drehachse sich befindet, dort ist an einer Stelle Cliffholt nicht ganz auf der anderen Seite des Planeten, aber in einem flachen Winkel zu euch.
 [01:35:52] Andreas: Also viele zehntausende Kilometer entfernt ist dieses Cliffholt.
@@ -734,7 +734,7 @@
 [01:37:14] Andreas: Und das ist gerade was Manövrieren anbetrifft, wenn du dieses schwere Teil über den, also wenn die Untertasseneinheit dann startet und landet.
 [01:37:26] Andreas: Ihr wisst ja nicht, was dann mit dieser Cockpit-Einheit, die seitlich angesetzt ist, passiert, ob die abgetrennt wird, ob die Schäden an der Verbindungseinheit sind. Ich zeige es euch nochmal.
 [01:37:44] Friedrich: Wenn wir jetzt die Schildenergie oder das Schild gerade in diesem Bereich, die ganze Schildenergie in diesem Bereich laden, würde das helfen, der Torsion entgegenzuwirken und die Verformung, wie Dr. Rath vorgeschlagen hat, zu unterstützen?
-[01:37:46] Andreas: Also Gampens Quartier ist im Grunde stark eröffnet mit so einem Riss, der armbreit ist, dort wo der Sessel ist oder so in die Richtung. Und das zieht sich relativ tief bis zum Gang.
+[01:37:46] Andreas: Also Ganden Quartier ist im Grunde stark eröffnet mit so einem Riss, der armbreit ist, dort wo der Sessel ist oder so in die Richtung. Und das zieht sich relativ tief bis zum Gang.
 [01:38:06] Andreas: Und da ist schon so ein starker Strukturschaden, dass also auch das Cockpit ein bisschen verdreht ist zum Rest.
 [01:38:19] Andreas: Ja, also du könntest mit deinem Werkzeug das durchaus hinbekommen, dass du die Energie des Schiffes verwendest, um so eine größere Schweißarbeit relativ großflächig dort mit Einsatz von Plasma und so weiter vorzunehmen.
 [01:38:32] Marco: ein bisschen unterdimensioniert. Aber vielleicht könnte ich das kombinieren mit meiner Overheat-Tag-Power,
@@ -786,7 +786,7 @@
 [01:45:36] Andreas: Nein. Gut, also ihr werft euch, schmeißt euch in die Raumanzüge, bewegt euch zum anderen Schiff und beginnst. Also es ist wirklich schwierig, weil du musst ja auch ein bisschen hochklettern und du kommst teilweise von innen rein. Wollt ihr versuchen, in der Turbot mal alles zu aktivieren, alle Systeme oder wie sieht es da aus? Wollt ihr sowas machen? Oder wollt ihr erst warten?
 [01:46:23] Martin: Also mein Plan wäre,
 [01:46:27] Martin: nachdem ich die notwendigen Sachen erstmal rübergebracht habe
-[01:46:30] Martin: und Galrixto einen taktisch klugen Reparaturplan entwickelt hat,
+[01:46:30] Martin: und Ghalrixtho einen taktisch klugen Reparaturplan entwickelt hat,
 [01:46:39] Martin: bringe ich entweder die Sachen,
 [01:46:40] Martin: die dann am anderen schiff repariert werden sollen rüber und gerade so mechanisch und auch struktur
 [01:46:47] Martin: reparaturen als wenn irgendwo zum beispiel risse in der hülle sind oder sonstige teile kaputt sind
@@ -799,7 +799,7 @@
 [01:47:24] Marco: Weck ich. Also mein Tech-Punkte-Vorrat geht auf 0.
 [01:47:24] Friedrich: Ich sage
 [01:47:31] Andreas: Ja, das macht er auf jeden Fall. Ich mach mal einen kleinen Wurf. Okay. Und also er gibt euch immer mal wieder Statusberichte und er berichtet euch, dass ein imperialer Suchtrupp wohl ganz in der Nähe, er kann es nicht genau orten, aber tatsächlich etwas östlich, also in der Richtung, in der auch der Sternenzerstörer davongeflogen ist,
-[01:47:33] Friedrich: Gex noch, der
+[01:47:33] Friedrich: G4-X noch, der
 [01:47:34] Friedrich: auch wieder aktiv war, falls wir den
 [01:47:37] Friedrich: nicht brauchen, dass er
 [01:47:39] Friedrich: in der Brill das Cockpit überwachen
@@ -823,7 +823,7 @@
 [01:51:31] Andreas: Einmal wäre es gewesen, dass du die Energie gleich, es hat so hervorragend funktioniert, die Außenhülle hat sich so gut verformen lassen, da hast du einfach hochgedreht und hochgedreht und hochgedreht und plötzlich gemerkt, die ganze Einheit, mit der du arbeitest, dein ganzes Werkzeug überhitzt so stark, dass du es sofort wieder runterschrauben musstest.
 [01:51:32] Marco: Hat keiner gemerkt.
 [01:51:34] Marco: Die Felsnadel, die abgebrochene, die sie im Traktorstrahl hatte,
-[01:51:35] Benjamin: Nur Gags, aber der fand das gut und sich wundert. Gibt es die Gefahr, dass wir durch aktivierte Schilde einfacher gefunden werden?
+[01:51:35] Benjamin: Nur G4-X, aber der fand das gut und sich wundert. Gibt es die Gefahr, dass wir durch aktivierte Schilde einfacher gefunden werden?
 [01:51:59] Andreas: und du hast also verhindert, dass dein Werkzeug kaputt gegangen ist und auch an sich einfach die Energiemenge hätte dem Reaktor dann doch schaden können durch irgendeine Rückkopplung, aber das hast du auch vermieden. Das heißt also, die ganze Sache ist relativ gut abgelaufen, aber für heute geht einfach nicht mehr.
 [01:52:18] Andreas: Ihr helft ihm, soweit ihr könnt, und an einem Punkt seht ihr plötzlich nichts mehr. Es ist plötzlich stockdunkel. Dieses rötliche Licht, welches hier überall ist, ist weg und es zieht ein Schatten über euch.
 [01:52:39] Andreas: Wenn ihr zwischen den beiden Felsnadeln nach oben schaut, seht ihr dieses keilförmige Ding, die Titanen von Ost nach West über eure Schlucht hinwegfliegen, aber dann auch wieder verschwinden.
@@ -835,13 +835,13 @@
 [01:53:48] Marco: weil er die Felsnadel an Bord gehievt hat mit dem Traktorstrahl.
 [01:54:15] Andreas: Es ist sehr spannend, was da oben passiert, aber ihr wisst es einfach nicht. Dort befindet ihr euch in dieser Senke aus Basalt und arbeitet. Es wird nicht dunkler oder sonst was in der Nacht, aber der korillianische Tag hat sich bereits dem Ende zugeneigt.
 [01:54:19] Marco: Ja, da gibt es ja keine Sonne.
-[01:54:39] Andreas: und es sieht so aus, als würden die Lichtverhältnisse auf IEGO sich nicht verändern. Überhaupt nicht.
+[01:54:39] Andreas: und es sieht so aus, als würden die Lichtverhältnisse auf Iego sich nicht verändern. Überhaupt nicht.
 [01:54:46] Andreas: Ihr nehmt die Pause. Wo wollt ihr die Pause machen? Auf der Turbot oder auf der Brill? Ja, gut, ihr habt die Turbot hochkant gestellt. Wenn ihr dort vielleicht die Energie einschaltet, wer weiß, was ihr damit erreichen könnt. Aber ja, gut, ihr seid also auf der Brill.
 [01:54:49] Martin: immer gleich erstmal reparieren so weit es geht besprecht es über funk oder wenn ich gerade mal da
 [01:54:55] Marco: Aber dann brauchen wir irgendwann eine Pause
 [01:54:57] Marco: und sollten uns vielleicht ausruhen.
 [01:54:59] Marco: Geht es nicht nur auf der Brill? Die Turbot ist aber auch hochkant. Doktor, habt ihr Erfahrung mit Traumata im Kopfbereich? Nun, dann hoffen wir aufs Beste. Wir geben unser Bestes, sie wieder flott zu machen.
-[01:55:31] Andreas: und Dr. Sash wacht auf oder ist jetzt bereits wach und ansprechbar und nimmt mit stoischer
+[01:55:31] Andreas: und Varnira wacht auf oder ist jetzt bereits wach und ansprechbar und nimmt mit stoischer
 [01:55:46] Andreas: Gelassenheit ihre schwere Wunde bzw. diesen improvisierten, also es ist ja kein Gips,
 [01:55:52] Andreas: sondern diese Schiene hin. Sie bedankt sich bei allem. Aber Arlen hängt immer noch in den Seilen,
 [01:56:06] Andreas: Seine Augen sind teilweise geöffnet, drehen sich manchmal ein bisschen, manchmal ganz still. Er ist
@@ -917,7 +917,7 @@
 [02:04:47] Friedrich: die Schilde zu aktivieren, um nicht unsere Reparaturversuche zu verlieren. Was meint ihr
 [02:04:58] Marco: Ja, ich halte das für eine gute Idee, hier die Schilde zu aktivieren.
 [02:05:03] Andreas: Du bist jetzt auch wieder zurück. Ich bin jetzt einfach stillschweigend davon ausgegangen, dass ihr die Rassen zusammen auf der Brille macht.
-[02:05:08] Friedrich: denn? Das ist mir alles klar, Herr Komaro. Es geht mir gerade darum, dass da draußen die Hölle los
+[02:05:08] Friedrich: denn? Das ist mir alles klar, Herr Komaru. Es geht mir gerade darum, dass da draußen die Hölle los
 [02:05:21] Marco: Drüben, wenn es jetzt Schäden gibt, dann müssen wir eben morgen wieder mehr reparieren. Dann müssen wir eben vielleicht Teile von dem wiederholen, was wir heute gemacht haben.
 [02:05:35] Martin: besprecht ist naja weil ich meist seid ihr auf der tür war deswegen fragt bloß nicht dass okay ja
 [02:05:37] Marco: Wir sind doch alle im selben Raum, oder?
@@ -925,7 +925,7 @@
 [02:05:55] Marco: Also, ich würde...
 [02:06:13] Martin: Das heißt, es muss stabil genug sein, die Lebenserhaltung muss verlässlich funktionieren, der Hyperraumantrieb muss funktionieren. Also ich würde meinen, was sagt das Schadensloch? Ist das risikoreich? Marco, du zuerst. Das ist ein guter Punkt. Und was sagen denn die Schilder, ist das denn völlig ungefährlich, die Schilde zu aktivieren oder brennt dann irgendwas endgültig durch?
 [02:06:27] Friedrich: ist und ich es für ungut halte, wenn die Basalt Splitter jetzt unsere Reparaturarbeiten wieder
-[02:06:36] Friedrich: zunichte machen. Deswegen der Vorschlag, ob wir in der Turbid versuchen sollten, die Schilde zu
+[02:06:36] Friedrich: zunichte machen. Deswegen der Vorschlag, ob wir in der Turbot versuchen sollten, die Schilde zu
 [02:06:42] Friedrich: aktivieren. Sagt nochmal einzeln bitte. Es könnte sein, dass dieser Sturm noch ein paar Tage länger so weitergeht. In Ordnung. Dann würde ich aber zumindest hier bei der Brille den Schild aktivieren. Also,
 [02:06:44] Marco: Mir fällt keine sichere Methode ein, um darüber zu kommen.
 [02:06:57] Marco: Okay?
@@ -966,7 +966,7 @@
 [02:10:58] Marco: Ist es so ein bisschen wie bei Futurama, das Bachelor-Schau?
 [02:11:01] Marco: Ja, mit etwas mehr Zeit könnte ich künstliche Aromen herstellen, aber das ist jetzt vielleicht nicht die Top-Priorität.
 [02:11:03] Benjamin: Ich hab meinen Charakterbogen immer noch nicht hier.
-[02:11:05] Martin: Wir müssen Ganten wieder auf die Beine bringen,
+[02:11:05] Martin: Wir müssen Ganden wieder auf die Beine bringen,
 [02:11:07] Martin: sonst sterben wir alle.
 [02:11:23] Andreas: Während ihr euch so unterhaltet, bitte ich den Helm nun um einen Willenswurf.
 [02:11:26] Martin: Also ich gehe mit ganz ernstem Gesicht
@@ -1010,7 +1010,7 @@
 [02:17:59] Andreas: senden. Blink. Lassen Sie Ihre Signale aktiv. Wir orten Sie. Blink. Was tust du? Also da läuft so eine Art Ortung. Es ist mit einem Mal wieder still. Die Schilde sind wieder da. Und du bist dir nicht ganz sicher, ob man euch geortet hat. Ich löffel doch mal was.
 [02:18:10] Benjamin: Ja, ich deaktiviere und ziehe die Schilde wieder hoch. Aber ich dachte, der ist tot. Ich rufe ins Schiff. Das ist alles kein Zufall. Sie suchen uns. Uns!
 [02:18:32] Andreas: Okay, du hörst nichts mehr, aber du hast das Gefühl von früher wieder, diese Trauer und diese Traurigkeit, was deiner Familie geschehen ist und was geschehen ist, bis man dich ganz woanders hingebracht hat. Und du machst einen verantwortlich dafür.
-[02:19:06] Andreas: Ja, also ihr seid alle in dem Moment aufgewacht, als es plötzlich von Stille laut tosenden Sturm gab. Okay, während ihr euch darüber noch unterhaltet, bleibt in Kellums Geist das Bild, als du abgedrückt hast und die Zielerfassung auf diese Brücke eingestellt hattest.
+[02:19:06] Andreas: Ja, also ihr seid alle in dem Moment aufgewacht, als es plötzlich von Stille laut tosenden Sturm gab. Okay, während ihr euch darüber noch unterhaltet, bleibt in Kaelums Geist das Bild, als du abgedrückt hast und die Zielerfassung auf diese Brücke eingestellt hattest.
 [02:19:23] Benjamin: Was ist das für eine Kommunikationsanlage? Ich habe den Schild heruntergefahren und die Kommunikationsanlage aktiviert, weil etwas nach mir gerufen hat. Und ich weiß, dass das ein Risiko war, aber wir müssen wissen, wer da nach uns ruft, wer da nach uns sucht. Wir können hier nicht ewig im Strom warten, bis die Dinge sich für uns entscheiden. Wir müssen selbst handeln. Wir müssen endlich ins Handeln kommen.
 [02:19:25] Martin: Sag ich doch.
 [02:19:28] Marco: Das ist kein Zufall.
@@ -1018,7 +1018,7 @@
 [02:19:30] Martin: ob sie
 [02:19:31] Martin: alle suchen oder nur
 [02:19:33] Martin: manche von uns. Und da gucke ich
-[02:19:35] Martin: sehr aufmerksam. Kellum
+[02:19:35] Martin: sehr aufmerksam. Kaelum
 [02:19:38] Martin: und Radam.
 [02:19:44] Marco: Haben wir das mitbekommen, dass es diese Veränderungen gegeben hat in der Atmosphäre, als die Schilder abgeschaltet wurden, kam Lautstärke und...
 [02:19:52] Marco: Okay.
@@ -1039,7 +1039,7 @@
 [02:21:04] Martin: Wenn wir nicht wissen, wie wir dir helfen können.
 [02:21:06] Martin: Warum?
 [02:21:06] Marco: Ich weiß doch selber nichts.
-[02:21:11] Martin: Du fliegst mitten in ein Schlachtfeld, weil dieser Heini da drüben und ich da zu Ganten hin einen Notruf abgesendet hat.
+[02:21:11] Martin: Du fliegst mitten in ein Schlachtfeld, weil dieser Heini da drüben und ich da zu Ganden hin einen Notruf abgesendet hat.
 [02:21:19] Martin: Obwohl du nicht weißt, warum.
 [02:21:22] Martin: Was hat er denn gegen dich in der Hand?
 [02:21:25] Marco: Also ich wusste nicht, dass es sich um ein Schlachtfeld handelt,
@@ -1057,7 +1057,7 @@
 [02:22:04] Marco: Mich würde vielmehr interessieren,
 [02:22:05] Marco: warum jemand unsere Position verraten hat,
 [02:22:08] Marco: indem die Kommunikationsanlagen eingeschaltet worden sind.
-[02:22:24] Martin: Dann siehst du, oh Kellum,
+[02:22:24] Martin: Dann siehst du, oh Kaelum,
 [02:22:38] Marco: Wer ruft?
 [02:22:41] Martin: hast du nichts daraus gelernt.
 [02:22:44] Martin: Irgendwas
