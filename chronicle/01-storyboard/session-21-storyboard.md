@@ -50,7 +50,7 @@
 **Beteiligte:** Komaru, Ghalrixtho, G4-X, Kaelum.
 **Perspektive:** Komaru (begrenzt allwissend).
 **Kernhandlung:**
-- Die Luft am Schluchtgrund erweist sich als extrem toxisch (Kohlenmonoxid-Senke) und ist von scharfkantiger vulkanischer Asche (Regolith) durchsetzt. Komaru pellt sich in den einzig verfügbaren Raumanzug der *Brill*.
+- Die Luft am Schluchtgrund erweist sich als extrem toxisch (Kohlenmonoxid-Senke) und ist von scharfkantiger vulkanischer Asche (Regolith) durchsetzt. Komaru pellt sich in einen der verfügbaren Raumanzüge der *Brill*.
 - Er verlässt die *Brill* und klettert an den Basaltwänden hoch zum Wrack der *Turbot*, die senkrecht verkeilt in der Spalte steckt. Er dringt durch ein Loch in Gandens zerstörtem Quartier ins Innere ein.
 - Im geneigten Cockpit der *Turbot* führt Komaru eine Schadensanalyse durch: Der Hyperraumantrieb ist mechanisch intakt, aber der gesamte Cockpitbereich ist durch den Aufprall um ca. 8 Grad zur Schiffsachse tordiert und instabil. Zudem sind alle Energiezellen der Waffensysteme erschöpft.
 - Ghalrixtho reaktiviert währenddessen an Bord der *Brill* den Droiden G4-X, der sich im Standby-Modus befand, und repariert dessen beschädigte Verkabelung.
