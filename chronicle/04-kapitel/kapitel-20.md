@@ -161,4 +161,4 @@ Die Gefangennahme war unausweichlich. Schweigend starrte die Besatzung der Brill
 
 ---
 
-[← Kapitel 19](kapitel-19.md)
+[← Kapitel 19](kapitel-19.md) | [Kapitel 21 →](kapitel-21.md)
