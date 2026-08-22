@@ -33,6 +33,8 @@ Reihenfolge beachten (siehe unten).
 | Ghalrixtho 2 | S20 |
 | Galeristo | S20 |
 | galeristo | S20 |
+| Rexo | S22 |
+| rexo | S22 |
 
 Phrasen-Fehler (mehrere Tokens — exakte Phrase ersetzen, nicht
 Einzelwort):
@@ -59,6 +61,8 @@ Einzelwort):
 | Falschvariante | Erstmals |
 |----------------|----------|
 | Komaro | S19 |
+| Komago | S22 |
+| komago | S22 |
 
 ### Dr. Rath
 
