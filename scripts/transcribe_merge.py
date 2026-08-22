@@ -18,8 +18,9 @@ INITIAL_PROMPT = (
     "(Chiss-Operative), Ganden Arvang, Komaru (Togorianer-Scout), "
     "G4-X (Kampfdroide), Varnira Sesh (Devaronierin), Kaelum "
     "(junger Padawan), Dr. Rath (Arkanier-Mediziner). Wichtige "
-    " NPCs sind Daro Fel, Rax Vonn, Inquisitor Elthirhof und "
-    " Ghalrixthos Schwester Ghalsintha. "
+    "NPCs sind Daro Fel, Rax Vonn, Captain Cassandra Nero, Commodore Ares, "
+    "Inquisitor Elthirhof und Ghalrixthos Schwester Ghalsintha. "
+    "Schiffe und Orte: Titan, Obsidian Arrow, Brill, Turbot, Iego. "
     "Bitte schreibe diese Namen genau so und konsistent."
 )
 
