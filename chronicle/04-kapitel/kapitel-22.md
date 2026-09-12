@@ -1,6 +1,6 @@
 # Kapitel 22 – Das Tal des alten Tempels
 
-[← Kapitel 21](kapitel-21.md) | Kapitel 22
+[← Kapitel 21](kapitel-21.md) | Kapitel 22 | [Kapitel 23 →](kapitel-23.md)
 
 ---
 
@@ -172,4 +172,4 @@ Die Gruppe wies G4-X an, die ruhende Offizierin scharf im Auge zu behalten. Ansc
 
 ---
 
-[← Kapitel 21](kapitel-21.md) | Kapitel 22
+[← Kapitel 21](kapitel-21.md) | Kapitel 22 | [Kapitel 23 →](kapitel-23.md)

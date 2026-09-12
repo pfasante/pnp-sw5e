@@ -36,6 +36,7 @@ Die Chronik hält die Ereignisse der Kampagne als Prosa-Narrative fest. Kapitel 
 | [Kapitel 20](kapitel-20.md) | Das System der tausend Monde | Session 20 |
 | [Kapitel 21](kapitel-21.md) | Im Schatten der Nadeln | Session 21 |
 | [Kapitel 22](kapitel-22.md) | Das Tal des alten Tempels | Session 22 |
+| [Kapitel 23](kapitel-23.md) | Das Tor zur Tiefe | Session 23 |
 
 ---
 
