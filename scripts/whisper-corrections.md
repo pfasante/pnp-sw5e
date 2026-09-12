@@ -35,6 +35,15 @@ Reihenfolge beachten (siehe unten).
 | galeristo | S20 |
 | Rexo | S22 |
 | rexo | S22 |
+| Garrixto | S23 |
+| Grixo | S23 |
+| Rixxo | S23 |
+| Rixlos | S23 |
+| Rixlo | S23 |
+| Garrix | S23 |
+| Ghalrixthothor | S23 |
+| Galerikstow | S23 |
+| Karikso | S23 |
 
 Phrasen-Fehler (mehrere Tokens — exakte Phrase ersetzen, nicht
 Einzelwort):
@@ -43,6 +52,11 @@ Einzelwort):
 |----------------|---------|----------|
 | `Geil, Rickstu.` | `Ghalrixtho.` | S19 |
 | `Kai Rixtho` | `Ghalrixtho` | S19 |
+| `Karl Rixlo` | `Ghalrixtho` | S23 |
+| `der Rixlos` | `von Ghalrixtho` | S23 |
+| `Karl-Rix Tog` | `Ghalrixtho` | S23 |
+| `geil, Rexto` | `geil, Ghalrixtho` | S23 |
+| `Karl Ghalrixtho` | `Ghalrixtho` | S23 |
 
 ### Kaelum
 
@@ -55,6 +69,9 @@ Einzelwort):
 | Kellum | S19 |
 | Caelum | S19 |
 | Herrlund | S19 |
+| Kelloman | S23 |
+| Kalium | S23 |
+| Carolyn | S23 |
 
 ### Komaru
 
@@ -63,12 +80,19 @@ Einzelwort):
 | Komaro | S19 |
 | Komago | S22 |
 | komago | S22 |
+| Komaho | S23 |
 
 ### Dr. Rath
 
+| Falschvariante | Erstmals |
+|----------------|----------|
 | Amok Rath | S20 |
 | Dr. Rathbun | S20 |
 | Dr. Raab | S20 |
+| Dr. Raph | S23 |
+| Dr. Rapp | S23 |
+| Dr. Raff | S23 |
+| Doktor Rat | S23 |
 
 ### Ganden
 
@@ -81,6 +105,11 @@ Suffix unverändert bleibt.
 | Ganten | S19 |
 | Dr. Havang | S20 |
 | Gampens | S20 |
+| Gundon | S23 |
+| Ganon | S23 |
+| Skandin | S23 |
+| Gantons | S23 |
+| Ganzen | S23 |
 
 ### Varnira
 
@@ -90,10 +119,16 @@ Suffix unverändert bleibt.
 | Vanira | S19 |
 | Vanya | S20 |
 | Dr. Sash | S20 |
+| Sash | S23 |
 | Varnierer | S20 |
 | Warnierer | S20 |
 | Vanirer | S20 |
 | vanirer | S20 |
+| Vanir | S23 |
+
+| Falsche Phrase | Korrekt | Erstmals |
+|----------------|---------|----------|
+| `die Baronierin` | `die Devaronierin` | S23 |
 
 ### G4-X
 
@@ -117,6 +152,13 @@ beschränken.
 | Falschvariante | Erstmals |
 |----------------|----------|
 | Darufell | S19 |
+
+### Captain Cassandra Nero
+
+| Falschvariante | Erstmals |
+|----------------|----------|
+| Captain Arrow | S23 |
+| Captain Eroar | S23 |
 
 ---
 
@@ -168,6 +210,43 @@ Beschreibt z.B. die Bauart der Turbot.
 |----------------|----------|
 | Xandos | S20 |
 | Xandros | S20 |
+
+### Klippenhorst (Ort)
+
+| Falschvariante | Erstmals |
+|----------------|----------|
+| Clipmores | S23 |
+| Flippenhorst | S23 |
+
+### Lothal (Planet)
+
+| Falschvariante | Erstmals |
+|----------------|----------|
+| Lothar | S23 |
+
+### Arkania (Planet)
+
+| Falschvariante | Erstmals |
+|----------------|----------|
+| Arcanes | S23 |
+
+### Korriban (Planet)
+
+| Falschvariante | Erstmals |
+|----------------|----------|
+| Korribanen | S23 |
+
+### Ausrüstung & Spielbegriffe
+
+| Falschvariante / Phrase | Korrekt | Erstmals |
+|-------------------------|---------|----------|
+| `Sleißer-Skate` | `Slicer-Kit` | S23 |
+| `Libro-Klinge` | `Vibro-Klinge` | S23 |
+| `Libro-Dagger` | `Vibro-Dagger` | S23 |
+| `Eight of Hand` | `Sleight of Hand` | S23 |
+| `Tag Override` | `Tech Override` | S23 |
+| `Sturzzeichen` | `Schriftzeichen` | S23 |
+| `Kuhien` | `Kojen` | S23 |
 
 ---
 
