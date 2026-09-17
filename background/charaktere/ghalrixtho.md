@@ -144,9 +144,8 @@ Die aktuelle Crew — **Ganden Arvang**, **Komaru**, **G4-X**, **Varnira Sesh** 
 Vor allem zu Komaru, mit dem ihn das gemeinsame Wundenlecken nach dem ISB-Bunker verbindet.
 Ganden nennt er im Stillen "den Professor": analytisch, gefährlich, undurchsichtig — und mit einer Kaltblütigkeit, die Ghalrixtho respektiert, ohne ihr je zu vertrauen.
 
-Kaelum — der junge Padawan, den die Crew aus Inquisitor-Gefangenschaft befreit hat — muss noch zeigen, ob er eine hilfreiche Ergänzung der Crew ist.
-Ghalrixtho beobachtet ihn vorsichtig, hält Abstand.
-Auffällig war für ihn, dass Ganden einen Heilungsversuch durch Machtanwendung schroff unterbrochen hat — Ganden scheint ein eigenes Problem mit der Macht zu haben, das Ghalrixtho noch nicht durchschaut.
+Kaelum — der junge Padawan, den die Crew aus Inquisitor-Gefangenschaft befreit hat — beobachtet Ghalrixtho mit vorsichtiger Skepsis und wachsendem Argwohn. Es ist nun mehrfach vorgekommen, dass Kaelum durch die dunkle Seite der Macht manipuliert und zu Kontrollverlust verleitet wurde. Spätestens seit im alten Sith-Tempel auf Iego selbst der sonst so besonnene Arkanier-Arzt Dr. Rath von einem fremden Mordschlag gegen die gefangene Captain Cassandra Nero gepackt wurde, läuten bei Ghalrixtho die Alarmglocken. Ghalrixtho ist kein Anhänger der hellen Seite und schert sich nicht um Jedi-Dogmen, aber er ist neutral, pragmatisch und lehnt sinnlose Morde strikt ab — insbesondere wenn Gefangene wie Nero noch von hohem taktischem Nutzen sein können. Er begreift diese schleichende mentale Manipulation als massives operatives Risiko und behält das Verhalten seiner Begleiter seither mit gesteigerter Wachsamkeit im Auge.
+Auffällig war für ihn zudem, dass Ganden einen Heilungsversuch durch Machtanwendung schroff unterbrochen hat — Ganden scheint ein eigenes Problem mit der Macht zu haben, das Ghalrixtho noch nicht durchschaut.
 Ein offenes Rätsel, das er im Hinterkopf behält.
 
 In der Unterwelt pflegt er lockere, rein transaktionale Kontakte — aktuell etwa zum **Kobalt-Kartell unter Rax Vonn**, der auf Lothal aktiv ist und Ghalrixthos Professionalität sichtlich respektiert.
