@@ -44,6 +44,10 @@ Reihenfolge beachten (siehe unten).
 | Ghalrixthothor | S23 |
 | Galerikstow | S23 |
 | Karikso | S23 |
+| Galrixtho | S24 |
+| Gerrix | S24 |
+| Calrixto | S24 |
+| Karikstor | S24 |
 
 Phrasen-Fehler (mehrere Tokens — exakte Phrase ersetzen, nicht
 Einzelwort):
@@ -57,6 +61,10 @@ Einzelwort):
 | `Karl-Rix Tog` | `Ghalrixtho` | S23 |
 | `geil, Rexto` | `geil, Ghalrixtho` | S23 |
 | `Karl Ghalrixtho` | `Ghalrixtho` | S23 |
+| `Karl Rixdorff` | `Ghalrixtho` | S24 |
+| `Karl Rixso` | `Ghalrixtho` | S24 |
+| `Carl Rixto` | `Ghalrixtho` | S24 |
+| `Skyrix so` | `Ghalrixtho` | S24 |
 
 ### Kaelum
 
@@ -72,6 +80,9 @@ Einzelwort):
 | Kelloman | S23 |
 | Kalium | S23 |
 | Carolyn | S23 |
+| Kerem | S24 |
+| Kellem | S24 |
+| Kellen | S24 |
 
 ### Komaru
 
@@ -81,6 +92,7 @@ Einzelwort):
 | Komago | S22 |
 | komago | S22 |
 | Komaho | S23 |
+| Komamo | S24 |
 
 ### Dr. Rath
 
