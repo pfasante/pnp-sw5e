@@ -209,6 +209,8 @@ Beschreibt z.B. die Bauart der Turbot.
 | Turbid | S20 |
 | Turbid-Extraktion | S20 |
 | Törwort | S20 |
+| Turbos | S24 |
+| Tribute | S24 |
 
 ### die Brill (Schiff)
 

@@ -361,4 +361,4 @@ Ghalrixtho trat an die Schwelle, zog seine Waffe und sah in die Schwärze hinab.
 
 ---
 
-[← Kapitel 22](kapitel-22.md) | Kapitel 23
+[← Kapitel 22](kapitel-22.md) | [Kapitel 24 →](kapitel-24.md)
