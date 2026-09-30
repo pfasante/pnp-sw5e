@@ -1,8 +1,8 @@
 # Entwurf: Kapitel 24 – Szene 01
 
-Die schwere Basaltplatte im Boden des Altarraums war zur Seite geglitten und gab den Blick in einen pechschwarzen Schacht frei. Aus der Tiefe stieg kühle, abgestandene Luft empor, trocken und frei von den Schwefeldämpfen des Canyons, doch beladen mit dem Geruch von unberührtem Stein und uralter Vergänglichkeit.
+Die geheime Basaltpforte in der Wand des Altarraums war aufgeschwungen und gab den Blick in einen pechschwarzen Schacht frei. Aus der Tiefe stieg kühle, abgestandene Luft empor, trocken und frei von den Schwefeldämpfen des Canyons, doch beladen mit dem Geruch von unberührtem Stein und uralter Vergänglichkeit.
 
-Komaru trat an die Kante der Öffnung, seine bekrallten Zehen fanden sicheren Halt auf den Basaltplatten. Seine spitzen Ohren zuckten nach vorn, als er das leise Heulen des fernen Plasmawinds draußen vor den Tempelsäulen ausblendete. Nach den zähen Verhandlungen an Bord der Brill und dem endlosen Warten im Frachtraum tat es gut, wieder festen Fels unter den Pfoten zu haben. Dr. Rath hatte die Geduld verloren; nachdem Kaelum an der Basaltpforte um ein Haar an dem Zersetzungsgift der Rixsaar-Nadel krepiert wäre und die Spannungen mit Captain Nero beinahe in einer Hinrichtung geendet hätten, hatte der arkanische Mediziner genug. Er war mit der gefesselten Gefangenen zurück zum Frachter marschiert, um Ganden im Koma und die verletzte Varnira zu bewachen.
+Komaru trat an die Schwelle der Wandpforte, seine bekrallten Zehen fanden sicheren Halt auf den Basaltplatten. Seine spitzen Ohren zuckten nach vorn, als er das leise Heulen des fernen Plasmawinds draußen vor den Tempelsäulen ausblendete. Nach den zähen Verhandlungen an Bord der Brill und dem endlosen Warten im Frachtraum tat es gut, wieder festen Fels unter den Pfoten zu haben. Dr. Rath hatte die Geduld verloren; nachdem Kaelum an der Basaltpforte um ein Haar an dem Zersetzungsgift der Rixsaar-Nadel krepiert wäre und die Spannungen mit Captain Nero beinahe in einer Hinrichtung geendet hätten, hatte der arkanische Mediziner genug. Er war mit der gefesselten Gefangenen zurück zum Frachter marschiert, um Ganden im Koma und die verletzte Varnira zu bewachen.
 
 „Einen imperialen Captain und einen Doktor gegen einen Togorianer einzutauschen, ist ein verdammt guter Deal für euch“, knurrte Komaru trocken und warf einen Blick zu Kaelum hinüber. „Kaum wart ihr vorhin zur Rampe hinaus, hat es mich in den Krallen gejuckt. Auf dem Schiff herumzusitzen und Däumchen zu drehen, hätte mich den letzten Nerv gekostet.“
 
@@ -12,15 +12,15 @@ Kaelum saß mit dem Rücken an einem der mächtigen Basaltpfeiler. Sein Gesicht 
 
 Kaelum schüttelte langsam den Kopf, die Stimme noch rau von den Schmerzen. „Es ist kein Pfad. Es ist nichts, was ich wie eine Fährte abschreiten oder kontrollieren könnte. Ich fühle eine Präsenz in der Macht, ja... aber nichts Greifbares. Wenn wir in der Nähe sind, werde ich es spüren. Vorher müssen wir uns auf das verlassen, was vor unseren Füßen liegt.“
 
-Komaru brummte zustimmend, ging in die Hocke und leuchtete den staubigen Boden rund um den Schacht ab. Schwere Stiefelabdrücke zeichneten sich scharf in der dünnen Sedimentschicht ab.
+Komaru brummte zustimmend, ging in die Hocke und leuchtete den staubigen Boden vor der Wandpforte ab. Schwere Stiefelabdrücke zeichneten sich scharf in der dünnen Sedimentschicht ab.
 
 „Mindestens zwei, vielleicht drei oder vier Leute“, stellte der Togorianer fest und deutete mit einer breiten Kralle auf die Ränder im Staub. „Genormte Profile, schwere Absätze. Keine imperialen Flottenstiefel, eher die Ausrüstung von Syndikatssöldnern. Genau dieselben Abdrücke wie oben am Tempeleingang.“
 
-Ghalrixtho trat heran. Seine schwere Blasterpistole lag ruhig in seiner Rechten, die Mündung leicht nach unten gesenkt. Die glimmend roten Augen des Chiss musterten den Abgrund, doch Komaru bemerkte, wie Ghalrixthos Blick immer wieder prüfend zu Kaelum glitt – kühl, abwägend, aufmerksam. Schon oben vor den Säulen hatte der Chiss den Padawan nicht aus den Augen gelassen, seit die unheilvolle Aura des Tals Kaelums Verstand und zuletzt auch Raths Beherrschung an den Rand getrieben hatte. Ghalrixtho scherte sich nicht um die Dogmen von Jedi oder Sith, doch er duldete keine unberechenbaren Risiken – und schon gar keine sinnlosen Tode.
+Ghalrixtho trat heran. Seine schwere Blasterpistole lag ruhig in seiner Rechten, die Mündung leicht nach unten gesenkt. Die glimmend roten Augen des Chiss musterten den dunklen Durchgang, doch Komaru bemerkte, wie Ghalrixthos Blick immer wieder prüfend zu Kaelum glitt – kühl, abwägend, aufmerksam. Schon oben vor den Säulen hatte der Chiss den Padawan nicht aus den Augen gelassen, seit die unheilvolle Aura des Tals Kaelums Verstand und zuletzt auch Raths Beherrschung an den Rand getrieben hatte. Ghalrixtho scherte sich nicht um die Dogmen von Jedi oder Sith, doch er duldete keine unberechenbaren Risiken – und schon gar keine sinnlosen Tode.
 
 „Komaru, gehst du vor oder soll ich?“, fragte Ghalrixtho.
 
-„Ich gehe vor“, erwiderte Komaru, entsicherte seinen Blasterkarabiner und schob sich in die schmale Öffnung.
+„Ich gehe vor“, erwiderte Komaru, entsicherte seinen Blasterkarabiner und schob sich durch die schmale Pforte.
 
 Die Basalttreppe war kaum schulterbreit. Für Komarus breite Gestalt war der Abstieg eine ständige Reibung an den nackten Steinwänden, die mit uralter Hitzetechnologie nahtlos aus dem Berg geschmolzen worden waren. Keine Fugen, keine Meißelspuren – der Fels wirkte, als wäre er vor Jahrtausenden flüssig gewesen und in Sekundenbruchteilen zu glattem, schwarzem Glas erstarrt. Nach oben hin verjüngte sich der Schacht trapezförmig bis in drei Meter Höhe. Anders als im Altarraum gab es hier unten keine Prismenadern mehr, die das karmesinrote Licht der Plasmawolke hätten einfangen können. Ringsum herrschte vollkommene, lastende Schwärze, die das Licht ihrer Lampen wie ein zäher Nebel schluckte.
 
