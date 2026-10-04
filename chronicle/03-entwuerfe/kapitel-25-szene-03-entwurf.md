@@ -44,8 +44,7 @@ Der verbliebene Sturmtruppler starrte entgeistert auf das Gemetzel. Für einen A
 
 Ghalrixtho brauchte nicht mehr als diesen einen Wimpernschlag.
 
-Comment AI: erwähne Ghalrixthos Ausbildung hier nicht, sie ist noch kein bekannter Hintergrund
-Mit der eisigen Ruhe eines ausgebildeten Attentäters hob der Chiss seine Blasterpistole, legte an und korrigierte das Visier um wenige Millimeter. Der Abzug glitt durch.
+Mit eisiger Ruhe hob der Chiss seine Blasterpistole, legte an und korrigierte das Visier um wenige Millimeter. Der Abzug glitt durch.
 
 Der Schuss war meisterhaft: Der rote Strahl bohrte sich exakt durch den schmalen Sehschlitz des Helms. Ein dumpfer Schlag hallte durch das Unterholz, der Kopf des Trupplers riss nach hinten, und der leblose Körper kippte rücklings in die Farne.
 

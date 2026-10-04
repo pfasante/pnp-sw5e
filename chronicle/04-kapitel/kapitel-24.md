@@ -418,4 +418,4 @@ Komaru spannte die Kiefer an und stieß ein tiefes, grollendes Knurren aus, wäh
 
 ---
 
-[← Kapitel 23](kapitel-23.md)
+[← Kapitel 23](kapitel-23.md) | [Kapitel 25 →](kapitel-25.md)
