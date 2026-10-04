@@ -1,0 +1,1276 @@
+[00:00:01] Andreas: So, habt ihr die Möglichkeit euch bei RoadVent schon zuzuschalten? Genau. Unter einem Test. Genau. Ich würde sagen, wir steigen gleich ein oder habt ihr irgendwas dagegen? Okay, also. Es wird auf jeden Fall spannend. Erinnert ihr euch? Ihr wart in dem Tempel.
+[00:00:02] Friedrich: Sieht gut aus. Ja, ich höre auch Musik komplett von Roll20. Ja. Sehr gut. Du darfst gerne loslegen. Wir sind schon wieder in der Brill, oder? Ja, also von mir aus sind wir wieder zurück in der Brill, wo G4-X und Duns vor den Lambda Shuttles gewarnt hat, ja, die kommen. Nee, also ich habe gesagt, von mir aus sind wir wieder in die Brill zurückgegangen, wo...
+[00:00:03] Benjamin: Sehr gut. Dann werde ich ja hier nicht mehr benötigt. Yes, ich bin gleich drin. Überhaupt nicht. Ich will nicht. Ich traue mich nicht. In dieser Kammer. Naja, vor allem, Kaelum hat sich sozusagen versucht, in den Raum hineinzubringen und hat dann gemerkt, das scheint so eine Art von, tja,
+[00:00:15] Marco: Ich bin drin. Nicht, dass ich wüsste. Das ist ein völlig harmloses kleines Schiffchen. Es ist aus Kommunikation ausgelegt, nicht auf Kampf. Also jetzt die Brill, nicht die Turbot. Ich gehe von der Turbot, aber die wissen nicht notwendigerweise, wo wir in der Brill sind. Dr. Rath beginnt jetzt erstmal an dem Schwerverletzten rumzuhantieren.
+[00:00:47] Andreas: Und Dr. Wraith hat dann die imperiale Offizierin, diese Captain Nero, nach draußen gebracht und Komaru ist mit euch mitgekommen.
+[00:01:03] Andreas: Ihr habt mehrere Fallen umgangen, ihr habt Leichen von den Black Sun Söldnern dort unten gefunden, sehr frisch.
+[00:01:12] Andreas: Und zuletzt den Anführer dieser Söldner, die dort eingedrungen sind, der sich am Türgriff zur Meditationskammer gestochen hat.
+[00:01:23] Andreas: Ich zeige euch ganz kurz ein, zwei Bilder noch einmal, sodass ihr euch daran etwas erinnern könnt.
+[00:01:33] Andreas: Und das war die Meditationskammer unten unterhalb des Tempels.
+[00:01:49] Andreas: Da gab es dann noch seitlich eine kleine Kammer, eine lange Treppe nach unten, ein Vorzimmer, in dem ein Kampf stattgefunden hat.
+[00:01:57] Andreas: Und dann dahinter diese Meditationskammer, in der man Kämpfende sieht, die eine einzelne weibliche Gestalt umgeben, die irgendetwas Rundes in der Hand hält und wie so eine Art heiligen Schein hat, während sie umgeben ist von Gemetzeln.
+[00:02:20] Andreas: An was kann sich Kaelum noch erinnern, was da geschehen ist?
+[00:02:23] Andreas: Ja, richtig. Komaru hat dich mit diesem Elektroschocker und auch mit einer beherzten Aktion einfach aus dem Zentrum dieser Meditationskammer herausbefördert und dir damit wahrscheinlich das Leben gerettet, weil einfach du schon angefangen hast, aus der Nase zu bluten.
+[00:02:44] Benjamin: Machtkammer, Überwachungszentrum über diesen ganzen Planeten zu sein,
+[00:02:50] Benjamin: in der Macht zusammenkommt, in dem Wissen über den Planeten zusammenkommt,
+[00:02:55] Benjamin: das war im wahrsten Sinne des Wortes überwältigend.
+[00:02:59] Benjamin: Kaelum konnte das so kurz sich orientieren, aber das war zu viel auf einmal.
+[00:03:05] Benjamin: Und ich glaube, dann wurde er weggeschockt.
+[00:03:14] Benjamin: Von den anderen. Wolltest du noch weiterreden? Ich hatte glaube ich gerade eine Unterbrechung. Und nochmal, wir hatten bei der Turbot keine Energie mehr für irgendwelche Bordgeschütze. Ich wende mich an unseren ja noch immer, sag ich mal, neuen Bekannten. Wie schaut es mit dem anderen Raumschiff aus? Haben wir Schusswaffen? Dr. Rath?
+[00:03:34] Andreas: Und das war also nicht angenehm, was du da erlebt hast. Aber was du gesehen hast, war ein Überblick, letztendlich alle möglichen Fäden des Lebens, die zusammengezogen waren, die Einheiten, Personen, Menschen, Aliens, Tiere auf der Planetenoberfläche miteinander verbunden haben, in Gruppen angezeigt haben.
+[00:04:04] Andreas: Es war tatsächlich auch irgendetwas außerhalb der Planetenoberfläche im Himmel erkennbar. Das war auf jeden Fall so viel Information, dass du daran Schaden genommen hast.
+[00:04:24] Andreas: Gleichzeitig habt ihr bei der heilverwesten Leiche, die in das Gift der Regsabpflanze gefasst hat,
+[00:04:33] Andreas: somit innerlich aufgelöst wurde, verdaut wurde von diesem Pflanzengift,
+[00:04:39] Andreas: in den schwarzen Fingern von dieser Person habt ihr eine Statue gefunden.
+[00:04:44] Andreas: Diese 30 cm hohe Statue, die steinerne Lady, sieht so aus.
+[00:04:50] Andreas: Sieht eindeutig so aus wie das Gegenstück in der Meditationskammer.
+[00:04:57] Andreas: Und ihr seht, man kann im Grunde um die Hüfte fassen mit den Händen.
+[00:05:04] Andreas: Der Sockel unten zeigt verschiedene Kabel, aber auch flüssigkeitsgefüllte Behältnisse.
+[00:05:15] Andreas: und aus dem Unterleib der Statue steht eine große, scharfe Nadel hervor.
+[00:05:26] Andreas: Ghalrixtho hat versucht, sich an der Statue zu schaffen zu machen
+[00:05:29] Andreas: und den unteren Teil aufgerissen und teils beschädigt.
+[00:05:33] Andreas: Als du das getan hast, hast du in einem der länglichen Behältnisse dort drin
+[00:05:39] Andreas: eine silbrige Flüssigkeit mit winzigen Partikeln gesehen,
+[00:05:44] Andreas: möglicherweise das, was die Nadel speist.
+[00:05:46] Andreas: und weiter oben werden die Informationen, die in dieser Statue verarbeitet werden,
+[00:05:53] Andreas: durch einen roten Kristall verarbeitet, beziehungsweise das scheint der Speicher zu sein,
+[00:06:00] Andreas: der über Laserstrahlen ausgelesen wird.
+[00:06:03] Andreas: Jetzt ist es allerdings rot.
+[00:06:06] Andreas: Als du damit rausgegangen bist, hattest du schon Zerstörungen angerichtet bei diesem wertvollen Stück
+[00:06:15] Andreas: und müsstest es erst reparieren.
+[00:06:17] Andreas: Ihr habt, nachdem ihr das getan habt, versucht, den Tempel wieder zu verlassen.
+[00:06:33] Andreas: Dann aber festgestellt, was diese Linien aus Glas oder Kristall, die eingelassen waren, tatsächlich sind.
+[00:06:44] Andreas: Und zwar sind sie ein Mechanismus zur Mündelung von Laserstrahlen gewesen,
+[00:06:48] Andreas: Die ultimative Falle, die ausgelöst wird, wenn man versucht, diese Statue aus diesem Tempel rauszubringen. Ihr habt es trotzdem geschafft. Und zwar hat Ghalrixtho dieses Schild über sich gehalten, welches ihr von den Plexan-Söldnern gefunden habt, was Teil deren Falle war.
+[00:07:06] Andreas: Es dabei zerstört, aber gerade so noch lebend rausgeschafft.
+[00:07:12] Andreas: Kalim war schwerst verwundet.
+[00:07:16] Andreas: Komaru war verwundet.
+[00:07:18] Andreas: Ich weiß nicht, bei Galriks Tod.
+[00:07:20] Andreas: Ich glaube, du warst auch verwundet, als du rausgekommen bist.
+[00:07:24] Andreas: Und ihr seid aus dem Tempel raus.
+[00:07:28] Andreas: Die Treppen wieder nach unten.
+[00:07:30] Andreas: Und dann kommt aus dem Shuttle die Warnung von G4-X.
+[00:07:33] Andreas: aus der Brill, die Warnung, zwei Shuttle im Anflug.
+[00:07:41] Andreas: Und es ist so, dass man jetzt jemanden hinter
+[00:07:44] Andreas: Nero hergeschickt hat. Zwei Shuttle sind im Anflug
+[00:07:49] Andreas: und landen im Tal. Ihr seid ziemlich unter Druck und schwer verwundet
+[00:07:54] Andreas: und hinkt in Richtung Brill. Habt aber eure Beute in der Hand.
+[00:07:58] Andreas: Was tut ihr? Ihr könnt schon wieder in der Brill sein, aber ihr könnt
+[00:08:06] Andreas: auch noch draußen etwas tun. Je nachdem, was ihr wollt.
+[00:08:09] Andreas: Ja, das ist eine vereinfachte Darstellung. Es ist etwas komplizierter. Und zwar seid ihr mit der Brill etwas weiter oben.
+[00:08:46] Friedrich: G4-Xon vor den ankommenden Lambda-Shuttles gewarnt hat.
+[00:08:51] Friedrich: Aber wir sind ja mit der Brill noch diesen Canyon
+[00:08:55] Friedrich: lang geflogen. Also wir sehen nicht das, was wir gerade sehen, meine ich.
+[00:09:13] Andreas: Und eigentlich seid ihr von dort weggeflogen, wo ihr versucht habt, die Turbo zu reparieren.
+[00:09:19] Andreas: Und an der Stelle, wo jetzt die Brill hier unten angezeichnet ist, seid ihr mit der Brill noch nicht.
+[00:09:24] Andreas: Da könntet ihr hinfliegen, aber ihr seid weiter weg, ihr seid näher am Tempel. Das ist richtig. Das liegt einfach nur an der Vorbereitungsreihenfolge von meiner Seite.
+[00:09:30] Friedrich: Die Zahlen heißt jetzt auch, das können wir nicht, also könnten wir da irgendwie versuchen,
+[00:09:34] Andreas: Ja, es ist ganz einfach so. Das sind letztendlich Magazine. Ihr habt das bei euren Blasterwaffen auch. Da schiebt ihr letztendlich nichts anderes als Magazine rein. Das sind keine Partikelpatronen oder dergleichen, aber diese Blaster können trotzdem leer gehen.
+[00:10:16] Benjamin: Andreas, jetzt muss ich kurz fragen, wie ist das denn mit solchen Energiezellen, mit denen unsere Bordgeschütze funktionieren?
+[00:10:24] Benjamin: Wären das Energiezellen, die man von einem Schiff zum anderen transportieren kann, müsste man dann in Leitung legen?
+[00:10:31] Benjamin: Ich sage direkt dazu, Kaelum kennt sich mit sowas nicht aus.
+[00:10:53] Andreas: Das heißt also, das ist speziell vorbereitet für Waffensysteme und du hast einfach für eure Laserkanone, diese Zwillingslaserkanone, die auch hier abgebildet ist, das verschossen, als du gegen die Brücke der Zeiten gefeuert hast.
+[00:11:08] Andreas: Und auf der Brill gibt es an dieser Stelle eben dieses Kommunikationsrelais und nicht diese Zwillingslaser. Nein, die Munition ist tatsächlich verschossen und das ist nicht so, dass du jetzt da irgendwie den Stecker umlegen könntest und das geht nicht, das ist einfach verschossen. Das wären also Munitionskisten, die aber Energiezellen beinhalten, die man hier wieder einschalten müsste.
+[00:11:17] Benjamin: Und das heißt, dadurch, dass es die nicht gibt, gibt es da auch keine Munition, sage ich jetzt mal in Anführungszeichen.
+[00:11:23] Benjamin: Genau, genau das meinte ich.
+[00:11:28] Benjamin: Okay, dann sehe ich das richtig, dass, so wie du uns positioniert hast, dass G4-X auch in der Brille gerade im Cockpit ist?
+[00:11:37] Andreas: Die Turbot ist ja nicht leer, die hat ja selbst Coaxium noch geladen und insofern könnt ihr da auch den Reaktor ohne weiteres anwerfen. Ihr wart ja gerade dabei, das Ding zu reparieren. Es sind allerdings noch nicht die Reparaturen abgeschlossen an der Außenfälle von der abgestürzten Turbot.
+[00:11:44] Friedrich: wenn wir da schon größere Energiequellen auf der Brill, dass wir das irgendwie umleiten können
+[00:11:49] Friedrich: und in den Laser einspeisen.
+[00:12:13] Andreas: Ja, ich höre das auch. Innerhalb der Atmosphäre ja. Im Weltall würde ich damit noch nicht unterwegs sein wollen. Ja, das ist nur so hier genau vorgetreten. Aber ja, das ist so. Er ist im Cockpit.
+[00:12:14] Friedrich: Aber wie wäre das eben, also inwieweit ist da die Hülle repariert?
+[00:12:18] Friedrich: Wäre die in der Atmosphäre auf Iego flugfähig?
+[00:12:22] Friedrich: Oder?
+[00:12:30] Friedrich: Nee, ich habe nach dem...
+[00:12:41] Friedrich: Also, ich habe sechs, glaube ich, noch.
+[00:12:53] Benjamin: Nee, aber das kann er ja sein.
+[00:12:59] Andreas: Varnira befindet sich schwer mit ihrer Beinverletzung, mit ihrem gebrochenen Bein. Bei Ganden liegt einfach unbewegt dort und ihr habt die Cassandra Nero mit Kabelbindern an irgendeinem Sitz im Aufenthaltsraum gebunden das letzte Mal.
+[00:13:00] Benjamin: Dann werde ich, ich meine, also, Talon ist ja schwer verletzt.
+[00:13:19] Andreas: Jax meldet sofort, dass die beiden Shuttle gerade gelandet sind, ungefähr 200 Meter von der Tür wird entfernt. Richtig. Ich mache mal Medizinwürfe, aber im Grunde ist es nicht schwer. Ihr seid bei 0 oder 1 Trefferpunkten.
+[00:13:25] Benjamin: Das heißt, ich schleppe mich eher zum Cockpit zu G4-X und rufe ihm zu, G4-X, lass einen Scan laufen.
+[00:13:35] Benjamin: Wie ist der Stand der Dinge? Wie weit sind sie entfernt?
+[00:14:11] Marco: dich zu untersuchen. Tut mir leid, ich habe keine Zeit für eine intensive Untersuchung. Ersthilfe,
+[00:14:14] Benjamin: Da hält Kaelum dann schon still.
+[00:14:23] Andreas: ist das richtig? Ja. Dex startet die Brill und hebt schon leicht ab, nachdem ihr alle drin seid. Wohin? Okay, also er hebt an und er hebt sich nach und nach zwischen den Felsnadeln nach oben, während Dr. Rath seine Untersuchung startet.
+[00:14:29] Friedrich: Also, G4-X, wir müssen hier weg.
+[00:14:30] Benjamin: Also, nee, nee, du kannst ruhig die Verantwortung übernehmen.
+[00:14:32] Friedrich: Kannst du die Brille starten?
+[00:14:46] Friedrich: Ich sage irgendwie so.
+[00:14:47] Friedrich: Also in die Richtung, dass wir direkt von den, die sind ja wahrscheinlich so hinter uns, irgendwie aus dem Canyon raus, weg von den Shuttles.
+[00:15:09] Andreas: Bist du auch mit im Cockpit nun oder bist du bei Dr. Rath? Zu euch, also zu Kaelum zuerst. Ja, genau, du rufst ihm einfach diese kurze Strecke ins Cockpit.
+[00:15:10] Friedrich: G4-X versucht möglichst tief zwischen den Basaltnadeln zu bleiben, dass wir hier Schutz finden.
+[00:15:26] Friedrich: Dr. Rath ist doch zu Kaelum ins Cockpit mitgegangen.
+[00:15:30] Friedrich: Das heißt, ich stehe wahrscheinlich hinter ihm im Eingang und spreche zu G4-X. Und wenn er das gemacht hat, dann würde ich mich nochmal umdrehen und nach Ganden gucken, wie ist das durch den Gravitationskompensator, da ist das ruhig im Schiff.
+[00:15:43] Andreas: Ja, also die Brille ist ja nicht betätigt, der kann nicht runterfallen. Also es ist natürlich schon so, dass man die Bewegungen spürt, aber man wird nicht so stark durchgeschüttet. Weil nämlich ansonsten bei den Beschleunigungen, die diese Schiffe hier machen, würde man nämlich beim Losstarten dann wahrscheinlich sich seine Knochen brechen und sobald man abbremst oder so, irgendwo wie so eine Fliege plötzlich dagegen klatscht.
+[00:15:56] Friedrich: Also nicht, wenn er da liegt. Ich werde mal gucken, wo er liegt, dass er nicht irgendwo runterfallen kann oder so.
+[00:16:24] Andreas: Und das ist natürlich so, dass man hier das ausgleicht. Du verwendest GoToPack, ja ich glaube 3, außer du bist bei Stufe 5.
+[00:16:41] Marco: Koto-Pack verwenden und ja also 1w4, ich habe vergessen was mein Modifier ist, das steht hier
+[00:16:49] Marco: irgendwo. 3 glaube ich. Intelligence, müsste 4 sein. Also 1w4 plus 4. Soll ich das würfeln oder der zu
+[00:16:55] Andreas: Ja, aufgestimmter Bereich, das hätte ich auch. Ein Klick. Da war was richtig, weil ein Punkt mehr wäre auch schön. Das ist sogar vieler. Hier. Du hast vieler. Ja. Würfel. Würfel du es. Das ist deine Aktion.
+[00:17:10] Marco: heilende experte was was machen wir mit captain ero ja meine wir könnten auch versuchen sie
+[00:17:15] Friedrich: Vielleicht kannst du gucken, dass du in einem weiten Bogen um die Turbine rumfliegst. Und dann können wir vielleicht versuchen, in den Rücken der Shuttle zu kommen.
+[00:17:17] Andreas: Ein Lodbecks meldet, es sieht so aus, als hätte sich ein Schaffe gelandet, inaktiv, jetzt am Boden und er hebt ab und fliegt über die erste Felsnadel nach oben.
+[00:17:44] Andreas: Es ist nichts weiteres erst auf dem Radar zu sehen. Es scheint halbwegs ruhig zu sein. In welche Richtung wollt ihr aufbrechen? Wollt ihr wegfliegen und die Turbot zurücklassen und von den Imperialen auch mit der wertvollen Fracht? Oder wie sieht es aus? Was habt ihr vor?
+[00:18:12] Andreas: Noch habt ihr übrigens euren Störsender so stark aktiviert, dass die Shuttles jetzt, und ihr könnt ja deren Kommunikation tatsächlich empfangen, bisher Kontakt zu Zeiten gehabt haben, aber sobald sie in euren Radius gekommen sind, den Kontakt verloren haben.
+[00:18:18] Benjamin: Da rickst du, du hast gerade den Befehl gegeben, erstmal irgendwie weg und in den Canyon.
+[00:18:25] Benjamin: Also ich lasse mich natürlich hier behandeln, versuche trotzdem zwischendurch irgendwie über die Lage zu sprechen.
+[00:18:32] Benjamin: Lasst uns nicht so weit wegkommen. Wir müssen in Deckung bleiben.
+[00:18:35] Benjamin: Aber wir müssen bereit sein. Unsere Ladung ist wichtig.
+[00:19:00] Andreas: Das ist also die Macht der Relay-Station, die ihr in eurer Drill drin habt. Wenn ihr zu weit wegfliegt, ist der Canyon nicht mehr geschützt und die können kommunizieren und so weiter. Er zieht jetzt nach rechts in einem Bogen genau um eine Felsnadel herum.
+[00:19:24] Andreas: einen leichten Schild erzählen. Das zweite landet jetzt gerade. Wenn wir versuchen. Genau, also wenn Sie jetzt im Landeanflug sind, das eine Shuttle hat gerade aufgesetzt, aber das andere hat also noch diese Lambda-Form und fährt gerade die beiden unteren Flügelanteile nach oben.
+[00:19:34] Friedrich: Die Brille hat ja auch ein Schild. Wir brauchen eine gute Idee, wie wir mit diesen zwei Shuttles fertig werden. Wenn die beide landen, dann haben wir, glaube ich, ein Problem.
+[00:19:51] Friedrich: Wie weit sind wir weg, können wir Ghalrixtho überlegen, ob er vielleicht mal ein Schild anstellt. Und wenn gerade wenn das Huttl in der Landung ist und vielleicht nahe dem anderen landet, ob man sie rammen könnte, dass sie ineinander krachen. Wenn wir unser Schild aktivieren, kommen wir vielleicht relativ mit wenig Schaden dabei raus.
+[00:20:20] Friedrich: der hat ja auch so einen passenden Ramsporn, die Brille.
+[00:20:41] Andreas: Wenn ihr sowas machen wollt, dann soll das G4-X einfach versuchen. Oder wie heißt das? G4-X fliegt, die ist noch festgefestet. Also ihr habt entschieden, was ihr macht. G4-X stellt das ein, zieht um eine Felsnadel herum.
+[00:20:50] Friedrich: Was meint ihr, sollen wir angreifen?
+[00:20:52] Benjamin: Ja, ja, ja. Angriff. Sie haben keinen Grund, mit uns zu verhandeln.
+[00:20:58] Friedrich: Ich glaube nicht, dass sie uns gehen lassen.
+[00:21:06] Marco: auszutauschen gegen freien abzug halte ich für absolut unmöglich dass dieser wurf kommt aber
+[00:21:16] Friedrich: Die werden doch in der Überzahl sein.
+[00:21:30] Friedrich: Ja, genau.
+[00:21:34] Andreas: Es fliegen noch zwei, drei Blasterschüsse in eure Richtung von den, oder nicht Blasterschüsse, Turbolaserschüsse von diesem noch schwebenden Shuttle, aber das kann nicht richtig zielen, weil es sich ja schon die Lambda-Plüge nach oben geklappt hat.
+[00:21:52] Andreas: Und es hält einfach darauf zu, die Sensorik war überlastet, weil ihr ja euer Relay noch aktiviert habt. Ein Teil der Energie des Schildes steckt aber im Relay von euch und ihr crasht jetzt einfach gegen diese Flügel.
+[00:22:13] Andreas: Das Shuttle wird nach unten geschleudert und dreht sich und ihr werdet aus der Bahn geworfen. Und ich bitte euch deshalb jetzt alle um Reflexwürfe, denn das gibt jetzt so viel G, dass euer System nicht mehr ausreicht, das auszugleichen.
+[00:22:30] Andreas: Ja, Geschicklichkeits... Könntest du machen, wenn du dich speziell einfach nur festhalten willst? Ja, das kannst du auch machen. Aber zehn reicht, du hältst dich fest. Ihr schafft es einfach, diese Bewegungen auszugleichen, euch irgendwo zu verkeilen und einfach festzuhalten.
+[00:22:32] Friedrich: Geschicklichkeits-Saving-Wurf
+[00:22:33] Friedrich: oder 22, 21 heißt es.
+[00:22:34] Benjamin: Wäre da auch sowas wie Athletik oder sowas? Oder im Sinne von Festhalten?
+[00:22:42] Benjamin: Ja. Was war denn der Effekt auf das andere Raumschiff?
+[00:22:51] Friedrich: Das sieht ja schon ganz gut aus hier.
+[00:22:57] Marco: Aber gut. Das Tödeschiff, der ist noch mal Cassandra.
+[00:23:09] Andreas: zu halten. Die Brill wird tatsächlich gedreht und im Canyon gegen einen Nadel gestoßen, das Schild fällt aus und ihr gleitet seitlich erst über einen Nadelkopf, über den nächsten Nadelkopf, irgendwas hat unten am Rumpf Schaden verursacht, überall blinkt es um euch herum, Warnsignale, Warnsymbole
+[00:23:35] Andreas: Und dann geht ihr hart nach unten und schlagt in dem Dschungel auf. Um euch herum wird Varnia Sesch quer durch den Raum gestoßen. G4-X schafft es sich im Cockpitsitz, weil er festgeschnallt ist, ohne weiteres zu halten.
+[00:23:55] Andreas: Ganden wird von seiner Liege gestoßen und fällt der Cassandra in den Schoß und hängt da halb über deren Oberschenkel.
+[00:24:09] Andreas: Ihr rachelt euch auch. Ihr habt also jetzt ein zweites abgestürztes Raumschiff. Sandra ist die Captain Cassandra Nero. Eure Sensorik ist möglicherweise noch aktiv, wenn ihr Glück habt.
+[00:24:26] Marco: Ach ja, okay.
+[00:24:31] Benjamin: Haben wir davon noch was mitbekommen?
+[00:24:39] Andreas: Moment, ich werde mich dann würfeln. Wenn ihr eine Reihe oder Höhe bekommt, ist es noch aktiv. Die Sensoren sind noch aktiv und genau dasselbe gilt jetzt für den Störsender, entweder aktiv oder nicht aktiv. Der Störsender ist ausgefallen, eure Antenne wurde abgerissen.
+[00:25:04] Andreas: Die Sensoren zeigen an, dass irgendetwas mit dem Shuttle geschehen ist. Dort wird große Hitze vermeldet, möglicherweise ein Absturz mit größerem Schaden. Das könnt ihr noch nicht richtig sagen.
+[00:25:20] Andreas: halben Kilometer, einen halben Kilometer, das hat euch doch ziemlich weit ab von dem abgestürzten zweiten Shuttle abgetrieben.
+[00:25:26] Benjamin: Wie weit sind wir denn jetzt, wenn er auf die Sensoren schaut, von den anderen Raumschiffen weg?
+[00:25:32] Benjamin: Wohin hat es uns getrieben?
+[00:25:42] Andreas: Und die Warndeuten zeigen, dass ihr einen starken Schaden an der Außenhülle, im kompletten unteren Bereich der Brill erlitten habt,
+[00:25:54] Andreas: dass der Sporn vorne großen Schaden erlitten hat, also da seid ihr halt irgendwo dagegen gestoßen und da wurde ein Teil sogar abgerissen.
+[00:26:02] Andreas: Und diesmal ist das Einzige, was unbeschadet ist, das Cockpit. Es wird auch vermeldet, dass Treibstoff austritt. Ihr seid schon unten, ihr seid abgestürzt. Aber das wird dir jetzt erst gewusst.
+[00:26:12] Benjamin: Okay, G4-X, bring uns runter, bring uns runter.
+[00:26:18] Benjamin: Achso, okay.
+[00:26:20] Benjamin: Ich dachte, okay.
+[00:26:22] Andreas: Genau. Ja, also du versuchst es, aber der ist wie so ein nasser Sack, der lässt sich ganz schwer ziehen. Du weißt zwar, wie man bewusst lose zieht, das hast du gelernt, also du nimmst sie von hinten unter der Schulter und du kriegst sie in mehrere Meter in Richtung Tür, aber es ist wirklich anstrengend.
+[00:26:22] Benjamin: Okay.
+[00:26:24] Benjamin: Dann raus hier, raus hier.
+[00:26:26] Benjamin: Ich meine, Kaelum ist zwar ziemlich stark, aber auch, also ja, mit Dr. Rath zusammen wird das irgendwie gehen, muss das irgendwie gehen.
+[00:26:27] Marco: Ich greife mein Material und versuche, Ganden irgendwie auf die Schulter zu nehmen, was lächerlich ist, weil ich viel zu schwach bin.
+[00:26:39] Marco: Ja, ich wollte eigentlich nur sagen, dass beim Gehen hat Dr. Rath so einen Blick zu Captain Nero zugeworfen, mit den Schultern gezuckt, so nach dem Wort, ja, jetzt können wir es auch nicht ändern.
+[00:26:56] Andreas: Ihr seht, die sich warnen ja, abnüht zum Ausgang zu kommen. G4-X kümmert sich um sie, die ihren Tierwein nicht bewegen kann. Wem hilft wer, was gut wäre? Komaru, von dem seht ihr gerade nichts. Vielleicht wurde der irgendwie rausgeschleudert zur Tür oder er ist mit sich selbst beschäftigt.
+[00:26:59] Friedrich: Ich, wo ist denn, wo, was, Komaru ist auch noch da, ne? Kaelum, kannst du Dr. Rath und Ganden helfen? Also Ghalrixtho versucht, möchte unauffällig als letzter von Bord gehen.
+[00:27:23] Andreas: Ich denke, wenn ich mir deinen Stärkewert, denke ich, ist bei 16, du schaffst es auf jeden Fall. Oder 16 ist es so. Du bist geschwächt. Dann bitte ich dich tatsächlich um einen Athletics-Wurf, um herauszufinden, ob du das schaffst.
+[00:27:39] Benjamin: Kalem beißt die Zähne zusammen und hilft.
+[00:27:51] Benjamin: Nee, der ist sogar höher,
+[00:27:53] Benjamin: aber ich denke eher an die,
+[00:27:56] Benjamin: also er hat gerade acht Punkte,
+[00:27:57] Benjamin: das sind die acht Punkte,
+[00:27:58] Benjamin: die er von Dr. Rath bekommen hat.
+[00:28:01] Benjamin: Das heißt, er ist noch sehr, sehr geschwächt.
+[00:28:10] Andreas: Also die anderen ziehen nach und nach sich selbst, die Verletzten, die Verwundeten und Bewusstlosen, die Invaliden bewegen sich in Richtung Diego.
+[00:28:30] Andreas: Und zwischen die Pflanzen und ihr seid im Matsch, in diesem metallisch glänzenden, rötlichen, eisenhaltigen, vom Regen nun im Matsch verwandelten Staub und streift durch den Dschungel und zieht euch da draus.
+[00:28:56] Andreas: und Ghalrixtho steht da, Moment, ganz kurz, Ghalrixtho steht dort an der Tür und hinter dir ruft Nero,
+[00:29:06] Andreas: lass mich nicht hier, jetzt bitte. Ich glaube, ich glaube, Raph wollte das machen, das wolltest du machen.
+[00:29:29] Marco: Und vielleicht sagt der Glück so, viel Glück, du bist auf dich gestellt, aber er haut ab mit dem verletzten Kanten und so weiter.
+[00:29:36] Andreas: Als letzter ist Ghalrixtho gemeinsam mit Cassandra Nero im runden Mittelteil der Brille.
+[00:29:38] Marco: Ist das in einer Lautstärke, dass wir das mitkriegen könnten, oder ist das quasi silent?
+[00:29:50] Andreas: Also ihr hört von innen drin ganz kurz ein, ich denke mal, rotes Aufleuchten, ein Blasterschuss.
+[00:30:13] Friedrich: also hat so im Kopf, was Gundam immer gesagt hat,
+[00:30:15] Friedrich: keine Zeugen und gibt der
+[00:30:17] Friedrich: Captain Nero einen Kopfschuss
+[00:30:18] Friedrich: und packt sich dann noch
+[00:30:21] Friedrich: Sauerstoff
+[00:30:23] Friedrich: oder also Atemmasken, je nachdem
+[00:30:25] Friedrich: was da draußen
+[00:30:26] Friedrich: in der nächsten Zeit passiert und läuft dann hinter
+[00:30:29] Friedrich: den
+[00:30:29] Friedrich: anderen raus.
+[00:30:43] Friedrich: Also ich habe keine, ich habe meinen normalen
+[00:30:46] Friedrich: Blaster genommen. Also Ghalrixtho
+[00:30:57] Andreas: Ich habe doch sicher irgendwo sogar einen Blasterschuss und ein rotes Aufleuchten.
+[00:31:11] Andreas: Es ist ziemlich eindeutig, was da drin geschehen ist.
+[00:31:16] Marco: Okay.
+[00:31:18] Marco: Ja.
+[00:31:19] Marco: Ja.
+[00:31:19] Andreas: Und jetzt seht ihr auch den Katzenmensch Komaru dort seitlich liegen und sich wahrscheinlich verletzt, irgendwie rausgeschleudert aus dem Eingang aufrichten und in eure Richtung ziehen.
+[00:31:19] Marco: Ja.
+[00:31:37] Andreas: Ihr seid alle ziemlich angeschlagen und habt die Brille jetzt zurückgelassen. Ihr seid mitten im Dschungel Jekos. Was habt ihr vorzutun?
+[00:31:45] Andreas: Hier eingerichtete, aber noch nicht verheilte Oberschenkelverletzung. G4-X ist wohl auch repariert oder in einem relativ normalen Zustand. Dr. Rath ist auch nicht angeschlagen.
+[00:31:49] Benjamin: Erst mal ein Stück
+[00:31:50] Benjamin: weggehen und dann die Lage sortieren.
+[00:31:52] Benjamin: Wie geht es wem?
+[00:31:55] Benjamin: Kalem ist schwer verletzt.
+[00:31:57] Benjamin: Ganden, naja,
+[00:31:59] Benjamin: wir wissen, wie es um Ganden steht.
+[00:32:02] Benjamin: Wer ist noch?
+[00:32:05] Benjamin: Varnira?
+[00:32:09] Friedrich: ist, ja,
+[00:32:27] Andreas: Und auch das Fell von Komaru sieht nicht gut aus. Ja, ihr seid eine Truppe an verwundeten Invaliden und gleichzeitig tritt jetzt bei der Brill deutlich Treibstoff aus.
+[00:32:28] Marco: Dr.
+[00:32:29] Marco: Russ geht es gar nicht gut, seine Frisur ist beschädigt.
+[00:32:35] Friedrich: Ghalrixtho ist auch ordentlich
+[00:32:37] Friedrich: versenkt durch die Laserfalle
+[00:32:39] Friedrich: da im Tempel. Also Ghalrixtho
+[00:32:57] Andreas: Koaxium ist hoch entzündlich, hoch flammbar und es sind tatsächlich Funkenregen weiter vorne an der
+[00:33:01] Benjamin: Weg hier.
+[00:33:02] Benjamin: Wie weit dürft ihr jetzt...
+[00:33:07] Andreas: Brille zu erkennen oder rote, glühende Metallbereiche, wo es eben auf etwas gestoßen ist. Teile von der
+[00:33:18] Andreas: Schutzschild-Emitter-Ausrüstung ist auch hochgradig glühend und wahrscheinlich stark überlastet. Das
+[00:33:27] Andreas: ist jetzt tatsächlich nur noch eine Zeitbombe. Ihr bewegt euch direkt. Und ihr zuckt ordentlich
+[00:33:31] Friedrich: läuft auch raus und wenn er
+[00:33:33] Friedrich: Komaru da sieht, dann guckt er
+[00:33:35] Friedrich: nach ihm, ob er irgendwie Hilfe braucht
+[00:33:37] Friedrich: und wird dann mit ihm wahrscheinlich
+[00:33:39] Friedrich: hinter den anderen herlaufen.
+[00:33:43] Friedrich: Die sich
+[00:33:43] Friedrich: hoffentlich hier entfernen.
+[00:33:47] Marco: Etwas unter das Blätterdach des Dschungels irgendwie anscheinend, nehme ich an.
+[00:33:52] Friedrich: Irgendwie hinter. Also müssen
+[00:33:54] Andreas: zusammen, weil nämlich ihr meint, jetzt geht's los, jetzt explodiert die Brill. Aber diese
+[00:34:04] Andreas: Explosion kommt tatsächlich von weiter oben in dem Tal und ihr seht einen riesigen Pilz aufsteigen.
+[00:34:15] Andreas: Ihr kennt es schon, eine solche Explosion habt ihr schon mal gesehen. Das sind die Überreste des Shuttles, in das ihr da reingerammt seid wahrscheinlich. Also ziemlich eindeutig, denn dieses große dreieckige Metallteil, welches hunderte Meter in die Luft gehoben wird und dann in eure Richtung sich absenkt und vielleicht 20 Meter von euch entfernt sich ungefähr drei Meter tief in den Boden rammt.
+[00:34:45] Andreas: Das ist eindeutig einer der Flügel des Shuttles. Da seid ihr nun mitten im Dschungel.
+[00:35:03] Friedrich: irgendwie gucken, dass sie Richtung Turbot kommen.
+[00:35:09] Benjamin: Du hattest vorhin gesagt, so einen halben Kilometer oder sowas.
+[00:35:14] Benjamin: Habe ich das richtig in Erinnerung?
+[00:35:35] Andreas: irgendetwas da hinten im Gange. Ihr hört Menschen rufen, man versucht wahrscheinlich da jemandem zu helfen, was auch immer, also da ist etwas los. Und eure Kommunikationsgeräte, die vorher noch gut über die Relay-Station auf der Brill gefunkt haben, geben euch Fetzen von Gesprächen von diesen Imperialen, also SOS-Signale, da ist noch jemand am Leben.
+[00:36:01] Andreas: Also irgendwas ist da geboten, was mit Rettungsaktion vielleicht beschrieben werden kann. Und in diesem Chaos könnt ihr euch entfernen oder könnt euch auch anschleichen, wenn ihr wollt. Ebenso schlecht.
+[00:36:13] Benjamin: Anschleichen.
+[00:36:13] Benjamin: Also...
+[00:36:14] Benjamin: Ich schaue mich mal um.
+[00:36:19] Benjamin: Da riechst du, wie geht's dir?
+[00:36:21] Friedrich: Ziemlich bescheiden. Ghalrixtho
+[00:36:24] Benjamin: Ich schaue mal nach Komaru. Wie geht's dem?
+[00:36:30] Benjamin: Wir müssen...
+[00:36:32] Benjamin: Wir können nicht von hier verschwinden.
+[00:36:34] Benjamin: Wir müssen zu unserem Raumschiff.
+[00:36:36] Benjamin: Aber bevor wir jetzt dort alle mit den Verletzten hingehen, muss sich einer die Lage anschauen. Das sind du oder Komaru. Es geht um alles. Das war die Brille.
+[00:36:49] Marco: Ich habe noch ein bisschen Reserve-Material, um Verletzungen zu behandeln.
+[00:37:02] Marco: Ich weiß nicht.
+[00:37:04] Marco: Ich weiß nicht, wie viel es noch reicht, aber wenn es jetzt um alles geht, dann sollten wir das vielleicht tun.
+[00:37:11] Marco: Gut, dann gebe ich ein paar Befehle in meinen Wrist Pad ein.
+[00:37:17] Friedrich: geht zu ihm hin. Also
+[00:37:34] Marco: und ein Colt O'Pack, beziehungsweise eine Injektionsnadel kommt aus meinem Biochemist-Kit hervor
+[00:37:52] Marco: und die drückt sich dir in den Oberarm.
+[00:38:00] Marco: Dasselbe nochmal. Ich hätte da wohl einen Abstand machen sollen.
+[00:38:10] Marco: Ich habe es eingetippt. Gut.
+[00:38:14] Marco: Well then.
+[00:38:18] Marco: Ich gebe noch eine Injektion.
+[00:38:38] Andreas: Dann ist dieser Keil wieder verschwunden. Jetzt hört ihr ein Rauschen, ein Brand hat sich bei der Brill, also das ist keine Explosion, aber das ist so ein pfeifendes, starkes Feuer, welches an mehreren Stellen beginnt und austritt.
+[00:39:05] Andreas: Also fast wie so ein Bunsenbrenner, versteht ihr, das entzündet sich und es pfeift ziemlich laut an manchen Stellen und das Feuer wird bläulich, fast weiß, heiß und ja, dann brechen alle eure Kommunikationssignale ab und eure Stützungen und Haupthörer.
+[00:39:29] Friedrich: wenn Ghalrixtho
+[00:39:31] Andreas: Ihr zieht alle weiter, lauft weiter weg und bringt ein paar Meter zwischen euch und die Brill. Ihr könnt ja auch einfach hinter so eine Felsnadel zum nächsten Mal kommen.
+[00:39:32] Friedrich: wieder sich bewegen kann,
+[00:39:34] Friedrich: ohne Dr. Rath da zu stören.
+[00:39:36] Friedrich: Ja, weg von der Brill weiter.
+[00:39:40] Marco: Also entweder wir kriegen die Turbot wieder flott oder wir müssten ein imperiales Schiff kapern. Eine Raumfähre ist ja noch da, oder? Wir haben nur eine zerstört. Heißt das, wir würfeln auch Initiative?
+[00:39:41] Friedrich: Danke.
+[00:39:56] Andreas: und es ist keine Explosion im eigentlichen Sinne, aber es gibt so eine Verpuffung zum Eingang raus
+[00:40:08] Andreas: und dann brennen Flammen an der Oberfläche der Brill und schlagen dann Meter hoch im Rohr.
+[00:40:18] Andreas: Sie beginnt auszubrennen. Also ihr wisst ja, wie so russische Panzer ausbrennen,
+[00:40:23] Andreas: Also das heißt, es ist nicht so, dass es eine Turmexplosion ist, sondern so eine stichflammenartige, so ein Ausbrennen technischer Geräte gibt.
+[00:40:43] Andreas: Ja, ziemlich bestimmten.
+[00:40:45] Andreas: Ja, die JetGPT hat auch die Größenverhältnisse zwischen dem Lambda-Shuttle und der Turbot nicht richtig abgebildet. Also diese Lambda-Shuttles sind fast so groß in ihrer Transportkapazität wie die Turbot.
+[00:41:00] Friedrich: Das ist die richtige Einstellung.
+[00:41:19] Andreas: und diese Flügel sind sehr, sehr viel länger und höher als jetzt hier im Verhältnis abgebildet. Nur, dass ihr das wisst, das ist eigentlich eher von der Größenkategorie gleich groß.
+[00:41:20] Benjamin: Das holen wir mal nach, ja. Wofür ich sehr dankbar bin. Das Problem ist, ich habe mir den angelegt in dem SW5E-Ding, aber da sind einfach Fehler drin. Deswegen nehme ich jetzt sehr, sehr gerne den. Ganz vielen Dank, das ist viel besser. Im Fall der Fälle alle.
+[00:41:32] Friedrich: Aber die
+[00:41:33] Friedrich: sind wahrscheinlich,
+[00:41:35] Friedrich: also, Ghalrixtho möchte gerne
+[00:41:37] Friedrich: mal
+[00:41:39] Friedrich: scouten gehen und gucken, was da
+[00:41:41] Friedrich: die Lager erkunden, wie das
+[00:41:43] Friedrich: ist. Da sind aber wahrscheinlich beides in die gleiche
+[00:41:45] Friedrich: Richtung, wenn wir zu Turbot auch wollen, oder?
+[00:41:49] Andreas: Wenn du dort hochgehst, dann scouten wir nochmal einen Wurf auf gleichen Stärken. Dann bewegst du dich nach oben und dann hörst du plötzlich so eine blechernde Stimme, etwas weiter versetzt von dir.
+[00:42:00] Friedrich: 14.
+[00:42:18] Andreas: Der Sensor springt an. Da hinten ist ein Lebenszeichen.
+[00:42:23] Friedrich: Dann versuche ich mich wieder, sobald ich das höre, wieder
+[00:42:25] Friedrich: zurückzuziehen.
+[00:42:28] Friedrich: Sehe ich irgendwas?
+[00:42:29] Friedrich: Oder ist da ein...
+[00:42:30] Andreas: Verstecke dich nochmal im Schatten.
+[00:42:33] Friedrich: Das heißt, ich soll nochmal würfeln?
+[00:42:36] Andreas: Ja, bitte nochmal.
+[00:42:39] Andreas: Du schaffst es nicht, du bist einfach zu angeschlagen, es ist zu viel los.
+[00:42:42] Andreas: Der Kunststoffgestank, der von der Brill ausgestoßen wird, zieht durch den ganzen Canyon hindurch.
+[00:42:55] Andreas: Du hinterlässt natürlich auch Fußspuren.
+[00:42:57] Andreas: und zwei Stormtrooper stehen dir plötzlich gegenüber mit ihrer typischen Ausrüstung. Weiße Rüstung, schwarze Blastergewehre, aber diese Stormtrooper haben lange weiße Lederschürzen an und einen Helm, der auch solche Lederschürzen angesetzt hat.
+[00:43:25] Andreas: Oder das ist kein Leder, sondern das ist wahrscheinlich Plastoleder, also irgendein Grundstoffmaterial. Und ja, einer von denen hält ein handgestütztes Personenzuggerät in der Hand und zeigt dann in deine Richtung und der andere bricht durchs Unterholz.
+[00:43:46] Andreas: und ich bitte um Initiative.
+[00:43:52] Andreas: Ja, anderen bekommt das mit, weil die sind nicht ruhig und die sind in Iego-Sonne.
+[00:43:58] Andreas: Das ist keine Sonne in diesem Plasma-Licht.
+[00:44:00] Andreas: Das ist nicht hervorragend sichtbar als weißlich Sonnenuntergangsrote Gestalten, die dort kommen.
+[00:44:10] Marco: Eine kurze Frage noch dazu. Wolltest du nicht auch über 30 Fuß Entfernung gehen? Aber das Bad Feeling war ja eine Bewegungsaktion außer der Reihe. Das heißt, dein normales Movement hast du glaube ich noch. Haben wir irgendwo den Combat Tracker? Den sehe ich gerade nicht.
+[00:44:11] Andreas: Ja, alle würfeln Initiative. Habt ihr Glück.
+[00:44:25] Andreas: Geirixel, das ist deine Initiative, du bist tatsächlich dran. Die kommen auf dich zu und du kannst reagieren. Ja, die haben beide ihre Blaster in der Hand, aber einer hat eben noch so ein Personenzuggerät, das ist so ein großes, weißes Stück, also so etwas ähnliches, was ihr als handgestützten Computer dabei habt, aber mit einem Griff unten dran und zwei kleinen Antennen oben angebracht.
+[00:44:41] Friedrich: Und also nochmal, der eine
+[00:44:43] Friedrich: hat sein...
+[00:44:45] Friedrich: Kannst du die nochmal beschreiben?
+[00:44:46] Friedrich: Der eine hat so ein Personensuchgerät in der Hand
+[00:44:48] Friedrich: und ansonsten haben die ihre Blaster oder...
+[00:44:51] Friedrich: Wie sind die aus...
+[00:44:52] Friedrich: Und wie weit sind die weg?
+[00:45:11] Andreas: Das hat einen kleinen Bildschirm, das zeigt an, wenn hier Lebenssignaturen, Herzschlag, Wärmesignaturen, biologische Signale vorhanden sind und zeigt in eine Richtung.
+[00:45:29] Andreas: Die sind drei Meter voneinander entfernt, einer ist tiefer im Gebüsch, der andere steht, der mit dem handgestützten Sensor steht direkt im Weg und jetzt bauen wir es einfach mal auf.
+[00:45:40] Andreas: Das heißt, ich baue das. Also wir improvisieren jetzt hier diese ganze Sache. Ganz kurz. So, ihr seid da verteilt. Etwas geschützt von der Brill, die ganz in der Nähe von euch brennt.
+[00:45:42] Friedrich: Also ich meine,
+[00:45:43] Friedrich: vor allem die Frage war gegenüber mich,
+[00:45:46] Friedrich: wie weit sind die mir gegenüber...
+[00:45:48] Friedrich: Ich möchte hier diese...
+[00:45:50] Friedrich: also wahrscheinlich wenn die je nachdem wieso die verhältnisse sind wo die anderen sind wo ich bin
+[00:46:02] Friedrich: und wo die sturmtruppen sind also ich möchte irgendwie ein bisschen der steht quasi direkt
+[00:46:24] Andreas: und da sind die beiden.
+[00:46:29] Andreas: Ihr könnt euch positionieren, wo ihr wollt. Ich weiß nicht, könnt ihr auf eure
+[00:46:33] Andreas: Figuren zugreifen? Dann muss man halt dementsprechend ranzoomen
+[00:46:38] Andreas: und ignoriert so ein bisschen das Drumherum. Wir nutzen
+[00:46:43] Andreas: einfach hier diesen Jigochummel jetzt in diesem kleinen Bereich.
+[00:46:47] Andreas: Also ganz in der Nähe ist der, der jetzt durchgebrochen ist.
+[00:46:52] Andreas: Ja, bei dir. Was tust du?
+[00:46:54] Andreas: Genau. Kommt drauf an, wenn du mit einem Nahkampfangriff losgehst. Ja, ja. Oh ja, stimmt, die sind tatsächlich in drei Runden. Ich schau kurz nach. Die haben eine dicke Rüstung, das ist ja so eine Dual Steel Armor, zwölftrifft zwar direkt in die Rüstung, schlägt aber nicht durch. Der Schuss schlägt ein in die Brust, aber kommt nicht weiter. Die aber vorbeigegangen ist, genau.
+[00:47:01] Friedrich: neben mir dann ja ich muss ja für meine negativ muss ich ja irgendwie weiter weg sein glaube ich
+[00:47:13] Friedrich: wegen diesem hier, assume the position, muss ich
+[00:47:30] Friedrich: weiter weg als 5 Meter sein.
+[00:47:34] Friedrich: Das heißt, ich gehe irgendwie hier rüber zu den
+[00:47:38] Friedrich: anderen über mein Bad Feeling, bevor die Initiative,
+[00:47:42] Friedrich: also es passiert, bevor die Initiative ist.
+[00:47:49] Friedrich: Genau, und dann möchte ich hier so
+[00:47:52] Friedrich: einen Penetration-Schuss
+[00:47:57] Friedrich: auf die machen, dass ich die beide treffe.
+[00:48:05] Friedrich: So, und dann...
+[00:48:10] Friedrich: 12?
+[00:48:36] Friedrich: Nee, ich muss...
+[00:48:40] Friedrich: Ah, doch, stimmt.
+[00:48:42] Friedrich: Is greater than 30
+[00:48:44] Friedrich: feet from you.
+[00:48:47] Friedrich: Okay, stimmt, das habe ich...
+[00:48:48] Friedrich: Ich hätte das innerhalb von 30 Fuß.
+[00:48:52] Friedrich: Na, dann kann ich das gar nicht machen,
+[00:48:54] Friedrich: das Sneak Attack, dann ist das einfach nur normaler
+[00:48:56] Friedrich: Schuss jetzt wahrscheinlich, ne?
+[00:49:01] Andreas: Hast du noch irgendwas, was du tun möchtest in dieser Runde? Du hast eine Bonusaktion, eine normale Aktion, eine Reaktion, eine Bewegungsaktion. Du hast ja jetzt schon geschossen, also du hast eine normale Aktion gemacht, mehr ist jetzt dann wahrscheinlich nicht möglich.
+[00:49:08] Friedrich: Wie ist das? Ich habe eine normale Aktion
+[00:49:10] Friedrich: und dann noch eine...
+[00:49:13] Friedrich: die Bewegungsaktion habe ich gemacht und die normale Aktion, das ist das andere, kann ich auch delayen oder wie, ne?
+[00:49:23] Friedrich: Oder kann ich, schieß einfach nochmal hier drauf.
+[00:49:28] Friedrich: Ja, und dann, ah, stimmt.
+[00:49:31] Andreas: Ah, dann hast du noch eine Bewegungsaktion, das ist richtig. Nee, da ist die Landtasche nicht. Du kannst hier überall Deckung suchen, genau. Und das ist auch der Dschungel ziemlich dicht. Du kommst noch einen 1,50 Meter Schritt von der Position, wo du warst, weiter. Also ein Kästchen.
+[00:49:44] Friedrich: Okay, dann kann ich irgendwie hier hin in Deckung, also ich schätze mal, das Lambda-Shuttle ist da nicht, ja, dann würde ich nochmal weiter,
+[00:49:53] Friedrich: irgendwie, aber diese Basalt-Dinger sind hier schon, das würde ich mir irgendwie so ein bisschen Deckung suchen.
+[00:50:00] Friedrich: Also dann möchte ich aber eigentlich irgendwie weiter noch, dass ich jetzt so und genau.
+[00:50:16] Andreas: Der Combat Tracker ist nicht an, weil sowohl die Stormtrooper, die hier drin sind, als auch Kaelum sind nicht verlinkt mit den Charakterbögen. Deshalb funktioniert das leider noch nicht. Das müssen wir mal nachholen.
+[00:50:30] Marco: ich zücke meinen blaster und feuer auf den super den ich hier sehr also okay jetzt habe ich auch
+[00:50:50] Andreas: Ich habe das nämlich vorhin schon ausprobiert gehabt und das hat einfach auch, also ich habe es schon zehnmal probiert, das hinzubekommen. Nicht richtig funktioniert. Ich habe ja sogar einen Kaelum, wie du siehst, angelegt für den Kampf.
+[00:51:05] Andreas: Ja, ja, ja, alles gut. Der nächste ist, nach oben, Dr. Rath ist der nächste, weil er nicht stark angeschlagen ist. Ja, das trifft. Wenn du auf Imperial Blaster drückst, dann kannst du den, nee, so, sieben Schaden.
+[00:51:46] Friedrich: Du musst auf den Namen, du musst auf die 17 da drunter auf den Namen von der Waffe.
+[00:51:52] Marco: die okay ich hatte jetzt nämlich beim ersten mal habe ich auf den attackenwurf gedrückt und
+[00:51:54] Andreas: Du schießt ihm gegen den Helm und der kam durch. Der duckt sich jetzt ab und ist sichtlich getroffen. In welche Richtung? Kannst du dich selber bewegen?
+[00:52:00] Marco: im zweiten mal habe ich auf den damage wolf gedrückt aber es kamen trotzdem zwei attacke
+[00:52:03] Marco: Ach so, okay, stimmt.
+[00:52:12] Marco: Alles klar.
+[00:52:14] Marco: Gut, aber ja, also dann sieben Energieschaden.
+[00:52:19] Marco: Und ja, ich versuche es ihm gleich zu tun und versuche auch in Deckung zu gehen.
+[00:52:35] Marco: Also das heißt, ich bewege mich.
+[00:52:38] Marco: Ja, ich kann mich selber bewegen.
+[00:52:38] Andreas: Du ziehst dich ein bisschen durch das Gebüsch nach oben, aber das lasse ich jetzt du. Genau, du bist auch durch die Pflanzen ein bisschen durch und besser in Deckung. Also es ist jetzt schwer, auf dich zu schießen. Jetzt ist dein Zug vorbei. Außer du möchtest noch jemandem zum Beispiel so eine Bonusaktion Heilung oder so geben. Das kannst du ja beispielsweise machen.
+[00:52:39] Marco: Ich bewege mich 15, nee, das ist schräg, also 10, 15, 20, 25, 30, so.
+[00:52:54] Marco: Und dann ist mein Zug vorbei.
+[00:53:17] Marco: Ja, ich habe noch zwei Tag Points.
+[00:53:23] Marco: Also viel ist nicht mehr drin.
+[00:53:24] Marco: Was ist denn jetzt überhaupt hier? Was ist denn hier noch eine Bonus-Action? Skulltopec war, glaube ich, eine Bonus-Action. Aber ich habe, ehrlich gesagt, ein bisschen den Überblick verloren, wer eigentlich Hitpoints braucht.
+[00:53:42] Marco: Okay. In dem Fall sage ich mal, ich sehe das nicht zu übersehende Katzenwesen und schmeiße dann noch ein Kultu-Pack-Dart hinterher sozusagen.
+[00:54:07] Marco: auf Komaru, genau.
+[00:54:12] Marco: Und das ist dann
+[00:54:13] Marco: meine letzte
+[00:54:15] Marco: Kraft.
+[00:54:25] Marco: Ich sollte das mal mit
+[00:54:26] Marco: Makros machen, aber
+[00:54:28] Marco: naja, Maximum.
+[00:54:31] Andreas: Das ist doch schön, wenn sowas mal aufgebraucht wird, oder? Jetzt ist die Erklärung dran. Du sagst mir aber, was du für eine triggernde Aktion machen möchtest oder auf was du warten möchtest. Du ziehst aber wahrscheinlich dein Vibro-Schwert, oder?
+[00:54:32] Marco: Maximum
+[00:54:33] Benjamin: Dann lieber händisch, das ist schon gut so. Ich weiß jetzt nicht, wie das hier regeltechnisch ist. Wir sind ja alle noch so ein bisschen versteckt. Wir waren ja nicht im Offenen. Ich würde gerne verzögern und gerne später dran kommen lassen und erst mal die handeln, wenn das jetzt hier geht.
+[00:54:33] Marco: für die Katze.
+[00:54:37] Marco: Und damit habe ich jetzt
+[00:54:39] Marco: null Tech-Power remaining.
+[00:54:42] Marco: Aber ich glaube, die Frage war, ob du auf sie
+[00:55:19] Benjamin: Entweder sobald die beiden, also im Grunde geht es mir darum, dass die beiden hier gehandelt haben und dass ich dann dran komme, dass ich sie sozusagen überraschen kann, außer sie kommen zu nah dran. Aber genau das ist der einzige Grund.
+[00:55:36] Marco: schießen willst oder was du tun willst.
+[00:55:37] Benjamin: Nein, nein. Also, ja, ja. Ich werde sie angreifen. Ich habe nur eine Nahkampfwaffe.
+[00:55:39] Marco: Achso. Eine Aareboi wird zunichte gemacht. Jetzt wäre es toll, wenn man Tag Powers hätte, um einen Counterspell zu machen gegen Tags.
+[00:55:46] Benjamin: Also, genau. Also, ich habe eine Vibro-Waffe. Ich habe leider kein Lichtschwert.
+[00:55:51] Benjamin: Deswegen kann ich ganz viele Dinge, die ich könnte, gar nicht einsetzen.
+[00:55:55] Benjamin: Aber das Vibro-Schwert, das habe ich gezogen, habe ich bereit.
+[00:55:58] Benjamin: Ich warte kauernd und sobald sie näher kommen, werde ich sie angreifen.
+[00:56:04] Benjamin: Deswegen, ich werde jetzt schon beginnen, mich zu konzentrieren, kurz zu meditieren.
+[00:56:09] Benjamin: heißt, das ist eine Bonus-Action, um den Way of the Wands to initiieren.
+[00:56:18] Benjamin: Und dann konzentriere ich mich auch auf einen von beiden, sobald ich sie sehe.
+[00:56:24] Andreas: Das initialisierst du. Jetzt feuert G4-X mit seiner Blaster Rifle auf den Vorderen und schießt leider daneben. G4-X manövriert sich um und zwar stellt sich vor die anderen Schützen.
+[00:56:54] Andreas: So, dann stürmt Komaru vor. Ja, eine Art Sturmangriff, katzenartig, direkt, ohne noch mit der Wimper zu zucken oder lange zu überlegen, um ihn so schnell wie möglich auszuschalten und macht einen Grapple und einen Clown-Angriff.
+[00:57:25] Andreas: Also der Clown-Angriff geht durch, aber er kriegt den Stormtrooper nicht zu fassen. Aber der Stormtrooper wird stark getroffen, auch wieder am Helm und ist ja schon abgekniet gewesen.
+[00:57:47] Andreas: und ihr hört ihn jetzt lauthals Alarm, Alarm, Angriff rufen.
+[00:57:57] Andreas: Ja, und jetzt ist der Stormtrooper auch selbst dran.
+[00:58:02] Andreas: Er versucht, seine Waffe wegzuwerfen, seine Blaster Rifle,
+[00:58:06] Andreas: und an so einen kleinen Elektrostab seitlich zu kommen, um den zu ziehen.
+[00:58:12] Andreas: Das schafft er auch, weil er nicht gegrappelt wurde.
+[00:58:14] Andreas: und er schlägt mit diesem Elektrostab auf unsere Katze ein.
+[00:58:24] Andreas: Trifft ausgerechnet und macht nicht genug Schaden, um Komaru auszuschalten.
+[00:58:36] Andreas: Also Komaru ist schon getroffen.
+[00:58:42] Andreas: Er wird erwischt und ihr seht Komaru auch etwas in die Knie gehen.
+[00:58:50] Andreas: So sieht es aus. Deine schöne Arbeit wird zunichte gemacht.
+[00:58:53] Andreas: Der andere manövriert sich einen Schritt zur Seite, zieht in seinen Gürtel, aus seinem Gürtel eine längliche Handgranate hervor und wirft die Handgranate.
+[00:59:25] Andreas: alle nur kriegen Varnirah und ganken keinen Rettungswurf.
+[00:59:37] Marco: Hatte ich ihn nicht eben für 8 geheilt? Achso, aha.
+[00:59:39] Andreas: Das ist aber schlecht gewürfelt.
+[00:59:40] Andreas: Also es geht eine Schrapnellgranate hoch und die Schrapnells schießen in alle Richtungen.
+[00:59:47] Andreas: Und du kannst ausweichen mit einem Geschicklichkeitsrettungswurf.
+[00:59:53] Andreas: Und das kann auch der Freund Droide schafft es nicht, G4-X schafft es nicht, aber du schaffst es. Du kriegst keinen Schaden, du kommst einfach aus.
+[01:00:09] Andreas: Das war leider nein, das sind Stormtrooper, die sind effektiv. Er macht einen Schritt zur Seite, legt seine Blasterwaffe an und schießt auf Komaru. Trifft und macht Schaden.
+[01:00:10] Benjamin: Dann wäre das jetzt für mich der Trigger.
+[01:00:17] Benjamin: Ah, okay.
+[01:00:31] Andreas: 6 Schadenspunkte auf Komar.
+[01:00:42] Andreas: Damit hat der Komaru jetzt auf 0.
+[01:00:46] Andreas: Er sinkt zu Boden und ist bewusstlos.
+[01:00:57] Andreas: Ja, aber er hat bekommen 4 und dann nochmal 6 Schadenspunkte.
+[01:01:01] Andreas: Den Bonus habe ich ja noch.
+[01:01:02] Marco: Ah ja, ja, ja, ok. Ok, ok. Aber dann funktioniert die Bonusaktion bei Sharpshooter nicht. Das sieht gut aus. Plus Sneak Attack. Muhaha.
+[01:01:05] Andreas: Ich würde gerne nur quasi die Reinen würfeln.
+[01:01:07] Andreas: Und der Bonus ist 8.
+[01:01:09] Andreas: Also die machen 1w8 plus 2 Schadenspunkte, Energieschaden.
+[01:01:13] Andreas: mit ihrer blöden Blasterkanone da. Ja, das war's, Varnira. Wenn du möchtest, kannst du handeln.
+[01:01:22] Benjamin: Darf ich handeln jetzt, wenn die gehandelt haben?
+[01:01:26] Benjamin: Jetzt würde ich unbedingt, ja, also das war ja die Idee, sie handeln zu lassen.
+[01:01:26] Andreas: Genau, also du triffst hervorragend auf seine gut gepanzerte Rüstung, auf den Oberarm, deine Vibroklinge, obwohl sie an ist und durch vieles wie Butter durchschneidet,
+[01:01:30] Benjamin: Das heißt, meine Bonus-Action habe ich schon gemacht.
+[01:01:32] Benjamin: Ich habe mich konzentriert.
+[01:01:34] Benjamin: Ich habe diesen Vorderen hier mehr zum Opfer auserkoren. Das heißt wirklich, er hat so ein paar Bewegungen gemacht. Er spürt diese Energie, diese Macht in sich. Er fokussiert diesen Gegner, stürzt dann nach vorne und greift ihn an, weil er ihn fokussiert mit Vorteil, was aber nichts bringt wahrscheinlich in diesem Fall.
+[01:02:01] Benjamin: Aber ich habe noch einen zweiten Angriff. Ich werde sozusagen mit der Rückhand sofort einen weiteren Schlag ausführen. Und dieser Schlag, es ist zwar kein Lichtschwert, aber immerhin ist es eine Waffe, die an meiner Hand ist.
+[01:02:14] Andreas: durch diese hervorragenden imperialen Rüstungen kommst du nicht durch.
+[01:02:20] Andreas: Und der Stormtrooper wendet sich nun mit seinem Schockstab dir zu.
+[01:02:27] Andreas: Ja, macht. Ich weiß, ja. Das geht durch.
+[01:02:41] Benjamin: ich werde wirklich allen Hass
+[01:02:45] Benjamin: dieser Form, mit der ich hier kämpfe, in dieses
+[01:02:50] Benjamin: Schwert lenken. Das heißt, ich habe einen Zusatzschaden, den würfel ich aber erst
+[01:02:55] Benjamin: nach dem ersten Schaden. Warte mal jetzt, Entschuldigung, ich wollte
+[01:02:57] Andreas: Ja, ja, ja. Das passiert immer. Kein Problem.
+[01:02:59] Benjamin: eigentlich den Schaden würfeln. So ist das.
+[01:03:02] Andreas: Ja, ja. Mach den Schaden insgesamt, dann erzähle ich dir, was passiert.
+[01:03:03] Benjamin: Also das wären jetzt erstmal sieben und ich kann dann nach
+[01:03:08] Benjamin: genau, das muss ich
+[01:03:13] Benjamin: Ja, okay. Das war schon alles, ja. Das Problem ist, ich im Grunde würde es machen, aber nicht in dieser Form. In dieser Form des Kampfes ist Kaelum völlig fixiert auf seine Beute. Der bemerkt das gar nicht.
+[01:03:15] Andreas: Ach komm, spar dir deine Machtpunkte. Du kannst ihn jetzt schon töten.
+[01:03:18] Andreas: Du brauchst diese zusätzliche Energie nicht reinlegen, weil du tatsächlich in den Zwischenraum Unterhelm oder Zwischenhelm und Brustpanzer hineinkommst.
+[01:03:33] Andreas: Und die Vibro-Klinge, sobald sie an der Rüstung vorbei ist, schneidet er einfach durch.
+[01:03:38] Andreas: und er ist nicht komplett geköpft, aber es klappt tatsächlich, sein Kopf so weit zur Seite,
+[01:03:46] Andreas: dass du seine Wirbelsäule erkennen kannst und er sinkt auf die Knie und dann seitlich weg
+[01:03:53] Andreas: und kommt auf Komaru zu liegen und pulst ihn mit rotem Blut voll, sodass sein Fell voller Blut ist.
+[01:04:03] Andreas: Komaru beginnt hässlich zu husten. Was tust du? Das war deine zweite Angriffsaktion. Varnira kann nicht viel tun, aber sie macht eine Aktion, eine Heilungsaktion auf sich selbst.
+[01:04:40] Andreas: weil niemand sonst wirklich in Reichweite da müsste sie hinlaufen und das kann sie gerade nicht. Aber
+[01:04:54] Andreas: sie hat, Moment, sie hat noch eine bewegungsentsprechende Reaktion, sie nimmt einen
+[01:04:57] Andreas: Medpack mit so einem Stimulant und wirft es dir zu und zwar nach vorn, da direkt zu diesem Stormtrooper
+[01:05:04] Friedrich: Ja, wir sind nur 25 Meter.
+[01:05:08] Andreas: und wenn du möchtest, kannst du es dann aufheben. Also sie wirft es direkt dir zu Füßen, Kaelum. Ja,
+[01:05:33] Andreas: richtig, habe ich mir schon gedacht. Okay, Sharp Shoulder Fighting Style funktioniert gerade so.
+[01:05:35] Benjamin: Schritt zurück. Im Moment nicht.
+[01:05:40] Andreas: Und ja, dann mach halt noch ein paar Schritte zurück. Du legst an, machst noch zwei, drei
+[01:05:45] Friedrich: also ich benutze meine bonus aktion um den zu markieren und dann sind wir gucken also ich
+[01:05:51] Andreas: Schritte zurück, um dich in eine bessere Position zu bringen. Ja, genau. Da ist jetzt niemand nahe dran. Du kannst also die Sneak Attack nicht machen, aber du kannst eben das Arb-Shoulder-Feature einsetzen. Aber darf ich ganz kurz mal, also du könntest Sneak Attack einsetzen, wenn du über die Bewegungsaktion, nee, du kannst über, also wenn du über die Bonusaktion eine Schurken- oder eine Operative-Aktion durchführst, um dich zu verstecken.
+[01:06:19] Benjamin: Wahrscheinlich.
+[01:06:23] Friedrich: möchte hier meinen den angreifen und mit meiner sneaker tech aber hier das war das mit dem
+[01:06:38] Friedrich: das funktioniert nicht weil ich keinen advantage ab und was wir sonst immer hatten war dass jemand
+[01:06:48] Friedrich: fünf meter 5 feet ja genau aber dass das kann das bringt mir ja nicht so viel war also außer dieser
+[01:07:04] Friedrich: bonus aktion gegebenenfalls hast du ja genau dann war ich das so ich bin ja sowieso zurückgegangen
+[01:07:23] Andreas: um die Hide-Action zu nehmen, dann kannst du dich quasi in deiner Bonusaktion verstecken. Wenn du dann den Versteckenwurf schaffst und der bei dem misslinkt, dann hast du Vorteile und dann kannst du ihn angreifen. Dann funktioniert das nicht richtig.
+[01:07:44] Friedrich: der guckt quasi zu Kaelum jetzt und dann versuche ich mich zu verstecken dabei. 22. Okay, und dann, genau, möchte ich jetzt hier gucken mit der Heavy Pistol. 21.
+[01:07:46] Andreas: Ja, sieht gut aus. Ja, das schaffst du. Du triffst und machst deinen Schaden plus, ich weiß Gott, wie viele Sneak-Attacks du hast. Ja, das reicht trotzdem aus.
+[01:08:05] Friedrich: das ist aber das ist jetzt hier sie geteilt die sechs genau das sind die acht plus sieben also 15
+[01:08:11] Marco: Sind wir aus der Initiative raus oder sind wir noch in der Initiative drin? Weil da ist ja jemand, der Deathstabbing Throws machen müsste.
+[01:08:15] Andreas: Also du schießt, es ist zwar sehr schlecht gewürfelt, aber es reicht trotzdem aus, dass du ihn auf eine Blastersalbe ausschälst und er hat einen Kopfschuss und ist tot.
+[01:08:23] Friedrich: dann hast du jetzt ein bisschen auch mit dran also ich möchte und der hit das ist was für ein
+[01:08:50] Marco: Also wenn ich wieder dran bin, kann ich... Achso, okay, dann renne ich hin und verwende meiner Defibrillation, um ihnen einen Death-Safe-Success zu geben.
+[01:08:51] Andreas: Ja, das ist jetzt die Frage. Also irgendwas passiert mit Komaru, was wollt ihr tun?
+[01:08:56] Andreas: Wenn du dran bist, kannst du sofort hin.
+[01:09:02] Andreas: Ja, super. Mache ich gleich den dritten. Ja, er hat es geschafft. Also Komaru ist zwar noch bewusstlos, aber du merkst, er stabilisiert sich. Das Husten hat aufgehört, die Katze liegt still vor dir, aber neben dir liegt auch dieses MedPak, oder diese Colto-Injektion, die die Varnira Sesh dahin geworfen hat, die könntest du jetzt danach einsetzen.
+[01:09:15] Marco: Ja, mache ich dann auch. Jetzt aber, wo jetzt keine große Eile mehr besteht, ganz in Ruhe. Aber ja, also das ist relativ große Eile immer noch, weil der hat jemanden über Alarm gerufen.
+[01:09:58] Andreas: Ja, ja, aber richtig, die haben Alarm gerufen, aber ihr kommt jetzt erstmal aus der Initiative raus. Ihr könnt jetzt erstmal kurz handeln, überlegen, was ihr tut.
+[01:10:01] Marco: Ich bin Madpack-Experte anscheinend. Ich habe wieder eine 8 gewürfelt. Aufwenden Volt. Dein Konstruktionsmodifier. Gibt es irgendwo einen Knopf, wo man eine Shortrest durchführen kann? Ich weiß nicht auswendig, was ich alles regeneriere bei einer Shortrest. Das müsste ich jetzt mal bei den Skills nachgucken, bei den Features. Genau solche Sachen müsste ich jetzt nachschauen. Rat.
+[01:10:11] Andreas: Ja, die kannst du nehmen und ich würde Folgendes vorschlagen. Wenn ihr jetzt, könnt ihr ein paar Minuten Pause machen und das ist wie etwas durchschnaufen und das ist wie eine kurze Rast.
+[01:10:22] Benjamin: Ich, ganz pragmatisch,
+[01:10:24] Benjamin: also ich werde G4-X sagen,
+[01:10:29] Benjamin: achte, ob sie kommen
+[01:10:30] Benjamin: und dann schaue ich mir mal die Rüstungen an,
+[01:10:32] Benjamin: ob die noch irgendwie tauglich sind.
+[01:10:34] Benjamin: Also ich trage nach wie vor keine ordentliche Rüstung und nix.
+[01:10:58] Andreas: das könnt ihr machen. Das heißt also, ihr könnt euch überlegen, wie viel eure Würfe ihr aufwenden
+[01:11:11] Andreas: wollt von den Hibdais. Also ihr könnt ja bis zu fünf, so wie ich das jetzt verstehe, Hibdais
+[01:11:12] Benjamin: Genau.
+[01:11:16] Andreas: aufwenden, um euch wieder auf Vornum anzubringen. Operative hat W8, genau, also fünf W8 plus
+[01:11:23] Friedrich: was für das 1d 8 plus 3 plus der 1 also gar nicht so wird sich einen von diesen die haben diese
+[01:11:24] Benjamin: Das ist,
+[01:11:25] Benjamin: das hängt von deiner Charakterklasse ab.
+[01:11:27] Benjamin: Ich vermute, bei dir ist es D8.
+[01:11:29] Benjamin: Was bist denn du von
+[01:11:30] Benjamin: Operative?
+[01:11:34] Benjamin: ist die 8.
+[01:11:37] Andreas: Konstitutionsmodifikator. Ich würde mal sagen, diesmal ja. Also du würfelst quasi einmal 1w8 plus 1 oder 2, sondern nochmal 1w8 und so weiter, so lange wie du halt brauchst, um dich wieder zu heilen oder aufhören möchtest.
+[01:11:41] Benjamin: Aber der Modifikator, geht der auf jeden
+[01:11:43] Benjamin: einzelnen Head-Dy?
+[01:11:45] Benjamin: Müsste er?
+[01:11:53] Benjamin: Genau. Wir können mal
+[01:11:59] Andreas: Das ist bei dir das Einzige. Nee, leider nicht. Du kriegst wahrscheinlich ein paar von deinen Punkten zurück, deinen Tech Powers zurück. Ich kann das gleich sagen.
+[01:12:24] Benjamin: Ja, das muss genau.
+[01:12:46] Andreas: Ich sage es dir gleich, das arbeitet im... genau. Ihr regeneriert euch und ich würde aus Gründen der Opportunität so machen, dass Komaru allerdings ziemlich aus... also angeschlagen ist, stabil, aber angeschlagen ist und bei G4-X, Varnirara und Ganden bleibt und G4-X beschützt die ganzen.
+[01:13:30] Andreas: Das heißt also, die sind jetzt erst mal inaktiv und stabil auf der Seite und ihr seid jetzt wieder aktiv und könnt euch dementsprechend heilen. Du kannst die Rüstung anziehen. Es handelt sich um eine Stormtrooper-Rüstung. Die Stormtroopers haben eine Dura-Steel-Armour. Die macht einfach rund einen AC-16-Rat.
+[01:13:52] Benjamin: Oh, wow, okay.
+[01:13:54] Benjamin: Ich glaube, Dr.
+[01:13:56] Benjamin: Rath, Rath oder
+[01:13:58] Benjamin: Rath? Ich sage mal Rath.
+[01:14:00] Benjamin: Rath. Ich glaube,
+[01:14:00] Andreas: Moment. Alle verbrauchten Tag Points zurück. Du hast dabei 10 Tag Points aus der Klassenstufe plus deinen Modifikator. Also zum Beispiel bei Intelligenz plus 4, also du kriegst bis zu 15 Tag Points zurück. Achso, du kriegst 14 Tag Points zurück.
+[01:14:02] Benjamin: Tag Points
+[01:14:04] Benjamin: regenerieren sich vollständig
+[01:14:06] Benjamin: bei einer Short Rest.
+[01:14:08] Benjamin: Das ist der Gegensatz zu den Force Points.
+[01:14:11] Benjamin: Dafür braucht man den Long Rest, wenn ich das richtig sehe.
+[01:14:21] Benjamin: Genau.
+[01:14:21] Marco: Shortrest, wow, nice.
+[01:14:23] Benjamin: Ja, das ist schon heftig.
+[01:14:29] Marco: Genau, 14.
+[01:14:34] Marco: Moment, mein Total ist 14,
+[01:14:36] Marco: also 10.
+[01:14:39] Marco: Ja.
+[01:14:39] Andreas: Genau, also wenn du vor der Short Rest nur noch drei hattest, gehst du auch danach wieder auf 14 hoch. Das ist anders als bei Force Points, wie der Force Caster. Der Ingenieur ist bewusst als Short Rest Caster gebaut.
+[01:14:41] Marco: Also 10 plus int 4.
+[01:14:43] Marco: Also, ja.
+[01:14:51] Marco: Ich hatte 0.
+[01:14:58] Andreas: Okay, sehr interessant. Cool, wusste ich nicht. Sehr spannend. Das ist ein riesiger Unterschied zu dem, was man ja eigentlich aus D&D kennen würde. Also ja, finde ich interessant. Weil du das ja nicht aus dir selbst ziehen musst oder aus der Macht, sondern du überprüfst deine Ausrüstung, schaust, dass alles noch sitzt und dann geht es wieder weiter.
+[01:14:58] Benjamin: Genau.
+[01:14:59] Marco: Okay.
+[01:15:03] Marco: Ja.
+[01:15:04] Benjamin: Nee, das ist echt ein Unterschied.
+[01:15:23] Andreas: Ja, richtig.
+[01:15:26] Marco: Okay.
+[01:15:28] Friedrich: blaster gewährende diese blaster da würde gar nicht so sich einen von mitnehmen noch so eine
+[01:15:37] Friedrich: spezial schafft den wir mal irgendwie verarbeiten müssen wartest du hat jetzt den anderen helm
+[01:16:08] Andreas: melden, Meldung, Meldung, Trooper 1143, Meldung, Trooper 1129, Meldung, Verfolgung aufnehmen, Verfolgung aufnehmen.
+[01:16:09] Benjamin: Sobald ich das realisiere, schnappe ich mir natürlich sofort den zweiten Helm
+[01:16:15] Benjamin: und drücke dem irgendjemand, dem Nächsten, der neben mir steht, entgegen.
+[01:16:24] Benjamin: Das ist auf Trupper 1143.
+[01:16:34] Benjamin: Sie sind in Richtung Norden.
+[01:16:38] Benjamin: Wiederhole.
+[01:16:40] Benjamin: Hört die Richtung bestätigt.
+[01:16:49] Andreas: Und was du jetzt auch hast, ist Dark Vision 60 Feet, weil nämlich die Helme das dir geben.
+[01:16:54] Andreas: Also du hast einfach jetzt nach sich, ja, wer auch immer den weißen Helm aufsetzen möchte, kann es aufsetzen. Ja, ja. Und wenn du jetzt nicht auch noch den Brustpanzer und so weiter umschnallst, dann lasse ich das auch jetzt nicht als irgendwelche Schwierigkeiten gelten. Was hast du gerade für eine Rüstung?
+[01:16:56] Benjamin: Das behalte ich.
+[01:17:01] Friedrich: aufgesetzt oder?
+[01:17:08] Marco: Ich denke, ich würde den aufsetzen.
+[01:17:11] Marco: Und ich glaube,
+[01:17:12] Marco: ich finde mich sogar einigermaßen
+[01:17:14] Marco: damit zurecht, weil ich
+[01:17:15] Marco: in einem Militärausbietal gewesen bin,
+[01:17:18] Marco: mal, also für eine Weile.
+[01:17:31] Andreas: Dann kriegst du jetzt plus eins auf Rüstungsklasse, wenn du diesen Helm auf hast, kannst auch die Funksignale mitempfangen und kriegst auch 60 Dark Vision.
+[01:17:32] Marco: Ich habe
+[01:17:33] Marco: einen Combat-Suit.
+[01:17:47] Andreas: Ah, sehr cool. Aber leider auf Jäger gibt es überhaupt gar keine Sonne und deshalb fühlst du dich da besonders wohl.
+[01:17:47] Marco: Ich habe eh Darkvision.
+[01:17:50] Marco: Ich habe sogar
+[01:17:50] Marco: Sunlight-Sensitivity und
+[01:17:52] Marco: Infrarot-Vision und so, also
+[01:17:54] Marco: ja. In der kurzen Rast
+[01:18:04] Andreas: Ja, was jetzt noch zusätzlich auftaucht, ist, dass ein ziemlich steifer Wind aufkommt und die ganzen Palmen anfangen im Wind zu wackeln.
+[01:18:14] Andreas: Und Staubpartikel und Wasser werden aufgewirbelt und gegen eure Kleidung und gegen die Helme gewirbelt,
+[01:18:22] Andreas: was aber auch zu Interferenzen im Funk führt. Also das kann sowohl schlecht als auch gut sein. Und das gibt euch möglicherweise auch ganz kurz die Möglichkeit, hier zu rasten. Auch, dass du denen bestätigt hast, dass du die Verfolgung aufnimmst.
+[01:18:35] Andreas: Und ihr hört, ich spreche das jetzt nicht alles aus, aber ihr hört eine männliche Stimme Befehle geben und es sind am Ende zwei Personen, die schwer verletzt noch aus der Shuttle-Explosion gerettet werden konnten und die in das andere Shuttle gebracht werden, um sie dort medizinisch zunächst mal noch zu versorgen.
+[01:18:58] Andreas: Das ist das, was ihr mitbekommt, während ihr euch auch ausruht.
+[01:19:01] Andreas: nach eurer kurzen Rast, was habt ihr vorzutun?
+[01:19:07] Marco: würde ich gerne noch ein
+[01:19:09] Marco: Gespräch ansetzen. Das ist wahrscheinlich nur
+[01:19:11] Marco: kurz, aber ich würde gerne
+[01:19:12] Andreas: Ich bitte euch jetzt, wo ihr die beiden Leichen vor euch habt,
+[01:19:13] Marco: zu Ghalrixtho sagen,
+[01:19:16] Marco: danke, dass Sie die schwere Entscheidung auf sich genommen haben,
+[01:19:22] Marco: das Leben der Captain zu beenden.
+[01:19:24] Marco: So ist sie wenigstens nicht verbrannt bei lebendigem Leib.
+[01:19:29] Friedrich: Ja, so nickt
+[01:19:30] Friedrich: Dr. Raths zu.
+[01:19:34] Friedrich: Und ist etwas beruhigt,
+[01:19:36] Friedrich: dass er die Entscheidung akzeptiert.
+[01:19:45] Andreas: die brennende Brill über den Tod von Cassandra Nero,
+[01:19:49] Andreas: so diskutiert alle um einen Weisheitswurf, einen Weisheitsrettungswurf, alle drei.
+[01:19:57] Marco: Okay.
+[01:19:59] Marco: Ich habe ein Racial Feature, das mir Advantage gibt.
+[01:19:59] Friedrich: 27.
+[01:20:04] Andreas: Ja, aber er gänzt Force und Tech aus und das ist eindeutig Force
+[01:20:04] Marco: Wenn es um Tech Powers geht, glaube ich, oder nur um alles.
+[01:20:08] Benjamin: Ergänzt.
+[01:20:09] Benjamin: Muss ich auch noch mal kurz nachfragen.
+[01:20:11] Andreas: und insofern kannst du das Home-Mind einsetzen. Guck, da steht ergänzt Force and Taktos. Also das ist den Besten von zwei. Ja, also während Ghalrixtho sich mit seinen roten Augen und seiner blauen Haut sehr sachlich dieser ganzen Hinrichtung, die er durchgeführt hat, zugewendet hat und es dir sehr unheimlich vorkommt, wie klar das abgelaufen ist,
+[01:20:17] Marco: Okay.
+[01:20:17] Marco: Also Weisheitsrettungswurf.
+[01:20:26] Marco: Okay.
+[01:20:27] Marco: Plus Null.
+[01:20:28] Marco: Super.
+[01:20:29] Marco: Was ist da in deiner Tasche? Das sieht gefährlich aus.
+[01:20:51] Andreas: ist auch dieser Boden nun blutgedrängt, wo Kaelum den Stormtrooper niedergemacht hat.
+[01:20:59] Andreas: Und das Blut vermengt sich mit diesen Steinen am Boden und mit dieser rötlichen Masse.
+[01:21:12] Andreas: Kaelum ist aber auch überhaupt nicht beeindruckt von dieser Angelegenheit.
+[01:21:16] Andreas: und beide halten Ausschau.
+[01:21:20] Andreas: So sieht es fast aus nach ihren nächsten Zielen.
+[01:21:23] Andreas: Du allerdings siehst, dass in der Tasche von Ghalrixtho,
+[01:21:28] Andreas: in der sich die Statue befindet, jetzt ein rotes Licht stark leuchtet.
+[01:21:44] Friedrich: Das ist die
+[01:21:45] Friedrich: Statue, die wir aus dem Tempel
+[01:21:47] Friedrich: geborgen haben.
+[01:21:48] Marco: Ihr habt etwas geborgen? Und warum leuchtet das jetzt? Ist das vielleicht ein Sith-Artefakt?
+[01:21:51] Friedrich: Das konnten wir gerade vor
+[01:21:52] Friedrich: Captain Nero nicht
+[01:21:55] Friedrich: so diskutieren.
+[01:22:01] Andreas: Es ist eindeutig nicht mehr deaktiviert und du siehst dieses rötliche Leuchten
+[01:22:05] Friedrich: Es hat irgendwie auf jeden Fall mit dem
+[01:22:07] Friedrich: Tempel interagiert,
+[01:22:09] Friedrich: aber ich weiß nicht, vielleicht ist das hier
+[01:22:11] Friedrich: jetzt nicht der richtige Augenblick, um das in Ruhe auszudiskutieren.
+[01:22:17] Friedrich: Wir müssen es bei Gelegenheit uns genauer ansehen.
+[01:22:22] Marco: Ich mache mir nur Sorgen, weil ich vorher nicht wahrgenommen habe, dass es leuchtet.
+[01:22:26] Marco: Vielleicht ist irgendetwas geschehen.
+[01:22:26] Friedrich: Das ist richtig. Es war zwischenzeitlich auch
+[01:22:30] Friedrich: deaktiviert. Also als Doktorate sagt, mache ich die Tasche auf
+[01:22:39] Andreas: ziemlich stark aus der Tasche scheinen.
+[01:22:43] Andreas: Es ist, als wäre dort eine Notfalllampe aktiv, so wie man sie auf einem Raumschiff hat. Du schaust dir das an, es laufen diese Symbole, die du nicht lesen kannst, zwischen den beiden Händen. Also die hat ja ihre Hände so ein bisschen wie Frau Mertels oder zu so einem Kreis geschlossen und dazwischen ist ein roter Bildschirm.
+[01:22:53] Friedrich: und hole die Statue vorsichtig raus und gucke sie mir auch noch mal an.
+[01:23:15] Andreas: Das ist allerdings keine Fläche, sondern zwischen den Händen erscheinen holographische, rötlich leuchtende, also nicht diese bläulich leuchtenden Holografien, sondern rötliche Holografien. Das ist Text, der durchläuft, fast so wie bei der Matrix.
+[01:23:31] Andreas: einfach von oben nach unten, diese Siphonen, die da entsprechend durchlaufen, als wäre eine Art
+[01:23:39] Andreas: Computerprogramm oder Routine aktiv, die du allerdings nicht sehen kannst. Du kannst nur
+[01:23:43] Andreas: dazwischen sehr viele Zahlen sehen, die so geschrieben sind, dass du sie erkennen kannst,
+[01:23:48] Andreas: Buchstaben, die du nicht lesen kannst und Zahlen, die du erkennen kannst, die hier durchlaufen. Und
+[01:23:55] Andreas: es hängt zwar der Kabelbaum nach unten etwas raus, aber gerade aus dieser Öffnung, aus dem Sockel,
+[01:24:01] Andreas: dieser Statue, siehst du dieses stark rote Licht, der Kyberkristall, der da drin eingelassen ist,
+[01:24:08] Andreas: leuchtet einfach stark rot gerade. Das ist beschädigt, weil Garrys da unten den Sockel
+[01:24:12] Marco: Ich glaube, du hattest vorhin beschrieben, dass das Ding beschädigt aussieht, oder?
+[01:24:17] Friedrich: Und der Sockel ist so aufgebrochen.
+[01:24:18] Andreas: aufgerissen hat. Ich zeige euch das nochmal, sieht tatsächlich ganz genau so aus. Und unten hat er
+[01:24:32] Andreas: hat er den Sockel aufgestemmt mit der Vibro-Klinge das letzte Mal und da hängen die Kabel raus.
+[01:24:41] Benjamin: Du hattest gerade von einem Cyber-Crystal gesprochen.
+[01:24:45] Marco: Das rote Ding.
+[01:24:45] Benjamin: Das ist...
+[01:24:45] Andreas: Ja, da ist ein Küberkristall eingelassen innen drin.
+[01:24:48] Benjamin: Ah, okay.
+[01:24:49] Benjamin: Das hatte ich so letztes Mal gar nicht verstanden.
+[01:24:51] Benjamin: Oh, jetzt wird es richtig spannend.
+[01:24:53] Marco: Ich wollte nämlich auch vorhin schon sagen, da hat Dr. Rath es ja noch gar nicht gesehen,
+[01:24:57] Marco: Auf mich wirkt der untere Teil der Statue, wo dieser offene Teil ist, wirkt auf mich so ein bisschen wie der Griff von einem Lichtschwert. Also diese Lichtschwertgriffe, die haben manchmal auch so dieses runde Element.
+[01:25:14] Benjamin: Wenn man dieses Teil jetzt nimmt
+[01:25:14] Marco: es würde jetzt sozusagen
+[01:25:17] Marco: also der Knauf ist quasi
+[01:25:20] Marco: der Kopf und die Klinge müsste
+[01:25:21] Marco: unten rauskommen, so ist mein Eindruck
+[01:25:23] Marco: von der Abbildung
+[01:25:25] Marco: es ist, wenn es
+[01:25:28] Benjamin: und das so versteht. Wir haben noch einen Emitter.
+[01:25:31] Benjamin: Fehlt dann noch etwas?
+[01:25:35] Andreas: Naja, also der Emitter, wo käme der hin? Das ist jetzt die große Frage.
+[01:25:41] Benjamin: Genau, also
+[01:25:42] Benjamin: die Frage wäre, ob der dann unten
+[01:25:43] Friedrich: Dass sie Klingel da unten zeigen würde.
+[01:25:44] Benjamin: hinkommt, wenn man das Ganze einmal umdreht.
+[01:25:47] Benjamin: Genau.
+[01:25:47] Andreas: Wenn du das umdrehst, dann befindet sich dort tatsächlich so eine Art Raste.
+[01:25:52] Andreas: Da kann man den einsetzen.
+[01:25:54] Benjamin: Dr. Rath!
+[01:25:59] Benjamin: Unfassbar.
+[01:26:02] Marco: ein Schwert
+[01:26:04] Marco: sein sollte, dann ist es für
+[01:26:06] Marco: Sith gedacht, glaube ich
+[01:26:10] Benjamin: Es ist für
+[01:26:10] Benjamin: Machtwirke gedacht.
+[01:26:12] Benjamin: Ich, äh, Kaelum
+[01:26:13] Benjamin: hält die Hand.
+[01:26:16] Benjamin: Herr Ghalrixtho, ich glaube, du hast das gerade
+[01:26:18] Benjamin: wie auch immer entgegen.
+[01:26:20] Friedrich: Den im Mitte hat Komaru.
+[01:26:26] Andreas: Komaru stöhnt da hinten, aber zieht aus seiner Tasche den Emitter hervor.
+[01:26:31] Andreas: und er hat auch seinen Wurf nicht geschafft und gibt dir den ohne weiteres, wirft ihn dir zu.
+[01:26:39] Andreas: Also während Galerikstor dabei ist, gerade jetzt, es tut mir leid, du hast deinen Wurf nicht geschafft,
+[01:26:46] Andreas: die Bades von diesem Gerät zu schließen und auch mit einem Reparaturwerkzeug, das kurz wieder so verschweißt,
+[01:26:54] Andreas: dass der Karbenbaum nicht mehr raushängt, ist es so, dass du unbedingt mit Kaelum den Emitter unten aufschrauben möchtest.
+[01:27:08] Andreas: Du möchtest ihn unbedingt ansetzen.
+[01:27:10] Friedrich: Schade.
+[01:27:12] Andreas: Dr. Rath, du bist dir nicht unbedingt sicher, ob das eine gute Idee ist.
+[01:27:18] Andreas: Vor allem scheinen die beiden sich überhaupt nicht wegen dieser Nadel zu sorgen, die da unten raussteht.
+[01:27:19] Marco: was hat
+[01:27:26] Andreas: Es reicht nicht aus, um zu widerstehen. Du bist sehr gierig. Es kümmert dich nicht, dass da eine Nadel ist.
+[01:27:31] Marco: ich kenne mich mit Lichtschwertern
+[01:27:34] Marco: nicht wirklich aus, aber haben die
+[01:27:36] Marco: alle so eine Nadel, an der man
+[01:27:38] Marco: sich verletzen kann.
+[01:27:44] Benjamin: Wie hattest
+[01:27:45] Benjamin: du vorhin, Andreas, meinen Weisheitswert?
+[01:27:48] Benjamin: Ich hatte ja mit zwölf gewürfelt.
+[01:27:50] Benjamin: Wie gierig bin ich?
+[01:28:01] Andreas: Es ist sogar genau richtig, dass du das Lichtschwert um die Hüfte fasst, du drehst es um, schraubst den Emitter oben auf und du siehst, das hat eine substanzielle Größe.
+[01:28:02] Benjamin: Es ist ungewöhnlich,
+[01:28:04] Benjamin: aber ich versuche weiter dran.
+[01:28:10] Marco: Ups, sorry, ich wollte jetzt nichts casten.
+[01:28:12] Marco: Ich habe ein Fehlglied gehabt.
+[01:28:28] Andreas: Also die Statue ist ja groß. Das ist fast wie ein zweihändiges Schwert, was du hier aufbaust. Das ist ein großes Ding. Und es wirkt nur unhandlich, aber tatsächlich fällt die Hand sehr gut um Hüfte und um die Arme dieser Statue.
+[01:28:49] Andreas: Du schraubst es auf und die Symbolik ändert sich sofort.
+[01:28:58] Andreas: Und zwar entsteht tatsächlich jetzt genau das, was ihr sehen könnt zwischen den Fingern.
+[01:29:04] Andreas: Es entsteht die Symbolik einer Klinge und um diese Klinge herum hat es konzentrische Kreise und Linien, die in unterschiedliche Distanzen wegführen.
+[01:29:16] Andreas: Als würde dieses Licht ein Zentrum ausbilden.
+[01:29:18] Friedrich: Ich habe das Bild gerade weggeklickt.
+[01:29:19] Andreas: Ja, ich klicke es nochmal an. Also du drehst es um, du hast den Emitter aufgeschraubt. Der Emitter hat ja drei solche Zacken ausgeprägt, die relativ weit rausstehen. Du schraubst es auf, du hältst es in der Hand.
+[01:29:23] Friedrich: Ach, da ist es.
+[01:29:26] Friedrich: Aber aus dem Emitter kommt das raus oder in der Zwischenhänden? Ja, ja.
+[01:29:41] Andreas: möchtest du es, also ihr schraubt unten, dort wo es drauf steht, in die Mitte auf, genau. Und man hält es um die Hüfte und im Kopfbereich fest und du drehst es jetzt um, um es aufzufahren. Möchtest du es auffahren?
+[01:29:50] Friedrich: Ja, Ghalrixtho will ja auch das ausprobieren. Das ist der Weisheitswurf. Er will, dass wir das testen. Die Kerle um die Nadel. Wird das über die Nadel aktiviert?
+[01:30:02] Andreas: Ne, der Kristall ist direkt in der Hüfte eingelassen, innen drin und das Display hat mit dem Kristall erstmal nichts zu tun. Das ist einfach mal eine technische Holographie. Aber es kommt dir schon komisch vor, also warum eine Holographie, warum diese Nadel.
+[01:30:05] Marco: Und das Rote ist
+[01:30:07] Marco: zwar der Kristall, aber
+[01:30:09] Marco: er fungiert als Display.
+[01:30:12] Marco: Habe ich das richtig verstanden?
+[01:30:20] Marco: Achso.
+[01:30:28] Andreas: Ghalrixtho, du erinnerst dich natürlich auch noch an diese Nanitenflüssigkeitsbehälter dort drinnen.
+[01:30:35] Andreas: Unglaublich schwerfällig ist dieses Teil. Schwer, legt es in der Hand. Und was auch immer, wenn man es
+[01:30:38] Benjamin: erst mal aus Gewohnheit
+[01:30:40] Benjamin: das Ding ohne es zu aktivieren
+[01:30:42] Benjamin: in der Hand führen. Ich glaube, das ist
+[01:30:44] Benjamin: das, was man bei einer
+[01:30:45] Benjamin: Sitz- und Jedi-Ausbildung,
+[01:30:48] Benjamin: man beginnt zunächst ein
+[01:30:50] Benjamin: Gespür dafür zu entwickeln.
+[01:30:58] Andreas: ausfährt, das ist eine substanziell breite Klinge, die dann da rauskommen würde. Du weißt nicht, wie
+[01:31:07] Andreas: lang es wird. Aber es interessiert dich. Du findest aber keinen Outlösungsmechanismus, keinen
+[01:31:15] Andreas: Knopf an irgendeiner Stelle. Nein, es interferiert nur etwas und wenn du da drüber fasst, kannst du nicht mehr genau erkennen, was dort angezeigt wird. Wenn du es dir aber genau anschaust, hast du jetzt eine Art Zentralisierung und Linien laufen hier in diese Lichtschwertklinge ein aus unterschiedlichen Richtungen.
+[01:31:19] Benjamin: Also nichts, wo ich es einfach aktivieren
+[01:31:21] Benjamin: könnte. Ich fasse mal
+[01:31:23] Benjamin: hier in der Mitte auf dieses
+[01:31:25] Benjamin: Rote, auf den
+[01:31:26] Benjamin: Kristall
+[01:31:29] Benjamin: hier. Versuche damit irgendwie...
+[01:31:51] Andreas: Und du spürst etwas, dieses Ding in deiner Hand. Ja, aber das ist doch ein All-Saving-Throw. Das ist nicht, ja, genau, es soll, es soll, du verbindest einfach, also du spichst durch deine Handfläche hindurch, relativ tief geht es in deine Handfläche hinein und in dem Moment aktiviert sich das Ding.
+[01:32:13] Benjamin: Das wäre nicht die erste Nadel
+[01:32:14] Benjamin: heute. Gut, ich warte das
+[01:32:16] Marco: Bevor du was tust,
+[01:32:19] Marco: möchte ich dir
+[01:32:21] Marco: einen kleinen
+[01:32:23] Marco: Boost verleihen.
+[01:32:24] Marco: Er tippt in sein Wristpad
+[01:32:27] Marco: und
+[01:32:27] Marco: ein kleiner Energiestrahl löst sich aus dem Handgelenk und geht in deine Brust hinein. Es
+[01:32:39] Marco: wirkt irgendwie angenehm warm und du bekommst innerhalb der nächsten zehn Minuten einen
+[01:32:50] Marco: Bonuswürfel, den du verwenden kannst. Und zwar für ich glaube auf Ability Checks bloß, aber...
+[01:33:01] Marco: Ach dann. Ah ja, okay, stimmt. Ja, du bist gerade schlecht zu verstehen für mich. Kannst du etwas näher zum Mikro kommen? Er hat also gerade durch die Kraft der Macht, hat er uns jetzt gerade angefeuert und angespornt und ermächtigt.
+[01:33:09] Benjamin: noch kurz ab. Schon ein wenig
+[01:33:11] Benjamin: ungeduldig und
+[01:33:12] Benjamin: greife
+[01:33:15] Benjamin: diesen Griff
+[01:33:17] Benjamin: an der Stelle, an der auch die Nadel
+[01:33:19] Benjamin: ist, ohne irgendwie Rücksicht zu nehmen,
+[01:33:21] Benjamin: dass sie mich stechen könnte oder so.
+[01:33:23] Benjamin: Wahrscheinlich soll sie das.
+[01:33:24] Benjamin: sehe ich, wo der, fällt mir gerade sein Name nicht ein, der Zerstörer der Welten, genau, ist er hier? Wo ist die Titan? Ich wende mich zu den anderen. Das ist nicht nur ein Lichtschwert, das ist die Verteidigung dieses Planeten.
+[01:33:39] Andreas: auch die klingeln es handelt sich tatsächlich um ein zweihändiges lichtschwert welches ausfährt
+[01:33:46] Andreas: lang rot leuchten zu jäger packen und wenn es ausfährt verschwindet dieses rötliche licht im
+[01:34:04] Andreas: griff bereich nicht diese anzeige sondern wird etwas stärker und bewegt sich und du spürst etwas
+[01:34:13] Andreas: in deine Handfläche hinein pulsieren. Ihr seht nichts, aber du spürst eine alte Flüssigkeit,
+[01:34:22] Andreas: dein Arm hinaufsteigen und in dich hineinfließen. Und diese Naniten verbinden dich also hier mit der
+[01:34:34] Andreas: Kampfstation und du erhältst sofort einen Überblick über das Schlachtfeld. Du hast quasi diese KI, diese alte SIV-KI aktiviert und die Schlachtmeditation verbindet dich mit dem Tempel.
+[01:34:54] Andreas: und das ist also eine computergestützte Nutzung der Macht, eine technische Nutzung all dessen, was Iego umgibt.
+[01:35:06] Andreas: Iego hat die Macht, du verstehst das auch sofort, die KI gibt dir die Informationen ein, zieht die Macht aus Iego ab.
+[01:35:16] Andreas: Diese ganze lebensfeindliche Umwelt, die hier herrscht, herrscht deshalb, weil alles abgezogen wird, was positiv und mit Leben zu tun hat und in diesen Tempeln zusammengezogen wird.
+[01:35:31] Andreas: und du weißt ganz genau, was du mit diesem Lichtschwert tun musst.
+[01:35:37] Andreas: Du bist auch gestärkt.
+[01:35:40] Andreas: Du weißt intuitiv, wo sich die weiteren neun Stormtrooper in der Nähe des Shuttles befinden
+[01:35:48] Andreas: und dass sie samt ihres Anführers, das ist ein Sergeant, und den beiden Piloten das Primärziel Nummer 1 sind.
+[01:35:57] Andreas: Du bist aber nicht blind oder dumm oder weißt einfach, dass deine eigenen Truppen schwer angeschlagen neben dir stehen. Aber du hast auch ein Verständnis davon, wo sich die Titanen befinden, dass dort gerade eine Präparation stattfindet, TIE Fighter loszuschicken und einen TIE Bomber, also drei TIE Fighter und einen TIE Bomber, um das Tal auszugutschern.
+[01:36:23] Andreas: Du weißt intuitiv, dass die Turbot aktiv ist. Du weißt intuitiv, dass die Brill zerstört ist. Du kennst die Position von hunderten abgestürzten und teilweise gut gelandeten Black Sun Söldnern und auch von hunderten anderen Einsätzen über Iego verteilt von den Imperialen.
+[01:36:48] Andreas: Du weißt ganz genau, dass niemand auf diesen einen Angriff jetzt gefasst sein wird, weil alle davon ausgehen, dass euer Schiff abgestürzt ist. Jetzt ist Zeit loszuschlagen.
+[01:37:01] Andreas: Ja, im Bagdad Tank auf der Titan rum. Wo ist die Titan? Die Titan befindet sich drei Kilometer, also nicht so weit, noch innerhalb der Atmosphäre von Ievo, etwas östlich von euch. Gut erreichbar, entweder durch die Turbot oder durch das Shuttle direkt vor dir.
+[01:37:43] Andreas: Du kannst einen Wurf machen und ihr anderen könnt, wenn ihr das annehmt, das jetzt angefeuert werdet von ihm jetzt nach diesem Speech, könntet ihr einen Wurf auf jeden Wurf, den ihr jetzt während des Kampfes einsetzt, als Bonus anrechnen?
+[01:38:01] Benjamin: Wir haben jetzt die Gelegenheit zuzuschlagen. Wir haben die Gelegenheit eine Wirkung zu erreichen, wie wir sie sonst nie wieder bekommen werden.
+[01:38:16] Benjamin: Wir befreien unser Raumschiff. Wir vernichten diese Stormtrooper.
+[01:38:25] Benjamin: Und dann werden wir den Zerstörer meiner Heimat, den Mörder meiner Familie, ein für allemal ausschalten.
+[01:38:32] Benjamin: Ausschalten. Seid ihr dabei? Seid ihr dabei? Aber grandios. Du kannst die Musik auch leiser machen bei dir einfach. Bei den Einstellungen Audio, Video kannst du für dich selbst die Lautstärke anpassen. Ich finde die Subriksur ist dabei. Keine Zweifel, kein Wahrscheinlich.
+[01:38:50] Friedrich: Du hast gerade gesagt, soll Benni jetzt nochmal würfeln?
+[01:39:28] Friedrich: Sorry, ich habe mich motiviert.
+[01:39:28] Andreas: Ihr könnt jedes und bei allem, was ihr jetzt tut, Angriffswürfe, Schadenswürfe und kampfbezogene Abwehrwürfe.
+[01:39:39] Andreas: Jetzt immer richtig fest. Ihr fühlt euch endlich bereit für diese Aufgabe.
+[01:39:57] Andreas: wie er dort vor euch steht und dieses rote Lichtschwert, dieses riesige zweihändige Ding in der Hand hält.
+[01:40:07] Andreas: An so jemandem kommt niemand vorbei.
+[01:40:10] Andreas: Ihr reiht euch ein, zumindest Ghalrixtho.
+[01:40:15] Andreas: Du hast mit Dr. Rath ein immer übleres Gefühl, hier geht irgendetwas ganz grandios schief.
+[01:40:24] Andreas: Das fühlt sich überhaupt nicht richtig an. Ja, ich mache die Musik. Ja, genau. Ich kann die aber auch leise machen. Ich fand nur die Stimmung dieses Synth-Songs im Hintergrund gerade sehr passend.
+[01:40:30] Friedrich: Die mit der Musik verstehe ich nicht sehr schlecht.
+[01:40:33] Friedrich: Ich habe gerade gesagt, es war sehr episch.
+[01:40:40] Friedrich: Wie kann ich das machen?
+[01:40:47] Friedrich: Ah, da.
+[01:40:48] Friedrich: Okay.
+[01:40:48] Friedrich: Ja, es war auch gerade zu der Rede perfekt.
+[01:40:53] Andreas: Nein, Karl Rix, du bist dabei. Du hast sieben. Ja, genau so ist es.
+[01:40:58] Friedrich: Also du hast gerade gesagt, dass Galericto das auch bemerkt, dass das...
+[01:41:04] Friedrich: Ja, okay, alles klar. Deswegen habe ich nochmal nachgefragt.
+[01:41:08] Friedrich: Okay, alles klar. Ja, wir müssen die Chance nutzen und uns von diesem Lambda-Schiff,
+[01:41:15] Friedrich: dieses Lambda-Shuttle loswerden.
+[01:41:23] Marco: kriegt mit, dass das alles gerade
+[01:41:24] Marco: unheimlich ist und wahrscheinlich in die falsche Richtung geht.
+[01:41:33] Marco: Andererseits.
+[01:41:36] Andreas: Wenn er dich so anschaut, ist das Unheimlichste, dass seine Augen völlig silbrig sind und unter der Augenoberfläche befinden sich jetzt bewegte Partikel, als würden solche kleinen Silberpartikel sich in diesen weißen Augen bewegen.
+[01:41:37] Marco: Genau.
+[01:41:39] Marco: Also ich glaube,
+[01:41:39] Marco: Dr. Rath sagt,
+[01:41:42] Marco: wahrscheinlich
+[01:41:43] Marco: haben sie recht.
+[01:41:47] Marco: Sie wissen das besser als ich.
+[01:41:50] Benjamin: Heute gibt es Sicherheit. Geh ganz nah zu Dr. Rathran. Heute wird Gerechtigkeit gesprochen. Ich vergesse gar nichts.
+[01:41:51] Marco: Aber
+[01:41:51] Marco: vergessen sie nicht, wer sie sind
+[01:41:56] Marco: und wessen Waffe sie führen.
+[01:42:01] Marco: Bleiben sie bei sich, verlieren sie sich nicht.
+[01:42:35] Andreas: Es ist von seinen ursprünglichen Augen, seiner Augenfarbe und so weiter nichts mehr übrig. Du bist dir ziemlich sicher, dass es sich um Naniten handelt, eine im Imperium strengst verbotene Technologie, eine alte Technologie, die mit künstlicher Intelligenz zu tun hat, seit sehr, sehr langer Zeit strengstens sowohl in der Republik als auch im Imperium verboten.
+[01:42:40] Marco: Würde ein Biochemiker wie Dr. Rath möglicherweise darauf schließen,
+[01:42:45] Marco: dass diese Nadel eine giftige, wie auch immer bewusstseinsverändernde Indiktion verursacht haben könnte?
+[01:43:13] Andreas: Die wird streng geahndet. Wenn man also Artefakte dieser Art findet, werden sie vom Imperium eingesackt. Grundsätzlich großflächig, die Viertel, wo man sowas gefunden hat, ausgebrannt mit Turrolasern oder sonst was. Und auch da strecken die nicht davor zurück, Leute hinzurichten. Das ist völlig verboten.
+[01:43:37] Andreas: Und ihr kennt auch alle die Geschichten. Zumindest die anderen erinnern sich jetzt gerade nicht daran. Künstliche Intelligenz ist des Teufels. Er ist nicht arg viel größer oder kleiner als du, habe ich den Eindruck. Nur von der Statur her komplett anders.
+[01:43:40] Marco: Okay.
+[01:43:48] Marco: Dann strecke ich, also Dr. Rath streckt dir die Hand entgegen.
+[01:43:54] Marco: also er möchte einschlagen, wenn man jetzt einen Pakt beschließt
+[01:43:59] Marco: und sagt, okay, dann bin ich dabei
+[01:44:01] Marco: er ist ziemlich groß und hager
+[01:44:06] Benjamin: Wie groß ist denn Dr. Rath? Kannst du mir nochmal ganz kurz beschreiben, wie es aussieht?
+[01:44:14] Marco: also ich habe jetzt keine Zentimeter-Angaben
+[01:44:20] Marco: aber ich weiß nicht genau, wie die Spannbreite der Arkanier
+[01:44:24] Marco: aber er ist auf jeden Fall so ein hagerer, schlapsiger Typ
+[01:44:27] Marco: also es ist schon so, ich meine
+[01:44:36] Benjamin: Du musst mal kurz einen kleinen Wurf für mich machen, eine Sekunde.
+[01:44:44] Benjamin: Ja, ich habe für mich nur gewürfelt, weil ich so eine 50-50-Ding hatte.
+[01:44:49] Marco: ich versuche dich gerade zu täuschen.
+[01:44:53] Marco: In einer gewissen Art und Weise.
+[01:45:03] Benjamin: In dem Moment glaube ich nicht, dass er dir die Hand geben wird.
+[01:45:06] Benjamin: Er wird dir kurz so mit der Seite so eine Faust auf die Schulter geben.
+[01:45:16] Benjamin: Also nicht schlagen, aber so ganz kurz, wir sind soweit.
+[01:45:20] Marco: Das reicht mir schon, um einen Tag Power zu aktivieren.
+[01:45:21] Benjamin: Und sich dann nochmal.
+[01:45:25] Marco: Ich brauche dafür Touch.
+[01:45:27] Marco: Und das ist ziemlich riskant, weil ich weiß,
+[01:45:29] Marco: dass du gerade in einem ziemlich aggressiven Stadium bist.
+[01:45:32] Marco: Aber ich riskiere es und aktiviere Toxin Purge.
+[01:45:38] Marco: In der Hoffnung, dass es tatsächlich eine Art Toxin ist.
+[01:45:44] Marco: Es geht um Poison oder Disease bei Toxin Purge.
+[01:45:52] Marco: Und es würde das Ding neutralisieren.
+[01:45:56] Andreas: Also es ist so, dass du tatsächlich genau Flüssigkeiten im Blut damit bekämpfst und du initiierst wahrscheinlich hier irgendetwas, welches, das sind ebenfalls vielleicht sogar Naniten, die jetzt dort eininitiiert werden.
+[01:46:15] Andreas: und du siehst nicht sofort etwas, aber du siehst tatsächlich,
+[01:46:22] Andreas: wie er kurz zusammenzuckt und reagiert, ohne es zu merken.
+[01:46:26] Andreas: Es ist so ein neuronaler Ausfall, den er ganz kurz hat.
+[01:46:32] Andreas: Und er merkt überhaupt nicht, was du getan hast.
+[01:46:35] Andreas: Und wendet sich dann wieder ab von dir.
+[01:46:41] Andreas: Es hat eine Duration von einer Stunde.
+[01:46:44] Friedrich: Habe ich das mitbekommen?
+[01:46:50] Andreas: Ich würde sagen, bei einem Wahrnehmungswurf 10 schaffst du es, das mitzubekommen.
+[01:46:56] Andreas: Nein, du hast es nicht mitbekommen.
+[01:46:59] Friedrich: Auf geht's. Prost, das Lambda Shuttle.
+[01:47:01] Andreas: Ra hat das tatsächlich heimlich initiieren können.
+[01:47:08] Andreas: Und du siehst nochmal, als er jetzt losläuft, der Kaelum, einen kurzen neurologischen Ausfall beim ersten Schritt.
+[01:47:18] Marco: Ich habe jetzt nicht verstanden, was ist los?
+[01:47:21] Andreas: Du siehst, dass er immer wieder neurologische Ausfälle hat, Zuckungen, die er selbst nicht merkt.
+[01:47:26] Marco: Aha, okay.
+[01:47:27] Andreas: Also es hat irgendetwas bewirkt, aber du kannst noch nicht sagen, was. Du hast selbst Naniten, dumme Naniten, nicht solche intelligenten Dinge, aber die eine Aufgabe haben, Toxine aus dem Körper herauszubringen, Schwermetalle, was auch immer, da abzubauen, umzusetzen und so weiter, auszustoßen, auszuscheiden, körpereigene Heilungsprozesse anzuregen.
+[01:47:41] Marco: Wir fragen jetzt, ob wir Feindkontakt haben.
+[01:47:58] Andreas: und das ist, was hier jetzt gerade abläuft.
+[01:48:01] Andreas: Aber Kaelum, du hast das Lichtschwert an, weißt ganz genau, was du tun musst,
+[01:48:06] Andreas: hast auch kein Warnsymbol oder sonst was aufleuchten im Inneren deines Schädels.
+[01:48:12] Andreas: Du weißt, wo sich die Stormtrooper befinden und du möchtest ans Werk gehen.
+[01:48:20] Andreas: Jetzt gehen wir einfach genau in diese Position hinein.
+[01:48:24] Andreas: Der Einfachkeit halber würde ich das genauso machen.
+[01:48:27] Andreas: Das heißt also, ich verteile die Stormtrooper, die teilweise hier jetzt die Rundeten gesichert haben und da ist dann auch so ein kleiner Trupp aktiv. Es gibt vorne einen Speer und hinten ist ein Offizier, der gerade Kommandos gibt.
+[01:48:47] Andreas: und jetzt kommen tatsächlich durch die Kennungen von den beiden Soldaten, die ihr gerade umgebracht habt,
+[01:48:54] Andreas: werden durchgegeben. Meldung, Feindkontakt, weiter öfters melden und dann ist es wieder still, dann wird die Leitung wieder gekappt.
+[01:49:06] Marco: Habe ich das zu verstehen?
+[01:49:12] Marco: Immer noch auf der Verfolgung.
+[01:49:24] Andreas: So, okay, dann sieht es aus wie ein Stormtrooper jetzt. Und du hast einen Wachstum, oder wie du vorgehen möchtest. Also jetzt, du weißt es, du hast überhaupt gar keine Bedenken, dass du im Fluss deiner Schlachtmeditation gegen diese Stormtrooper bestehen wirst.
+[01:49:28] Marco: Wer hat den kompletten Anzug an?
+[01:49:32] Friedrich: Kaelum mit seinem Lichtschwert.
+[01:49:33] Marco: Kaelum, okay.
+[01:49:34] Marco: Kaelum mit seinem Lichtschalter.
+[01:49:35] Marco: Okay, verstehe. Es sieht lustig aus.
+[01:49:39] Marco: Ich vermute mal, ich weiß es aber nicht,
+[01:49:46] Marco: warum hat Kaelum gerade nicht geantwortet?
+[01:49:48] Marco: Ich glaube, Dr. Rath würde vermuten, dass er gerade den Fokus ganz woanders hat
+[01:49:53] Marco: und das vielleicht gar nicht gehört hat.
+[01:49:54] Benjamin: Weil es ihm scheißegal ist.
+[01:50:00] Marco: Alles klar.
+[01:50:00] Friedrich: Geryxo wartet so ein bisschen darauf, dass Kaelum irgendwie sagt, wo er lang will.
+[01:50:20] Andreas: Okay, dann bewege dich mal dahin und dann sage ich dir, wenn die als erstes wirklich reagieren.
+[01:50:22] Benjamin: Also im Grunde, Kalem schnurstracks auf sie zu.
+[01:50:25] Benjamin: Lass sie zu mir kommen, ihr nehmt sie in die Zange.
+[01:50:37] Andreas: Ja, genau so. Ihr seht jetzt genau so dort in diesem kleinen Felsental stehen, ihr Schachtel im Hintergrund. Jetzt kommt, wer ist das? Wer ist das? Der sieht aus wie einer von unseren, aber der hat ein Lichtschwert. Wer ist das? Dann melden Sie sich. Wer sind Sie? Und mehrere Klinen auf.
+[01:50:38] Friedrich: Also Geryxo würde, weiß nicht, sehen wir die schon?
+[01:50:42] Friedrich: Oder würde sich halt, genau, Geryxo würde sich irgendwo in die Büsche schleichen,
+[01:50:54] Friedrich: das da vielleicht aus dem
+[01:50:56] Friedrich: Versteck operieren kann
+[01:50:58] Friedrich: und auf dich schießen kann.
+[01:51:00] Benjamin: Ich bin euer Ende.
+[01:51:17] Benjamin: Also wahrscheinlich beginnt Kalem in kryptischen Dingen zu sprechen,
+[01:51:21] Benjamin: von Ambossen und Hammern und so weiter.
+[01:51:24] Benjamin: Er zieht so im Gehen das Schwert.
+[01:51:29] Benjamin: Du hast gesagt, das ist ein Zweihänder.
+[01:51:31] Benjamin: Er schwingt das so hin und her, zeigt das auf den, den er als Anführer identifiziert. Er kann das ja alles sortieren und der Anführer wird ganz genau wissen, dass er gemeint ist.
+[01:51:45] Benjamin: Ich werde gar nicht rennen, sondern wirklich mit aller Ruhe, klarem Schritt nach vorne gehen.
+[01:51:46] Andreas: Wer sind Sie? Melden Sie sich. Wer sind Sie? Rufen jetzt die Sturmgruppe. Du schleichst dich an, ihr schleicht da. Schleicht, geirgst du auch? Macht mal eure Schleichenwürfe, während du rangehst. Du kommst jetzt auf den Ersten zu.
+[01:51:49] Marco: So schräg hinter Kaelum bleibend würde Dr. Rath versuchen,
+[01:51:54] Marco: um sich durch das Gebüsch dann auch irgendwie näher anzuschleichen.
+[01:51:57] Marco: Aber hinterher, aller Ruhe.
+[01:52:10] Friedrich: Ja, so ein bisschen näher ran.
+[01:52:20] Andreas: Was tust du? Du bist ein Imran. Ein Vorteil bei deinem Angriff jetzt jeweils und den Schaden, den du machst, berechnest du aus drei bis sechs plus Stärke.
+[01:52:30] Friedrich: Hello.
+[01:52:41] Benjamin: Und sobald ich an ihm rangehe, ein Exempel statuieren.
+[01:52:46] Benjamin: Das heißt wirklich, der Versuch ist, so eindeutig wie möglich diesen Körper in zwei Teile zu trennen.
+[01:52:56] Benjamin: Für alle anderen zum Zeichen.
+[01:52:58] Benjamin: Ich muss hier kurz gucken.
+[01:53:08] Andreas: Ja, ja. Du triffst ihn natürlich, du ziehst die schwere und trotzdem leichte Lichtschwertklinge quer durch ihn hindurch und machst deinen Schaden, der ausreicht, um ihn einfach clean auf Brusthöhe in zwei Teile zu schneiden.
+[01:53:15] Benjamin: Der Angriffswurf ist einfach der.
+[01:53:37] Andreas: Er klappt auseinander. Die Sturmtruppler rufen alle erschreckt auf. Jeder sagt irgendwas anderes. Sie brabbeln durcheinander. Die ersten Blasterschüsse gehen in deine Richtung. Und du merkst, wie etwas deine Muskeln bewegt. Und deine Reaktion kann nun Blasterschüsse abfangen. Das heißt also, der erste Blasterschuss schießt auf dich.
+[01:53:57] Benjamin: Das ist auch eine Reaktion.
+[01:53:59] Andreas: jetzt mehr Angriffe und dann gehen wir in Initiative.
+[01:54:04] Andreas: Okay, dann kommt der gar nicht dazu,
+[01:54:09] Benjamin: Ich habe auch den Saber Reflect, den ich hier nutzen kann.
+[01:54:15] Andreas: den hast du einfach nur, genau, das ist jetzt nicht auch nur ein Bonus,
+[01:54:18] Andreas: selber Reflect, du hast das einfach nur theoretisch.
+[01:54:22] Andreas: Allerdings immer, also
+[01:54:25] Andreas: bei jeder einzelnen übrigen
+[01:54:28] Andreas: Reaction, solange du dieses Gerät hältst, kannst du
+[01:54:34] Andreas: also ein selber Fleckt durchführen. Kein Schuss kommt durch, die schlagen einfach in deiner
+[01:54:41] Benjamin: Mit ein bisschen Glück.
+[01:54:45] Andreas: Rüstung ein und du weißt, diese Schüsse können dir nicht gefährlich werden. Du drehst dich nur
+[01:54:51] Andreas: so ganz leicht einmal in einen Schuss hinein, der dann einfach direkt in deiner Brustplatte landet
+[01:54:58] Andreas: und dort einen schwarzen Fleck hinterlässt, aber nichts weiter. Du hast den ersten getötet und
+[01:55:05] Andreas: bewegst dich weiter. Jetzt bitte ich euch um die ganzen neuen Initiativen. Aber jetzt sind die
+[01:55:14] Marco: Wir müssen ständig weiter Wisdom-Saves machen, ja?
+[01:55:15] Friedrich: Du hast jetzt gerade gesagt,
+[01:55:24] Andreas: neuen Weisheitswürfe fällig. Leider hat Kaelum Nachteil, aber ihr beide habt, er kriegt wenigstens
+[01:55:33] Andreas: jetzt durch deine Aktion einen, aber ihr beide, ja genau. Ah ne, du nicht mehr, du hast es ja schon
+[01:55:44] Marco: Das kann ja nicht lange gut gehen.
+[01:55:48] Andreas: einmal geschafft. Ja sorry, ne du nicht mehr, die anderen, ja genau. Aber Ghalrixtho, du hast es auch
+[01:55:49] Marco: Ach so.
+[01:55:51] Marco: Also Ghalrixtho hat die höchste Initiative vermutlich, das war jetzt die Frage, oder?
+[01:55:53] Andreas: noch nicht geschafft. Also du bist davon überzeugt, dass du von deinem Anführer in die Schlacht geführt wirst.
+[01:56:01] Friedrich: der Blaster Rifle, was macht die für Schaden?
+[01:56:04] Friedrich: 1d, 8, plus?
+[01:56:05] Andreas: 1w8 plus dein Beweglichkeitsmodifikator. Ja, ja, er ist dran und du darfst wiesen.
+[01:56:07] Friedrich: Okay, plus.
+[01:56:08] Friedrich: Ja, okay.
+[01:56:09] Friedrich: Alles klar.
+[01:56:27] Friedrich: Das heißt, ich darf jetzt wahrscheinlich schießen
+[01:56:29] Friedrich: als nächstes, ne?
+[01:56:39] Friedrich: Genau, ich schließe
+[01:56:41] Marco: Du hast ja von mir noch diesen einmaligen 1w6.
+[01:56:44] Friedrich: jetzt hier den auf den stormtrooper da der vorstellung steht er ist ja dann innerhalb von
+[01:56:53] Friedrich: fünf metern und fied eines das heißt dann bin ich hier und okay 20 ich habe noch diesen plus 1 wie
+[01:56:55] Andreas: Genau, da kriegst du deine ganzen Boni drauf und kannst die alle anwenden. Triffst du auf jeden Fall?
+[01:57:04] Friedrich: W4 habe ich noch, aber der...
+[01:57:06] Friedrich: Gut.
+[01:57:08] Friedrich: Und jetzt würde man mal hier die Sneak Attack...
+[01:57:13] Friedrich: Ist einmal pro Angriffsrunde, ne? Genau.
+[01:57:19] Friedrich: Das heißt, dann mache ich da jetzt noch die Sneak Attack drauf.
+[01:57:23] Friedrich: Das sind dann 19 Schaden.
+[01:57:25] Andreas: Du schießt ihn auch einfach ab, also du kannst mir sagen, wo du anlegst, worauf du anlegst und wie du ihn umbringst.
+[01:57:31] Andreas: quasi einfach punktiert durch den Helm und er fällt vor Kaelum auf die Füße oder auf den Boden,
+[01:57:32] Friedrich: Ja, ich zähle auf den Kopf und versuche ihm dann so...
+[01:57:35] Friedrich: Ich habe noch eine andere Frage, der...
+[01:57:44] Andreas: vor Kaelums Füße auf den Boden, so ist es richtig ausgedrückt. Dann ist dran, genau, Kaelum ist jetzt dran.
+[01:57:55] Andreas: Hier eröffnet sich jetzt die Möglichkeit einen sogenannten Doppelschlag durchzuführen, das heißt
+[01:57:57] Benjamin: Ich gehe einen Schritt sozusagen in mitten hinein.
+[01:58:10] Andreas: Also du machst einen Angriff und dann kannst du dich, wenn du triffst, einfach entscheiden, den daneben liegenden aufzutreffen. 15 geht tatsächlich vorbei.
+[01:58:20] Benjamin: Dann mache ich einen ersten Eingriff. 15.
+[01:58:22] Benjamin: Ich habe, ja, sehr gut, den nutze ich.
+[01:58:27] Andreas: hätte ich nicht gedacht, dass das einmal passiert, aber die haben 16 mit ihrer Rüstung und die sind jetzt so, also er duckt sich einfach und du schlägst gegen seine Blaster Rifle und es stiebt unten in alle möglichen Richtungen.
+[01:58:47] Andreas: dann kannst du einsetzen.
+[01:58:53] Marco: Achso, also er hat nicht nur seine Kameraden motiviert, sondern sich selbst auch.
+[01:58:56] Benjamin: Und danach habe ich auch noch einen zweiten Angriff.
+[01:59:03] Friedrich: Du hast gerade gesagt, jeder, wo von uns durch die Motivation kriegt,
+[01:59:06] Friedrich: ein W4.
+[01:59:07] Andreas: Ach so, der Schaden,
+[01:59:09] Andreas: aber du hast ihn ja schon umgebracht.
+[01:59:10] Friedrich: Nein, nein, also mit dem Schaden
+[01:59:11] Andreas: Genau.
+[01:59:12] Friedrich: wäre das noch auf den Angriff
+[01:59:14] Friedrich: drauf gekommen.
+[01:59:15] Andreas: Ja, stimmt, du triffst
+[01:59:16] Andreas: ihn. Das habe ich jetzt vergessen.
+[01:59:17] Friedrich: Ja, okay.
+[01:59:18] Friedrich: Nee, ist okay.
+[01:59:25] Andreas: Ja.
+[01:59:26] Marco: Aha, okay.
+[01:59:27] Benjamin: Ach so, dann, ja, gut, aber dann ist der W6 übrig, aber dann komme ich eh auf 16.
+[01:59:28] Marco: Dann ist der W6 noch übrig. Der W6 ist noch da, der es noch nicht mehr braucht.
+[01:59:32] Andreas: Ja.
+[01:59:34] Benjamin: Dann ist er ganz unproblematisch.
+[01:59:34] Marco: Ja, das heißt, der Schaden wird neu ausgewürfelt, komplett für diesen zweiten.
+[01:59:36] Andreas: Tut mir leid, das ist dieses ganze
+[01:59:38] Andreas: Action-Economy-Zeug von
+[01:59:40] Andreas: dem, die...
+[01:59:42] Andreas: Das ist halt einfach so.
+[01:59:43] Andreas: Okay.
+[01:59:44] Benjamin: Der erste Schlag ist ein bisschen harmlos.
+[01:59:47] Andreas: Ja.
+[01:59:47] Andreas: Ja, du triffst ihn und schneidest ihm natürlich durch die Brustplatte, durch den Oberarm, aber er ist noch nicht ganz unten.
+[01:59:56] Andreas: Du kannst dich dazu entscheiden, entweder den einen oder den anderen zusätzlich zu treffen und dann machst du einfach Schaden, weil du triffst ihn einfach.
+[02:00:04] Benjamin: Wäre jetzt nicht der zweite Angriff, sondern das wäre jetzt der Doppelangriff, den ich sozusagen mache.
+[02:00:07] Andreas: Das ist der Doppelansatz. Du ziehst einfach diese Lichtschwertklinge weiter und triffst noch einen weiteren mit.
+[02:00:08] Benjamin: Und dann werde ich direkt danach den zweiten Angriff, den zweiten Doppelangriff machen.
+[02:00:12] Andreas: Ja, der zweite wird schwer verwundet und sinkt zu Boden und stirbt.
+[02:00:20] Marco: Better. Ich komme ein bisschen näher.
+[02:00:25] Andreas: Ja, der trifft auf jeden Fall, aber der kriegt jetzt keinen Doppelschlag gerade. Ja, reicht auch, weil ihr ja noch den zusätzlichen Bonus dazu bekommt.
+[02:00:32] Benjamin: 25, das sieht schon besser aus.
+[02:00:37] Benjamin: Gut, dann werde ich aber damit den bislang Unverwundeten angreifen.
+[02:00:51] Andreas: Also einer schwer verwundet, zwei einfach mit schwersten Verletzungen, Kniemaßen, die abfallen oder großen Verwundungen, die entstehen in ihren Panzern, fallen um dich zu Boden. Panisch reagieren die alle. Jetzt ist Dr. Rath dran und danach sind die Stormtrooper alle dran.
+[02:00:52] Benjamin: Stimmt, den habe ich jetzt jeweils gar nicht eingerechnet.
+[02:01:25] Marco: Ich fühle mich angezogen von diesem Spektakel.
+[02:01:28] Marco: Und bin hin und her gerissen, sage ich jetzt auch mal zwischen Forscherdrang, Experimentiergeist und Schrecken und sage mir, ein weiteres Experiment muss noch folgen und werde eine weitere Techpower anwenden.
+[02:01:45] Marco: anwenden und zwar Tactical Advantage caste ich auf den schon schwer kreisenden Kaelum und damit bekommt er also eine höhere AC um 2 und eine weitere Action, die er für eine Attack, Dash, Disengage, Hide oder Use Object verwenden kann.
+[02:02:11] Marco: und das ist eine, darauf
+[02:02:18] Marco: konzentriere ich mich jetzt allerdings, also das
+[02:02:21] Marco: so, das
+[02:02:23] Marco: ist meine Action
+[02:02:24] Marco: und kostet mich 4
+[02:02:26] Marco: Tag-Punkte, 10,
+[02:02:29] Benjamin: Konzentration up to one minute, das heißt sechs Kampfrunden.
+[02:02:32] Benjamin: Ja, ja, ja. Ich bin bei 18, bei 18 durch Doktorat.
+[02:02:35] Marco: wenn es genauso wie es in D&D
+[02:02:36] Marco: ist, da ist eine Kampfrunde
+[02:02:38] Marco: 6 Sekunden, also normalerweise
+[02:02:40] Marco: 10 Kampfrunden.
+[02:02:43] Marco: Und ich muss
+[02:02:44] Marco: da so auch näher rankommen, wegen 30 Feet.
+[02:02:46] Marco: So, jetzt habe ich noch eine Bonus-Action, aber
+[02:02:48] Marco: das ist unnötig, ich
+[02:02:49] Marco: beende meinen Zug hier und warte ab.
+[02:02:54] Marco: Ich beobachte das ganz fasziniert.
+[02:02:59] Andreas: Also die Staudropper kommen dran und sie konzentrieren ihr Feuer, weil sie euch alle noch nicht so richtig bemerkt haben und die werden da abgelenkt von dieser riesigen Figur, die vor ihnen steht mit dem großen Lichtschwert und schießen.
+[02:03:14] Andreas: Also der direkt vor dir versucht dich zu treffen, hat aber natürlich Disadvantage und trifft dich nicht.
+[02:03:24] Andreas: Dann ein weiterer trifft dich nicht, wieder einer trifft dich nicht, wieder einer trifft dich nicht.
+[02:03:29] Andreas: einer. 14 trifft ich wahrscheinlich jetzt nicht mehr. Wieder einer nicht und wieder. Und jetzt ist noch der Sergant dran, der ist noch etwas besser. Der kommt auf plus 4 to hit, hat der? Was hatte ich jetzt gehört? Der hat tatsächlich 18 getroffen und der macht, 1 mit 10 plus 2 macht der mit seiner Blaster Rifle 12 Schadenspunkte schlagen.
+[02:03:36] Benjamin: Ja, da habe ich jetzt das Saber Reflect. Ich würfel mal ganz kurz. Immerhin drei gehen davon weg und nichts geht. Also sieben bleiben übrig. Genau. Alrikstor müsste die Runde eröffnen. Dann lassen wir die Tür zugehen und warten mal ab.
+[02:03:50] Marco: Ja, dann reicht's.
+[02:03:51] Marco: Jaha.
+[02:04:04] Andreas: Ja, sieben bleiben übrig, aber es trifft dich was. Du merkst, dass das kein so großes Problem ist, weil du jetzt eine weitere Aktion zuschalten kannst.
+[02:04:31] Andreas: Und zwar können die Naniten aus deinem Körper austreten und dir wieder die Möglichkeit geben, dich zu heilen. Und zwar aus dem Biomaterial, welches zu deinen Füßen gerade am Boden stirbt und sein Leben ausscheidet.
+[02:04:50] Andreas: Du kannst also quasi die Toten aussaugen, das ist also die Nekromantenfähigkeit, dass du dich quasi aus den um dich herum liegenden Leichen kannst. Wenn du auf das Feld einer Leiche läufst und über es drüber läufst, das schaltet sich jetzt zu, nachdem du den ersten Schaden bekommen hast, kannst du immer 1w6 heilen über jedes Feld, das du drüber läufst, wo eine Leiche liegt.
+[02:05:15] Andreas: Es sieht so aus. Aus seinen Stiefeln und unteren Gliedmaßen treten aus den Poren diese silbernen Naniten aus und vermischen sich mit dem Untergrund und ziehen dann blutige Masse und Körperflüssigkeiten aus den Leichen in ihn hinein, um seine Wunde wieder zu schließen.
+[02:05:38] Andreas: SIF-Technologie. Wunderhübsch.
+[02:05:40] Andreas: Das Shuttle beginnt unten die Treppe zu schließen. In der nächsten Runde wäre das dicht und dann können die abheben.
+[02:06:00] Andreas: Wer ist als nächstes dran? Jetzt weiß ich es gar nicht mehr. Jetzt ist als nächstes dran wieder. Genau, Ghalrixtho eröffnet die Runde.
+[02:06:13] Andreas: Ja, auf den Serganten. Das würde funktionieren, du machst noch einen Schritt weiter und dann kannst du die beiden quasi in eine Linie setzen und den Penetration-Shot setzen, wenn du triffst.
+[02:06:14] Friedrich: Also ich möchte gerne auf
+[02:06:15] Friedrich: den da schließen mit
+[02:06:18] Friedrich: ähm,
+[02:06:21] Friedrich: ich hab
+[02:06:24] Friedrich: Shooter-Dingens wieder, äh,
+[02:06:28] Friedrich: äh, nee, ich möchte
+[02:06:34] Friedrich: das Penetration machen,
+[02:06:35] Friedrich: wenn das geht, auf den vorderen
+[02:06:37] Friedrich: Stormtrooper und auf den
+[02:06:39] Friedrich: Stalanten. Okay.
+[02:06:50] Andreas: Ja, das brauchst du auch, weil die haben jeweils 16. Also 9 plus 4 bedeutet das. Da hast du den auf jeden Fall erledigt, weil der war ja schon angeschlagen. Und dann 10 Schadenspunkte schlagen noch zusätzlich in den einen. Der steht noch, aber 10 ist natürlich ganz schön viel.
+[02:06:51] Friedrich: Genau. Und dann schieße ich.
+[02:06:53] Friedrich: Und da kommt jetzt dann noch der 1w...
+[02:06:56] Friedrich: 1w4...
+[02:07:00] Friedrich: Ja, gut.
+[02:07:02] Friedrich: Dann 18.
+[02:07:03] Friedrich: Und jetzt... Moment jetzt.
+[02:07:05] Friedrich: Wie viel Schaden
+[02:07:06] Friedrich: ist das?
+[02:07:15] Friedrich: Das verbraucht jetzt
+[02:07:17] Friedrich: zwei von meinen Sneakertacks, glaube ich.
+[02:07:20] Friedrich: Genau. Das heißt, ich kann
+[02:07:23] Friedrich: auf den ersten jetzt Schaden mit einem
+[02:07:25] Friedrich: plus 1D6 Nikotek machen.
+[02:07:37] Friedrich: 9 plus 4 ist das, 13.
+[02:07:45] Friedrich: Und der hintere, der kriegt jetzt nochmal 2D6
+[02:07:48] Friedrich: Daten, 10.
+[02:07:57] Andreas: Der Blasterschuss zischt an Kellern vorbei und schlägt in zwei Reihen. Sechs Meter. Neun Meter, also sechs Kästchen.
+[02:08:09] Friedrich: Jetzt die Frage, ich habe jetzt da
+[02:08:11] Friedrich: mit, weißt du, wie viel Bewegung macht man denn mit so einem Dash?
+[02:08:27] Andreas: Moment, du hast doch angefangen, dich zu bewegen. Deine Bewegungsaktion möchtest du nicht ausgeben für irgendwas, oder?
+[02:08:29] Friedrich: 6 Kästchen.
+[02:08:33] Friedrich: Das heißt, jetzt muss man mal gucken. Also ich bin eigentlich da, das heißt, ich könnte
+[02:08:39] Friedrich: 12345 bis dahin laufen ist das richtig okay und dann kann ich also hätte ich gehofft dass ich
+[02:08:46] Marco: Jetzt nochmal 6.
+[02:08:48] Marco: Also nochmal 30 Fuß.
+[02:08:55] Friedrich: irgendwie da in den zu dem shuttle spritzen kann aber da komme ich nicht hin weil das ja genau also
+[02:09:07] Friedrich: ich ja genau ich habe jetzt also hier ich habe jetzt einmal diese cutting action gemacht das
+[02:09:09] Andreas: Also du hast die theoretisch noch. Aber Dash, Disengage oder Hide. Disengage ist die sechs Kästchen und Hide. Aber Dash ist natürlich doppelt, also zwölf Kästchen.
+[02:09:18] Friedrich: heißt als bonus action habe ich den dash den dash gemacht ja genau ja aber ich komme ich komme auf
+[02:09:32] Andreas: So, oder? Genau, genau, ja, genau, ja, genau. Das heißt, du kannst tatsächlich jetzt noch, so wie ich das sehe, ein paar Kästchen vorrücken, oder? Du kommst tatsächlich ran. Also wenn du nicht in Deckung gehst, kannst du dich direkt neben den Offizier stellen, so wie ich mit meiner Kästchenökonomie erzähle, oder?
+[02:09:32] Marco: Nee, nee.
+[02:09:34] Marco: Also, genau, sein Movement, normalerweise sind es 6 Kästchen.
+[02:09:37] Marco: Und man kann als Aktion Dash verwenden, dann hat man nochmal 6 Kästchen.
+[02:09:42] Marco: Er als Operative kann es aber mit der Cunning Action auch als Bonus Action machen.
+[02:09:48] Marco: Was er jetzt auch musste, weil er mit seiner Action geschossen hat.
+[02:09:51] Marco: Das heißt, er kann trotzdem insgesamt nur zwölf Kästchen, aber immerhin, er kann zwölf Kästchen und schießen. Aber nicht mehr als zwölf Kästchen, weil er geschossen hat. Genau. Ran kommst du aber nicht rein, sozusagen. Genau. Eins, zwei, drei, vier, fünf. Also auf das Kästchen hier würdest du kommen? Ja.
+[02:10:07] Friedrich: jeden fall nicht in die ich komme auf jeden fall nicht so nicht rein genau das heißt ich möchte
+[02:10:15] Friedrich: dann hier irgendwie noch mal entdeckungen gehen ja was nicht nur ein bisschen näher dran so ist
+[02:10:29] Andreas: Und das ist sehr sinnvoll, weil sonst da, ja, dann kommst du rein. Ich denke, bei Prokretiv sollte man das hinbekommen, was die Möglichkeiten sind. Du hechtest rein.
+[02:10:36] Friedrich: da 1 2 3 4 5 6 aber also moment kann ich mit der entfernung insgesamt 60 60 fuß machen dann kommt
+[02:10:50] Marco: Außer du musstest ein bisschen um die Ecke laufen, um diesen Schuss abzugeben. Das habe ich jetzt nicht gepeilt. Weiß ich nicht. Mit der einen Linie, aber... Ich weiß nicht, ob der da um die Ecke... Okay. Ja. Okay. Tschüss!
+[02:10:53] Friedrich: dann komme ich doch also wenn ich das aus da komme ich rein ja dann laufe ich renne ich rein also
+[02:11:10] Friedrich: dann genau dann bin ich los und hechte daran das war die 13 15 habe ich ja also
+[02:11:20] Benjamin: Der hier steht noch da. Dann gehe ich dorthin. Hier wird da so eine Art Doppelschlag. Gut, dann erster Angriff. Es ist ja mit Advantage, hat er so glaube ich gesagt vorhin. Also 24.
+[02:11:20] Marco: war das der range der tag mit des advantage oder nicht also kehl ins zug ist ja eigentlich noch
+[02:11:23] Andreas: Leider kriegst du jetzt noch einen Schuss ab von diesem Leader, weil der kann das nämlich. Der kann nämlich diese Dinge da mit seiner Blaster, Rival, dieser Typ, weil du eben an ihm vorbei bist.
+[02:11:40] Andreas: und
+[02:11:41] Andreas: das ist nicht Ranged Attack,
+[02:11:49] Andreas: genau, mit Disadvantage, du hast recht,
+[02:11:51] Andreas: ja, du hast recht mit Disadvantage,
+[02:11:53] Andreas: ja gut, ist trotzdem 16, trifft dich
+[02:11:55] Andreas: 16, trifft gar nichts, du 16,
+[02:11:58] Andreas: ja, trifft dich,
+[02:11:59] Andreas: dann kriegst du noch, ja,
+[02:12:01] Andreas: ist schon,
+[02:12:01] Andreas: ja,
+[02:12:02] Friedrich: Ja, gut, gut, passen.
+[02:12:04] Andreas: maximal,
+[02:12:07] Andreas: du kriegst
+[02:12:08] Andreas: 12 Schadenspunkte
+[02:12:11] Andreas: durch seinen Blasterschuss,
+[02:12:12] Andreas: Also jetzt ist Kalen dran. Er steht noch und du bist dir sicher, dass dein Operative, das Namen du vergessen hast, aber das ist auch nicht wichtig, Operative 1 ist ins Shuttle eingedrungen und wird in der Lage sein, es so weit aufzuhalten, dass du dann auch einsteigen kannst.
+[02:12:54] Andreas: Du kannst dich also um die umliegenden Ziele kümmern. Du kriegst 2 bis 6 Heilung und du stehst jetzt. Ja, das refresht sich jedes Mal. Ja, das trifft natürlich. Ja, reicht.
+[02:13:33] Benjamin: dann ich würde jetzt mal so ich zähle die vier dazu also das sind 18 punkte das sind 19 einen
+[02:13:44] Andreas: Du kannst den Serganten jetzt umbringen und dann gleich einfach noch den Schaden für den daneben stehenden, also rechts von dir stehenden Trooper würfeln, indem du einfach das große Lichtschwert so durchschwingst und den anderen mitnimmst. Der ist auch weg. Das heißt also sowohl der Sergant als auch der Trooper fallen mit unterschiedlichen Anteilen ihres Körpers verteilt und einfach wurde er auf den Boden.
+[02:14:08] Andreas: Ja, ist es. Die Warnsignale wurden abgesetzt in Richtung Titan. Die beeilen sich jetzt, die TIE Fighter Mannschaften, ihre Gruß loszustarten, aber sie sind noch nicht losgeklogen.
+[02:14:11] Benjamin: zweiten angriff kann ich jetzt hier nicht machen wie gesagt ich renne gar nicht oder so ich bewege
+[02:14:16] Benjamin: mich zwar direkt aber gemessenen schrittes aber ist ja auch alles unter kontrolle diese haben sie
+[02:14:40] Andreas: Und es werden noch zwei weitere TIE Fighter ready gemacht. Das heißt also fünf TIE Fighter, ein TIE Bomber sind auf dem Weg hier nach unten, um nach dem rechten zu sehen. Also die sollen überflüge starten und möglicherweise auch Bodenziele euch zu attackieren. Es ist noch niemandem bewusst, dass das Shuttle bereits dabei ist, übernommen zu werden.
+[02:15:03] Andreas: Du hast eine 75% Chance gerade angezeigt, dass das Shuttle übernommen wird. Die Überlebenschance der vier Stormtrooper, die hier noch unten bei euch sind, ist 0. Die Überlebenschance der beiden Piloten im Shuttle trägt 3%. Möchtest du noch irgendwas tun?
+[02:15:26] Benjamin: sie sich verdient, diese 3%.
+[02:15:31] Friedrich: Diese Wisdom-Saving-Checks, wann machen wir die?
+[02:15:32] Andreas: Ich hätte mir gedacht, dass du deinen, ja, stimmt, du hast schon gesagt, mach den einfach, genau, und Kellermachtsein auch.
+[02:15:43] Friedrich: Also das ist einmal pro Runde oder ist das sieben?
+[02:15:52] Friedrich: Scheiße.
+[02:15:55] Friedrich: Gut, 22.
+[02:15:59] Marco: nicht vorbei richtig und du hast außerdem ist durch technik gewandte stein speed sowieso
+[02:16:01] Andreas: Ne, eben, genau deshalb habe ich gewartet. Du kannst theoretisch noch was machen.
+[02:16:02] Benjamin: Achso, ich...
+[02:16:04] Benjamin: Stimmt.
+[02:16:05] Benjamin: Eigentlich kann ich mich ja
+[02:16:07] Benjamin: weiter bewegen. Ich habe mich ja nicht weit bewegen
+[02:16:09] Andreas: Ja, stimmt. Ja, das sind auch genug Schaden, du erledigst ihn, du stichst ihm wahrscheinlich einfach das Licht,
+[02:16:09] Benjamin: und dann die zweite Attacke machen. Das ist ja nur
+[02:16:11] Benjamin: unterbrochen. Stimmt.
+[02:16:17] Marco: doppelt und du hast noch die extra aktion auch noch durch durch das technik ja das ist immer
+[02:16:22] Benjamin: Oh, ich habe ja noch eine dritte Aktion.
+[02:16:24] Benjamin: Okay. Oh, sehr gut.
+[02:16:26] Benjamin: Es sind so viele Optionen. Also,
+[02:16:28] Benjamin: dann ein weiterer Schritt.
+[02:16:31] Benjamin: Ein weiterer Angriff.
+[02:16:32] Benjamin: Jetzt ist es kein Doppelangriff mehr,
+[02:16:34] Benjamin: sondern ein normaler Angriff.
+[02:16:38] Benjamin: Ich glaube, das müsste treffen. 17. Bei dem dritten atme ich kurz durch, erquicke mich an seiner Angst, steche erneut zu mit 19. 17. Ja, stimmt, guter Punkt.
+[02:16:49] Andreas: quer durch den Leib und du erledigst auch diesen Stormtrooper zielsicher und genau. Aber das war
+[02:17:18] Andreas: auch klar, war sicher. Das ist überhaupt kein Problem gewesen. Du kannst noch zu den anderen
+[02:17:23] Marco: noch jede menge movement übrig das schön wieder das gesagt hast das geht hier wir reden hier
+[02:17:27] Andreas: einfach hinlaufen, mittig zwischen. Wir haben einem Lichtschwert nichts entgegenzusetzen. Das
+[02:17:31] Benjamin: Und auch da, es ist ja nicht so, dass es Freude macht. Ich wusste ja schon vor Minuten, wie das laufen wird. Und entsprechend gehe ich dorthin und es ist falsche Reihenfolge.
+[02:17:45] Andreas: einzige, was passieren kann, ist, dass dich ein Blaserbolzenabschuss erwischt, aber die
+[02:17:51] Andreas: Regenerationsfähigkeit durch ihre Leichen, das Wiedereinbauen der Biomasse durch die Naniten,
+[02:17:57] Andreas: reicht aus. Die Information ist gesichert. Ja, Biomasse, kurze, also es ist eigentlich,
+[02:18:08] Marco: nicht von Stormtroopern, sondern wir reden hier in Form von Biomasse. Ja, wenn ich es richtig verstanden habe, ist ja auch die gleiche Kampfrunde, in der Gaelrixio auch reingehechtet ist. Deswegen würde ich versuchen, das ihm nachzutun. Mit Movement und Dash Action komme ich ja dann auch auf 60 Fuß Bewegungsreichweite. Okay, 30 werden wahrscheinlich schon ausreichen, aber ich sage mal, wie auch immer.
+[02:18:21] Andreas: die werden nur noch gemessen in Zeit hinsichtlich ihrer, also ob sie dich noch aufhalten können,
+[02:18:28] Andreas: um zum Shuttle zu kommen oder nicht. Da werden jetzt Wahrscheinlichkeiten berechnet und angezeigt,
+[02:18:35] Andreas: da reinzukommen. Es ist noch nicht ganz sicher, aber eigentlich ist dein Operative eben da schon drin.
+[02:18:43] Andreas: Genau, jetzt ist Rat dran, Doktorat. Überhaupt kein Problem, es ist noch nicht so weit, dass ihr da
+[02:19:06] Marco: Jedenfalls, ja, ich renne da hin und versuche durch diese schließende Tür ins Viertel zu kommen.
+[02:19:16] Andreas: keine Schwierigkeiten hätte. Du kannst hineinsehen, Geirikstow hat sich. Also links und rechts, diese
+[02:19:23] Andreas: Shuttle, links und rechts befinden sich leere Sitze. Jeweils zehn auf der einen Seite, zehn auf
+[02:19:32] Andreas: der anderen Seite. Mittig ist so eine Art Konsole oder Tisch. An der Wand waren Waffenhalterungen,
+[02:19:38] Andreas: die sind allerdings leer. Das Cockpit ist direkt hinter euch. Das heißt, wenn ihr die Rampe hoch
+[02:19:44] Andreas: dreht ihr euch um und da ist die Cockpit-Tür geöffnet und einer, der Co-Pilot, dreht sich gerade um mit so einem kleinen Hold-Out-Blaster und versucht nach dir zu schießen. Genau, das ist die momentane Situation.
+[02:20:02] Marco: Also dann noch eine Frage.
+[02:20:02] Andreas: Bisher habe ich, so wie ich das verstehe, du hast ja, du bist schneller oder? Als normal jetzt. Du nicht. Ah, ne, du hast dann ein Dash angewendet, um da reinzukommen. Quasi schon drin, du hast noch eine Aktion. Bitte mach, was du möchtest. Du hast noch eine Aktion.
+[02:20:04] Marco: Also musste ich meine Aktionen aufwenden, um reinzukommen?
+[02:20:07] Marco: Oder habe ich nur mein Movement aufwenden müssen?
+[02:20:15] Marco: Ich nicht. Ich habe 30 Fuß.
+[02:20:20] Marco: Also 30 Fuß bringen mich dahin, wo ich stehe.
+[02:20:22] Marco: Aber ich weiß nicht, ob ich mehr wegen Terrain und wegen Reihenhechten und so mehr brauche.
+[02:20:30] Marco: Okay.
+[02:20:31] Marco: Dann würde ich versuchen, mit meiner Aktion den Rampenmechanismus zu manipulieren, damit er sich nicht weiter schließt.
+[02:20:33] Andreas: Du nimmst eines deiner Tech-Werkzeuge aus deinem Handschuh, so wie ich das sehe, und du weißt ganz genau, das ist so eine Art Hydraulik und du kannst die unterbrechen. Ja, das ist Technology oder dein Werkzeug. Mechanics Kit, Wurf, genau, da müsstest du ja sogar Expertise oder sonst was drauf geben.
+[02:20:50] Marco: Ja, und da mache ich jetzt quasi einen Check auf mein Werkzeug, nehme ich an.
+[02:21:04] Marco: Also, ich habe ein Mechanics Kit. Yes, okay.
+[02:21:13] Andreas: Ja, also du unterbrichst die Vorwärtsbewegung und es bleibt einfach offen und du weißt ganz genau, das ist hervorragend, weil dieses Shuttle hat einen Mechanismus, solange die Rampe ausgefahren ist, kann es nicht abheben.
+[02:21:16] Marco: dann war das mein zug ich habe allerdings ja meine absorption geschichte oder das war ja dieses
+[02:21:33] Andreas: der müsste vom Piloten erst überschrieben werden, der selber dazu dann Technologie einsetzen muss und programmieren muss und so weiter.
+[02:21:42] Andreas: Damit ist das Shuttle effektiv zunächst mal davon abgehalten abzuheben.
+[02:21:53] Andreas: Jetzt sind die beiden Piloten dran und die da unten.
+[02:21:57] Andreas: Also die versuchen natürlich, nee, der eine rennt einfach nur noch weg.
+[02:22:04] Andreas: der nimmt eine Disengage-Action, das schafft er und rennt 1, 2, 5, 6, so weiter, kommt in die Richtung.
+[02:22:13] Andreas: Und der allerdings wirft sich auf den Boden, kniet vor dir nieder und bittet, verschont zu werden.
+[02:22:23] Andreas: Verschont mich, verschonen Sie mich. Und er wirft seinen Blaster weg.
+[02:22:29] Andreas: Die Piloten schießen, drehen sich um und schießen.
+[02:22:36] Andreas: Eine auf Ghalrixtho, 14 und eine auf Dr. Rath mit 17. 17 trifft, 6 Schadenspunkte gegen Dr. Rath durch einen einfachen Blasterschuss.
+[02:22:58] Andreas: Ja, ja, ja gut, das ist Energy. Der Blasterschuss geht in dich hinein und wird umgeleitet. Die Energie wird dafür verwendet, deine, deinen Tech-Arm weiter zu powern.
+[02:23:07] Marco: feature also wenn ich das jetzt richtig verstanden habe habe ich jetzt die gesamten schaden abgewendet
+[02:23:30] Andreas: Ja, weil du hast die Absorption-6-Property, genau, die macht sechs Schadenspunkte verursacht, also warst das richtig. Du hast schon mal abgewehrt, ich weiß nicht, wann sich das verursacht hat.
+[02:23:38] Marco: oder? Die ganzen 6, oder?
+[02:23:41] Marco: Ja, okay.
+[02:23:49] Marco: Und das ist ein Maximum von 12.
+[02:23:54] Marco: Ja.
+[02:23:55] Marco: Ich habe nur noch, also 4 hatte ich schon
+[02:23:56] Andreas: Ja, ich würde sagen, du hast schon acht absorbiert. Das heißt, du hast hier von den sechs absorbiert, zwei gehen durch und der Absorbing Amplifier ist für den Zeitraum, ich weiß nicht, wie sich der wieder refreshed ist, oder ob der dann permanent aus ist, keine Ahnung.
+[02:23:57] Marco: abgewendet, ich habe jetzt 8 von 12.
+[02:24:00] Marco: Oder waren es 8, die ich
+[02:24:01] Marco: abgewendet habe? Ich habe jetzt noch 8 von 12, ich muss
+[02:24:03] Marco: das nochmal neu lesen.
+[02:24:05] Marco: It already has an absorbing number
+[02:24:07] Marco: increased by 6. Also ich kann maximal 12
+[02:24:09] Marco: absorbieren und
+[02:24:11] Marco: mein Wert steht jetzt bei 8 von 12.
+[02:24:13] Marco: Das heißt, ich glaube, ich habe 4 absorbiert
+[02:24:15] Marco: und kann noch 8, aber ich weiß nicht.
+[02:24:22] Marco: Habe ich schon, okay. Ah, okay, ja. Dann kriege ich noch zwei Schaden, alles klar. Gut, das weiß ich auch nicht. Muss ich dann nach der Session mal nachlesen, wie das ist. Aber okay, ja. Jedenfalls ziehe ich mir jetzt zwei Hitpoints ab. Haben wir also noch 36. Okay, thank you. Intimidation? Nice.
+[02:24:39] Andreas: Es könnte sein, dass der seine Long Rest wieder auflädt. Richtig. Vorragend. Jetzt ist Ghalrixtho wieder dran und du kriegst gleich deinen Wisdom Saving Throw.
+[02:25:12] Andreas: du überlegst, was gerade geschehen ist und du wirst wach.
+[02:25:17] Friedrich: Ich nehme zuerst 17.
+[02:25:19] Friedrich: Okay.
+[02:25:32] Andreas: Irgendetwas hat von dir Besitz ergriffen und du weißt, dass es diese SIF-Technologie ist
+[02:25:39] Andreas: und dass du dich dagegen stemmen musst, weil du hast dich als Zahl, als Nummer wahrgenommen
+[02:25:47] Andreas: und du bist keine Nummer, keine Zahl.
+[02:25:49] Andreas: Und vor allem erinnerst du dich jetzt daran, dass gerade diese Lady, diese Technologie mit einem deiner früheren Aufträge in Verbindung steht und dass man dich davor gewarnt hat, dass man es niemals einsetzen soll, dieses Ding.
+[02:26:09] Andreas: Oder nicht ohne es umzustrukturieren, auszulesen, umzuprogrammieren, wie auch immer, aber nicht einfach einsetzen. Also auch in dir wächst das Verständnis, dass das, was gerade hier abläuft, nicht gut ist.
+[02:26:26] Andreas: Und du erinnerst dich an die ganzen Gesetze, die Geschichten, die dir als Kind erzählt wurden, über die schrecklichen Kriege und Verwüstungen, die durch künstliche Intelligenz hervorgerufen wurden vor tausenden von Jahren.
+[02:26:46] Andreas: Was tun wir? Du rennst die Tram hoch, genau, die Piloten haben gerade nach euch geschossen und du kannst die drei Schritte erreichen.
+[02:26:48] Friedrich: Ich bin ja immer noch, also auf uns wurde ja gerade...
+[02:26:54] Friedrich: Genau, aber ich bin etwas aus dem Blutrausch erwacht
+[02:27:00] Friedrich: und kann wieder klarer denken, ich renne so weit rein,
+[02:27:04] Friedrich: dass ich mich umdrehen kann und gut auf die zielen kann.
+[02:27:07] Friedrich: Und dann hebe ich die Waffe und ziele auf die beiden Piloten,
+[02:27:11] Friedrich: aber ich schieße noch nicht, sondern ich brülle ihnen,
+[02:27:15] Friedrich: er gibt euch, ihr habt keine Chance.
+[02:27:17] Friedrich: und zähle darauf, dass sie mitgekriegt haben,
+[02:27:21] Friedrich: wie Kaelum gerade die Sturmtruppen abgeschlachtet hat.
+[02:27:25] Andreas: Ja, ich bitte dich einfach um einen Wurf mit Vorteil.
+[02:27:32] Andreas: Ja, genau, Intimidation mit Vorteil.
+[02:27:37] Friedrich: Gegebenenfalls plus den 1w4, falls der noch zählt.
+[02:27:40] Andreas: Okay, du hast es geschafft.
+[02:27:42] Andreas: Die beiden schmeißen ihre Blaster weg und heben die Arme.
+[02:27:47] Friedrich: Dann deute ich in die Ecke rechts neben mir hier ab in die Ecke mit euch
+[02:27:48] Andreas: Was sollen wir tun?
+[02:27:49] Andreas: Das ist doch nichts Normales, was da draußen passiert.
+[02:27:56] Friedrich: und bedrohe die weiter.
+[02:27:59] Andreas: Ja, genau.
+[02:27:59] Friedrich: Und dann, wenn die zu mir kommen, gucke ich, dass ich die Fessel an den Händen,
+[02:28:03] Friedrich: mit den Kabelbindern, die ich habe.
+[02:28:06] Andreas: Bei euch geht es jetzt ein bisschen aus der Initiative raus, weil ihr das tut.
+[02:28:10] Andreas: Aber ja, du beginnst genau mit diesen Aktionen und Dr. Rath kann dir da auch helfen. Jetzt ist Kaelum dran. Kaelum, du bekommst jetzt einen normalen Weisheitsrettungswurf, weil nämlich Raths Naniten anschlagen.
+[02:28:28] Andreas: Ja, aber was dir jetzt angezeigt wird, ist eine Veränderung des Wahrscheinlichkeitsraumes. Die beiden Sturmtruppler hier müssen nicht besiegt werden. Du brauchst auch die Biomasse nicht. Du musst ihn nicht mit dem Lichtschwert niederstechen. Sie sind aus der Rechnung einfach draußen.
+[02:28:32] Benjamin: Gut, mir ist diese Biomasse um mich herum völlig irrelevant. Das sind Bäume, das sind Trooper, das ist alles das Gleiche für mich. Also drehe ich mich auf der Stelle um und bin ja immer noch ziemlich flott. Mit zwei, drei, vier großen Schritten sporte ich, springe ich in das Shuttle.
+[02:28:56] Andreas: Wenn du jetzt allerdings nicht ins Shuttle läufst, gibt es eine 20-prozentige Chance, dass du das Shuttle nicht nutzen kannst, um auf die Titanen zu fliegen.
+[02:29:07] Andreas: Und in diesem Moment, als du ins Shuttle springst, mit dem gezogenen Lichtschwert dich umschaust, was die da gerade machen, sinkt die Wahrscheinlichkeit wieder ab, dass etwas mit diesem Shuttle geschieht.
+[02:29:31] Benjamin: Können wir irgendwie festhalten, dass Komaru mit ins Shuttle gekommen ist?
+[02:29:50] Andreas: und die Wahrscheinlichkeit mit dem Shuttle die Titans erreichen, steigt auf 98 Prozent.
+[02:29:59] Andreas: Und an diesem Punkt halten wir für heute an, weil wir nämlich 23 Uhr erreicht haben.
+[02:30:05] Andreas: Es tut mir sehr leid, aber das nächste Mal geht es weiter.
+[02:30:08] Andreas: Ich denke, ihr habt einen Weg gewählt, der sehr spannend sein wird.

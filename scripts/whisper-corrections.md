@@ -48,6 +48,10 @@ Reihenfolge beachten (siehe unten).
 | Gerrix | S24 |
 | Calrixto | S24 |
 | Karikstor | S24 |
+| Galerixo | S25 |
+| Carrixo | S25 |
+| Ghalrixtho-Thor | S25 |
+| Rixo | S25 |
 
 Phrasen-Fehler (mehrere Tokens — exakte Phrase ersetzen, nicht
 Einzelwort):
@@ -93,6 +97,7 @@ Einzelwort):
 | komago | S22 |
 | Komaho | S23 |
 | Komamo | S24 |
+| Kumaro | S25 |
 
 ### Dr. Rath
 
@@ -105,6 +110,10 @@ Einzelwort):
 | Dr. Rapp | S23 |
 | Dr. Raff | S23 |
 | Doktor Rat | S23 |
+| Dr. Rev | S25 |
+| Dr. Ratt | S25 |
+| Dr. Rathen | S25 |
+| Dr. Rathke | S25 |
 
 ### Ganden
 
